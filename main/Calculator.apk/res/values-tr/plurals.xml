@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="entries">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Ayrıntılı ger ödeme (%d yıl)</item>
+        <item quantity="one">Ayrıntılı ger ödeme (%d yıl)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Ayrıntılı ger ödeme (%d yıl), CNY</item>
+        <item quantity="one">Ayrıntılı ger ödeme (%d yıl), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d yıl (%2$d ay)</item>
+        <item quantity="one">%1$d yıl (%2$d ay)</item>
+    </plurals>
+</resources>

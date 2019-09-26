@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bildirimler</string>
+    <string name="default_list_type">Alınma zamanına göre sırala</string>
+    <string name="disable_float_notification">Kayan bildirimlere izin verilmedi</string>
+    <string name="disable_lockscreen_notification">Kilit ekranı bildirimleri izinli değil</string>
+    <string name="disable_show_badge_notification">Uygulama bildirimlerine izin verilmedi</string>
+    <string name="enable_float_notification">Kayan bildirimlere izin verildi</string>
+    <string name="enable_lockscreen_notification">Kilit ekranı bildirimleri izinli</string>
+    <string name="enable_show_badge_notification">Uygulama bildirimlerine izin verildi</string>
+    <string name="expandable_under_keyguard">Bildirim çubuğunu kilit ekranında aç</string>
+    <string name="float_notifications">Kayan bildirimler</string>
+    <string name="hint_search_all">Uygulama ara</string>
+    <string name="hint_search_in_disabled_apps">Bildirimleri gösteremeyen uygulamaları ara</string>
+    <string name="hint_search_in_enabled_apps">Bildirimleri gösterebilen uygulamaları ara</string>
+    <string name="list_title_disable_notification">Bildirimlere izin verilmedi</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="lock_screen_display_rules">Biçim</string>
+    <string name="lock_screen_tip_toast">Önce bildirimlere uygulama bildirimleri menüsünden izin verin</string>
+    <string name="lockscreen_notifications">Kilit ekranı bildirimleri</string>
+    <string name="not_sent_recently">Son zamanlarda gönderilmedi</string>
+    <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
+    <string name="notification_display_setting">Bildirim çubuğu</string>
+    <string name="notification_display_style">Bildirim türü</string>
+    <string name="notification_fold_summary">Önemli olmayan tüm bildirimler ayrı bir klasörde görüntülenir</string>
+    <string name="notification_fold_title">Bildirimler klasörü</string>
+    <string name="notification_manager">Uygulama bildirimleri</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">Miui</string>
+    <string name="off">Kapat</string>
+    <string name="on">Aç</string>
+    <string name="settings_guide_title">Diğer ayarlara mı ihtiyacınız var?</string>
+    <string name="show_badge_notifications">Bildirim rozetleri</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_setting">Durum çubuğu</string>
+    <string name="summary_disable_float_notification">Kayan bildirimlere izin verilmedi</string>
+    <string name="summary_disable_lockscreen_notification">Kilit ekranı bildirimleri izinli değil</string>
+    <string name="summary_disable_show_badge_notification">Uygulama bildirimlerine izin verilmedi</string>
+    <string name="summary_enable_float_notification">Kayan bildirimlere izin verildi</string>
+    <string name="summary_enable_lockscreen_notification">Kilit ekranı bildirimleri izinli</string>
+    <string name="summary_enable_show_badge_notification">Uygulama bildirimlerine izin verildi</string>
+    <string name="summary_float_enable_notification_first">Kayan bildirimleri etkinleştirebilmek için bildirimlere izin verin</string>
+    <string name="summary_lock_screen_enable_notification_first">Kilit ekranı bildirimlerini etkinleştirebilmek için bildirimlere izin verin</string>
+    <string name="summary_show_badge_enable_notification_first">Bildirim rozetlerini etkinleştirebilmek için bildirimlere izin verin</string>
+</resources>

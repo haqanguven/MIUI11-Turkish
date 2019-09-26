@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi fit</item>
+        <item>Mi vr</item>
+    </string-array>
+    <string-array name="ble_packages">
+        <item></item>
+        <item>com.xiaomi.hm.health</item>
+        <item>com.mi.dlabs.vr.thor</item>
+    </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Çalarken titreşim</item>
+        <item>Mesaj alırken titreşim</item>
+        <item>Alarm esnasında titreşim ver</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fotoğraf çek</item>
+        <item>Telefonu bul</item>
+        <item>Mi tuşu bul</item>
+    </string-array>
+</resources>

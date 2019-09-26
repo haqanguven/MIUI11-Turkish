@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Html görüntüleyici</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="app_name_which_call">Uygulama: %s</string>
+    <string name="app_version_which_call">Uygulama sürümü: %s</string>
+    <string name="pre_installed_apps">Önceden yüklenmiş uygulamalar</string>
+    <string name="policy_name">Politika: %s</string>
+    <string name="mibi_license">Mi kredi hizmet şartları</string>
+    <string name="license_host_unreachable">"Ağa bağlanılamıyor. Bu bilgiyi görüntülemek için 
+%s adresine gidin"</string>
+    <string name="permdesc_accessDrm">Uygulamanın DRM korumalı içeriğe erişmesine izin verin</string>
+    <string name="open_wifi_connect_title">%1$s ağına bağlan</string>
+    <string name="open_wifi_connect_and_use_data_summary">Mobil verileri kullanılıyor. Wifi ağına geçmek için dokunun</string>
+    <string name="open_wifi_connect_summary">Ayrıntıları görüntülemek için dokunun</string>
+    <string name="settings_license_activity_title">Açık kaynak lisansları</string>
+    <string name="settings_license_activity_loading">Yükleniyor</string>
+    <string name="settings_license_activity_unavailable">Lisanslar yüklenirken bir sorun oluştu</string>
+    <string name="settings_safetylegal_title">Güvenlik bilgileri</string>
+    <string name="settings_safetylegal_activity_title">Güvenlik bilgileri</string>
+    <string name="settings_safetylegal_activity_unreachable">Veri bağlantınız yok. Bu bilgileri şimdi görüntülemek için internete bağlı herhangi bir bilgisayardan %s adresine gidin</string>
+    <string name="settings_safetylegal_activity_loading">Yükleniyor</string>
+    <string name="ime_privacy_policy">Klavye seç</string>
+    <string name="ad_service">Reklam hizmeti</string>
+    <string name="settings_ad_loading">Yükleniyor</string>
+    <string name="settings_ad_loading_unavailable">Bilgi yüklenemedi</string>
+    <string name="autoconnect">Otomatik bağlan</string>
+    <string name="poco_privacy_policy">POCO başlatıcı gizlilik politikası &amp; POCO başlatıcı kullanıcı sözleşmesi</string>
+</resources>
