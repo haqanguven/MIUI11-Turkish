@@ -85,33 +85,33 @@
     <string name="action_text_theme_and_textsize_change">Yazı tipi boyutu ve tema ayarı</string>
     <string name="ad_app_download_notification_content">Kurulum tamamlandıktan sonra gösterimi şimdi açın</string>
     <string name="ad_app_download_site_new">Yeni</string>
-    <string name="ad_app_fail">packageName调起失败</string>
-    <string name="ad_app_success">packageName调起成功</string>
-    <string name="ad_click">点击</string>
-    <string name="ad_deeplink_fail">Deeplink调起失败</string>
-    <string name="ad_deeplink_success">Deeplink调起成功</string>
-    <string name="ad_download_continue">Continue</string>
-    <string name="ad_download_downloading">Downloading</string>
-    <string name="ad_download_error">Error</string>
-    <string name="ad_download_fail">下载失败</string>
-    <string name="ad_download_immediately">Download</string>
-    <string name="ad_download_installing">安装中</string>
-    <string name="ad_download_open">Open</string>
-    <string name="ad_download_pausing">暂停中</string>
-    <string name="ad_download_succeed">下载成功</string>
-    <string name="ad_download_success">下载成功</string>
+    <string name="ad_app_fail">packageName başlatılamadı</string>
+    <string name="ad_app_success">packageName başarıyla aktarıldı</string>
+    <string name="ad_click">Tıkla</string>
+    <string name="ad_deeplink_fail">Deeplink başlatılamadı</string>
+    <string name="ad_deeplink_success">Deeplink başarıyla aldı</string>
+    <string name="ad_download_continue">Devam et</string>
+    <string name="ad_download_downloading">İndiriliyor</string>
+    <string name="ad_download_error">Hata</string>
+    <string name="ad_download_fail">İndirme başarısız oldu</string>
+    <string name="ad_download_immediately">İndir</string>
+    <string name="ad_download_installing">Kuruluyor</string>
+    <string name="ad_download_open">Aç</string>
+    <string name="ad_download_pausing">Duraklat</string>
+    <string name="ad_download_succeed">İndirildi</string>
+    <string name="ad_download_success">İndirildi</string>
     <string name="ad_exit_dialog_exit_btn_name">Çıkış</string>
     <string name="ad_exit_dialog_message">Kurulum tamamlandı. Şimdi açmak ister misin?</string>
     <string name="ad_exit_dialog_open_btn_name">Aç</string>
     <string name="ad_exit_dialog_title_name">Yeni uygulama açık onayı</string>
-    <string name="ad_install_fail">安装失败</string>
-    <string name="ad_install_success">安装成功</string>
-    <string name="ad_look_detail">查看详情</string>
-    <string name="ad_lunch_app">packageName开始调起</string>
-    <string name="ad_lunch_deeplink">Deeplink开始调起</string>
-    <string name="ad_start_download">开始下载</string>
-    <string name="ad_start_install">开始安装</string>
-    <string name="ad_view">曝光</string>
+    <string name="ad_install_fail">Kurulum başarısız oldu</string>
+    <string name="ad_install_success">Kurulum başarılı oldu</string>
+    <string name="ad_look_detail">Ayrıntıları görüntüle</string>
+    <string name="ad_lunch_app">packageName toplanmaya başladı</string>
+    <string name="ad_lunch_deeplink">Deeplink almaya başlıyor</string>
+    <string name="ad_start_download">İndirmeye başla</string>
+    <string name="ad_start_install">Kurulumu başlat</string>
+    <string name="ad_view">Görüntüle</string>
     <string name="adblock_force_updating_rules_toast">Reklam engelleyici güncelleniyor</string>
     <string name="adblock_notification">%d reklam engellendi</string>
     <string name="adblock_rules_not_updated_toast">Güncellenemedi</string>
@@ -174,7 +174,7 @@
     <string name="autologin_bar_hide_text">Gizle</string>
     <string name="autologin_bar_login_text">Oturum aç</string>
     <string name="autologin_bar_text">Şununla oturum açın</string>
-    <string name="back_ad">铺底广告%s</string>
+    <string name="back_ad">Alt reklam: %s</string>
     <string name="back_button_label">Geri</string>
     <string name="back_description">Geri</string>
     <string name="block">Engelle</string>
@@ -294,7 +294,7 @@
     <string name="contextmenu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
     <string name="contextmenu_share_image">Resmi paylaş</string>
     <string name="contextmenu_view_image">Resmi görüntüle</string>
-    <string name="contextmenu_webpage_capture">Ekran görüntüsü kaydet</string>
+    <string name="contextmenu_webpage_capture">Ekran görüntüsü</string>
     <string name="contextmenu_webpage_html">HTML dosyası kaydet</string>
     <string name="contextmenu_webpage_snapshot">Sayfayı kaydet</string>
     <string name="copy_url">Bağlantıyı kopyala</string>
@@ -312,12 +312,13 @@
     <string name="data_traffic_download_cancel">İptal et</string>
     <string name="data_traffic_download_prompt">Mevcut video sadece wifi ortamında indirilebilir</string>
     <string name="data_traffic_download_setting">Ayarlar</string>
+    <string name="data_traffic_download_toast_msg">Şu anda videoyu önbelleğe almak için mobil veri kullanılıyor</string>
     <string name="data_traffic_prompt_free_data">Videolara göz atmak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Lütfen ücretsiz veri trafiği elde edin</string>
     <string name="data_traffic_prompt_message">Video aramak için mobil veri bağlantınızı kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız operatörünüz tarafından ek kullanım ücretlerine maruz kalabilirsiniz</string>
     <string name="data_traffic_prompt_title">Veri kullanım uyarısı</string>
     <string name="data_traffic_stop">Durdur</string>
-    <string name="debug_browser_positive">确定</string>
-    <string name="debug_browser_title">输入所需域名:</string>
+    <string name="debug_browser_positive">Ayarla</string>
+    <string name="debug_browser_title">Gerekli alan adını girin:</string>
     <string name="debug_mode_toast">Hata ayıklama modu etkin</string>
     <string name="delete">Sil</string>
     <string name="delete_bookmark">Sil</string>
@@ -353,7 +354,7 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="dialog_recovery_tabs_disc">Kapatılmamış sayfaların tespiti tam kurtarma gerektirir.</string>
     <string name="dialog_recovery_tabs_tip">İnternet görünümünü son kapatılmayanı bul</string>
     <string name="dialog_recovery_tabs_title">Kurtarma işleminden önce sayfayı aç</string>
-    <string name="dialog_scroll_up_to_more_site">上滑显示更多</string>
+    <string name="dialog_scroll_up_to_more_site">Daha fazlasını göstermek için yukarı kaydırın</string>
     <string name="dialog_title_not_available">İndirilemedi</string>
     <string name="dialog_title_queued_body">Dosya henüz kullanılabilir değil</string>
     <string name="document_download_background_btn">Arka planda indir</string>
@@ -496,7 +497,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="ignore_add_pwa_dialog_today">Bugün gösterme</string>
     <string name="in_secureaccess">Tarıyıcı güvenli moda geçti</string>
     <string name="info_flow_description">Bilgi kanalı</string>
-    <string name="info_flow_tips">为您推荐%d条内容</string>
+    <string name="info_flow_tips">%d içeriğini sizin için önerin</string>
     <string name="isReplacePage">Dosya zaten mevcut. Değiştirilsin mi?</string>
     <string name="is_first_tab">Bu ilk sekme</string>
     <string name="is_last_tab">Bu son sekme</string>
@@ -759,6 +760,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Wifi ağı kullanılabilir</string>
     <string name="next_button_label">Sonraki</string>
     <string name="no_app_open_document">Bu işlemi yapabilecek uygulama bulunamadı</string>
+    <string name="no_memory_space">Hafıza alanı yok</string>
     <string name="no_space_alert_cancel">Daha sonra</string>
     <string name="no_space_alert_clean">Alan boşaltın</string>
     <string name="no_space_alert_text">Yetersiz depolama alanı</string>
@@ -856,8 +858,8 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_file_download_default_path_prefix">Varsayılan konum: %s</string>
     <string name="pref_file_download_save_modify_default_path">İndirilenler konumu</string>
     <string name="pref_fling_gesture">Kaydırma hareketi</string>
-    <string name="pref_follow_sys_dark_mode_content">根据系统深色模式状态，切换黑色或白色界面</string>
-    <string name="pref_follow_sys_dark_mode_title">深色模式</string>
+    <string name="pref_follow_sys_dark_mode_content">Sistemin karanlık mod durumuna göre siyah veya beyaz arayüzü değiştirin</string>
+    <string name="pref_follow_sys_dark_mode_title">Karanlık mod</string>
     <string name="pref_font_size_category">İnternet sayfası metin boyutu</string>
     <string name="pref_force_userscalable">Yakınlaştırmaya zorla</string>
     <string name="pref_force_userscalable_summary">İnternet sitelerinin yakınlaştırma ayarlarını kontrol etme taleplerini geçersiz kıl</string>
@@ -931,9 +933,9 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pwa_app_name">İnternet uygulamaları</string>
     <string name="qr_code_title">QR kodu</string>
     <string name="qr_description">QR kodunu tara</string>
-    <string name="quicklink_add_last7day">过去7天</string>
-    <string name="quicklink_add_today">今天</string>
-    <string name="quicklink_add_yesterday">昨天</string>
+    <string name="quicklink_add_last7day">Son 7 gün</string>
+    <string name="quicklink_add_today">Bugün</string>
+    <string name="quicklink_add_yesterday">Dün</string>
     <string name="quicklink_bookmark_save">Şuraya kaydet</string>
     <string name="quicklink_cannot_save_url">Bağlantı adresi eklenemiyor</string>
     <string name="quicklink_folder_text">Popüler uygulamalar</string>
@@ -1049,18 +1051,18 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="share_video">Video paylaş</string>
     <string name="short_video_description">Video kanalı</string>
     <string name="short_video_tip">Bak! Eğlenceli video</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"Tarayıcının normal olarak çalışabilmesi için internete bağlanması gerekmektedir
-Güvenlik düzeyini artırmak
-ve daha ilgili öneriler almak için
-tarayıcıya ziyaret ettiğiniz internet sitelerinin
-bağlantı adreslerini alma
-ve konumunuza erişim izni verin
-
-"</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız
+Topladığımız veriler şunlardır:
+1. Güvenli bağlantılar: Hizmetlerimizi kullanırken ziyaret ettiğiniz internet sitelerinin bağlantılarını toplayacağız
+2. Konum verileri: Konum bilgilerinize erişiriz
+Topladığımız verileri şu şekilde kullanırız:
+1. Güvenlik: Verilerinizi, dolandırıcılık ve virüslerden korumak için kullandığımız gibi depolama ve yedekleme nedenleriyle de kullanırız
+2. İçerik: Verileriniz size özel haber içeriği sağlamamıza yardımcı oluyor
+Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tarayıcıyı kullanabilmek için %2$s ve %1$s kabul etmelisiniz."</string>
     <string name="show_security_tip_dialog_title">Hizmet şartları</string>
     <string name="sign_and_open">Oturum açın ve açın</string>
     <string name="sign_in">Giriş yap</string>
-    <string name="sign_in_to" formatted="false">Oturum açın: %s1 %s2</string>
+    <string name="sign_in_to" formatted="false">%s1 için oturum aç: %s2</string>
     <string name="signed_in">Kontrol edilmiş</string>
     <string name="skip_button_label">Atla</string>
     <string name="skip_current_version">Bu sürümü atla</string>
@@ -1222,6 +1224,8 @@ ve konumunuza erişim izni verin
     <string name="video_download_unknown_name">Bilinmeyen isim</string>
     <string name="video_download_unknown_size">Boyut bilinmiyor</string>
     <string name="video_download_unsupport">Desteklenmiyor</string>
+    <string name="video_download_wait_for_caching">Önbelleğe alma için bekleniliyor</string>
+    <string name="video_download_wait_for_network">Ağ bekleniliyor</string>
     <string name="video_download_wait_for_wifi">Wifi bağlantısı bekleniyor</string>
     <string name="video_downloaded_group">İndirilenler</string>
     <string name="video_downloading_group">İndiriliyor</string>
@@ -1249,62 +1253,62 @@ ve konumunuza erişim izni verin
     <string name="video_unknown_duration">Bilinmeyen süre</string>
     <string name="view_certificate">Sertifikayı görüntüle</string>
     <string name="view_document_downloaded_files">İndirilenler menüsünde indirilen dosyaları görüntüleyin</string>
-    <string name="vo_ad_detail">%s·广告</string>
-    <string name="vo_choose_activity_cancel">随便看看</string>
-    <string name="vo_choose_activity_content">定位失败了，请手动选择城市</string>
-    <string name="vo_choose_activity_positive">选择城市</string>
-    <string name="vo_comment">%s条评论</string>
-    <string name="vo_comment_text">评论</string>
-    <string name="vo_feedback_back">返回</string>
-    <string name="vo_feedback_black">拉黑：%s</string>
-    <string name="vo_feedback_content">内容质量差</string>
-    <string name="vo_feedback_dislike">不感兴趣</string>
-    <string name="vo_feedback_frequent">出现过于频繁</string>
-    <string name="vo_feedback_quality">反馈：垃圾内容</string>
-    <string name="vo_feedback_shield">屏蔽</string>
-    <string name="vo_feedback_sub_quality">标题党、低俗等</string>
-    <string name="vo_feedback_sub_shield">等</string>
-    <string name="vo_icon_text_burst">突发</string>
-    <string name="vo_icon_text_deep">深度</string>
-    <string name="vo_icon_text_featured">精选</string>
-    <string name="vo_icon_text_hot">热门</string>
-    <string name="vo_icon_text_recommend">推荐</string>
-    <string name="vo_icon_text_topping">置顶</string>
-    <string name="vo_icon_text_video">视频</string>
-    <string name="vo_image_mark">%d图</string>
-    <string name="vo_info_flow_debug_title">debug data</string>
-    <string name="vo_info_flow_load_error_content">重新加载</string>
-    <string name="vo_info_flow_load_error_title">加载失败，请检查网络后重试～</string>
-    <string name="vo_info_flow_load_more_content">加载更多</string>
-    <string name="vo_info_flow_load_more_error">网络不给力，请检查网络状态~</string>
-    <string name="vo_info_flow_load_more_full">已经到底了，换个频道看看吧~</string>
-    <string name="vo_info_flow_load_more_idle">加载更多</string>
-    <string name="vo_info_flow_load_more_loading">正在加载</string>
-    <string name="vo_info_flow_load_more_title">试试手动加载，点击这里~</string>
-    <string name="vo_info_flow_refresh_empty">没有更新了，换个频道看看吧~</string>
-    <string name="vo_info_flow_refresh_error">网络不给力，请检查网络状态~</string>
-    <string name="vo_like_text">点赞</string>
-    <string name="vo_location_change_cancel">下次再说</string>
-    <string name="vo_location_change_content">您的定位已变更，是否切换到当前定位？</string>
-    <string name="vo_location_change_positive">立即切换</string>
-    <string name="vo_location_change_title">城市变更</string>
-    <string name="vo_location_choose_city">点击切换城市</string>
-    <string name="vo_share_text">分享</string>
-    <string name="vo_small_video_load_more_text">滑动加载更多</string>
-    <string name="vo_small_video_title">精彩小视频</string>
-    <string name="vo_source_comment" formatted="false">%s·%s条评论</string>
-    <string name="vo_vote_left" formatted="false">%d$%正方</string>
-    <string name="vo_vote_num">已有%d人参与投票</string>
-    <string name="vo_vote_right" formatted="false">%d$%反方</string>
-    <string name="vo_wei_bo_all_text">全文</string>
-    <string name="vo_wei_bo_gif_image">动图</string>
-    <string name="vo_wei_bo_long_image">长图</string>
-    <string name="vo_wei_bo_publish_time_hour">·%s小时前</string>
-    <string name="vo_wei_bo_publish_time_just">·刚刚</string>
-    <string name="vo_wei_bo_publish_time_minute">·%s分钟前</string>
-    <string name="vo_wei_bo_publish_time_yesterday">·昨天%s</string>
-    <string name="vo_zhi_hu">知乎</string>
-    <string name="vo_zhi_hu_answer">知乎 %d人回答了问题</string>
+    <string name="vo_ad_detail">%s reklam</string>
+    <string name="vo_choose_activity_cancel">Sadece etrafına bak</string>
+    <string name="vo_choose_activity_content">Konum başarısız oldu. Lütfen şehri manuel olarak seçin</string>
+    <string name="vo_choose_activity_positive">Şehir seç</string>
+    <string name="vo_comment">%s yorum</string>
+    <string name="vo_comment_text">İncele</string>
+    <string name="vo_feedback_back">Geri dön</string>
+    <string name="vo_feedback_black">Siyah çek: %s</string>
+    <string name="vo_feedback_content">Düşük içerik kalitesi</string>
+    <string name="vo_feedback_dislike">İlgilenmiyorum</string>
+    <string name="vo_feedback_frequent">Aşırı görünüyor</string>
+    <string name="vo_feedback_quality">Geri bildirim: Spam</string>
+    <string name="vo_feedback_shield">Kalkan</string>
+    <string name="vo_feedback_sub_quality">Başlık partisi, kaba, vb.</string>
+    <string name="vo_feedback_sub_shield">Bekle</string>
+    <string name="vo_icon_text_burst">Gir</string>
+    <string name="vo_icon_text_deep">Derinlik</string>
+    <string name="vo_icon_text_featured">Seç</string>
+    <string name="vo_icon_text_hot">Popüler</string>
+    <string name="vo_icon_text_recommend">Öneri</string>
+    <string name="vo_icon_text_topping">Sabit</string>
+    <string name="vo_icon_text_video">Video</string>
+    <string name="vo_image_mark">%d diyagramı</string>
+    <string name="vo_info_flow_debug_title">Veri ayıklama</string>
+    <string name="vo_info_flow_load_error_content">Yükle</string>
+    <string name="vo_info_flow_load_error_title">"Yükleme başarısız oldu. Lütfen ağı kontrol edin ve tekrar deneyin~"</string>
+    <string name="vo_info_flow_load_more_content">Daha fazla yükle</string>
+    <string name="vo_info_flow_load_more_error">Ağ güçlü değil. Lütfen ağ durumunu kontrol edin</string>
+    <string name="vo_info_flow_load_more_full">"Zaten son. Kanala bir göz atın~"</string>
+    <string name="vo_info_flow_load_more_idle">Daha fazla yükle</string>
+    <string name="vo_info_flow_load_more_loading">Yükle</string>
+    <string name="vo_info_flow_load_more_title">"El ile yüklemeyi deneyin. Buraya tıklayın~"</string>
+    <string name="vo_info_flow_refresh_empty">Güncelleme yok~</string>
+    <string name="vo_info_flow_refresh_error">Ağ güçlü değil. Lütfen ağ durumunu kontrol edin</string>
+    <string name="vo_like_text">Beğendiğiniz</string>
+    <string name="vo_location_change_cancel">Bir dahaki sefere söyle</string>
+    <string name="vo_location_change_content">Hedeflemeniz değişti. Geçerli hedeflemeye geçtiniz mi?</string>
+    <string name="vo_location_change_positive">Şimdi geç</string>
+    <string name="vo_location_change_title">Şehiri değiştir</string>
+    <string name="vo_location_choose_city">Şehri değiştirmek için tıklayın</string>
+    <string name="vo_share_text">Paylaş</string>
+    <string name="vo_small_video_load_more_text">Daha fazla slayt yükleniyor</string>
+    <string name="vo_small_video_title">Harika küçük video</string>
+    <string name="vo_source_comment" formatted="false">%s·%s yorum</string>
+    <string name="vo_vote_left" formatted="false">%d$% kare</string>
+    <string name="vo_vote_num">%d kişi oy kullandı</string>
+    <string name="vo_vote_right" formatted="false">%d$%</string>
+    <string name="vo_wei_bo_all_text">Tüm metin</string>
+    <string name="vo_wei_bo_gif_image">Hareketli fotoğraf</string>
+    <string name="vo_wei_bo_long_image">Uzun fotoğraf</string>
+    <string name="vo_wei_bo_publish_time_hour">·%s saat önce</string>
+    <string name="vo_wei_bo_publish_time_just">·Sadece</string>
+    <string name="vo_wei_bo_publish_time_minute">·%s dakika önce</string>
+    <string name="vo_wei_bo_publish_time_yesterday">·Dün: %s</string>
+    <string name="vo_zhi_hu">Biliyorum</string>
+    <string name="vo_zhi_hu_answer">%s kişinin soruyu cevapladığını bilin</string>
     <string name="voice_check_network">Ağ ayarlarınızı kontrol edin ve yeniden deneyin</string>
     <string name="voice_close_description">Kapat</string>
     <string name="voice_connect_network">Ağa bağlanılamadı</string>
@@ -1324,5 +1328,11 @@ ve konumunuza erişim izni verin
     <string name="voice_title_please">Konuşmaya başlayın</string>
     <string name="voice_title_speech_again">Sizi anlayamadık</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
-    <string name="window_manager_hybrid_application_list_title_text">Son kullanılan</string>
+    <string name="wechat_not_installed">Wechat yüklü değil</string>
+    <string name="window_manager_hybrid_application_list_title_text">Son kullanılanlar</string>
+    <string name="system_permission_accounts_purpose">Sistem hesabı girişi ve yönetimi için kullanılır</string>
+    <string name="system_permission_main_purpose">İnternete göz atın, bilgi arayın, haber okuyun ve video izleyin</string>
+    <string name="system_permission_phone_state_purpose">İlgili hizmeti sağlamak adına cihaz IMEI tanımlayıcısına ulaşmak için kullanılır</string>
+    <string name="system_permission_storage_purpose">Kayıtlı görüntüler gibi dosyaları okumak, yazmak ve dosya yükleme veya indirme işlevlerini etkinleştirmek için kullanılır</string>
+    <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
 </resources>
