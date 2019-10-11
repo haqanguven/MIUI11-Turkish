@@ -84,7 +84,7 @@
     <string name="audio_duration_minutes_format">%1$d dakika</string>
     <string name="audio_duration_seconds_format">%1$d saniye</string>
     <string name="audition_ringtone">Oynat</string>
-    <string name="author_attention">Takip et</string>
+    <string name="author_attention">Takip</string>
     <string name="author_attention_success">Başarıyla takip edildi</string>
     <string name="author_dialog_message">Bu hesabın takibi bırakılsın mı?</string>
     <string name="author_dynamic">Durum</string>
@@ -711,9 +711,9 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="theme_user_agreement_content4">Gizlilik politikası</string>
     <string name="theme_user_agreement_content5">". Bu uygulamanın düzgün çalışabilmesi için internete bağlanmanız gerekmektedir. "</string>
     <string name="theme_user_agreement_exit">Reddet</string>
-    <string name="theme_user_agreement_remind_again">Kullanım şartlarını göster</string>
+    <string name="theme_user_agreement_remind_again">Kullanım şartları</string>
     <string name="theme_user_agreement_remind_never">Tekrar gösterme</string>
-    <string name="theme_user_agreement_remind_summary">Temalar uygulamasının her açılışında Kullanım Koşulları uyarısını göster. Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>
+    <string name="theme_user_agreement_remind_summary">Temalar uygulamasının her açılışında kullanım koşulları uyarısını göster. Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>
     <string name="theme_user_agreement_title">Kullanım koşulları</string>
     <string name="theme_yes">Evet</string>
     <string name="third_party_pickers_activity_title">Ekle %1$s</string>

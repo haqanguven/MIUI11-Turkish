@@ -119,8 +119,8 @@
     <string name="other_filter">Diğer</string>
     <string name="xunlei_brand">Xunlei tarafından sağlanmaktadır</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-    <string name="xunlei_switch">Xunlei indirme motoru</string>
-    <string name="turn_off_xunlei_title">"Xunlei'yi kapat"</string>
+    <string name="xunlei_switch">Xunlei indirme hızlandırıcı</string>
+    <string name="turn_off_xunlei_title">Xunlei indirme hızlandırıcıyı kapat</string>
     <string name="turn_off_xunlei_message">Daha düşük indirme hızlarıyla karşılaşabilirsiniz</string>
     <string name="vip_auto_speedup">Xunlei indirme hızlandırıcı açık</string>
     <string name="xunlei_gaosu">Xunlei indirme hızlandırıcı</string>
@@ -183,7 +183,7 @@
     <string name="recommend_loading">Yükleniyor</string>
     <string name="about">Hakkında</string>
     <string name="version">Sürüm: %s</string>
-    <string name="new_add">Yeni indir</string>
+    <string name="new_add">Yeni</string>
     <string name="pref_download_storage_path">İndirme konumu</string>
     <string name="pref_download_revert_default">Varsayılan</string>
     <string name="file_picker">Bir konum seçin</string>
@@ -247,8 +247,8 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="subbt_pause">Duraklatıldı</string>
     <string name="subbt_fail">Başarısız oldu</string>
     <string name="hint">Uyarı</string>
-    <string name="xunlei_open_info">Bu tür bağlantıları açmak için Xunlei motorunu kullanılsın mı?</string>
-    <string name="bt_xunlei_open_info">Bu tür bağlantıları açmak için Xunlei Motoru kullanılsın mı?</string>
+    <string name="xunlei_open_info">Bu tür bağlantıları açmak için Xunlei hızlandırıcı kullanılsın mı?</string>
+    <string name="bt_xunlei_open_info">Bu tür bağlantıları açmak için Xunlei hızlandırıcı kullanılsın mı?</string>
     <string name="engine_open">Açık</string>
     <string name="torrent_file_error">Bu torrent dosyası çözümlenemedi</string>
     <string name="torrent_no_subfile">Torrent alt dosyaları yok</string>
@@ -320,7 +320,7 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="xl_privilege_speedup_info">Yüksek hızlı kanal erişimi ve çevrimdışı indirme desteği</string>
     <string name="xl_privilege_play">İndirmeyi oynat</string>
     <string name="xl_privilege_play_info">Tamamlanmamış indirme işlemlerini birden fazla cihazda oynatın</string>
-    <string name="xl_privilege_storage">Devasa depolama alanı</string>
+    <string name="xl_privilege_storage">Çok depolama alanı</string>
     <string name="xl_privilege_support">Birden fazla cihaz</string>
     <string name="xl_privilege_storage_info">Tüm indirme işlemleriniz için yeteri kadar alan mevcut</string>
     <string name="xl_vip_combo">Planlar</string>
@@ -472,7 +472,7 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="toast_update_data_limit_fail">Ayarlanamadı</string>
     <string name="ad_download">Yükle</string>
     <string name="speed_entrance">Wifi hızını test et</string>
-    <string name="speed_start">Test et</string>
+    <string name="speed_start">Başlat</string>
     <string name="speed_stop">İptal et</string>
     <string name="speed_result_broadband_text1">Geçerli indirme hızı</string>
     <string name="speed_result_broadband_text2">%s bant genişliği</string>
