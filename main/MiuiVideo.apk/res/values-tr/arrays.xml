@@ -2,43 +2,50 @@
 <resources>
     <item type="array" name="public_static_final_host_array_1">padding</item>
     <string-array name="feedback_tag_list">
-        <item>Hata,1</item>
-        <item>Öneri,2</item>
-        <item>Telif hakkı sorunları,3</item>
-        <item>Diğer sorunlar,0</item>
+        <item>Hata - 1</item>
+        <item>Öneri - 2</item>
+        <item>Telif hakkı sorunları - 3</item>
+        <item>Diğer sorunlar - 0</item>
+        <item>Öneri - 2</item>
+        <item>Diğer sorunlar - 0</item>
     </string-array>
     <string-array name="message_center_tab_list">
         <item>Yorumlar</item>
         <item>Beğeniler</item>
         <item>Bildirimler</item>
     </string-array>
+    <string-array name="my_subscribe_tab_list">
+        <item>Tümü</item>
+        <item>Kısa video</item>
+        <item>Küçük video</item>
+    </string-array>
     <string-array name="lang_detect">
-        <item>中</item>
+        <item>Varsayılan</item>
         <item>Karışık</item>
         <item>İngilizce</item>
-        <item>韩</item>
-        <item>日</item>
+        <item>Kore</item>
+        <item>Japon</item>
         <item>Fransa</item>
     </string-array>
     <string-array name="lang_fast_detect">
         <item></item>
-        <item>德</item>
+        <item>Almanya</item>
         <item>İngilizce</item>
         <item>Batı</item>
         <item>Yunanistan</item>
         <item>Fransa</item>
         <item>Hırvatistan</item>
-        <item>意</item>
-        <item>荷</item>
+        <item>İtalya</item>
+        <item>Hollanda</item>
         <item>Polonya</item>
         <item>Portekiz</item>
         <item>Rusya</item>
         <item>Romanya</item>
         <item>İsveç</item>
         <item>Arapça</item>
-        <item>中</item>
-        <item>日</item>
-        <item>韩</item>
+        <item>Çin</item>
+        <item>Japon</item>
+        <item>Kore</item>
         <item>Farsça</item>
         <item>Finlandiya</item>
         <item>Norveç</item>
@@ -262,6 +269,11 @@
         <item>Yemen</item>
         <item>Zambia</item>
         <item>Zimbabwe</item>
+    </string-array>
+    <string-array name="main_bar_icon_ids">
+        <item>top_play_history</item>
+        <item>top_download</item>
+        <item>top_doc</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>

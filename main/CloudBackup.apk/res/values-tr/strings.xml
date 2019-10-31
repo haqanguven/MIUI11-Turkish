@@ -10,7 +10,6 @@
     <string name="retry">Tekrar dene</string>
     <string name="cloud_app_current_device">Mevcut cihaz</string>
     <string name="cloud_app_other_devices">Diğer cihazlar</string>
-    <string name="cloud_app_restore_app_and_data">Cihazınızın kurulumunu yapın</string>
     <string name="cloud_app_restore_data">Kişisel verileriniz ve önceden yüklenilen uygulamalar otomatik olarak telefonunuza geri yüklenir</string>
     <string name="cloud_app_dont_restore">Yeni cihaz olarak kurulum yap</string>
     <string name="cloud_app_restore_wifi_prompt">Bir Mi bulut yedeğinden geri yükle</string>
@@ -111,6 +110,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Mi bulut alanınıza yedeklenm
     <string name="restore_data_summary">Bu özellik internet bağlantısına ihtiyaç duymaktadır</string>
     <string name="query_restore_summary">Bu cihaz için bir Mi bulut yedeği bulundu. Ana ekran uygulamalarını ve ayarlarını geri yükle veya eski Mi bulut yedeklerini silerek cihazı yeni bir cihaz olarak kullanılsın mı?</string>
     <string name="restore_home_screen_apps">Mi bulut yedeğinden geri yükle</string>
+    <string name="restoring_home_screen_apps">Xiaomi buluttan geri yükleniyor</string>
     <string name="query_restore_description">Bu yedek dosyasını kullanarak ana ekranınızı ve uygulamaları geri yükleyin. Bu işlem uygulama verilerini cihazınızda yüklenmiş olan yinelenen uygulamaların üzerine yazacaktır. Yedek dosyasında yer almayan uygulamalar kullanılan en son ana ekrana taşınır</string>
     <string name="restore_from_this_device">Bu yedeği kullanarak geri yükle</string>
     <string name="confirm_cancel_restore_title">Geri yükleme iptal edilsin mi?</string>

@@ -20,6 +20,10 @@
         <item quantity="other">%d kayıt indirildi</item>
         <item quantity="one">%d kayıt indirildi</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">%d kayıt bulundu</item>
+        <item quantity="one">%d kayıt bulundu</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d öğe senkronize edilmedi</item>
         <item quantity="one">%d öğe senkronize edilmedi</item>

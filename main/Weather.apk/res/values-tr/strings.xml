@@ -101,10 +101,10 @@
     <string name="daily_forecast_add_city_message">Daha ayrıntılı bir tahmin için %1$s içinde hava durumunu takip edin</string>
     <string name="daily_forecast_add_city_title">%1$s içindeki hava durumunu takip et</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Hava durumu bilgileri alınamadı
 Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</string>
     <string name="data_provided_by">Veri sağlayıcı:</string>
-    <string name="dislike_alert_dialog_title">Neden bu içeriği görmek istemiyorsun?</string>
     <string name="edit_city">Şehirleri yönet</string>
     <string name="empty">" "</string>
     <string name="empty_view_net_loading">Güncelleniyor</string>
@@ -154,6 +154,7 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="it_is_going_to_rain">Yağmur yağacak</string>
     <string name="item_city_list_region_no_data">-- / --</string>
     <string name="item_city_list_temperature_no_data">--</string>
+    <string name="life_index_title">Hava durumu endeksi</string>
     <string name="locate_fail_detail_err">"Cihaz konumu bulunamıyor
 Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="location_provider_btn_text">Konum hizmetlerini aç</string>
@@ -212,6 +213,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="privacy_settings">Gizlilik politikası</string>
     <string name="pull_fresh_updated">Başarıyla güncellendi</string>
     <string name="pull_fresh_updating">Güncelleniyor</string>
+    <string name="q_version_location_provider_btn_text">Konum erişimini açın ve konum doğruluğunu iyileştirin</string>
     <string name="radar_cloud_image_title">Radar haritası</string>
     <string name="radar_cloud_update_time">Before %1$s</string>
     <string name="rainfall_settings_summary">Yağış uyarıları</string>
@@ -222,8 +224,13 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="realtime_humidity_title">Göreceli nem</string>
     <string name="realtime_temperature_no_data">-</string>
     <string name="realtime_wind_default_title">Rüzgar</string>
+    <string name="refresh_empty_data">Veri yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="refresh_fail">Ağa bağlanılamadı</string>
     <string name="reminder_from_xiaomi_weather_app">Mi hava durumu uyarısı</string>
+    <string name="request_permission_location_dialog_content">Bulunduğunuz yerle alakalı hava durumu bilgilerini görüntülemek için</string>
+    <string name="request_permission_main_purpose">Hava durumu bilgisini görüntüleme</string>
+    <string name="request_permission_read_phone_state_dialog_content">Cihazınızı tanımlamak için</string>
+    <string name="request_permission_storage_dialog_content">Görüntü biçiminde hava durumu bilgilerini paylaşmak için</string>
     <string name="retry">Tekrar deneyin</string>
     <string name="search_weather">Hava durumu</string>
     <string name="search_weather_keywords">Sıcaklık,Hava tahmini,Hava durumu,Hava kalitesi,Kirlilik derecesi,Nem</string>
@@ -281,6 +288,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Dün</string>
+    <string name="view_indexes_item_day_after_tommorrow">2 gun içinde</string>
     <string name="view_indexes_item_today">Bugün</string>
     <string name="view_indexes_item_tommorrow">Yarın</string>
     <string name="warning_weather_day_and_night_settings_summary">7:00 ve 19:00 saatleri arasındaki hava durumu hakkında günlük özet bilgiler alın</string>
@@ -293,7 +301,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="xiaomi_weather_description_content">Hava durumu uygulaması size mümkün olan en doğru hava durumu bilgilerini sunar. Bu uygulama olmadan durum çubuğu ve ana ekranınızdaki hava durumu aracı düzgün çalışmayacaktır. Uygulamayı kaldırmadan önce uygulamaya gerçekten ihtiyacınız olmadığından emin olun</string>
     <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
-    <string name="yes_vote_ratio">Evet: %%%1$s</string>
+    <string name="yes_vote_ratio">%%%1$s için</string>
     <string name="your_location">Konumunuz</string>
     <string name="abrupt_weather_settings_summary_type_a">Olağandışı hava uyarı anahtarı</string>
     <string name="abrupt_weather_settings_summary_type_b">Olağandışı hava uyarı anahtarı</string>
@@ -302,10 +310,6 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="information_settings_title">Hava durumu bilgisi</string>
     <string name="other_settings">Diğer ayarlar</string>
     <string name="receive_net_mock_success">Alındı</string>
-    <string name="request_permission_location_dialog_content">Bulunduğunuz yerle alakalı hava durumu bilgilerini görüntülemek için</string>
-    <string name="request_permission_main_purpose">Hava durumu bilgisini görüntüleme</string>
-    <string name="request_permission_read_phone_state_dialog_content">Cihazınızı tanımlamak için</string>
-    <string name="request_permission_storage_dialog_content">Fotoğraf biçiminde hava durumu bilgilerini paylaşmak için</string>
     <string name="international_details_real_feel_title">@string/indices_title_feel</string>
     <string name="aqi_detail_co">CO</string>
     <string name="aqi_detail_no2">NO₂</string>

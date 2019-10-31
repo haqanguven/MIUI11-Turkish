@@ -364,6 +364,7 @@
     <string name="input_method_tab_phrase_text">Sık kullanılan ifadeler</string>
     <string name="input_method_no_content_text">Henüz bir ürün yok</string>
     <string name="input_method_edit_phrase_text">Sık kullanılan ifadeleri düzenle</string>
+    <string name="input_method_clipboard_tips">Kopyalanan öğeler 48 saat sonra panodan silinecek</string>
     <string name="wireless_charging_notification_titile">Geri kablosuz şarjı kapattı</string>
     <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Geri kablosuz şarj işlemi şimdi kapatıldı</string>
     <string name="wireless_charging_notification_message2">"Batarya %30'dan daha az şarjlı. Geri kablosuz şarj işlemi şimdi kapatıldı"</string>
@@ -371,6 +372,7 @@
     <string name="customer_location_judgment">Çin</string>
     <string name="user_authentication_failed">Yetkilendirme sorunu: -29-</string>
     <string name="service_not_subscribed">Hizmete abone olunamadı: -33-</string>
+    <string name="frequent_email">Sık kullanılan e-posta</string>
     <string name="android_forward_intent_to_owner">@android:string/forward_intent_to_owner</string>
     <string name="android_forward_intent_to_work">@android:string/forward_intent_to_work</string>
     <string name="android_whichApplicationNamed">@android:string/whichApplicationNamed</string>

@@ -219,6 +219,9 @@
     <string name="preference_settings">Ayarlar</string>
     <string name="preference_use_degress_summary">Trigonometrik fonksiyonlarda radyanları açılarla temsil et</string>
     <string name="preference_use_degress_title">Açıları kullan</string>
+    <string name="preference_use_voice_summary">Hesaplamalar sırasında konuşma çıktısını kullanmak için açın</string>
+    <string name="preference_use_voice_title">Konuşma çıktısı</string>
+    <string name="preference_user_feedback_title">Geri bildirim</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="radDesc">Radyan</string>
     <string name="rate_data_provider">Faiz oranları hexun.com tarafından sağlanmaktadır</string>
@@ -588,8 +591,9 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Hesaplayıcı güncelleniyor</string>
     <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-    <string name="view_float_window_move">Küçültülmüş Hesaplayıcıyı taşı</string>
+    <string name="view_float_window_move">Küçültülmüş hesaplayıcıyı taşı</string>
     <string name="voiceDesc">Sesli kontroller</string>
+    <string name="voice_guide_text">Konuşma çıktısını burada etkinleştirebilirsiniz</string>
     <string name="wf_word_figure">Finansal karakterler</string>
     <string name="word_figure_big_unit_fen">Bölme</string>
     <string name="word_figure_big_unit_jiao">Açı</string>

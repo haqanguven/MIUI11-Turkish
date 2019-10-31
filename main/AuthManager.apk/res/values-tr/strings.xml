@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="static_cache_db_md5">28efd26d57d499f332b83f8c7ec13702</string>
+    <string name="static_cache_db_md5">68d5eef192d767b41029ed25c756cc1f</string>
     <string name="app_name">İzin yöneticisi</string>
     <string name="HIPS_Action_Accept">İzin ver</string>
     <string name="HIPS_Action_Reject">Reddet</string>
@@ -126,6 +126,7 @@
     <string name="permdesc_read_storage">Cihazda depolanan fotoğraflara ve dosyalara erişin</string>
     <string name="permdesc_write_storage">Cihazdaki fotoğraf, dosyalara erişin ve kaydedin</string>
     <string name="permdesc_location">Konuma erişin</string>
+    <string name="permdesc_location_background">Arka planda erişim konumu</string>
     <string name="permdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
     <string name="permdesc_camera">Fotoğraf çekin ve video kaydedin</string>
     <string name="permdesc_sensors">Vücut sensör verilerine erişin</string>

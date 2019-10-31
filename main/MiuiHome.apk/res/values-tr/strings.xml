@@ -4,7 +4,6 @@
     <string name="activity_not_found">Uygulama cihazınıza yüklü değil</string>
     <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınız tamamen yeniden başlatılana kadar bekleyin</string>
     <string name="add_screen">Ekran ekle</string>
-    <string name="additional_settings">Ek ayarlar</string>
     <string name="all_apps">Tüm uygulamalar</string>
     <string name="all_apps_no_search_results">Sonuç bulunamadı</string>
     <string name="all_apps_search_app">Uygulama ara</string>
@@ -15,6 +14,9 @@
     <string name="all_apps_setting_drawer_tips_desc">Uygulama çekmecesi ana ekranda yukarı doğru kaydırarak açılır. Uygulama çekmecesi ile ana ekran moduna geçmek içerik merkezini kullanılmaz hale getirir. Yine de geçilsin mi?</string>
     <string name="all_apps_setting_drawer_tips_title">Uygulama çekmecesi kullanılıyor</string>
     <string name="all_apps_setting_drawer_title">Çekmece</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+    <string name="all_apps_setting_original_scrollbar">Orijinal düzen</string>
+    <string name="all_apps_setting_scroll_bar">Kaydırma çubuğu</string>
     <string name="all_apps_setting_title">Ana ekran görünümü</string>
     <string name="all_apps_slide_up_tips">Yukarı doğru kaydırmak uygulama çekmecesi için ayrılmıştır. Normal ana ekran moduna geçin ve tekrar deneyin</string>
     <string name="all_apps_suggestions">Uygulama tavsiyeleri</string>
@@ -76,6 +78,7 @@
     <string name="apply_as_lock_screen">Kilit ekranına uygula</string>
     <string name="apply_as_wallpaper">Ana ekrana uygula</string>
     <string name="apply_both">İkisine de uygula</string>
+    <string name="apply_text">Uygula</string>
     <string name="aqi_quality_index_dangerous">Tehlikeli</string>
     <string name="aqi_quality_index_good">İyi</string>
     <string name="aqi_quality_index_hazardous">Zararlı</string>
@@ -186,7 +189,7 @@
     <string name="gadget_clock_label">Saat</string>
     <string name="gadget_dual_clock_label">Çift saat</string>
     <string name="gadget_error_text">Araç yüklenemiyor</string>
-    <string name="gadget_google_search_label">Google Arama</string>
+    <string name="gadget_google_search_label">Google arama</string>
     <string name="gadget_load_error">Yükleniyor</string>
     <string name="gadget_mtz_label">Küçük araçlar</string>
     <string name="gadget_notes_label">Notlar</string>
@@ -196,7 +199,7 @@
     <string name="gadget_photo_label">Resim</string>
     <string name="gadget_power_clear_button_label">Derin temizlik</string>
     <string name="gadget_search_label">Ara</string>
-    <string name="gadget_weather_app_not_installed">Miui Hava Durumu uygulamasını indirmek için dokunun</string>
+    <string name="gadget_weather_app_not_installed">Miui hava durumu uygulamasını indirmek için dokunun</string>
     <string name="gadget_weather_aqi_title">"Hava kalitesi: "</string>
     <string name="gadget_weather_download_message">Uygulama içeriğini indirmeniz gerekmektedir: %1$s (%2$s). İndirme işlemi tamamlandıktan sonra uygulamayı yeniden başlatın</string>
     <string name="gadget_weather_download_start">İndir</string>
@@ -223,9 +226,9 @@
     <string name="home_indicator">bottom_point</string>
     <string name="home_pull_down_action">Ana ekranda aşağı kaydırın</string>
     <string name="home_screen">Ana ekran</string>
-    <string name="home_screen_settings">Ana ekran</string>
     <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
+    <string name="icon_size">Simge boyutu</string>
     <string name="image_too_small_message">Orijinal resim yeterince büyük değil</string>
     <string name="install">Yükle</string>
     <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -378,6 +381,7 @@
     <string name="status_paused">Duraklatıldı</string>
     <string name="status_pending">Bekliyor</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
+    <string name="system_text">Sistem</string>
     <string name="title_jeejen">Jeejen ana ekranı</string>
     <string name="title_select_live_folder">Klasör seçin</string>
     <string name="title_select_shortcut">Kısayol seçin</string>

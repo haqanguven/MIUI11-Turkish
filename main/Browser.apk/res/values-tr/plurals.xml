@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d öğe engellendi</item>
-        <item quantity="one">%d öğe engellendi</item>
-    </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d eşleşme</item>
-        <item quantity="one">%d eşleşme</item>
-    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Son %d gün</item>
     </plurals>

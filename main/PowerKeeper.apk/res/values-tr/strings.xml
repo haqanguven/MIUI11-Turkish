@@ -110,4 +110,6 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="atrace_saved">Kaydedildi</string>
     <string name="adaptive_battery_title">Uyarlanabilir batarya kullanın</string>
     <string name="adaptive_battery_summary">"Sık kullanmadığınız uygulamalar için pili sınırlayın"</string>
+    <string name="permstep_label">Adım sayısı erişimi</string>
+    <string name="permstep_description">Bu uygulamanın adım sayınıza erişmesine izin verin</string>
 </resources>

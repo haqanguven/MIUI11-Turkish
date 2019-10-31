@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mobile_operator_display_names">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-        <item>China Telecom</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
+        <item>Çin Mobil</item>
+        <item>Çin Unicom</item>
+        <item>Çin Mobil</item>
+        <item>Çin Telecom</item>
+        <item>Çin Telecom</item>
+        <item>Çin Unicom</item>
+        <item>Çin Mobil</item>
+        <item>Çin Mobil</item>
+        <item>Çin Unicom</item>
+        <item>Çin Telecom</item>
         <item>FarEasTone</item>
         <item>Asia Pacific</item>
         <item>T Star</item>
         <item>Chunghwa</item>
-        <item>TW Mobile</item>
+        <item>TW Mobil</item>
         <item>MobiFone</item>
         <item>CMHK</item>
         <item>CMHK</item>
@@ -27,7 +27,7 @@
         <item>3</item>
         <item>3 (2G)</item>
         <item>SmarTone MAC</item>
-        <item>China Telecom</item>
+        <item>Çin Telecom</item>
         <item>Singtel</item>
         <item>Singtel</item>
         <item>M1</item>
@@ -44,9 +44,9 @@
         <item>XL</item>
         <item>INDOSAT</item>
         <item>Alibaba</item>
-        <item>China Mcom</item>
+        <item>Çin Mcom</item>
         <item>SOSHARE MOBILE</item>
-        <item>Mi Mobile</item>
+        <item>Mi Mobil</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>

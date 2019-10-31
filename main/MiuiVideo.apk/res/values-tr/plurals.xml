@@ -17,6 +17,10 @@
         <item quantity="other">%d dosya</item>
         <item quantity="one">%d dosya</item>
     </plurals>
+    <plurals name="fans_count">
+        <item quantity="other">%d takipçi</item>
+        <item quantity="one">%d takipçi</item>
+    </plurals>
     <plurals name="favor_short_selected_counts">
         <item quantity="other">%1$s öğe seçildi</item>
         <item quantity="one">%1$s öğe seçildi</item>
@@ -89,6 +93,10 @@
         <item quantity="other">Boyut: %.2fKB</item>
         <item quantity="one">Boyut: %.2fKB</item>
     </plurals>
+    <plurals name="tv_show_subscribed_author_video">
+        <item quantity="other">%d kanalına abone oldu. Videoları görüntülemek için dokunun</item>
+        <item quantity="one">%d kanalına abone oldu. Videoları görüntülemek için dokunun</item>
+    </plurals>
     <plurals name="updated_already">
         <item quantity="other">%d öğe güncellendi</item>
         <item quantity="one">%d öğe güncellendi</item>
@@ -105,8 +113,16 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
     <plurals name="video_pre_play_tip">
-        <item quantity="other">%1$d dakikalık önizleme var. Tam videoyu izlemek için &lt;Data>&lt;font color="#ffa201">şimdi satın alın&lt;/font>&lt;/Data></item>
-        <item quantity="one">%1$d dakikalık önizleme var. Tam videoyu izlemek için &lt;Data>&lt;font color="#ffa201">şimdi satın alın&lt;/font>&lt;/Data></item>
+        <item quantity="other">%1$d dakikalık önizleme var. Tam videoyu izlemek için &lt;font color="#ffa201">şimdi satın alın&lt;/font></item>
+        <item quantity="one">%1$d dakikalık önizleme var. Tam videoyu izlemek için &lt;font color="#ffa201">şimdi satın alın&lt;/font></item>
+    </plurals>
+    <plurals name="vp_video_tencent_loading">
+        <item quantity="other">%1$d saniyede %2$s oynamaya başlanıyor</item>
+        <item quantity="one">%1$d saniyede %2$s oynamaya başlanıyor</item>
     </plurals>
 </resources>

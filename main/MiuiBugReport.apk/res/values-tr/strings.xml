@@ -563,4 +563,7 @@ Hesabınızı etkinleştirmek için size göndermiş olduğumuz
     <string name="upload_log_failed">Kayıtlar gönderilemedi</string>
     <string name="warning_field_empty">%1$s girin</string>
     <string name="warning_field_invalid">Geçerli bir %1$s seçin</string>
+    <string name="feedback_choose_occurrence_time">Zaman</string>
+    <string name="feedback_hint_optional">Seç</string>
+    <string name="feedback_title_occurrence_time">Zaman seç</string>
 </resources>

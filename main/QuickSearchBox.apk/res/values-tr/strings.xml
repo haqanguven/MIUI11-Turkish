@@ -37,7 +37,7 @@ Tarayıcı geçmişinizi temizlemek için tarayıcının ayarlarını kullanın"
     <string name="menu_help">Yardım</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_settings">Arama ayarları</string>
-    <string name="search_sources">Aranabilir ögeler</string>
+    <string name="search_sources">Aranabilir öğeler</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="voice_search_hint_title">Şunu söylemeyi deneyin:</string>
     <string name="about_preference_activity_title">Hakkında</string>
@@ -66,7 +66,6 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="category_preference_activity_title">Kategori ara</string>
     <string name="change_setting_engine">Arama motoru seç</string>
     <string name="choose_search_engine">Arama motoru</string>
-    <string name="choose_search_engine_toast">%s seçeneğine geçildi</string>
     <string name="clear_history_cancel">İptal et</string>
     <string name="clear_history_ok">Tamam</string>
     <string name="clear_input_description">Temizle</string>
@@ -83,29 +82,39 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="common_background_light">Beyaz</string>
     <string name="common_category_entrance_subtitle">Arama kategorilerini başlangıç sayfasında göster</string>
     <string name="common_category_entrance_title">Kategorileri göster</string>
+    <string name="common_clear_operate_log_title">Kayıtları temizle</string>
     <string name="common_clear_search_history_title">Arama geçmişini temizle</string>
     <string name="common_clear_webview_history_title">Önbellek ve gezinti geçmişini temizle</string>
     <string name="common_debug_mode">Geliştirici seçenekleri</string>
+    <string name="common_general_settings">Genel ayarlar</string>
+    <string name="common_home_display_module_summary">Ana sayfada görüntülenecek ögeleri seçin</string>
     <string name="common_home_screen_search_box">Ana ekran arama çubuğu</string>
     <string name="common_home_screen_search_box_subtitle">Cihazınızdaki ögeleri bulmak için bu arama çubuğunu kullanın</string>
     <string name="common_hot">Popüler</string>
     <string name="common_hot_subtitle">Popüler aramaları görüntüleyin</string>
     <string name="common_modify_download_path_title">İndirme konumunu değiştir</string>
+    <string name="common_privacy_additional_settings">Gizlilik &amp; ek ayarlar</string>
+    <string name="common_quick_search">Arama sonucu kategorileri</string>
+    <string name="common_quick_search_subtitle">Tavsiye edilen kategorileri kullanarak arama sonuçlarını kısıtlayın</string>
     <string name="common_reader_history">Okuma önerileri</string>
     <string name="common_reader_history_subtitle">Kitaplığınızı ana sayfada gösterin</string>
     <string name="common_recent_apps_category_title">Göster</string>
     <string name="common_recent_apps_first_subtitle">Uygulama tavsiyelerini arama geçmişinin üzerinde göster</string>
     <string name="common_recent_apps_first_title">Önce uygulama tavsiyelerini göster</string>
+    <string name="common_recent_apps_one_line">1 satır</string>
+    <string name="common_recent_apps_show_dialog_title">Uygulama tavsiyeleri için görüntüleme biçimi</string>
+    <string name="common_recent_apps_show_type">Görüntüleme biçimi</string>
     <string name="common_recent_apps_subtitle">Uygulama tavsiyelerini başlangıç sayfasında göster</string>
     <string name="common_recent_apps_tips">Bir uygulamayı önerilenlerden silmek için uygulama simgesine basın ve basılı tutun</string>
     <string name="common_recent_apps_title">Uygulama tavsiyelerini göster</string>
+    <string name="common_recent_apps_turn_off">Kapalı</string>
+    <string name="common_recent_apps_two_lines">2 satır</string>
     <string name="common_search_history_first_subtitle">Arama geçmişini popüler arama isteklerinin üstünde göster</string>
     <string name="common_search_history_first_title">Öncelikle arama geçmişini göster</string>
     <string name="common_search_history_subtitle">Arama geçmişini başlangıç sayfasında göster</string>
     <string name="common_search_history_title">Arama geçmişini göster</string>
     <string name="common_setting_engine_title">Arama motoru</string>
     <string name="common_settings_ad_block_title">Reklam filtresi</string>
-    <string name="common_settings_advanced">Ek ayarlar</string>
     <string name="common_settings_background_color_title">Arka plan rengi</string>
     <string name="common_settings_others">Ek ayarlar</string>
     <string name="common_settings_privacy_subtitle">Gizli modda, arama ve gezinti bilgilerinin yanı sıra otomatik doldurma bilgileri de kaydedilmez</string>
@@ -115,6 +124,8 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="common_text_to_speech_subtitle">Sesli aramayı kullandığınızda, arama sonuçları otomatik olarak size okunur.</string>
     <string name="common_text_to_speech_title">Metin konuşma çıktısı sonuçları</string>
     <string name="common_tips_subtitle">Anahtar kelimelere göre öneriler alın</string>
+    <string name="common_transfer">Akıllı tavsiyeler</string>
+    <string name="common_transfer_subtitle">Arama çubuğunda ve ana sayfada akıllı tavsiyeleri göster</string>
     <string name="common_use_default_download_path_subtitle">Varsayılan ayarlara sıfırla</string>
     <string name="common_use_default_download_path_title">Varsayılan konumu geri yükle</string>
     <string name="connect_and_retry">İnternete bağlanın ve ardından tekrar deneyin</string>
@@ -126,7 +137,8 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="debug_mode_toast">Geliştirici seçenekleri açık. Bunu Ayarlar menüsünden kapatabilirsiniz</string>
     <string name="default_download_path_dialog_title">Varsayılan indirme konumu geri yüklensin mi?</string>
     <string name="default_download_path_prefix">Varsayılan konum:</string>
-    <string name="default_hint">Uygulama, müzik, video, kitap arayın…</string>
+    <string name="default_hf_hint">Haber, video ve makale arayın</string>
+    <string name="default_hint">Uygulama, müzik, video ve kitap arayın</string>
     <string name="delete_description">Sil</string>
     <string name="delete_history">Bu ögeyi sil</string>
     <string name="desktop_guide_add">Ekle</string>
@@ -189,6 +201,7 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="history_view_more">Daha fazla</string>
     <string name="history_view_none">Burada öğe yok</string>
     <string name="history_viewed">Gezinti geçmişi</string>
+    <string name="home_module_preference_activity_title">Ana sayfa</string>
     <string name="hot_search">Popüler</string>
     <string name="hot_word_more">Daha fazla</string>
     <string name="hot_word_refresh">Yenile</string>
@@ -216,6 +229,12 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="miui_autologin_bar_error">Oturum açılamıyor</string>
     <string name="miui_autologin_bar_title">Mi hesabı ile oturum açın</string>
     <string name="network_unavailable">Ağa bağlanılamadı</string>
+    <string name="new_cta_declaration_location">Doğru hava durumu bilgileri, ilgili yerel hizmetler ve çevrimiçi mağazaları sunmak için</string>
+    <string name="new_cta_declaration_read_contacts">Kişileri aramak için</string>
+    <string name="new_cta_main_purpose">Cihazınızda ve çevrimiçi öğeleri aramak için</string>
+    <string name="new_cta_permission_get_accounts">Oturum açmak ve sistem hesabını yönetmek için</string>
+    <string name="new_cta_permission_group_storage">Cihazınızda depolanan ögelere erişmek ve bunları arama sonuçlarına eklemek için</string>
+    <string name="new_cta_permission_read_phone_state">Cihazınızı tanımak ve hizmetleri sunmak üzere IMEI numarasına erişmek için</string>
     <string name="new_version_found">Bir güncelleme mevcut</string>
     <string name="no_space_alert_cancel">Daha sonra</string>
     <string name="no_space_alert_clean">Alan boşalt</string>
@@ -224,6 +243,9 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="ok">Tamam</string>
     <string name="one">1</string>
     <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
+    <string name="operate_log_clear_des">1. Sunucularımızda oluşturulan arama kayıtlarını silmek istiyorsanız, cihazınızın IMEI numarasını misearch-service@xiaomi.com adresine gönderin</string>
+    <string name="operate_log_email">misearch-service@xiaomi.com</string>
+    <string name="operate_log_revoke_des">2. İzinleri geri almak istiyorsanız, Ayarlar > Uygulamalar > Uygulamaları yönet > Arama > Verileri temizle > Tüm verileri temizle menüsüne gidin. Aramayı bir dahaki sefere başlattığınızda bu izinleri tekrar vermelisiniz</string>
     <string name="other">Diğer</string>
     <string name="page_search_hint">Aranıyor</string>
     <string name="permission_prompt_detail">Film, kitap, müzik ve daha fazlasını arayın</string>
@@ -282,9 +304,7 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="security_warning">Güvenlik uyarısı</string>
     <string name="setting_category_edit_subtitle">Arama kategorilerini seç ve düzenle</string>
     <string name="setting_category_edit_title">Arama kategorilerini düzenle</string>
-    <string name="setting_common_general">Genel ayarlar</string>
     <string name="setting_common_preference_activity_title">Ara</string>
-    <string name="setting_conmmon_privacy_security">Gizlilik &amp; güvenlik</string>
     <string name="setting_privacy_policy">Gizlilik Politikası</string>
     <string name="setting_recetn_apps_subtitle">Uygulama tavsiyelerini göster</string>
     <string name="setting_right_protection">Özel bildirim</string>
@@ -337,6 +357,7 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="switch_prompt_title_default">İhtiyacınız olanı bulamıyor musunuz?</string>
     <string name="switch_setting">Ayarlar</string>
     <string name="today">Bugün</string>
+    <string name="transfer_data_from">Panodan</string>
     <string name="translation_description">İngilizce-Çince çeviri</string>
     <string name="translation_label">Çeviri</string>
     <string name="translation_youdao">YouDao</string>
@@ -401,13 +422,15 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="debug_server_preview_mode">Sunucu önizleme ortamı</string>
     <string name="download_fail">İndirme başarısız oldu</string>
     <string name="download_ing">İndiriliyor</string>
     <string name="download_pause">Duraklatmayı indir</string>
     <string name="download_start">Şimdi indir</string>
     <string name="google_authority">com.android.quicksearchbox.google</string>
     <string name="history_item_sub">%s</string>
-    <string name="hot_word_list_foot">"Kayma zaten sonunda~"</string>
+    <string name="home_feed_url">https://search.browser.miui.com/v5/hf/#page=homefeed</string>
+    <string name="hot_word_list_foot">Liste tabanlıdır ve arama sınırsızdır</string>
     <string name="hot_word_tab_title_update_status">Gerçek zamanlı en iyi arama %s güncellemesi</string>
     <string name="miui_privacy_policy_url" formatted="false">https://www.miui.com/res/doc/privacy.html?region=%s&amp;lang=%s</string>
     <string name="miui_user_agreement_url">https://www.miui.com/res/doc/eula/%s.html</string>
@@ -418,9 +441,19 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="quick_search_item_douban">Su teresi</string>
+    <string name="quick_search_item_local">Yerel</string>
+    <string name="quick_search_item_news">Bilgi</string>
+    <string name="quick_search_item_video">Video</string>
+    <string name="quick_search_item_weibo">Weibo</string>
+    <string name="quick_search_item_zhihu">Zhihu</string>
+    <string name="quick_search_title">Gizli arama</string>
+    <string name="required_permissions">android.permission.GET_ACCOUNTS;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="search_result_skip_timer_text">(%d)</string>
     <string name="search_uri_back_from_webview">qsb://query?words={searchTerms}&amp;web_search=true&amp;ref=web_url_back_</string>
+    <string name="settings_authority">com.android.quicksearchbox.settings</string>
     <string name="system_hint_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
+    <string name="transfer_url_type">Kopyalanan bağlantıyı aç</string>
     <string name="translation_authority">com.android.quicksearchbox.translation</string>
     <string name="xiaomi_info_flow_url">https://search.browser.miui.com/v5/#page=feed</string>
     <string name="xiaomi_info_flow_url_alpha">https://search.browser.miui.com/v5/alpha/#page=feed</string>

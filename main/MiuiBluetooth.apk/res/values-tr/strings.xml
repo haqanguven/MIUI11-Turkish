@@ -40,6 +40,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="app_name">Miui bluetooth</string>
+    <string name="blackshark_name">H66L</string>
     <string name="ble_device_address">Bluetooth akıllı cihaz MAC adresi</string>
     <string name="ble_device_profile">Bluetooth cihaz profili</string>
     <string name="ble_device_profile_header_title">Ayarlar</string>
@@ -59,6 +60,7 @@
     <string name="device_picker">Bluetooth cihaz ayarları</string>
     <string name="disconnect">Eşleşmeyi sonlandır</string>
     <string name="expand_button_title">Gelişmiş</string>
+    <string name="fast_connect_device_battery">Pil</string>
     <string name="fast_connect_device_box">Kutu</string>
     <string name="fast_connect_device_box_name">%1$s kutu</string>
     <string name="fast_connect_device_connect_cancel">İptal et</string>

@@ -97,6 +97,7 @@
     <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
     <string name="click_to_view">Görüntülemek için dokunun</string>
     <string name="close">Kapat</string>
+    <string name="cloud_recommend_view_tip">Önemli mesajları istediğiniz zaman geri yüklemek için bulut ile senkronizasyonu açın</string>
     <string name="cloud_state_disabled">Mi bulut ile senkronizasyon kapalı</string>
     <string name="cloud_state_sync_finished">Mi bulut ile senkronize edildi</string>
     <string name="cloud_state_syncing">Mi bulut ile senkronize ediliyor</string>
@@ -105,7 +106,6 @@
     <string name="cm_privacy_dialog_spannable_tips">Gizlilik politikası</string>
     <string name="cm_privacy_dialog_tips">"Akıllı mesajlaşma servisleri operatörünüz tarafından sağlanır. Mesajlaşma bu hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. Bu hizmetleri kullanmaya başlamadan önce taşıyıcınızın %1s'ini kabul etmelisiniz. Kabul ediyor musunuz?"</string>
     <string name="cm_privacy_dialog_title">Dikkat</string>
-    <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
     <string name="cmcc_privacy">Çin mobil taşıyıcı gizlilik sözleşmesi</string>
     <string name="complain_message_title">Rapor</string>
     <string name="compressing">Resim boyutu çok büyük. Sıkıştırılıyor</string>
@@ -150,7 +150,6 @@
     <string name="context_menu_view_mms">Multimedya mesajını görüntüle</string>
     <string name="conversation">Mesajlar</string>
     <string name="conversation_listitem_avatar">Avatar</string>
-    <string name="conversation_style">bubble</string>
     <string name="converting_to_picture_message">Multimedya mesajına dönüştürülüyor</string>
     <string name="converting_to_text_message">Metin mesajına dönüştürülüyor</string>
     <string name="converting_vcard_failed">Kişi dönüştürülemedi</string>
@@ -423,6 +422,7 @@ Bu mesaj istenmeyen olabilir"</string>
     <string name="mx_filter_message_from_stranger_summary">Bilinmeyen numaralardan gelen normal mesajları halen alabileceksiniz</string>
     <string name="mx_main_purpose">"Mi mesaj ile diğer Mi mesaj kullanıcılarına internet üzerinden ücret ödemeden mesaj göndermenizi sağlar
 Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operatörünüz sizden ücret isteyecektir"</string>
+    <string name="mx_main_purpose_short">Mi mesaj ile Miui kullanıcılarının ücretsiz mesaj ve multimedya mesajları gönderip almalarını sağlar</string>
     <string name="mx_message">Mi mesaj</string>
     <string name="mx_msg">Mi mesaj</string>
     <string name="mx_msg_pageview_setting_title">Mi mesaj ayarları</string>
@@ -493,7 +493,6 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pick_too_many_recipients">Çok fazla alıcı</string>
     <string name="play">Oynat</string>
     <string name="playing_failed">Oynatılamıyor</string>
-    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="prefDefault_vibrateWhen">never</string>
     <string name="prefDefault_vibrate_false">never</string>
     <string name="prefDefault_vibrate_true">always</string>
@@ -587,7 +586,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="private_protect">Şifreler</string>
     <string name="private_settings">Özel mesaj ayarları</string>
     <string name="processing">Çalışıyor</string>
-    <string name="prompt_area_code">+86</string>
+    <string name="prompt_area_code">+90</string>
     <string name="prompt_otp">Kod</string>
     <string name="prompt_phone">Telefon numarası</string>
     <string name="prompt_summary">RCS, mesaj, fotoğraf, video alışverişinde bulunmanıza ve ücretsiz grup sohbeti oluşturmanıza olanak sağlar</string>

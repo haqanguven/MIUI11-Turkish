@@ -639,6 +639,7 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="drive_mode_tip_notch">Araba modu açık</string>
     <string name="emergency_call_string">Acil</string>
     <string name="empty_shade_text">Bildirim yok</string>
+    <string name="empty_title">" "</string>
     <string name="enable_adb">USB hata ayıklaması</string>
     <string name="enable_adb_summary">USB bağlandığında hata ayıklama modu</string>
     <string name="enable_bluetooth_confirmation_ok">Aç</string>

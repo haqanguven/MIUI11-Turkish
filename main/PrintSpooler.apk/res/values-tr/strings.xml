@@ -16,6 +16,8 @@
     <string name="collapse_handle">Tanıtıcıyı daralt</string>
     <string name="connectio_delay_content">Yazıcınızdaki bağlantıyı onaylamanız gerekebilir</string>
     <string name="connectio_help_title">Yazıcıya bağlanıyor</string>
+    <string name="copies_decrease">Eksi bir kopya</string>
+    <string name="copies_increase">Artı bir kopya</string>
     <string name="could_not_create_file">Dosya oluşturulamadı</string>
     <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Seçilen yazıcılar şimdi silinsin mi?</string>

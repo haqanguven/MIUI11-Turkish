@@ -94,6 +94,10 @@
         <item quantity="other">%d fotoğraf veya video | Duraklatıldı</item>
         <item quantity="one">%d fotoğraf veya video | Duraklatıldı</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulut ile %d dakika boyunca senkronize et</item>
+        <item quantity="one">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulut ile %d dakika boyunca senkronize et</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotoğraf veya video | %2$s</item>
         <item quantity="one">%1$d fotoğraf veya video | %2$s</item>
@@ -214,6 +218,10 @@
         <item quantity="other">Görüntülenemeyen %1$d fotoğraf atlandı</item>
         <item quantity="one">Görüntülenemeyen bir fotoğraf atlandı</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d dosya</item>
+        <item quantity="one">%1$d dosya</item>
+    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d öğe yedekleme için bekliyor</item>
         <item quantity="one">1 öğe yedekleme için bekliyor</item>
@@ -241,10 +249,6 @@
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d video</item>
         <item quantity="one">1 video</item>
-    </plurals>
-    <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d video yedekleme için bekliyor</item>
-        <item quantity="one">1 video yedekleme için bekliyor</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d video yedeklemeyi bekliyor</item>

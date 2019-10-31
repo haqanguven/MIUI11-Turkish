@@ -74,7 +74,11 @@
     <string name="file_transfer_progress">İlerleme: %%%1$d</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
     <string name="hide">Gizle</string>
+    <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
     <string name="mi_drop">Dosya paylaşımı</string>
+    <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Mi paylaşımı kullanabilirsiniz
+Mi paylaşım Mi ve Redmi telefonlarıyla uyumludur
+Oppo, vivo, realme ve diğer markalar yakında Mi paylaşım ile de uyumlu olacak. Uyumlu cihazların listesini internet sitemizden kontrol edebilirsiniz"</string>
     <string name="mishare_state_protection">Mi Paylaşımı otomatik olarak aç</string>
     <string name="mishare_state_protection_summary">Bluetooth veya wifi açıldığında Mi paylaşımı otomatik olarak başlatır</string>
     <string name="multi_file_name">%1$s,%2$s</string>
@@ -114,7 +118,8 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="throwing_screen">Yansıt</string>
     <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
     <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
-    <string name="transfer_to_pc_summary">"Öğeleri doğrudan Mi Notebook'lara göndermek için dosya paylaşımını kullanabilirsiniz. Diğer dizüstü bilgisayarlara önce dosya paylaşımı uygulamasını yüklemelisiniz"</string>
+    <string name="transfer_to_pc_summary">"Öğeleri doğrudan Mi Notebook'lara göndermek için dosya paylaşımını kullanabilirsiniz
+Diğer dizüstü bilgisayarlara önce dosya paylaşımı uygulamasını yüklemelisiniz"</string>
     <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
     <string name="transfer_to_phone_summary">Fotoğrafları ve dosyaları yakındaki Mi telefonlara ve diğer uyumlu Android cihazlarına göndermenize olanak sağlar</string>
     <string name="transfer_to_phone_title">Dosyaları telefonlara gönder</string>
@@ -139,7 +144,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="unrecognized_manufacture">Bilinmeyen</string>
     <string name="unrecognized_model">Bilinmeyen cihaz</string>
     <string name="vivo">Vivo</string>
-    <string name="vivo_phone">Vivo mobil telefon</string>
+    <string name="vivo_phone">Vivo</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -158,7 +163,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="xiaomi_mix_3">Mi MIX 3</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
-    <string name="xiaomi_phone">Mi telefon</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">Poco F1</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>

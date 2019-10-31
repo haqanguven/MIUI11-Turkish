@@ -121,6 +121,7 @@
     <string name="online_recognize_order_upload">Onayla ve karşıya yükle</string>
     <string name="online_recognize_order_uploading">Karşıya yükleniyor: %s</string>
     <string name="online_recognize_other_order_upload">Mevcut karşıya yüklemelerin tamamlanmasını bekleyin ve tekrar deneyin</string>
+    <string name="online_recognize_progress">%s yazıyor</string>
     <string name="online_recognize_running">Yazıya dökülüyor</string>
     <string name="online_recognize_service_unavailable">Hizmet şu anda kullanılamıyor. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="order_item_duration">Süre: %s</string>
@@ -225,7 +226,9 @@
     <string name="retry">Yeniden dene</string>
     <string name="runtime_permission_ungranted">Gerekli izinler sağlanmadığından ses kaydedici kullanılamıyor</string>
     <string name="search_app">Ses kaydedici</string>
+    <string name="search_empty">Sonuç bulunamadı</string>
     <string name="search_enable_earpiece_title">Sesi oynatmak için alıcı kullan</string>
+    <string name="search_hint">Ara</string>
     <string name="search_led_indicator">Kilit ekranı bildirimleri</string>
     <string name="search_led_indicator_prompt">Kayıt yapılıyorken kilit ekranında bildirim ışığını yakıp söndür ve durum çubuğu kısayolu görüntüle</string>
     <string name="search_quliaty_title">Kayıt kalitesi</string>

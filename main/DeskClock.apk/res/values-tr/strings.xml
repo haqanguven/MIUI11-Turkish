@@ -185,6 +185,7 @@
     <string name="module_download_success">Ek ses başarıyla indirildi</string>
     <string name="module_download_title">Ek ses gerekli</string>
     <string name="module_downloading">Ek ses indiriliyor</string>
+    <string name="module_unzipping">Ses açılıyor</string>
     <string name="module_update_success">Miui akıllı alarmları için güncellenmiş ses dosyaları başarıyla indirildi. Miui akıllı alarmları saat ayarlarında ayarlayabilirsiniz</string>
     <string name="module_update_success_control">Anladım</string>
     <string name="module_weather_ringtone_download_data">Hava durumu alarmı mevcut hava durumuna göre farklı zil sesleri seçer. Saat uygulaması bu hizmeti sunabilmek için yaklaşık 30MB boyutunda ses dosyası indirmelidir. Şimdi indirilsin mi?</string>
@@ -343,7 +344,7 @@
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
     <string name="vibrate_when_ringing">Çalarken titret</string>
-    <string name="volume_button_setting_desc">Güç ve Ses +/- tuşlarına işlev ata</string>
+    <string name="volume_button_setting_desc">Güç ve ses +/- tuşlarına işlev ata</string>
     <string name="volume_button_setting_summary">Alarm sırasında ses tuşlarının fonkisyonunu belirleyin</string>
     <string name="volume_button_setting_title">Ses tuşları</string>
     <string name="workday_alarm_clock">Çalışma günleri alarmı</string>
@@ -358,7 +359,7 @@
     <string name="worldcolock_timezone_current">Şimdiki: %1$s</string>
     <string name="worldcolock_timezone_current_date">dd MM yyyy</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
-    <string name="worldcolock_timezone_gap">Saat</string>
+    <string name="worldcolock_timezone_gap">%s saat</string>
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
     <string name="full_wday_month_day_no_year">dd MMMM EEEE</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>

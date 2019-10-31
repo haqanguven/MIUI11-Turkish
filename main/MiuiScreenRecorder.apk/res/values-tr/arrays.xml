@@ -35,7 +35,7 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Sessiz</item>
         <item>Mikrofon</item>
-        <item>Hoparlör</item>
+        <item>Sistem sesleri</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Dahili depolama</item>

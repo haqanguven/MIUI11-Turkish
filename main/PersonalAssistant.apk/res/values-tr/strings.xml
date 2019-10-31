@@ -257,9 +257,9 @@
     <string name="already_connect">Bağlı</string>
     <string name="already_download">İndirilen</string>
     <string name="amount_ten_million_format">%s milyon</string>
-    <string name="app_label">Akıllı yardımcı</string>
+    <string name="app_label">Uygulama çekmecesi</string>
     <string name="app_name">miot-device-lib</string>
-    <string name="app_setting">Akıllı yardımcı ayarları</string>
+    <string name="app_setting">Uygulama çekmecesi ayarları</string>
     <string name="app_setting_add_header_bg">Arka plan resmi</string>
     <string name="app_setting_datetime">Tarih göstergesi</string>
     <string name="app_setting_dialog_cancel">İptal edildi</string>
@@ -445,8 +445,8 @@
     <string name="cta_dialog_negative">Çık</string>
     <string name="cta_dialog_positive">Kabul et</string>
     <string name="cta_dialog_text_all">Uygulama küpünü kullanmak için kullanıcı sözleşmesi ve gizlilik politikasını kabul etmeniz gerekmektedir: %1$s %2$s %3$s %4$s. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor</string>
-    <string name="cta_dialog_text_new_user">"Akıllı yardımcıyı kullanmadan önce Xiaomi'nin %1$s Kullanıcı sözleşmesi %2$s, %3$s Gizlilik Politikası %4$s ve %5$s akıllı yardımcı Gizlilik politikasını %6$s kabul etmelisiniz. Uygulama kasasının internete bağlanması ve normal çalışması için konum bilgilerinize erişmesi gerekir. Kabul etmek için başlat düğmesine dokunun"</string>
-    <string name="cta_dialog_text_old_user">"Akıllı yardımcıyı kullanmadan önce %1$s akıllı yardımcı Gizlilik politikası %2$s’nı kabul etmeniz gerekir. Kabul etmek için başlat düğmesine dokunun"</string>
+    <string name="cta_dialog_text_new_user">"Uygulama çekmecesini kullanmadan önce Xiaomi'nin %1$s Kullanıcı sözleşmesi %2$s, %3$s Gizlilik Politikası %4$s ve %5$s akıllı yardımcı Gizlilik politikasını %6$s kabul etmelisiniz. Uygulama kasasının internete bağlanması ve normal çalışması için konum bilgilerinize erişmesi gerekir. Kabul etmek için başlat düğmesine dokunun"</string>
+    <string name="cta_dialog_text_old_user">"Uygulama çekmecesini kullanmadan önce %1$s akıllı yardımcı Gizlilik politikası %2$s’nı kabul etmeniz gerekir. Kabul etmek için başlat düğmesine dokunun"</string>
     <string name="cta_dialog_title">Şartlar ve koşullar</string>
     <string name="cta_negative">Kapat</string>
     <string name="cta_not_now">Şimdi değil</string>
@@ -455,7 +455,7 @@
     <string name="cta_positive">Ayrıntılar</string>
     <string name="cta_start">Başlat</string>
     <string name="cta_text5">Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor. Kabul ediyor musunuz?</string>
-    <string name="cta_title">Akıllı yardımcının size yardımcı olmasına izin verin</string>
+    <string name="cta_title">Uygulama çekmecesinin size yardımcı olmasına izin verin</string>
     <string name="currency_china">CNY</string>
     <string name="daily_greeting">Günlük karşılamalar</string>
     <string name="data_error">Bir hata meydana geldi. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
@@ -1404,8 +1404,8 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="quick_app_setting_brief">Son kullanılan hızlı uygulamaları görmek için akıllı yardımcıyı aşağı kaydırın</string>
     <string name="quick_app_setting_brief_detail">En son kullandığınız tüm hızlı uygulamaları görüntüleyin</string>
     <string name="quick_app_title">Recent quick apps</string>
-    <string name="quickstart_accessibility_description">Akıllı yardımcı seçilen üçüncü taraf uygulamaları için kısayollar sağlar. Bu özelliği kapattığınızda bu kısayollar çalışmaz</string>
-    <string name="quickstart_accessibility_service">Akıllı yardımcı</string>
+    <string name="quickstart_accessibility_description">Uygulama çekmecesi seçilen üçüncü taraf uygulamaları için kısayollar sağlar. Bu özelliği kapattığınızda bu kısayollar çalışmaz</string>
+    <string name="quickstart_accessibility_service">Uygulama çekmecesi</string>
     <string name="recharge_flow">Mobil veri satın al</string>
     <string name="recharge_tel">Bakiye yükle</string>
     <string name="recharge_title_monthused">Bu ay kullanılan</string>
@@ -1546,10 +1546,10 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="shopping_rmb">%s￥</string>
     <string name="shopping_search">Alışveriş arama</string>
     <string name="shopping_setting_authorize">Satın alımlarla ilgili bilgileri dışa aktarmaya izin ver</string>
-    <string name="shopping_setting_authorize_sub">Akıllı yardımcı favorilerinize ve alışveriş sepetinize erişebilecek</string>
+    <string name="shopping_setting_authorize_sub">Uygulama çekmecesi favorilerinize ve alışveriş sepetinize erişebilecek</string>
     <string name="shopping_setting_base">Ayarlar</string>
     <string name="shopping_setting_brief">Satın alma işlemlerinizle ilgili bilgileri akıllı yardımcıda toplayın</string>
-    <string name="shopping_setting_brief_detail">Akıllı yardımcıda çok sayıda e-ticaret uygulamasından satın alma işlemlerinizle ilgili bilgileri toplayın</string>
+    <string name="shopping_setting_brief_detail">Uygulama çekmecesinde çok sayıda e-ticaret uygulamasından satın alma işlemlerinizle ilgili bilgileri toplayın</string>
     <string name="shopping_setting_jingdong">JD</string>
     <string name="shopping_setting_mishop">Mi mağaza</string>
     <string name="shopping_setting_notification">Yeni öğeler hakkında bilgilendirin</string>
@@ -1561,7 +1561,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="shopping_support">Desteklenen uygulamalar</string>
     <string name="shortcut">Kısayollar</string>
     <string name="show_more">Daha fazla göster</string>
-    <string name="smart_assistant_enter_tip">Akıllı yardımcı</string>
+    <string name="smart_assistant_enter_tip">Uygulama çekmecesi</string>
     <string name="sms_address">Adres</string>
     <string name="sms_airline">Hava yolu</string>
     <string name="sms_button_add_calendar">Takvime ekle</string>

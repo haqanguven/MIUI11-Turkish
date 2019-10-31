@@ -10,16 +10,24 @@
         <item quantity="one">%d sanatçı</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Eşleşen albüm ve lirik (%1$d/%2$d şarkı)</item>
-        <item quantity="one">Eşleşen albüm ve lirik (%1$d/%2$d şarkı)</item>
+        <item quantity="other">Eşleşen albüm ve şarkı sözü (%1$d/%2$d şarkı)</item>
+        <item quantity="one">Eşleşen albüm ve şarkı sözü (%1$d/%2$d şarkı)</item>
     </plurals>
     <plurals name="Nbackup_songs">
-        <item quantity="other">Şarkılar yedekleniyor, %1$d şarkı kaldı (%2$.1fMB)</item>
-        <item quantity="one">Şarkı yedekleniyor, %1$d şarkı kaldı (%2$.1fMB)</item>
+        <item quantity="other">Şarkı yedekleniyor. %1$d şarkı kaldı (%2$.1fMB)</item>
+        <item quantity="one">Şarkı yedekleniyor. %1$d şarkı kaldı (%2$.1fMB)</item>
     </plurals>
     <plurals name="Ndownload_fee_alert_message">
-        <item quantity="other">Telif hakkı sahibinin isteği üzerine %d seçili şarkı ücretsiz olarak indirilemez. Bu şarkılar indirmelere eklendi</item>
-        <item quantity="one">Telif hakkı sahibinin isteği üzerine %d seçili şarkı ücretsiz olarak indirilemez. Bu şarkılar indirmelere eklendi</item>
+        <item quantity="other">Telif hakkı nedeniyle %d seçili şarkı ücretsiz olarak indirilemez</item>
+        <item quantity="one">Telif hakkı nedeniyle %d seçili şarkı ücretsiz olarak indirilemez</item>
+    </plurals>
+    <plurals name="Ndownload_song_button">
+        <item quantity="other">%1$d şarkı indir (%2$.1fMB)</item>
+        <item quantity="one">%1$d şarkı indir (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_songs">
+        <item quantity="other">Şarkı indiriliyor. %1$d şarkı (%2$.1fM)</item>
+        <item quantity="one">Şarkı indiriliyor. %1$d şarkı (%2$.1fM)</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d gün kaldı</item>
@@ -41,8 +49,8 @@
         <item quantity="one">Oynatıcı %d dakika içinde durdurulacak</item>
     </plurals>
     <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Albüm ve lirik için kapanış optimize edildi. %d şarkıya ait bilgi, albüm ve lirik durumunu geri almak istiyor musunuz?</item>
-        <item quantity="one">Albüm ve lirik için kapanış optimize edildi. %d şarkıya ait bilgi, albüm ve lirik durumunu geri almak istiyor musunuz?</item>
+        <item quantity="other">Albüm ve şarkı sözü için kapanış optimize edildi. %d şarkıya ait bilgi, albüm ve şarkı sözü durumunu geri almak istiyor musunuz?</item>
+        <item quantity="one">Albüm ve şarkı sözü için kapanış optimize edildi. %d şarkıya ait bilgi, albüm ve şarkı sözü durumunu geri almak istiyor musunuz?</item>
     </plurals>
     <plurals name="Nsleep_quit_warning">
         <item quantity="other">%d dakika kaldı</item>
@@ -93,6 +101,21 @@
         <item quantity="other">%1$d gün</item>
         <item quantity="one">%1$d gün</item>
     </plurals>
+    <plurals name="cloud_hint_upload_with_count">
+        <item quantity="other">Yüklemek için %d şarkınız var</item>
+        <item quantity="one">Yüklemek için %d şarkınız var</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_download_title">
+        <item quantity="other">İndirmek için %d şarkınız var</item>
+        <item quantity="one">İndirmek için %d şarkınız var</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_upload_title">
+        <item quantity="other">Yüklemek için %d şarkınız var</item>
+        <item quantity="one">Yüklemek için %d şarkınız var</item>
+    </plurals>
+    <plurals name="cloud_state_view_hint_download_pause">
+        <item quantity="other">İndirme işlemi duraklatıldı. %d şarkı kaldı</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d yorum</item>
         <item quantity="one">%d yorum</item>
@@ -114,12 +137,12 @@
         <item quantity="one">%d şarkı kaldırılsın mı?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">%d şarkı Mi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
-        <item quantity="one">%d şarkı Mi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
+        <item quantity="other">%d şarkı Mi bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler</item>
+        <item quantity="one">%d şarkı Mi bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color="red">%d şarkı&lt;/font> indirildi</item>
-        <item quantity="one">&lt;font color="""=red">%d şarkı&lt;/font> indirildi</item>
+        <item quantity="one">&lt;font color="=red">%d şarkı&lt;/font> indirildi</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%d indirme kaldırıldı</item>
@@ -127,9 +150,17 @@
     </plurals>
     <plurals name="download_running">
         <item quantity="other">&lt;font color="red">%d şarkı&lt;/font> indiriliyor</item>
-        <item quantity="one">&lt;font color="""=red">%d şarkı&lt;/font> indiriliyor</item>
+        <item quantity="one">&lt;font color="=red">%d şarkı&lt;/font> indiriliyor</item>
     </plurals>
     <plurals name="folder_songs_count">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
+    </plurals>
+    <plurals name="local_song_empty_hint_button_sub_text">
+        <item quantity="other">İndirmek için %1$d şarkınız var. Toplam: %2$.1fM</item>
+        <item quantity="one">İndirmek için %1$d şarkınız var. Toplam: %2$.1fM</item>
+    </plurals>
+    <plurals name="local_song_number">
         <item quantity="other">%d şarkı</item>
         <item quantity="one">%d şarkı</item>
     </plurals>
@@ -172,10 +203,6 @@
     <plurals name="swipe_to_load_head_complete_success">
         <item quantity="other">Merhaba %1$s! İşte sizin için %1$d güncellemesi:</item>
         <item quantity="one">Merhaba %1$s! İşte sizin için %1$d güncellemesi:</item>
-    </plurals>
-    <plurals name="dialog_remove_favorite_song_descript">
-        <item quantity="other">%d şarkı favorilerden çıkarılsın mı?</item>
-        <item quantity="one">%d şarkı favorilerden çıkarılsın mı?</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">%d oynatma listesinden kaldırılsın mı?</item>

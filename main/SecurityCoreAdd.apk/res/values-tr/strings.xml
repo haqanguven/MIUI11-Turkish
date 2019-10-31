@@ -84,6 +84,11 @@ Bazı çift uygulamalar Google hizmet çerçevesine ihtiyaç duyar. Bu gibi duru
     <string name="xspace_installing">Yükleniyor</string>
     <string name="xspace_install_failed">Oluşturulamadı</string>
     <string name="xspace_uninstalling">Kaldırılıyor</string>
+    <string name="xspace_enable">Oluşturuldu</string>
+    <string name="xspace_disable">Oluşturulamadı</string>
+    <string name="xspace_settins">Ayarla</string>
+    <string name="xspace_notification">Çift uygulama bildirimleri</string>
+    <string name="xspace_notification_error">Çift WeChat uygulamasında oturum açın ve tekrar deneyin</string>
     <string name="xspace_install_completed">Simge ana ekrana eklendi</string>
     <string name="xspace_install_completed_global">Simge çekmeceye eklendi</string>
     <string name="xspace_uninstall_completed">Çift uygulama başarıyla kaldırıldı</string>

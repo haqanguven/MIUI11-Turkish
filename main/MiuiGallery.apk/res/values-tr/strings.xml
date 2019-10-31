@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">Kapat</string>
+    <string name="abc_capital_on">Aç</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accept">Kabul et</string>
     <string name="accept_or_deny">%1$s sizinle %2$s albümünü paylaştı</string>
     <string name="actionbar_overflow_item_desc">Daha fazla seçenek</string>
@@ -184,6 +223,7 @@
     <string name="backup_only_in_wifi_summary">Fotoğraf veya videoları yedeklemek için hiçbir zaman mobil veri kullanma</string>
     <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanıyor musunuz?</string>
     <string name="backup_pause">Yedeklemeyi duraklat</string>
+    <string name="backup_pause_dialog_title">Senkronizasyonu duraklat</string>
     <string name="backup_pause_title">%s içerisinde yedekle</string>
     <string name="backup_pending">Otomatik olarak yedeklenecektir</string>
     <string name="backup_stop">Yedeklemeyi durdur</string>
@@ -239,7 +279,7 @@
     <string name="card_delete_positive_text">Sil</string>
     <string name="card_delete_title">Hafızayı sil</string>
     <string name="card_description_annual_events">Birlikte geçirilen değerli zamanlar</string>
-    <string name="card_description_annual_foods">"Bir yemek günlüğü"</string>
+    <string name="card_description_annual_foods">Bir yemek günlüğü</string>
     <string name="card_description_annual_pets">Kuyruklar, pençeler ve bıyıklar</string>
     <string name="card_description_annual_travel">Yoldayken gördüğünüz şeyler</string>
     <string name="card_description_from_to">%1$s - %2$s</string>
@@ -339,7 +379,7 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="choose_baby_sexy">Cinsiyet</string>
     <string name="choose_owner_relation">İlişki</string>
-    <string name="choose_people">Bir kişinin albümünü se"</string>
+    <string name="choose_people">Bir kişinin albümünü se\"</string>
     <string name="choose_some_people">%s ile albümü seç</string>
     <string name="chooser_fragment_mishare_title">Share to</string>
     <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
@@ -719,7 +759,10 @@
     <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
     <string name="cleaner_empty_value_description">Her şey yolunda gözüküyor</string>
     <string name="cleaner_photo_pick_delete_selected">Seçili fotoğrafları sil</string>
-    <string name="cleaner_scan_description">Ögeleri optimize etmeniz sistemde depolama alanı boşaltır</string>
+    <string name="cleaner_raw_action">Temizle</string>
+    <string name="cleaner_raw_description">Büyük Raw görüntüleri silerek depolama alanını boşaltın</string>
+    <string name="cleaner_raw_title">Raw dosyalarını temizle</string>
+    <string name="cleaner_scan_description">Öğeleri optimize etmeniz sistemde depolama alanı boşaltır</string>
     <string name="cleaner_scan_exit_dialog_message">Bir sonraki sefer baştan başlamak zorunda kalacaksınız. Tarama şimdi durdurulsun mu?</string>
     <string name="cleaner_scan_exit_dialog_positive">Durdur</string>
     <string name="cleaner_scan_exit_dialog_title">Taramayı durdur</string>
@@ -810,13 +853,13 @@
     <string name="confirm_hidden_recommend_group">Tamam</string>
     <string name="confirm_hidden_recommend_group_message">Öneriler kapalı olduğunda benzer daha fazla kişi seçeneğini kullanmaya devam edebiirsiniz</string>
     <string name="confirm_hidden_recommend_group_title">Önerileri gösterme</string>
-    <string name="confirm_merge_face_albums">" \""<Data> Albümü %s ile birleştirilsin mi? </Data>"\" "</string>
-    <string name="confirm_merge_many_face_albums">" \""<Data> Bu albümleri %s ile birleştirilsin mi? </Data>"\" "</string>
+    <string name="confirm_merge_face_albums">" "<Data> Albümü %s ile birleştirilsin mi? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Bu albümleri %s ile birleştirilsin mi? </Data>" "</string>
     <string name="confirm_not_face">Eşleşme yok</string>
-    <string name="confirm_recommandation_face_is">" "<Data>Bu kişinin &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olduğuna emin misiniz? Bu kişi %2$s albümüne taşınacaktır</Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data>Bu kişinin &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olmadığına emin misiniz?</Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data>Bu kişilerin &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olduğuna emin misiniz? Bu kişiler %2$s albümüne taşınacaktır</Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data>Bu kişilerin &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olmadığına emin misiniz?</Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Bu kişinin &lt;font color=#323232>&lt;b>%1$s olduğuna&lt;/b>&lt;/font>emin misiniz? Bu kişi %2$s albümüne taşınacaktır </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data>" Bu kişinin &lt;font color=#323232>&lt;b>%1$s olmadığına&lt;/b>&lt;/font>emin misiniz? "</Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olduğuna&lt;/b>&lt;/font>emin misiniz? Bu kişiler %2$s albümüne taşınacaktır </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olmadığına&lt;/b>&lt;/font>emin misiniz? "</Data>" "</string>
     <string name="contact_tip">Kişi</string>
     <string name="context_menu_add_contact">Kişilere ekle</string>
     <string name="context_menu_copy">Kopyala</string>
@@ -1022,7 +1065,7 @@
     <string name="ext_sdcard_first_entrance_request_failed_title">İzin verilemedi</string>
     <string name="ext_sdcard_guide_first_page_button_text">Sonraki</string>
     <string name="ext_sdcard_guide_last_page_button_text">İzinleri verin</string>
-    <string name="ext_sdcard_guide_text">"Galeri SD karta erişmek için izninizi istiyor. İşte yapabilecekleriniz:"</string>
+    <string name="ext_sdcard_guide_text">Galeri SD karta erişmek için izninizi istiyor. İşte yapabilecekleriniz:</string>
     <string name="ext_sdcard_operation_failed_text">Galeri SD karta erişmek için izinlere ihtiyaç duyuyor</string>
     <string name="ext_sdcard_operation_failed_title">Bu işlem tamamlanamadı</string>
     <string name="ext_sdcard_permission_request_button_text">Anladım</string>
@@ -1082,6 +1125,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_category_scene">Manzara</string>
     <string name="filter_category_sky">Gökyüzü</string>
     <string name="filter_film_blackwhite">S&amp;B</string>
+    <string name="filter_film_classic">Klasik</string>
     <string name="filter_film_dew">Çiğ</string>
     <string name="filter_film_fade">Solma</string>
     <string name="filter_film_film">Film</string>
@@ -1310,7 +1354,10 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="main_discard_confirm_message">Kaydedilmemiş değişiklikler mevcut</string>
     <string name="main_discard_negative_btn">Vazgeç</string>
     <string name="main_discard_positive_btn">Kaydet &amp; çık</string>
-    <string name="main_save_error_msg">Değişiklikler bir hata nedeniyle kaydedilemedi</string>
+    <string name="main_save_cancel">İptal et</string>
+    <string name="main_save_compress">Sıkıştır ve kaydet</string>
+    <string name="main_save_error_msg">Bir hata nedeniyle değişiklikler kaydedilemedi</string>
+    <string name="main_save_origin">Orijinal dosyayı kaydet</string>
     <string name="mark_myself_default_name">Ben</string>
     <string name="mark_myself_suggestion_load_more">O ben değilim</string>
     <string name="mark_myself_suggestion_title">"Kişiselleştirmek için
@@ -1404,7 +1451,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="movie_download">İndir</string>
     <string name="movie_download_failed">İndirilemedi</string>
     <string name="movie_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin</string>
-    <string name="movie_download_sdk_without_wifi_msg">"Cihazınız wifi ağına bağlı değil gibi görünüyor. Mobil veri kullanarak gerekli eklenti indirilsin mi?(3MB)"</string>
+    <string name="movie_download_sdk_without_wifi_msg">Cihazınız wifi ağına bağlı değil gibi görünüyor. Mobil veri kullanarak gerekli eklenti indirilsin mi?(3MB)</string>
     <string name="movie_download_sdk_without_wifi_title">Mobil veri kullanarak indir</string>
     <string name="movie_download_with_metered_network_msg">Orijinal dosyaların indirilmesi ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
     <string name="movie_download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
@@ -1743,7 +1790,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="retry_to_create_album">Yeniden dene</string>
     <string name="retry_to_request_qr_code">Yeniden dene</string>
     <string name="runtime_permission_ungranted">Kapalı galeri talep edilen izinler yok</string>
-    <string name="same_name_album_exist_and_toast">"Aynı isme sahip başka bir albüm zaten mevcut. Bunun yerine %s albümü oluşturuldu"</string>
+    <string name="same_name_album_exist_and_toast">Aynı isme sahip başka bir albüm zaten mevcut. Bunun yerine %s albümü oluşturuldu</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cmr</string>
     <string name="saturday_shortest">C</string>
@@ -1797,6 +1844,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="search_login_title_full_screen">Daha fazla nesne ve kişi bulmak için Mi Hesabınız ile oturum açın</string>
     <string name="search_mark_feedback_false_negative_title">Tamam</string>
     <string name="search_mark_feedback_false_positive_title">Onar</string>
+    <string name="search_menu_title">Ara</string>
     <string name="search_net_error">Bir ağ hatası meydana geldi. Farklı bir ağa bağlanın ve tekrar deneyin</string>
     <string name="search_request_applied">Uygulandı</string>
     <string name="search_request_open">Test takımına katıl</string>
@@ -1842,7 +1890,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="see_ignore_faces">Yok saydığınız kişiler</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_image_operation">Fotoğraf ekleniyor</string>
-    <string name="select_item_face">"Bu %s adlı kişi mi?"</string>
+    <string name="select_item_face">Bu %s adlı kişi mi?</string>
     <string name="select_origin_tip">Orijinal dosya (%s)</string>
     <string name="send_file_beautify_failed">Paylaşılamadı</string>
     <string name="send_files_to">Öğeleri gönder</string>
@@ -1930,6 +1978,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="special_type_night_beauty">AI düşük ışıklı portre</string>
     <string name="special_type_night_mode">AI gece modu</string>
     <string name="special_type_portrait">AI ışık boyamalı portre</string>
+    <string name="special_type_raw">Raw</string>
     <string name="special_type_wide_angle">AI ultra geniş açı</string>
     <string name="start_debug">Galeri hata ayıklama</string>
     <string name="start_to_use_face_albumset">Kişilere göre sırala</string>
@@ -1967,8 +2016,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="story_remove_confirm_message">Kaldırılan fotoğraflar tekrar bu bellekte görünmeyecek</string>
     <string name="story_remove_confirm_positive">Kaldır</string>
     <string name="story_remove_confirm_title">Fotoğraflar kaldırılıyor</string>
-    <string name="story_rename_invalid_char">"Bir anı başlığında %s kullanılamaz. Harfleri ve rakamları kullanın"</string>
-    <string name="story_rename_invalid_prefix">". veya _ ile başlıklı anılar başlatılamıyor"</string>
+    <string name="story_rename_invalid_char">Bir anı başlığında %s kullanılamaz. Harfleri ve rakamları kullanın</string>
+    <string name="story_rename_invalid_prefix">. veya _ ile başlıklı anılar başlatılamıyor</string>
     <string name="sub_discard_confirm_message">Değişiklikler kaydedilsin mi?</string>
     <string name="sub_discard_negative_btn">Vazgeç</string>
     <string name="sub_discard_positive_btn">Kaydet</string>
@@ -2012,49 +2061,19 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="text_edit_sub_menu_text">Baloncuk</string>
     <string name="text_tab_bubble">Kabarcıklar</string>
     <string name="text_tab_watermark">Filigranlar</string>
-    <string name="the_anniversary_of_lifting_martial_law">Kaldırma savaş yasasının yıldönümü</string>
-    <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
-    <string name="the_arbor_day">Ağaç dikme günü</string>
-    <string name="the_armed_forces_day">Silahlı kuvvetler günü</string>
-    <string name="the_armys_day">Ordu günü</string>
-    <string name="the_childrens_day">Çocuklar günü</string>
-    <string name="the_chinese_youth_day">Gençlik günü</string>
-    <string name="the_christmas_day">Noel günü</string>
-    <string name="the_double_ninth_festival">Çifte dokuzuncu festival</string>
-    <string name="the_dragon_boat_festival">Ejdderha bot festivali</string>
-    <string name="the_easter_day">Paskalya</string>
     <string name="the_eve_of_the_spring_festival">Bahar şenliği festivali</string>
     <string name="the_fifth_day">Beşinci gün</string>
-    <string name="the_fools_day">Aptallar günü</string>
     <string name="the_forth_day">Dördüncü gün</string>
-    <string name="the_hksar_establishment_day">HKSAR kuruluş günü</string>
-    <string name="the_international_womens_day">Kadınlar günü</string>
-    <string name="the_laba_festival">Laba festivali</string>
-    <string name="the_labour_day">İşçi bayramı</string>
-    <string name="the_lantern_festival">Fener festivali</string>
-    <string name="the_mid_autumn_festival">Güz ortası festivali</string>
-    <string name="the_national_day">Ulusal gün</string>
-    <string name="the_national_father_day">Ulusal babalar günü</string>
-    <string name="the_new_years_day">Yeni yıl</string>
-    <string name="the_night_of_sevens">Yedilerin gecesi</string>
-    <string name="the_partys_day">Partys günü</string>
-    <string name="the_peace_day">Barış günü</string>
-    <string name="the_retrocession_day">İade günü</string>
     <string name="the_second_day">İkinci gün</string>
     <string name="the_seventh_day">Yedinci gün</string>
     <string name="the_sixth_day">Altıncı gün</string>
-    <string name="the_spirit_festival">Ruh festivali</string>
     <string name="the_spring_festival">Bahar festivali</string>
-    <string name="the_teachers_day">Öğretmenler günü</string>
     <string name="the_third_day">Üçüncü gün</string>
-    <string name="the_tw_childrens_day">Çocuklar günü</string>
-    <string name="the_tw_youth_day">Gençlik günü</string>
-    <string name="the_united_nations_day">Birleşmiş milletler günü</string>
-    <string name="the_valentines_day">Sevgililer günü</string>
-    <string name="the_water_lantern_festival">Su fener festivali</string>
     <string name="things_album_empty_title">Fotoğraflar fotoğraflardaki nesnelere göre sıralanabilir</string>
     <string name="throwing_print">Yazdır</string>
     <string name="throwing_screen">Yayınla</string>
+    <string name="thumbnail_build_error">Küçük resim indirilemedi</string>
+    <string name="thumbnail_error_log_cleared">Temizlendi</string>
     <string name="thumbnail_name">Küçük resim</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Per</string>
@@ -2098,7 +2117,9 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="unpublishing">İptal ediliyor</string>
     <string name="unrecognized_manufacture">Bilinmeyen</string>
     <string name="unrecognized_model">Bilinmeyen aygıt</string>
-    <string name="unsupport_video">"%s videolarla çalışmıyor"</string>
+    <string name="unsupport_raw">%s Raw görüntülerle çalışmıyor</string>
+    <string name="unsupport_raw_and_video">%s videolar ve Raw resimlerle çalışmıyor</string>
+    <string name="unsupport_video">%s videolarla çalışmıyor</string>
     <string name="user_agree">Kabul et</string>
     <string name="user_agreement2">Hizmet şartları</string>
     <string name="user_agreement4">Gizlilik politikası</string>
@@ -2111,14 +2132,14 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="video_editor_adjust">Arttırma</string>
     <string name="video_editor_analyzing">Video analiz ediliyor</string>
     <string name="video_editor_audio">Ses</string>
+    <string name="video_editor_audio_antiquity">Eski</string>
     <string name="video_editor_audio_custom">Seç</string>
-    <string name="video_editor_audio_dynamic">Tekno</string>
-    <string name="video_editor_audio_love">Romantik</string>
-    <string name="video_editor_audio_memory">Anı</string>
+    <string name="video_editor_audio_dream">Rüya</string>
+    <string name="video_editor_audio_electronics">Elektro</string>
     <string name="video_editor_audio_none">Yok</string>
-    <string name="video_editor_audio_rock">Rock</string>
-    <string name="video_editor_audio_sad">Balad</string>
-    <string name="video_editor_audio_young">Ukulele</string>
+    <string name="video_editor_audio_quiet">Zen</string>
+    <string name="video_editor_audio_summertime">Yaz</string>
+    <string name="video_editor_audio_vitality">Güç</string>
     <string name="video_editor_auto_trim">Otomatik kesme</string>
     <string name="video_editor_auto_trim_tip">Otomatik kesme işlemi yapılıyor</string>
     <string name="video_editor_cancel">İptal et</string>
@@ -2129,8 +2150,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="video_editor_down_load_now">İndir</string>
     <string name="video_editor_download">İndir</string>
     <string name="video_editor_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin</string>
-    <string name="video_editor_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak veri kullanımınızı artıracaktır. Planınızın veri limitini aşarsanız operatörünüz size ek ücretler talep edebilir</string>
-    <string name="video_editor_download_without_wifi_title">Veri kullanımı uyarısı</string>
+    <string name="video_editor_download_with_metered_network_msg">Orijinal dosyaların indirilmesi ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
+    <string name="video_editor_download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
     <string name="video_editor_encode_video">Video kodlanıyor</string>
     <string name="video_editor_encode_video_error">Video kodlanamadı</string>
     <string name="video_editor_fatal_error">Bilinmeyen hata</string>
@@ -2235,7 +2256,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
     <string name="xiaomi_account_not_exists_toast">Mi hesap mevcut değil</string>
-	<string name="xiaomi_cc_9">Mi CC9</string>
+    <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
@@ -2245,7 +2266,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
-    <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_f1">Poco F1</string>
     <string name="yes">Evet</string>
     <string name="yesterday">Dün</string>
     <string name="you_are">Senin bebeğin</string>

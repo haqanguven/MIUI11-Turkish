@@ -20,6 +20,16 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
     <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_query">Arama sorgusu</string>
@@ -530,6 +540,10 @@
     <string name="more_string">+%1$d</string>
     <string name="movie_event_delete_successfully">Film bilet etkinliği başarıyla silindi</string>
     <string name="movie_event_title">Film:</string>
+    <string name="n_day_before">gün önce</string>
+    <string name="n_day_later">gün sonra</string>
+    <string name="n_week_first">hafta önce</string>
+    <string name="n_week_last">hafta sonra</string>
     <string name="national_day">Ulusal gün</string>
     <string name="national_day_tradition">Ulusal gün</string>
     <string name="national_father_day">Babalar günü</string>
@@ -703,6 +717,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_others">Ek</string>
     <string name="setting_recommend">Özellik önerisi</string>
     <string name="setting_recommend_summary">Ev aboneliği öneri portalı</string>
+    <string name="setting_show_reject_agenda">Reddedilen etkinlikleri göster</string>
     <string name="setting_sms_import">Mesaj etkinliklerini içe aktar</string>
     <string name="setting_title_about">Hakkında</string>
     <string name="setting_title_debug">Günlüğü dışa aktar</string>
@@ -863,7 +878,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="travel_item_virtual_sim">Mi sanal Sim</string>
     <string name="travel_item_weather_forecast">Hedef tahmini</string>
     <string name="travel_item_weather_now">Hedef hava durumu</string>
-    <string name="travel_load_failed">Yüklenemedi</string>
     <string name="travel_loaded">Veryzun tarafından sağlanmaktadır</string>
     <string name="travel_loading">Yükleniyor</string>
     <string name="travel_local">Hedef</string>

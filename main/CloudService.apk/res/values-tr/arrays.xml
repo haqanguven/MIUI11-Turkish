@@ -22,6 +22,18 @@
         <item>0</item>
         <item>0</item>
     </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm">
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_MMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission-group.STORAGE</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm">
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission-group.LOCATION</item>
+    </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Senkronize edilmiş öğeleri göster</item>
         <item>Depolama detayları</item>
@@ -139,6 +151,18 @@
         <item>Öğeleri Mi buluttan geri yükle</item>
         <item>Yedeklenen öğeleri cihazınıza indirin</item>
         <item>Bulut;Yedekle;Yedekle;Geri yükle;Bulut hizmetleri;Mi bulut</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Etkinlikleri senkronize etmek için</item>
+        <item>Mesajları senkronize etmek için</item>
+        <item>Mesajları senkronize etmek için</item>
+        <item>Kişileri senkronize etmek için</item>
+        <item>Kişileri senkronize etmek için</item>
+        <item>Cihazınıza öğe kaydetmek için</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Cihazınızı tanımlamak için</item>
+        <item>Cihazınızı bulmak ve kayıp moda geçmek için</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Uygulama verilerini senkronize et</item>

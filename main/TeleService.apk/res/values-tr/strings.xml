@@ -951,6 +951,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fiveg_network_config_type2">Ağ yapılandırma türüe[Yuva2] :</string>
     <string name="fiveg_plmn_info_list1">PLMN bilgi listesi[Yuva1] :</string>
     <string name="fiveg_plmn_info_list2">PLMN bilgi listesi[Yuva2] :</string>
+    <string name="fiveg_power_secret_code_tip">Bunu güvenlik uygulaması ile çalıştırın - Batarya - 5G koruyucu</string>
     <string name="fiveg_restrict_dcnr1">"DCNR'yi kısıtla[Yuva1] :"</string>
     <string name="fiveg_restrict_dcnr2">"DCNR'yi kısıtla[Yuva2] :"</string>
     <string name="fiveg_signal_strength1">5G sinyal gücü[Yuva1] :</string>
@@ -2064,12 +2065,25 @@ Acil aramalar yalnızca mobil şebeke kapsama alanı olan alanlarda yapılabilir
     <string name="wifi_call_available_title">Wifi aramasını aç</string>
     <string name="wifi_call_cancel">İptal et</string>
     <string name="wifi_call_help">Yardım</string>
-    <string name="wifi_call_help_message">Mobil şebekeleri tercih etmeyi seçerseniz mobil şebekeler varsayılan olarak aramalar için kullanılacaktır. Mobil bir şebeke sinyali yoksa veya çok zayıf olduğunda bunun yerine wifi ağı kullanılır</string>
+    <string name="wifi_call_help_message_1">"Wifi arama Orange tarafından sağlanmaktadır. Wifi üzerinden arama yapmanızı ve almanızı sağlayan bir servistir. Bu özellik mobil ağ kapsama alanının zayıf olduğu alanlarda kullanılabilir
+
+Wifi aramasını kullanmak için Ayarlar > Wifi aramasını açın
+
+Hizmeti etkinleştirmek için Orange servisi kullanılabilir olduğunda size bir onay mesajı gönderir. Bundan sonra bir wifi şebekesine bağlanabilir ve arama yapabilirsiniz
+
+Wifi üzerinden yapılan arama planınızın şartlarına göre ücretlendirilecektir
+
+Bu özellik kullanılabilir olduğunda ekranınızın üstünde aşağıdaki simge gösterilecektir"</string>
+    <string name="wifi_call_help_message_2">"Wifi şebekelerini tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Wifi ağına bağlı değilseniz veya sinyal zayıfsa arama yapmak için mobil şebekeler kullanılır
+
+Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Mobil şebeke kapsama alanı yoksa veya sinyal zayıfsa bunun yerine wifi şebekeleri kullanılır"</string>
     <string name="wifi_call_help_title">Wifi arama yardımı</string>
     <string name="wifi_call_notification_message">Bu servisi etkinleştirmek birkaç saat sürebilir. Kullanılabilir veya kullanılabilir olmadığına dair bir onay mesajı alacaksınız</string>
+    <string name="wifi_call_preferred_summary">"Mobil şebekeleri tercih etmeyi seçerseniz mobil şebekeler varsayılan olarak aramalar için kullanılacaktır. Mobil şebeke sinyali yoksa veya çok zayıf olduğunda bunun yerine wifi şebekesi kullanılır"</string>
     <string name="wifi_call_setting">Wifi arama</string>
     <string name="wifi_call_setting_vodafone_de">Wifi üzerinden aranıyor</string>
     <string name="wifi_call_setting_vodafone_uk">Wifi arama</string>
+    <string name="wifi_call_welcome_settings">Wifi arama</string>
     <string name="wifi_calling">Wifi arama</string>
     <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wifi üzerinden aranıyor</string>

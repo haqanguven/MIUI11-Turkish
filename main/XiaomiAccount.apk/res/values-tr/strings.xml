@@ -211,6 +211,11 @@ bağlantı adresini kullanın"</string>
     <string name="passport_getting_activator_phone">Sim bilgileri alınıyor</string>
     <string name="passport_verifying_activator_phone">Telefon güvenliği doğrulanıyor</string>
     <string name="passport_querying_phone_info">Hesap bilgileri isteniyor</string>
+    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">Yurtiçi: Sim kart etkinleştirilmesi başarılı oldu (%s)</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">Yurtiçi: Sim kart etkinleştirme numarası alınamadı (%s)</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">Yurtiçi: Sim kart etkinleştirme numarası alınamadı. Operatör numarayı alamadı</string>
+    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">Uluslararası: Sim kart etkinleştirilmesi başarılı oldu (%)</string>
+    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Uluslararası: Sim kart etkinleştirilmesi başarısız oldu</string>
     <string name="passport_area_code_title">Ülke kodu</string>
     <string name="passport_area_code_hot">Sık kullanılanlar</string>
     <string name="passport_user_agreement_link"><Data>"Xiaomi'nin &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikasını&lt;/a> okudum ve kabul ediyorum"</Data></string>

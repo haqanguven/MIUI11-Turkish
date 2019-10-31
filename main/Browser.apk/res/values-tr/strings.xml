@@ -9,18 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
     <string name="abc_capital_off">Kapat</string>
     <string name="abc_capital_on">Aç</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
     <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_query">Arama sorgusu</string>
@@ -36,15 +34,12 @@
     <string name="action">Oturum aç</string>
     <string name="action_imme_open">Hemen aç</string>
     <string name="action_menu_account_not_login">Oturum açılmadı</string>
-    <string name="action_menu_account_not_login_hint">Mi bulut ile senkronizasyon için oturum açın</string>
     <string name="action_menu_bookshelf">Kitaplık</string>
     <string name="action_menu_current_version">Mevcut sürüm</string>
     <string name="action_menu_download">İndir</string>
     <string name="action_menu_request_desktop_site">Masaüstü erişimi</string>
     <string name="action_menu_text_add_shortcut">Kısayol ekle</string>
     <string name="action_menu_text_bandwidth">Veri tasarrufu</string>
-    <string name="action_menu_text_bandwidth_off">Veri tasarrufu</string>
-    <string name="action_menu_text_bandwidth_on">Veri tasarrufu</string>
     <string name="action_menu_text_bookmark_add_off">İnternet sitesi eklenemedi</string>
     <string name="action_menu_text_copy_url">Bağlantı adresini kopyala</string>
     <string name="action_menu_text_create_qr_code">QR kodu</string>
@@ -66,8 +61,6 @@
     <string name="action_menu_toast_incognito_off">Gizli mod kapalı</string>
     <string name="action_menu_toast_incognito_on">Gizli mod açık</string>
     <string name="action_menu_toolbox">Araçlar</string>
-    <string name="action_menu_useful_page">Kısayol ekle</string>
-    <string name="action_menu_useful_page_added">Ana sayfaya eklendi</string>
     <string name="action_menu_user_center">Profil</string>
     <string name="action_modify_bookmark">Yer işaretini değiştir</string>
     <string name="action_put_in_search_box">%s arama kutusuna koy</string>
@@ -115,10 +108,7 @@
     <string name="adblock_force_updating_rules_toast">Reklam engelleyici güncelleniyor</string>
     <string name="adblock_notification">%d reklam engellendi</string>
     <string name="adblock_rules_not_updated_toast">Güncellenemedi</string>
-    <string name="adblock_rules_restore">Engeli kaldır</string>
     <string name="adblock_rules_updated_toast">Başarıyla güncellendi</string>
-    <string name="adblock_websites_settings_empyt_hint">Herhangi bir siteyi engellemediniz.</string>
-    <string name="adblock_websites_settings_title">Engellenen siteler</string>
     <string name="add_bookmark_group">Grup ekle</string>
     <string name="add_bookshelf_popup_text">Kitaplığa eklendi</string>
     <string name="add_favorites_to">Favorilere ekle</string>
@@ -126,8 +116,8 @@
     <string name="add_new_quicklink">Ana ekrana ekle</string>
     <string name="add_pwa_to_homescreen">Ana ekran kısayolu eklensin mi?</string>
     <string name="add_ql_bm_title">Kaydet</string>
-    <string name="add_quicklink_to_popular">Ana sayfaya ekle</string>
     <string name="add_quicklinks">Ekle</string>
+    <string name="add_tag">Etiket ekle</string>
     <string name="add_to_bookmark">Yer imleri</string>
     <string name="add_to_desk">Ana ekrana ekle</string>
     <string name="add_to_desk_lite_mode_toast">Yaşlı modunda ana ekrana eklenemiyor</string>
@@ -137,7 +127,6 @@
     <string name="adjust_text_zoom_toast">Metin yakınlaştırma ayarlarını değiştirmek bazı internet sitelerinin hatalı görüntülenmesine neden olabilir</string>
     <string name="agree">Kabul et</string>
     <string name="agree_permissions_request">İzin ver</string>
-    <string name="alert_tips">Bu site güvenliğiniz için risk oluşturabilir</string>
     <string name="allow">İzin ver</string>
     <string name="app_continue_downloading_text">Devam et</string>
     <string name="app_download_market_text">"Daha hızlı ve daha güvenli kullanmak için Mi Market'i indir"</string>
@@ -146,7 +135,6 @@
     <string name="app_downloading_ratio_text">İndiriliyor: %s</string>
     <string name="app_downloading_text">İndiriliyor</string>
     <string name="app_installing_text">Yükleniyor</string>
-    <string name="app_name">UiFramework</string>
     <string name="app_new_version">Uygulamanın en güncel sürümü zaten yüklü durumda</string>
     <string name="app_open_text">Aç</string>
     <string name="app_task_download_exists_text">İndirme var</string>
@@ -161,19 +149,21 @@
     <string name="aqi_quality_index_moderate">Hafif</string>
     <string name="aqi_quality_index_pure">Harika</string>
     <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
-    <string name="at_miui_browser">\@Tarayıcı</string>
+    <string name="at_miui_browser">Tarayıcı</string>
     <string name="auto_download_e_c">Korsan internet sitesi gezinme sayfası</string>
     <string name="auto_download_show_e_n">Korsan bağlantı yönlendirme sayfası gösterimi</string>
+    <string name="auto_floatlayer_auto_download_e_n">Otomatik indirme</string>
     <string name="auto_floatlayer_click_close_e_n">Kapat düğmesine tıklayın</string>
+    <string name="auto_floatlayer_click_download_e_n">İndirmek için tıklayın</string>
     <string name="auto_floatlayer_click_e_a">Üzerine tıklayın</string>
-    <string name="auto_floatlayer_click_page_e_n">Sayfayı tıklayın</string>
+    <string name="auto_floatlayer_click_link_e_n">Atlamak için tıklayın</string>
+    <string name="auto_floatlayer_custom_e_n">Özel atlama</string>
     <string name="auto_floatlayer_e_c">Kayan katman müdahale hatası saptırma sayfası</string>
     <string name="auto_floatlayer_show_e_a">Maruziyet</string>
     <string name="auto_floatlayer_show_e_n">Sayfada kayan katman pozlama hatası</string>
-    <string name="autologin_bar_error">Oturum açılamadı</string>
+    <string name="auto_floatlayer_store_download_e_n">Uygulama mağazasını indir</string>
     <string name="autologin_bar_hide_text">Gizle</string>
     <string name="autologin_bar_login_text">Oturum aç</string>
-    <string name="autologin_bar_text">Şununla oturum açın</string>
     <string name="back_ad">Alt reklam: %s</string>
     <string name="back_button_label">Geri</string>
     <string name="back_description">Geri</string>
@@ -183,9 +173,6 @@
     <string name="block_ads_message">Bu internet sayfasından gelen mesajları engellemek istiyor musunuz?</string>
     <string name="block_ads_title">İçerik reklam içerebilir</string>
     <string name="bookmark">Yer imi</string>
-    <string name="bookmark_add_to">Ekle</string>
-    <string name="bookmark_btn_select_all">Tümünü seç</string>
-    <string name="bookmark_btn_select_none">Tüm seçimi kaldır</string>
     <string name="bookmark_cannot_save_url">Bu bağlantı adresi yer imlerine eklenemiyor</string>
     <string name="bookmark_deleted">Yer imini sil</string>
     <string name="bookmark_error_page_title">Bir hata oluştu</string>
@@ -198,25 +185,19 @@
     <string name="bookmark_not_saved">Yer imi kaydedilemedi</string>
     <string name="bookmark_rename_group">Grubu yeniden adlandır</string>
     <string name="bookmark_saved">Yer imlerine kaydedildi</string>
-    <string name="bookmark_title">Yer imi adı</string>
-    <string name="bookmark_title_lable">Başlık</string>
-    <string name="bookmark_url">Bağlantı http://</string>
     <string name="bookmark_url_already_exisit">Bu bağlantı adresini zaten yer imlerine eklediniz</string>
     <string name="bookmark_url_can_not_null">Bağlantı adresini girin</string>
-    <string name="bookmark_url_lable">Bağlantı adresi</string>
     <string name="bookmark_url_not_exisit">Bu bağlantı adresini zaten sildiniz</string>
     <string name="bookmark_url_not_valid">Bağlantı adresi geçersiz</string>
-    <string name="bookmarks_content_is_null">Yer imi yok</string>
     <string name="bookmarks_management">Yer imleri</string>
     <string name="bookmarks_root_folder">Kök klasör</string>
     <string name="bookmarks_search">Tarayıcı</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Kapatmak için aşağı doğru kaydırın</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Bu son sekme</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarı doğru kaydırın</string>
-    <string name="browserFrameFileErrorLabel">Dosya hatası</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfada halen gönderilmemiş veriler bulunmaktadır. Veriyi yeniden gönderdiğinizde önceki işlemler tekrarlanacaktır (Örneğin: Arama veya satın alma işlemleri)</string>
-    <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
     <string name="bubble_guide_bottom_message_text">%d okunmamış mesajınız var.</string>
     <string name="bubble_guide_logined_text">Şanslı çizmek için giriş yapın</string>
     <string name="bubble_guide_portrait_message_text">Görmek için tıklayın</string>
@@ -225,21 +206,15 @@
     <string name="cancle_sync_cloud_tabs">Senkronizasyonu iptal et</string>
     <string name="cannot_download">Yalnızca http veya https adresleri indirilebilir</string>
     <string name="cast_video">Videoyu yayınla</string>
-    <string name="channel_complete">Tamamla</string>
-    <string name="channel_edit">Düzenle</string>
     <string name="channel_header_description">Düzenlemek için uzun basın</string>
     <string name="channel_header_title">Kanalım</string>
     <string name="channel_more_description">Kanal eklemek için tıklayın</string>
     <string name="channel_more_title">Daha fazla kanal</string>
+    <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_security_tip_privacy_policy">Gizlilik politikası</string>
     <string name="check_security_tip_user_agreement">Kullanıcı sözleşmesi</string>
-    <string name="checking_now">Kontrol ediliyor</string>
-    <string name="choosertitle_sharevia">Şunu kullanarak paylaş</string>
     <string name="clear_history">Geçmişi temizle</string>
-    <string name="clear_search_history">Geçmişi temizle</string>
-    <string name="clear_video_download">Videoları sil</string>
-    <string name="clip_dialog_title">Kopyalanan bağlantı açılsın mı?</string>
-    <string name="close">Kapat</string>
     <string name="close_ads_choice_no">İzin ver</string>
     <string name="close_ads_choice_yes">Engelle</string>
     <string name="close_ads_message">Bu internet sitesindeki içerik engellensin mi? Engellediğiniz internet sitelerini Ayarlar > Gelişmiş > Engellenen siteler menüsünde görüntüleyebilirsiniz</string>
@@ -297,8 +272,6 @@
     <string name="contextmenu_webpage_capture">Ekran görüntüsü</string>
     <string name="contextmenu_webpage_html">HTML dosyası kaydet</string>
     <string name="contextmenu_webpage_snapshot">Sayfayı kaydet</string>
-    <string name="copy_url">Bağlantıyı kopyala</string>
-    <string name="create_qr_code">QR kodu</string>
     <string name="current_version_pad">Tablet</string>
     <string name="current_version_pc">Masaüstü</string>
     <string name="current_version_phone">Telefon</string>
@@ -309,11 +282,7 @@
     <string name="data_monitor">Veri kullanımı izleme</string>
     <string name="data_monitor_dialog_message">Mobil verilerinizi boşa harcıyor gibi görünüyor. Bunu durdurmak için başlangıç sayfasını açın</string>
     <string name="data_traffic_continue">Devam et</string>
-    <string name="data_traffic_download_cancel">İptal et</string>
-    <string name="data_traffic_download_prompt">Mevcut video sadece wifi ortamında indirilebilir</string>
-    <string name="data_traffic_download_setting">Ayarlar</string>
     <string name="data_traffic_download_toast_msg">Şu anda videoyu önbelleğe almak için mobil veri kullanılıyor</string>
-    <string name="data_traffic_prompt_free_data">Videolara göz atmak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Lütfen ücretsiz veri trafiği elde edin</string>
     <string name="data_traffic_prompt_message">Video aramak için mobil veri bağlantınızı kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız operatörünüz tarafından ek kullanım ücretlerine maruz kalabilirsiniz</string>
     <string name="data_traffic_prompt_title">Veri kullanım uyarısı</string>
     <string name="data_traffic_stop">Durdur</string>
@@ -351,9 +320,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
 Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="dialog_queued_body">Bu dosya indirilecekler sırasına alındı</string>
     <string name="dialog_recovery_tabs_action">Geri yüklemek için tıklayın</string>
-    <string name="dialog_recovery_tabs_disc">Kapatılmamış sayfaların tespiti tam kurtarma gerektirir.</string>
     <string name="dialog_recovery_tabs_tip">İnternet görünümünü son kapatılmayanı bul</string>
-    <string name="dialog_recovery_tabs_title">Kurtarma işleminden önce sayfayı aç</string>
     <string name="dialog_scroll_up_to_more_site">Daha fazlasını göstermek için yukarı kaydırın</string>
     <string name="dialog_title_not_available">İndirilemedi</string>
     <string name="dialog_title_queued_body">Dosya henüz kullanılabilir değil</string>
@@ -377,12 +344,10 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="download_btn_select_none">Seçimleri kaldır</string>
     <string name="download_complete">Başarıyla indirildi</string>
     <string name="download_completed">İndirildi</string>
-    <string name="download_default_path_txt">Bu seçimi hatırla</string>
     <string name="download_dialog_default_path_invalid">Seçmiş olduğunuz indirme konumu geçersiz. Varsayılan konuma kaydediliyor</string>
     <string name="download_dialog_file_length_default_txt">Yükleniyor</string>
     <string name="download_dialog_file_length_lessthan1kb">"1 KB'dan daha az"</string>
     <string name="download_dialog_file_length_nolength_error_txt">İndirilemedi</string>
-    <string name="download_failed">İndirme işlemi tamamlanamadı</string>
     <string name="download_filter_all">Tümü</string>
     <string name="download_filter_apk">Apk</string>
     <string name="download_filter_application">Uygulamalar</string>
@@ -400,8 +365,6 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="download_no_sdcard_dlg_msg">%s indirme işlemi için bir SD kart gerekmektedir</string>
     <string name="download_no_sdcard_dlg_title">SD kart yok</string>
     <string name="download_pending">İndirmeye başlanıyor</string>
-    <string name="download_phone_tip">Telefon</string>
-    <string name="download_router_tip">Mi yönlendiricye indir</string>
     <string name="download_sdcard_busy_dlg_msg">SD kart meşgul. İndirme işlemlerine izin vermek için SD kartı bildirim çubuğunda kapatın</string>
     <string name="download_sdcard_busy_dlg_title">SD kart yok</string>
     <string name="download_status_failed">İndirilemedi</string>
@@ -412,7 +375,6 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="download_wait_connect">Bağlantı bekleniyor</string>
     <string name="edit">Düzenle</string>
     <string name="edit_bookmark">Yer imini düzenle</string>
-    <string name="edit_quicklink">Düzenle</string>
     <string name="empty_app_name">Diğer uygulama</string>
     <string name="empty_bookmark">Boş</string>
     <string name="empty_cloud_tab_login_hint">Bulut sekmesi yok</string>
@@ -422,7 +384,6 @@ Mi hesabınızda oturum açın"</string>
     <string name="empty_snapshot_hint">Boş</string>
     <string name="enable_geolocation_confirm_message">Konum hizmetlerini kapatmanız aldığınız önerileri de etkileyecektir</string>
     <string name="enter_developer_mode">Geliştirici moduna gir</string>
-    <string name="enter_incongnito_mode">Gizli moda gir</string>
     <string name="enter_infoflow_guide">Haberleri görmek için yukarı kaydırın</string>
     <string name="enter_the_group_name">Lütfen grup ismini giriniz</string>
     <string name="enter_the_password">Lütfen şifreyi giriniz</string>
@@ -436,19 +397,18 @@ Mi hesabınızda oturum açın"</string>
     <string name="exit_browser_warning">Tarayıcı kapatılsın mı?</string>
     <string name="exit_fullscreen">Tam ekrandan çık</string>
     <string name="expand_button_title">Gelişmiş</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="favorite">Favorilere ekle</string>
     <string name="file_dir">Klasör değiştir</string>
-    <string name="file_name">"İsim: "</string>
     <string name="file_picker">Yolu seçin</string>
     <string name="filename_empty_alert_message">Dosya adı girin</string>
     <string name="filename_illegal_alert_message">Geçersiz karakterler dosya adından kaldırıldı</string>
     <string name="find_new_version">Güncelleme mevcut</string>
-    <string name="find_on_page_cancel">İptal et</string>
     <string name="find_on_page_hint">Sayfada ara</string>
     <string name="find_on_page_next">Sonraki</string>
     <string name="find_on_page_prev">Geri</string>
     <string name="finish_sync_cloud_tabs">Başarıyla senkronize edildi</string>
-    <string name="fling_on_border_gesture_hint">Ayarlar menüsünde bu hareketin işlevini seçebilirsiniz</string>
     <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın</string>
     <string name="forward_description">İleri</string>
     <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
@@ -457,7 +417,6 @@ Mi hesabınızda oturum açın"</string>
     <string name="geolocation_permissions_prompt_share">Konumu paylaş</string>
     <string name="go_back_descirption">Geri dön</string>
     <string name="gold_medals">Altın madalyalar</string>
-    <string name="google_bookmarks">Google</string>
     <string name="green_kid_block_request">İnternet sitesi ebeveynlerin ziyaretlerinden men edildi</string>
     <string name="guide_chosen_type_main_title">Bize ne sevdiğini söyle</string>
     <string name="guide_chosen_type_main_title_behind">Ne seversin?</string>
@@ -480,45 +439,35 @@ Mi hesabınızda oturum açın"</string>
     <string name="guide_start_experience">Başla</string>
     <string name="guide_tech_text">Teknoloji</string>
     <string name="have_sent_bookmark_to_home_screen">Ana ekrana yerleştirildi</string>
-    <string name="hint">İpucu</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history">Geçmiş</string>
     <string name="home_description">Ana ekran</string>
-    <string name="home_hybrid_application_tips">Buraya dahil olan mini programlar</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="hot_word_hot_count">%d kişi izliyor</string>
+    <string name="hot_word_hot_count_postfix">İnsanlar izliyor</string>
     <string name="hot_word_item_mark_ads_text">Reklamlar</string>
     <string name="hot_word_item_mark_burst_text">Referanslar</string>
     <string name="hot_word_item_mark_hot_text">En iyiler</string>
     <string name="hot_word_item_mark_new_text">Yeniler</string>
     <string name="hot_word_item_mark_recommend_text">Önerilenler</string>
     <string name="hot_words_item_ads_mark">Reklamlar</string>
-    <string name="hybrid_application_no_data_text">Mini program yok</string>
-    <string name="hybrid_popup_window_delete_button">Sil</string>
     <string name="ignore_add_pwa_dialog_today">Bugün gösterme</string>
-    <string name="in_secureaccess">Tarıyıcı güvenli moda geçti</string>
     <string name="info_flow_description">Bilgi kanalı</string>
     <string name="info_flow_tips">%d içeriğini sizin için önerin</string>
     <string name="isReplacePage">Dosya zaten mevcut. Değiştirilsin mi?</string>
-    <string name="is_first_tab">Bu ilk sekme</string>
-    <string name="is_last_tab">Bu son sekme</string>
-    <string name="is_page_bottom">Sayfanın en altına ulaştınız</string>
-    <string name="is_page_top">Sayfanın en üstündesiniz</string>
-    <string name="js_disable_confirm_title">JavaScript devre dışı bırakılsın mı?</string>
     <string name="keep_queued_download">Sürdür</string>
     <string name="load_error_tip">Yükleme hatası. Tekrar deneye tıklayın</string>
+    <string name="load_more_footer_status_msg_error_load">Yükleme başarısız oldu. Tekrar denemek için tıklayın</string>
+    <string name="load_more_footer_status_msg_error_no_network">Ağ bağlantısı başarısız oldu!</string>
+    <string name="load_more_footer_status_msg_full">Başka veri yok</string>
+    <string name="load_more_footer_status_msg_idle">Daha fazla yüklemek için tıklayın</string>
+    <string name="load_more_footer_status_msg_loading">Yükleniyor</string>
     <string name="loading_dialog_title">Taşınıyor</string>
-    <string name="loading_tips">Yenilemek için aşağı çekin</string>
-    <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">Oturum açılamadı. Yenileyin ve ardından tekrar deneyin</string>
-    <string name="low_memory_toast">Tarayıcı düşük bellek seviyesi nedeniyle kullanılamıyor</string>
     <string name="maximum_input_alert">2048 karakterden fazlası girilemez</string>
     <string name="media_error_action_refresh">Yenile</string>
-    <string name="media_error_action_replace_video_source">Kaynak değiştirilemedi</string>
     <string name="media_error_failure">Video oynatılamıyor</string>
     <string name="media_error_format">Video dosya biçimi desteklenmiyor</string>
     <string name="media_error_network_unreachable">Ağa bağlanılamadı</string>
-    <string name="media_error_nomemory">Yeterli bellek yok</string>
-    <string name="media_error_source">Kaynak bulunamadı</string>
     <string name="media_error_timeout">Ağ bağlantısı zaman aşımına uğradı</string>
     <string name="media_error_video_not_exist">Video mevcut değil</string>
     <string name="menu_preferences">Ayarlar</string>
@@ -529,12 +478,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="message_notice_push">Son sıcak noktaları artık özledim</string>
     <string name="miui_autologin_bar_error">Oturum açılamıyor</string>
     <string name="miui_autologin_bar_title">Mi hesabınız ile oturum açın</string>
-    <string name="miui_bookmark_action_bar_add_group_title">Grup ekle</string>
     <string name="miui_bookmark_action_bar_new_group_title">Yeni grup</string>
-    <string name="miui_quicksearch_enable_pref_summary">Arama çubuğunu bildirim panelinde göster</string>
-    <string name="miui_quicksearch_enable_pref_title">Bildirimler bölümünde arama çubuğu</string>
-    <string name="miui_search_notification_message">Arama çubuğunu açmak için dokunun</string>
-    <string name="miui_search_notification_title">Arama</string>
     <string name="miui_startpage">Ana sayfa</string>
     <string name="miuishare_account_activate_confirmation">Etkinleştirme gereklidir</string>
     <string name="miuishare_account_activate_ok">Etkinleştir</string>
@@ -557,7 +501,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="more_description">Menü</string>
     <string name="more_option">Daha fazla seçenek</string>
     <string name="movie_player_3g_tip_retry">Devam et</string>
-    <string name="multi_window_max_tips">Pencerelerin sayısı üst sınıra ulaştı</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mw_accessibility_date_picker_month">Ay</string>
     <string name="mw_accessibility_date_picker_week">Hafta</string>
     <string name="mw_accessibility_date_picker_year">Yıl</string>
@@ -734,12 +678,9 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="nav_launch_title">Tarayıcı aşağıdaki uygulamalarla açtığınız için sizi tanır</string>
     <string name="nav_lunch_duokan">Tarayıcı daha fazlasını görmeniz için açılıyor</string>
     <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
-    <string name="nav_screen_container_tab_normal">Normal sekme</string>
     <string name="nav_screen_incognito_message">"Göz atma ve arama geçmişi gizli sekmede saklanmaz
 İndirdiğiniz dosyaların ve eklediğiniz yer imlerinin yine de kaydedileceğini unutmayın"</string>
     <string name="nav_screen_incognito_title">Gizli sekme</string>
-    <string name="nav_screen_tab_incognito_enter">Gizli sekmeye gir</string>
-    <string name="nav_screen_tab_incognito_exit">Gizli sekmeden çık</string>
     <string name="navigate_feedback_dislike">İlgilenmiyorum</string>
     <string name="navigate_feedback_dislike_tips">Bu tür video önerilerini azaltacaktır</string>
     <string name="navigate_feedback_input_report_label">Diğer nedenler</string>
@@ -784,6 +725,11 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="page_info_view">Sayfa bilgilerini görüntüle</string>
     <string name="passport_oauth_sucess_tip">Yetkilendirme başarılı oldu</string>
     <string name="password">Şifre</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pause_download">Duraklatıldı</string>
     <string name="paused_queued_for_wifi">Bağlantı bekleniyor</string>
     <string name="paused_unknown">Duraklatıldı</string>
@@ -813,7 +759,6 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_adblock_title">Reklam engelleyici</string>
     <string name="pref_advert_null">Reklam olarak etiketlenmiş öğe yok. İşaretlemek için internet sayfasındaki bir öğeye basın ve basılı tutun</string>
     <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>
-    <string name="pref_automatic_matching_searchengines_title">Sık kullanılan arama motoruna geç</string>
     <string name="pref_cancel_screen">Engeli kaldır</string>
     <string name="pref_category_hint">Kategori</string>
     <string name="pref_check_security_url_summary">İnternet sitesi bağlantı adreslerini güvenliklerini kontrol etmek amacıyla Mi sunucularına gönder</string>
@@ -833,19 +778,16 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_content_fontsize_setting">Yazı tipi ayarları</string>
     <string name="pref_content_homepage">Ana sayfa görünümü</string>
     <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
-    <string name="pref_content_night_read_mode">Gece modu</string>
     <string name="pref_content_search_engine">Adres çubuğu arama motoru</string>
     <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_content_simple_homepage">Basitleştirilmiş başlangıç sayfası</string>
     <string name="pref_debug_mode">Hata ayıklama modu</string>
     <string name="pref_download_setting">İndirme ayarları</string>
     <string name="pref_enable_adblock_notification">Reklam engelleme bildirimleri</string>
     <string name="pref_enable_news">Haberler</string>
     <string name="pref_enable_novels">Kitaplar</string>
     <string name="pref_enable_videos">Videolar</string>
+    <string name="pref_extras_devopt">Geliştirici seçenekleri</string>
     <string name="pref_extras_reset_default">Varsayılan ayarlara sıfırla</string>
     <string name="pref_extras_reset_default_dlg">Varsayılan ayarlara sıfırlansın mı?</string>
     <string name="pref_extras_reset_default_summary">Varsayılan ayarlara sıfırla</string>
@@ -864,15 +806,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_force_userscalable">Yakınlaştırmaya zorla</string>
     <string name="pref_force_userscalable_summary">İnternet sitelerinin yakınlaştırma ayarlarını kontrol etme taleplerini geçersiz kıl</string>
     <string name="pref_general_title">Genel</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
-    <string name="pref_images_preload_value_always">2</string>
-    <string name="pref_images_preload_value_never">0</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_label_advert_manager">Etiketli reklamları yönet</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-    <string name="pref_link_prefetch_value_always">ALWAYS</string>
-    <string name="pref_link_prefetch_value_never">NEVER</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="pref_nav_mode_summary_phone">Telefon</string>
     <string name="pref_nav_mode_title">Tarayıcı modu</string>
@@ -922,10 +856,6 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_tab_restore">Başlangıçta son açık olan sayfayı kurtar</string>
     <string name="pref_ua_string">Kullanıcı arayüzü</string>
     <string name="pref_version_info">Sürüm bilgisi</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
-    <string name="pref_video_preload_value_always">ALWAYS</string>
-    <string name="pref_video_preload_value_never">NEVER</string>
-    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor</string>
     <string name="pull_refresh_begin">Yenilemek için aşağıya çekin</string>
     <string name="pull_refresh_end">Yenilemek için bırakın</string>
@@ -945,24 +875,9 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="quicklink_saved_before">Bu site zaten eklenmiş</string>
     <string name="quicklink_user_define_webpage_title">İsim</string>
     <string name="quicklink_user_define_webpage_url">Bağlantı adresi</string>
-    <string name="quicklinks_group_default_subtitle">Boş</string>
-    <string name="quicklinks_management">Popüler</string>
-    <string name="quicklinks_most_visited">Ana sayfaya ekle</string>
-    <string name="quicklinks_most_visited_subtitle">Son ziyaret edilen siteleri yeni sekmede görüntüle</string>
-    <string name="quicklinks_most_visited_title">Ana sayfaya ekle</string>
-    <string name="readmode_already_add_to_bookshelf">Kitaplığa eklendi</string>
-    <string name="readmode_battery">Pil</string>
     <string name="readmode_font_size_setting_button">A</string>
-    <string name="readmode_login">Oturum aç</string>
-    <string name="readmode_login_message">Okuma modunda oturum açmanız gerekmektedir.</string>
-    <string name="readmode_page_load_error">Sayfa yüklenemiyor</string>
     <string name="readmode_page_loading">Yükleniyor</string>
-    <string name="readmode_pay">Bölümü satın al</string>
-    <string name="readmode_pay_message">Sonraki bölümleri okumak için ödeme yapmanız gerekmektedir</string>
     <string name="readmode_reach_last_page">Bu son sayfa</string>
-    <string name="readmode_recommend">Tavsiye edilenleri görüntüle</string>
-    <string name="readmode_recommend_message">Bu kitabı zaten okudunuz :)</string>
-    <string name="readmode_refresh">Yenile</string>
     <string name="readmodelist_bookmarks_to_show">Okuma listesi</string>
     <string name="recommending_close_toast_text">Gelişmiş ayarlardan bu işlevi kapat</string>
     <string name="refresh_description">Yenile</string>
@@ -984,16 +899,10 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="return_to_homepage">Ana sayfaya geri dön</string>
     <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">Yok</string>
-    <string name="router_download_exist">Bu dosya zaten mevcut</string>
-    <string name="router_download_failed">İndirilemedi</string>
-    <string name="router_download_success">Başarıyla indirildi</string>
     <string name="same_bookmarks_warning">Bu sayfayı zaten yer imlerine eklediniz</string>
     <string name="same_folder_name_warning">Aynı isime sahip başka bir grup zaten mevcut</string>
-    <string name="save_button_text">Kaydet</string>
     <string name="save_dialog_title">Kaydet</string>
     <string name="save_file">Kaydet</string>
-    <string name="save_file_already_exist_alert_message">Aynı isme sahip başka bir dosya mevcut. Dosya değiştirilsin mi?</string>
-    <string name="save_file_already_exist_alert_title">Dosya değiştirilsin mi?</string>
     <string name="save_file_suffix">Dosya</string>
     <string name="save_form_data_confirm_message">Bu özelliği kapatmak kullanılabilirliği etkileyebilir</string>
     <string name="save_image_failed">Resim kaydedilemedi</string>
@@ -1031,13 +940,18 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="search_tupian">Resim</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
-    <string name="secureaccess">Güvenli moda geç</string>
-    <string name="secureaccess_cancel">Yoksay</string>
+    <string name="security_permission_desc_get_accounts">Sistem hesabı girişi ve yönetimi için kullanılır</string>
+    <string name="security_permission_desc_read_phone">İlgili servisi sağlamak üzere cihaz IMEI tanımlayıcısını elde etmek için kullanılır</string>
+    <string name="security_permission_desc_storage">Saklanan resimler gibi dosyaları okumak ve yazmak, dosya yükleme veya indirme işlevini gerçekleştirmek için kullanılır</string>
+    <string name="security_permission_main_purpose">İnternete göz atın, bilgi arayın veya video izleyin</string>
+    <string name="security_permission_message_location">Kullanım sırasında uygulamanın ilgili konum hizmetini sağlamak üzere coğrafi konumu elde etmek için konum iznine erişmesi gerekir. Yukarıdaki izinleri kabul etmiyorsanız bu düzgün çalışmayacaktır. Ancak uygulamayı kullanma temel işlevselliğinizi etkilemeyecektir. İstediğiniz zaman Ayarlar > İzin yönetimi bölümüne gidip yukarıdaki izinleri kapatmayı seçerek onayınızı geri alabilirsiniz</string>
+    <string name="security_permission_negative_btn_location">İptal et</string>
+    <string name="security_permission_positive_btn_location">Kabul et</string>
+    <string name="security_permission_title_location">Hedefleme izinlerini aç</string>
     <string name="security_url_confirm_message">Bu özelliği kapatmak bazı güvenlik tehtidleri oluşturabilir</string>
     <string name="security_warning">Güvenlik uyarısı</string>
     <string name="security_warnings_confirm_message">Bu özelliği kapatmak bazı güvenlik tehtidleri oluşturabilir</string>
     <string name="select_dot">Metni seç</string>
-    <string name="select_download_device">Cihaz seçin</string>
     <string name="send_bookmark">Yer işareti</string>
     <string name="send_comment_button">Gönder</string>
     <string name="send_desktop">Ana ekran</string>
@@ -1046,24 +960,22 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="sending">Aranıyor</string>
     <string name="sequence_bookmark_description">Yer işaretlerini yeniden düzenlemek için basılı tutun</string>
     <string name="share_by_yidianzixun">[Bilgi]</string>
-    <string name="share_image_text">"\@MIUI'de ne paylaştığıma bak"</string>
+    <string name="share_image_text">"\\MIUI'de ne paylaştığıma bak"</string>
     <string name="share_page_text">Ne paylaştığıma bak: %1$s @MIUI| %2$s</string>
     <string name="share_video">Video paylaş</string>
     <string name="short_video_description">Video kanalı</string>
     <string name="short_video_tip">Bak! Eğlenceli video</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız
-Topladığımız veriler şunlardır:
-1. Güvenli bağlantılar: Hizmetlerimizi kullanırken ziyaret ettiğiniz internet sitelerinin bağlantılarını toplayacağız
-2. Konum verileri: Konum bilgilerinize erişiriz
-Topladığımız verileri şu şekilde kullanırız:
-1. Güvenlik: Verilerinizi, dolandırıcılık ve virüslerden korumak için kullandığımız gibi depolama ve yedekleme nedenleriyle de kullanırız
-2. İçerik: Verileriniz size özel haber içeriği sağlamamıza yardımcı oluyor
+    <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız\u000d
+Topladığımız veriler şunlardır:\u000d
+1. Güvenli bağlantılar: Hizmetlerimizi kullanırken ziyaret ettiğiniz internet sitelerinin bağlantılarını toplayacağız\u000d
+2. Konum verileri: Konum bilgilerinize erişiriz\u000d
+Topladığımız verileri şu şekilde kullanırız:\u000d
+1. Güvenlik: Verilerinizi, dolandırıcılık ve virüslerden korumak için kullandığımız gibi depolama ve yedekleme nedenleriyle de kullanırız\u000d
+2. İçerik: Verileriniz size özel haber içeriği sağlamamıza yardımcı oluyor\u000d
 Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tarayıcıyı kullanabilmek için %2$s ve %1$s kabul etmelisiniz."</string>
     <string name="show_security_tip_dialog_title">Hizmet şartları</string>
     <string name="sign_and_open">Oturum açın ve açın</string>
-    <string name="sign_in">Giriş yap</string>
     <string name="sign_in_to" formatted="false">%s1 için oturum aç: %s2</string>
-    <string name="signed_in">Kontrol edilmiş</string>
     <string name="skip_button_label">Atla</string>
     <string name="skip_current_version">Bu sürümü atla</string>
     <string name="slide_guide">Geri dönmek için kaydırın</string>
@@ -1073,6 +985,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="small_video_boba_tab">Yayınla</string>
     <string name="small_video_comment">Tüm yorumlar</string>
     <string name="small_video_comment_input_hint">Yorumunuzu girin</string>
+    <string name="small_video_footer_status_msg_idle">Daha fazla slayt yükleniyor</string>
     <string name="small_video_load_failed">Yükleme başarısız oldu</string>
     <string name="small_video_loading">Yükleniyor</string>
     <string name="small_video_main_tab">Tavsiye et</string>
@@ -1099,7 +1012,6 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="ssl_unknown">Bilinmeyen sertifika hatası</string>
     <string name="ssl_untrusted">Bu sertifika güvenilir bir kaynaktan gelmiyor</string>
     <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikalarında sorunlar var</string>
-    <string name="start_save_page_capture">Ekran görüntüsü kaydediliyor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_close">Kapat</string>
     <string name="storage_internal">Dahili depolama</string>
@@ -1107,6 +1019,8 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="storage_permission_request_toast">İndirmeler cihazınızın depolama alanına erişime ihtiyaç duyar</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_usb">USB depolama</string>
+    <string name="sug_search_history_delete_text">Kaydı temizle</string>
+    <string name="sug_search_history_empty_text">Tümünü temizle</string>
     <string name="suggest_access_btn_install">Yükle</string>
     <string name="suggest_access_btn_open">Aç</string>
     <string name="suggest_access_item_app_mark">Uygulamalar</string>
@@ -1118,7 +1032,6 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="suggest_access_item_video_mark">Videolar</string>
     <string name="suggest_access_item_weather_mark">Hava durumu</string>
     <string name="suggest_access_item_yellow_mark">Sarı sayfalar</string>
-    <string name="suggest_access_music">Mi müzik</string>
     <string name="suggest_open_app_failed">Bu uygulama açılamadı</string>
     <string name="suggestion_clear_item_message">Bu giriş kaydını temizlemeyi onaylıyor musunuz?</string>
     <string name="suggestion_clear_record_message">Giriş kayıtlarını temizlemeyi onaylıyor musunuz?</string>
@@ -1131,7 +1044,6 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="suggestion_express_input_hint_out">Takip numarası:</string>
     <string name="suggestion_express_title">Paketini takip et</string>
     <string name="suggestion_hotwords_title_change_button_text">Daha fazla değiştir</string>
-    <string name="suggestion_hotwords_title_text">En iyi arama</string>
     <string name="suggestion_input_hitory_clear_text">Temizle</string>
     <string name="suggestion_lottery_detail_pour">%s not</string>
     <string name="suggestion_lottery_detail_price">Her not %s yuan değerindedir</string>
@@ -1139,29 +1051,20 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="suggestion_lottery_period">%s yuvarla</string>
     <string name="suggestion_more_news">Daha fazla haber</string>
     <string name="suggestion_more_news_start_title_text">Alakalı haberler</string>
-    <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
     <string name="suggestion_sliding_item_more_text">Daha fazla gör</string>
     <string name="suggestion_topic_subtitle_hyphen">Odak</string>
     <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestion_translation_more">Daha fazla göster</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="switchText">Evet</string>
-    <string name="switch_proxy_dialog_msg">"Ağ saldırısı tespit edildi. Miui'nin yerleşik güvenlik uygulamasını kullanın veya bu durumu operatörünüze bildirin"</string>
-    <string name="switch_proxy_dialog_title">Ağ saldırısı</string>
     <string name="sync_and_backup_bookmark">Senkronize et ve yedekleri yedekle</string>
     <string name="sync_and_backup_history">Geçmişi senkronize et ve yedekle</string>
     <string name="sync_cloud_tabs">Senkronizasyon</string>
-    <string name="tab_hotpage">Haber akışı</string>
-    <string name="tab_quicklinks">Ana sayfa</string>
-    <string name="tab_yellowpage">Bağlantılar</string>
     <string name="tabs_description">Sekmeler</string>
     <string name="temp_refuse">Hayır</string>
     <string name="temporary_not_available">Geçici olarak kullanılamıyor</string>
     <string name="title_bar_loading">Yükleniyor</string>
     <string name="title_notice_push">Uyarı hatırmatmaları</string>
     <string name="toast_feedback">Bu tür içeriği sizin için azaltacaktır</string>
-    <string name="too_many_windows_dialog_message">Tarayıcı siz başka bir sekmeyi kapatana kadar yeni bir sekme açamıyor</string>
-    <string name="too_many_windows_dialog_title">Daha fazla sekme açılamıyor</string>
     <string name="topic_content_default">topic</string>
     <string name="transfer_prompt_0">Videoyu oynat</string>
     <string name="transfer_restart">Tekrar başlat</string>
@@ -1170,26 +1073,19 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="translation_query_error">Çeviri yapılamadı</string>
     <string name="translation_query_error_network">Bilgi alınamadı. Ağa bağlanın ve tekrar deneyin</string>
     <string name="translation_result_copy">Panoya kopyalandı</string>
-    <string name="unSwitchText">Hayır</string>
     <string name="undo">Geri al</string>
     <string name="unknown_title">Bilinmiyor</string>
     <string name="unsecurity_url_toast">Bu internet sitesi güvenli değil</string>
-    <string name="up_to_loading_tips">Yenilemek için bırakın</string>
     <string name="update_no_network_toast">Ağa bağlanılamıyor</string>
     <string name="uploads_disabled">Dosya yüklemeleri devre dışı bırakıldı</string>
     <string name="url_copy_done">Bağlantı adresi panoya kopyalandı</string>
     <string name="url_hint">Bağlantı adresini girin veya arama yapın</string>
     <string name="url_hint_from_search">Anahtar kelime girin</string>
-    <string name="url_hint_head">Herkes arıyor:</string>
     <string name="url_opened_in_background">Arkaplan sekmesinde aç</string>
     <string name="use_cellular_network_alert_message">Wifi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
     <string name="use_cellular_network_alert_title">Veri kullanımı</string>
-    <string name="user_defined_webpage">Ana sayfaya ekle</string>
-    <string name="user_defined_webpage_title">Ana sayfaya ekle</string>
     <string name="username">İsim</string>
-    <string name="v5_deselect_all">Tüm seçimleri kaldır</string>
     <string name="v5_edit_mode_title_empty">0 seçili</string>
-    <string name="v5_select_all">Tümünü seç</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="version_check_button_checking">Kontrol ediliyor</string>
@@ -1205,22 +1101,15 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="version_dialog_buttion_update">Güncelle</string>
     <string name="version_update_file_download_toast">İndiriliyor</string>
     <string name="version_update_file_not_found">Güncellemeler bulunamıyor</string>
-    <string name="video_activity_name">Favoriler</string>
-    <string name="video_buffering_percent_string">"Çözümleniyor "</string>
-    <string name="video_collect_cancel">Favorilerden kaldır</string>
-    <string name="video_collect_success">Favorilere ekle</string>
     <string name="video_doenload_complete">Video başarıyla indirildi</string>
-    <string name="video_download_complete">İndirme tamamlandı</string>
     <string name="video_download_empty">Video yok</string>
     <string name="video_download_error">Hata</string>
     <string name="video_download_error_http_gone">Dosya bulunamadı</string>
     <string name="video_download_exists">Dosya zaten mevcut</string>
-    <string name="video_download_fail">İndirilemedi</string>
     <string name="video_download_failed">İndirilemedi</string>
     <string name="video_download_finding_address">İndirme adresi alınıyor</string>
     <string name="video_download_pause">Duraklatıldı</string>
     <string name="video_download_start">İndiriliyor</string>
-    <string name="video_download_success">Tamamlandı</string>
     <string name="video_download_unknown_name">Bilinmeyen isim</string>
     <string name="video_download_unknown_size">Boyut bilinmiyor</string>
     <string name="video_download_unsupport">Desteklenmiyor</string>
@@ -1229,28 +1118,18 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="video_download_wait_for_wifi">Wifi bağlantısı bekleniyor</string>
     <string name="video_downloaded_group">İndirilenler</string>
     <string name="video_downloading_group">İndiriliyor</string>
-    <string name="video_edit">Düzenle</string>
-    <string name="video_float_window_text">Açılır pencere</string>
-    <string name="video_fragment_name_collections">Favoriler</string>
     <string name="video_fragment_name_download">Çevrimdışı video</string>
     <string name="video_fragment_name_historys">Geçmiş</string>
-    <string name="video_fragment_name_offine">Çevrimdışı</string>
-    <string name="video_group_noupdates_list">Uygun güncelleme yok</string>
-    <string name="video_group_updates_list">Güncellemeler</string>
     <string name="video_history_empty">Geçmiş yok</string>
     <string name="video_manager_action_bar_end_view">Videolar</string>
     <string name="video_project_button">Durdur</string>
     <string name="video_project_msg">Video şuraya aktarılıyor: %s</string>
     <string name="video_project_title">Video aktarımı</string>
-    <string name="video_push_multi_message">%1$d güncelleme mevcut</string>
-    <string name="video_push_multi_title">Güncelleme mevcut</string>
-    <string name="video_push_single_message">%1$d güncellemek için dokunun</string>
     <string name="video_service_notification_title">Açılır penceredeki videoyu oynat</string>
     <string name="video_subtitle_last_message1">1 dakikadan az kaldı</string>
     <string name="video_subtitle_prefix1">İzlenme</string>
     <string name="video_subtitle_prefix2">"İzlenme "</string>
     <string name="video_title_prefix_message">"Çevrimdışı: "</string>
-    <string name="video_unknown_duration">Bilinmeyen süre</string>
     <string name="view_certificate">Sertifikayı görüntüle</string>
     <string name="view_document_downloaded_files">İndirilenler menüsünde indirilen dosyaları görüntüleyin</string>
     <string name="vo_ad_detail">%s reklam</string>
@@ -1259,6 +1138,33 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="vo_choose_activity_positive">Şehir seç</string>
     <string name="vo_comment">%s yorum</string>
     <string name="vo_comment_text">İncele</string>
+    <string name="vo_debug_info_flow_dialog" formatted="false">"imei
+%s
+track_ext:
+%s
+debugExt:
+%s
+eid:
+%s
+traceid:
+%s
+ docid:
+%s
+category:
+%s
+subCategory:
+%s
+tags:
+%s
+type:
+%s
+url:
+%s
+item_style:
+%s
+feedsContentId:
+%s
+"</string>
     <string name="vo_feedback_back">Geri dön</string>
     <string name="vo_feedback_black">Siyah çek: %s</string>
     <string name="vo_feedback_content">Düşük içerik kalitesi</string>
@@ -1278,15 +1184,16 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="vo_image_mark">%d diyagramı</string>
     <string name="vo_info_flow_debug_title">Veri ayıklama</string>
     <string name="vo_info_flow_load_error_content">Yükle</string>
-    <string name="vo_info_flow_load_error_title">"Yükleme başarısız oldu. Lütfen ağı kontrol edin ve tekrar deneyin~"</string>
+    <string name="vo_info_flow_load_error_title">Yükleme başarısız oldu. Lütfen ağı kontrol edin ve tekrar deneyin~</string>
     <string name="vo_info_flow_load_more_content">Daha fazla yükle</string>
     <string name="vo_info_flow_load_more_error">Ağ güçlü değil. Lütfen ağ durumunu kontrol edin</string>
-    <string name="vo_info_flow_load_more_full">"Zaten son. Kanala bir göz atın~"</string>
+    <string name="vo_info_flow_load_more_full">Zaten son. Kanala bir göz atın~</string>
     <string name="vo_info_flow_load_more_idle">Daha fazla yükle</string>
     <string name="vo_info_flow_load_more_loading">Yükle</string>
-    <string name="vo_info_flow_load_more_title">"El ile yüklemeyi deneyin. Buraya tıklayın~"</string>
+    <string name="vo_info_flow_load_more_title">El ile yüklemeyi deneyin. Buraya tıklayın~</string>
     <string name="vo_info_flow_refresh_empty">Güncelleme yok~</string>
     <string name="vo_info_flow_refresh_error">Ağ güçlü değil. Lütfen ağ durumunu kontrol edin</string>
+    <string name="vo_info_flow_rs_hint">Ara</string>
     <string name="vo_like_text">Beğendiğiniz</string>
     <string name="vo_location_change_cancel">Bir dahaki sefere söyle</string>
     <string name="vo_location_change_content">Hedeflemeniz değişti. Geçerli hedeflemeye geçtiniz mi?</string>
@@ -1294,6 +1201,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="vo_location_change_title">Şehiri değiştir</string>
     <string name="vo_location_choose_city">Şehri değiştirmek için tıklayın</string>
     <string name="vo_share_text">Paylaş</string>
+    <string name="vo_short_video_play_count">%s oynat</string>
     <string name="vo_small_video_load_more_text">Daha fazla slayt yükleniyor</string>
     <string name="vo_small_video_title">Harika küçük video</string>
     <string name="vo_source_comment" formatted="false">%s·%s yorum</string>
@@ -1329,10 +1237,4 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="voice_title_speech_again">Sizi anlayamadık</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
-    <string name="window_manager_hybrid_application_list_title_text">Son kullanılanlar</string>
-    <string name="system_permission_accounts_purpose">Sistem hesabı girişi ve yönetimi için kullanılır</string>
-    <string name="system_permission_main_purpose">İnternete göz atın, bilgi arayın, haber okuyun ve video izleyin</string>
-    <string name="system_permission_phone_state_purpose">İlgili hizmeti sağlamak adına cihaz IMEI tanımlayıcısına ulaşmak için kullanılır</string>
-    <string name="system_permission_storage_purpose">Kayıtlı görüntüler gibi dosyaları okumak, yazmak ve dosya yükleme veya indirme işlevlerini etkinleştirmek için kullanılır</string>
-    <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
 </resources>

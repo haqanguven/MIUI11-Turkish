@@ -362,6 +362,10 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gdpr_msg"><Data>"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik politikamıza&lt;/a> göz atın"</Data></string>
     <string name="cta_main_purpose">Güvenlik uygulamasına hoşgeldiniz. Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="cta_HIPS_Perm_Location_Desc">Hassas konum alma (GPS ve ağ tabanlı)</string>
+    <string name="cta_close_dialog_title">Erişimi kısıtla</string>
+    <string name="cta_close_dialog_content">"Güvenlik uygulamasının internete erişimini ve konum bilgisini kısıtlarsanız deprem uyarıları alamaz, virüs tanımlarını ve engelleme listesi bilgilerini güncelleyemezsiniz. Cihazınız daha az güvenli olacak. Yine de kısıtlansın mı?"</string>
+    <string name="cta_close_dialog_ok">Kısıtla</string>
+    <string name="cta_close_dialog_cancel">İptal et</string>
     <string name="st_antispam_mode_smart_state">11111111</string>
     <string name="st_antispam_mode_blacklist_state">11112121</string>
     <string name="st_antispam_mode_only_contacts_state">11110000</string>
@@ -1240,6 +1244,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="usage_type_gps">Gps</string>
     <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Medya sunucusu</string>
+    <string name="process_vpnsdkmanager_label">Oyun hızlandırıcı</string>
     <string name="power_screen">Ekran</string>
     <string name="power_wifi">Wifi</string>
     <string name="power_bluetooth">Bluetooth</string>
@@ -1460,6 +1465,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_scan_item_title_running_app">Arka planda çalışan uygulamalar</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth özelliğini kapat</string>
     <string name="power_center_list_item_set_lockscreen_time">30 saniye işlem yapılmadığında ekranı kapat</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">%d saniye aktif olmadığında cihazı kilitle</string>
     <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
     <string name="power_center_list_item_deep_save_title">Gelişmiş ayarlar</string>
     <string name="power_center_list_item_battery_status_time">s</string>
@@ -1502,6 +1508,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_setting_wireless_reverse_charging_title">Ters kablosuz şarj</string>
     <string name="power_setting_wireless_reverse_charging_summary">Uyumlu cihazları kablosuz olarak şarj edin</string>
     <string name="battery_and_property">Pil &amp; performans</string>
+    <string name="power_center_5g_save_title_text">5G pil tasarrufu</string>
+    <string name="power_center_5g_save_summary_text">Bazı senaryolarda 5G bağlantısını daha az güç tüketir hale getirin</string>
+    <string name="power_center_5g_save_close_title">5G pil tasarrufunu kapat</string>
+    <string name="power_center_5g_save_close_detail">5G pil tasarrufu 5G bağlantısını etkilemeden pil ömrünü uzatır. Yine de kapatılsın mı?</string>
+    <string name="power_center_5g_save_close_later">Kapatma</string>
     <string name="power_settings_lock_screen_saver_title">Kilit ekranı ayarları</string>
     <string name="quick_optimize_sub_summary_with_battery_text">%1$s eklendi. Yaklaşık %2$s kaldı</string>
     <string name="quick_optimize_sub_battery_text">Yaklaşık %s kaldı</string>
@@ -2150,6 +2161,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="exit_dialog_release_storage_title">Boş alan</string>
     <string name="exit_dialog_release_storage_message">"Cihazınızdaki depolamanın %80'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_positive_button">Boş alan</string>
+    <string name="shortcut_title_whatsapp_clean">WhatsApp temizleyici</string>
+    <string name="shortcut_title_scan">Tara</string>
     <string name="skin_change_close_toast">Değişiklikler Güvenlik uygulamasını bir sonraki açışınızda uygulanacaktır</string>
     <string name="password_type">Şifreyi değiştir</string>
     <string name="password_type_underline"><u>Şifreyi değiştir</u></string>
@@ -2193,6 +2206,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_mask_summary">Kilit ekranı ve Bildirim çubuğunda bildirim içeriklerini gizle</string>
     <string name="convenient_mode">Tüm uygulamaların kilitlerini tek seferde aç</string>
     <string name="convenient_summary">Uygulamaların tamamının kilidini açmak için şifreyi bir kez girin</string>
+    <string name="lock_all_title">Tüm uygulamaları kilitle</string>
     <string name="suggest_app_tolock">Öneriler</string>
     <string name="suggest_app_tolock_masked">Gizli</string>
     <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
@@ -2289,6 +2303,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="reset_data_dialog_ok">Fabrika sıfırlama</string>
     <string name="ad_split_screen_title">Kilidi açmak için bölünmüş ekrandan çıkın</string>
     <string name="applock_toast_tip">Uygulama kilidi başarıyla doğrulandı</string>
+    <string name="applock_settings_unlock_all_toast">Tüm uygulamaların kilidi açıldı</string>
+    <string name="applock_go_to">Ayarlar</string>
     <string name="face_unlock_be_on_the_screen">Cihazı yüzünüzün önünde tutun</string>
     <string name="face_unlock_check_failed">Sizi tanıyamadım</string>
     <string name="face_unlock_reveal_eye">Gözlerini görünür yap</string>
@@ -2456,12 +2472,12 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
     <string name="app_manager_reset_app_preferences_desc">"Aşağıda belirtilen uygulama tercihlerini sıfırlayacaktır: 
  
- "<li>Devre dışı bırakılan uygulamalar</li>"
- "<li>Devre dışı bırakılan uygulama bildirimleri</li>"
- "<li>İşlemler için varsayılan uygulamalar</li>"
- "<li>Uygulamalar için arka plan veri kısıtlamaları</li>"
+"<li>Devre dışı bırakılan uygulamalar</li>"
+"<li>Devre dışı bırakılan uygulama bildirimleri</li>"
+"<li>İşlemler için varsayılan uygulamalar</li>"
+"<li>Uygulamalar için arka plan veri kısıtlamaları</li>"
  
- Herhangi bir uygulama verisi kaybetmezsiniz"</string>
+Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_reset_app_preferences_button">Sıfırla</string>
     <string name="app_manager_disable_text">Devre dışı bırak</string>
     <string name="app_manager_enable_text">Etkinleştir</string>

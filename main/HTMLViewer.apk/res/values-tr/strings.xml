@@ -25,5 +25,5 @@
     <string name="settings_ad_loading">Yükleniyor</string>
     <string name="settings_ad_loading_unavailable">Bilgi yüklenemedi</string>
     <string name="autoconnect">Otomatik bağlan</string>
-    <string name="poco_privacy_policy">POCO başlatıcı gizlilik politikası &amp; POCO başlatıcı kullanıcı sözleşmesi</string>
+    <string name="poco_privacy_policy">Poco başlatıcı gizlilik politikası &amp; Poco başlatıcı kullanıcı sözleşmesi</string>
 </resources>

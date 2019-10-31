@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phone_info_divider">" ｜ "</string>
-    <string name="inCallLabel">Arama kullanıcı arayüzü</string>
+    <string name="inCallLabel">Telefon</string>
     <string name="unknown">Bilinmiyor</string>
     <string name="private_num">Özel numara</string>
     <string name="payphone">Ankesörlü telefon</string>
@@ -108,7 +108,6 @@
     <string name="description_image_button_video_answer">Görüntülü arama</string>
     <string name="description_image_button_reject">Reddet</string>
     <string name="description_image_button_message_enter">Mesaj ile yanıtla</string>
-    <string name="description_image_button_message_exit">Mesajları gizle</string>
     <string name="description_image_button_hangup">Bitir</string>
     <string name="description_image_button_dialpad">Tuş takımı</string>
     <string name="description_image_button_tools">Seçenekler</string>
@@ -191,8 +190,8 @@
     <string name="incoming_circle_text_reject">Serbest bırak</string>
     <string name="incoming_circle_text_answer_p">Yukarı kaydır</string>
     <string name="incoming_circle_text_answer">Serbest bırak</string>
-    <string name="incoming_circle_text_message_p">Yukarı kaydır</string>
-    <string name="incoming_circle_text_message">Bırak</string>
+    <string name="incoming_circle_text_video_answer_p">Video ile cevaplamak için yukarı kaydır</string>
+    <string name="incoming_circle_text_video_answer">Video ile cevaplamak için serbest bırak</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -213,7 +212,7 @@
     <string name="dialpad_pqrs">PQRS</string>
     <string name="dialpad_tuv">TUV</string>
     <string name="dialpad_wxyz">WXYZ</string>
-    <string name="prompt_no_volte_when_failed">Arama yapamazsınız. Cihazınızın VoLTE desteği ile 4G ağa bağlı olduğundan emin olun</string>
+    <string name="prompt_no_volte_when_failed">Arama yapamazsınız. Cihazınızın VoLTE desteği ile 4G ağına bağlı olduğundan emin olun</string>
     <string name="volume_boost_text">Ses arttırıldı</string>
     <string name="supp_service_notification_call_waiting">Aradığınız numara şuanda meşgul. Lütfen bekleyin</string>
     <string name="incall_bubble_hangup_click_hint">Aramaya geri dönmek için tekrar dokunun</string>
