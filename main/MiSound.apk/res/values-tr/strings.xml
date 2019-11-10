@@ -101,7 +101,7 @@
     <string name="music_headset_calibrate_volume_up">Sesi arttır</string>
     <string name="music_headset_calibrate_wrong_key">Bu yanlış düğme</string>
     <string name="music_headset_mode_music">Müzik çalmayı kontrol et</string>
-    <string name="music_headset_mode_settings">Kulaklık uzaktan kumanda düğmeleri</string>
+    <string name="music_headset_mode_settings">Kulaklık düğmeleri</string>
     <string name="music_headset_mode_volume">Ses seviyesi kontrolü</string>
     <string name="music_headset_no_contected">Kulaklık algılanmadı</string>
     <string name="music_headset_settings">Kulaklıklar &amp; ses efektleri</string>

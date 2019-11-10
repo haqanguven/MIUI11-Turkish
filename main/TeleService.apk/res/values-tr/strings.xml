@@ -1093,6 +1093,8 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="lable_network_not_supported">Ağ desteklenmiyor</string>
     <string name="lafs_disable">Yerel hava limanı uçuş takvimi kapalı</string>
     <string name="lafs_enable">Yerel hava limanı uçuş takvimi açık</string>
+    <string name="last_sim_callback_summary">Arama geçmişinden arama yaparken önceden görüşülen kişiyle arama sırasında kullanılan Sim kartı kullanın</string>
+    <string name="last_sim_callback_title">Sim kart tercihlerini hatırla</string>
     <string name="launch_defaults_none">Hiçbir varsayılan tercih ayarlanmadı</string>
     <string name="launch_defaults_some">Bazı varsayılan tercihler ayarlandı</string>
     <string name="list_language_dtitle">Diller</string>
@@ -1748,6 +1750,7 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="sip_system_decide">Otomatik</string>
     <string name="smart_divert_summary">CFNRc ayarları</string>
     <string name="smart_divert_title">Akıllı yönlendirme</string>
+    <string name="sms_messages_title">Mesaj</string>
     <string name="smsc_dialog_message">Girdiğiniz numaranın doğru olduğundan emin olun. Aksi takdirde mesaj gönderemez veya alamazsınız. SMSC numaranızı onaylamak için operatörünüze başvurun</string>
     <string name="speed_label_fast">Hızlı</string>
     <string name="speed_label_medium">Orta</string>

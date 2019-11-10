@@ -517,8 +517,8 @@ GPS'yi başlatmak için ekrana dokunun"</string>
     <string name="cit_aud_test_result">Test sonucu:</string>
     <string name="cit_aud_current_state">Mevcut durum:</string>
     <string name="cit_aud_spk_vendor">Konuşmacı satıcısı:</string>
-    <string name="cit_fpc_selftest">SELF-TEST</string>
-    <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+    <string name="cit_fpc_selftest">Kendi kendini test et</string>
+    <string name="cit_fpc_checkerboard_test">dama tahtası testi</string>
     <string name="testing">Test ediliyor</string>
     <string name="tp_version">TP sürümü:</string>
     <string name="tp_color">TP rengi:</string>

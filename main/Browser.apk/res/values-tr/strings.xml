@@ -230,7 +230,6 @@
     <string name="cloud_tabs_sync_off">Senkronizasyon kapalı</string>
     <string name="cloud_time_tips">Son senkronizasyon</string>
     <string name="cloud_up_to_loading_tips">Senkronizasyon için bırakın</string>
-    <string name="collect_diagnosis_log">Teşhis günlüğünü topla</string>
     <string name="collect_video">Video topla</string>
     <string name="comment_app_menu">Yorum</string>
     <string name="comment_description">Yorum</string>
@@ -295,10 +294,6 @@
     <string name="delete_bookmark_group_warning">%s silinsin mi? Gruptaki yer imlerinin tamamı silinecektir</string>
     <string name="delete_bookmark_warning">%s yer imi silinsin mi?</string>
     <string name="delete_download">Sil</string>
-    <string name="diagnosis_log_send_failed">Teşhis günlüğü gönderildi</string>
-    <string name="diagnosis_log_sent_format">"Teşhis günlüğü gönderildi
-Kimli: %s
-Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_ad_exit_exit_app">Daha sonra aç</string>
     <string name="dialog_ad_exit_open_app">Şimdi aç</string>
     <string name="dialog_cannot_resume">İndirme tamamlanamadı</string>
@@ -409,7 +404,6 @@ Mi hesabınızda oturum açın"</string>
     <string name="find_on_page_next">Sonraki</string>
     <string name="find_on_page_prev">Geri</string>
     <string name="finish_sync_cloud_tabs">Başarıyla senkronize edildi</string>
-    <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın</string>
     <string name="forward_description">İleri</string>
     <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
     <string name="geolocation_permissions_prompt_message">%s konumunuzu bilmek istiyor</string>
@@ -955,24 +949,27 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="send_bookmark">Yer işareti</string>
     <string name="send_comment_button">Gönder</string>
     <string name="send_desktop">Ana ekran</string>
-    <string name="send_diagnosis_log">Tanı günlüğü gönder</string>
     <string name="send_startpage">Başlangıç ​​sayfası</string>
-    <string name="sending">Aranıyor</string>
     <string name="sequence_bookmark_description">Yer işaretlerini yeniden düzenlemek için basılı tutun</string>
     <string name="share_by_yidianzixun">[Bilgi]</string>
     <string name="share_image_text">"\\MIUI'de ne paylaştığıma bak"</string>
     <string name="share_page_text">Ne paylaştığıma bak: %1$s @MIUI| %2$s</string>
     <string name="share_video">Video paylaş</string>
+    <string name="short_video_comment_hint">Fikrinizi söyleyin</string>
     <string name="short_video_description">Video kanalı</string>
+    <string name="short_video_gesture_btn">Biliyorum</string>
+    <string name="short_video_gesture_hint">Daha fazla görmek için kaydır</string>
+    <string name="short_video_net_dialog_continue">Devam et</string>
+    <string name="short_video_net_dialog_title">Şu anda wifi olmayan bir ortamda oynatmaya devam etmek trafik tüketecektir</string>
     <string name="short_video_tip">Bak! Eğlenceli video</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız\u000d
-Topladığımız veriler şunlardır:\u000d
-1. Güvenli bağlantılar: Hizmetlerimizi kullanırken ziyaret ettiğiniz internet sitelerinin bağlantılarını toplayacağız\u000d
-2. Konum verileri: Konum bilgilerinize erişiriz\u000d
-Topladığımız verileri şu şekilde kullanırız:\u000d
-1. Güvenlik: Verilerinizi, dolandırıcılık ve virüslerden korumak için kullandığımız gibi depolama ve yedekleme nedenleriyle de kullanırız\u000d
-2. İçerik: Verileriniz size özel haber içeriği sağlamamıza yardımcı oluyor\u000d
-Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tarayıcıyı kullanabilmek için %2$s ve %1$s kabul etmelisiniz."</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız
+Topladığımız veriler şunlardır:
+1. Güvenli bağlantılar: Hizmetlerimizi kullanırken ziyaret ettiğiniz internet sitelerinin bağlantılarını toplayacağız
+2. Konum verileri: Konum bilgilerinize erişiriz
+Topladığımız verileri şu şekilde kullanırız:
+1. Güvenlik: Verilerinizi, dolandırıcılık ve virüslerden korumak için kullandığımız gibi depolama ve yedekleme nedenleriyle de kullanırız
+2. İçerik: Verileriniz size özel haber içeriği sağlamamıza yardımcı oluyor
+Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tarayıcıyı kullanabilmek için %2$s ve %1$s kabul etmelisiniz"</string>
     <string name="show_security_tip_dialog_title">Hizmet şartları</string>
     <string name="sign_and_open">Oturum açın ve açın</string>
     <string name="sign_in_to" formatted="false">%s1 için oturum aç: %s2</string>
@@ -981,6 +978,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="slide_guide">Geri dönmek için kaydırın</string>
     <string name="small_video_ad_app_text_click">İndir</string>
     <string name="small_video_ad_app_text_resume">Devam et</string>
+    <string name="small_video_ad_download_text">İndir</string>
     <string name="small_video_ad_web_text">Aç</string>
     <string name="small_video_boba_tab">Yayınla</string>
     <string name="small_video_comment">Tüm yorumlar</string>
@@ -1061,7 +1059,6 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="sync_cloud_tabs">Senkronizasyon</string>
     <string name="tabs_description">Sekmeler</string>
     <string name="temp_refuse">Hayır</string>
-    <string name="temporary_not_available">Geçici olarak kullanılamıyor</string>
     <string name="title_bar_loading">Yükleniyor</string>
     <string name="title_notice_push">Uyarı hatırmatmaları</string>
     <string name="toast_feedback">Bu tür içeriği sizin için azaltacaktır</string>
@@ -1237,4 +1234,5 @@ feedsContentId:
     <string name="voice_title_speech_again">Sizi anlayamadık</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
+    <string name="security_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
 </resources>

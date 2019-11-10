@@ -9,7 +9,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_connect_download_manager_fail">İndirme işlemi başlatılamadı. İndirme Yöneticisinin doğru bir şekilde çalıştığından emin olun</string>
+    <string name="xiaomi_connect_download_manager_fail">İndirme işlemi başlatılamadı. İndirme yöneticisinin doğru bir şekilde çalıştığından emin olun</string>
     <string name="app_name">Yedekleme</string>
     <string name="local_app_name">Yedekleme</string>
     <string name="local_home_title">Yerel yedekleme</string>
@@ -61,7 +61,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="backup_delete">Sil:</string>
     <string name="findlost_contact">Kişileri geri yükle</string>
     <string name="findlost_contact_online">Kişileri Mi bulut yedeğinden geri yükle</string>
-    <string name="cloud_backup_login">Mi Hesabınızda oturum açın</string>
+    <string name="cloud_backup_login">Mi hesabınızda oturum açın</string>
     <string name="cloud_backup_hint">Yedek verilerinize ulaşmak için şimdi oturum açın</string>
     <string name="cloud_backup_window_title">Mi bulut yedekleme</string>
     <string name="cloud_restore_window_title">Mi bulut geri yükleme</string>
@@ -181,7 +181,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="import_from_xiaomi_account_hint1">"1.Mi Talk uygulamasını indirin ve oturum açın
 http://www.miliao.com
 
-2.Mi Talk ayarlarına gidin ve kişileri Mi hesap'a yedekle seçeneğini seçin"</string>
+2.Mi Talk ayarlarına gidin ve kişileri Mi hesaba yedekle seçeneğini seçin"</string>
     <string name="import_from_xiaomi_account_hint2">Halihazırda bir yedeğiniz varsa ileri tuşuna dokunun</string>
     <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın</string>
     <string name="guarded_mode_dialog_title">Ziyaretçi modundasınız</string>
@@ -205,7 +205,7 @@ http://www.miliao.com
     <string name="read_encrypt_fail">Şifreli yedek okunamıyor</string>
     <string name="exchange_account">Hesapları değiştir</string>
     <string name="system_backup">Yedekleme</string>
-    <string name="backup_empty_info"> Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin</string>
+    <string name="backup_empty_info">" Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin"</string>
     <string name="backup_empty_info_onpad">" Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin"</string>
     <string name="system_backup_info">Sistem ayarları ve ana sayfa düzeni</string>
     <string name="software_backup_info">Uygulama verileri</string>
@@ -224,7 +224,7 @@ http://www.miliao.com
     <string name="xiaomi_router_location">Mi yönlendirici %s</string>
     <string name="xiaomi_router">Mi yönlendirici</string>
     <string name="router_backup_hint">Cihazınızı açık tutun</string>
-    <string name="see_backup_files_on_router">Mi yönlendirici üzerindeki yedekleri görüntüle %s</string>
+    <string name="see_backup_files_on_router">Mi yönlendirici %s üzerindeki yedekleri görüntüle</string>
     <string name="page_loading">Yükleniyor</string>
     <string name="file_uploading">Karşıya yükleniyor</string>
     <string name="new_backup">Yedekle</string>
@@ -298,7 +298,7 @@ Eski cihazın bağlanması bekleniyor"</string>
     <string name="trans_backingup_no_items">Senkronize ediliyor</string>
     <string name="trans_restoring">Geri yükleniyor</string>
     <string name="trans_sender_time_remained">"%s kaldı
-Wifi'yi kapatmayın
+Wifi ağını kapatmayın
 Cihazları birbirine yakın konumda tutun"</string>
     <string name="trans_receiver_time_remained">"%s kaldı
 İnternet paylaşımını kapatmayın
@@ -391,8 +391,8 @@ Aktarımı daha hızlı yapmak için yalnızca önemli öğeleri seçin"</string
     <string name="trans_calculating_tip">Hesaplanıyor: %s</string>
     <string name="trans_calculating_media_description">Medya dosyaları</string>
     <string name="trans_calculating_app_sd_description">SD karttaki veriler</string>
-    <string name="trans_native_no_space">"Cihazda yeteri kadar boş alan yok
-En az %s yer açın"</string>
+    <string name="trans_native_no_space">"Eski cihazda yeterli depolama alanı yok (%s kullanılabilir)
+Depolama alanını boşaltın veya yalnızca önemli öğeleri aktarın"</string>
     <string name="trans_please_waiting">Yükleniyor</string>
     <string name="trans_old_phone_low_space_title">Yeterli depolama alanı yok</string>
     <string name="trans_old_phone_low_space_msg">Mi taşıyıcının aktarılan verileri paketlemek için bir miktar depolama alanına ihtiyacı var. Ancak eski cihazda yeterli alan olmadığı anlaşılıyor. Güvenlik uygulaması içinde yer açın veya sadece önemli öğeleri aktarın</string>
@@ -428,7 +428,7 @@ QR kodunu eski telefonunuzla tarayın"</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
     <string name="trans_connect_failed_title">Bağlanılamadı</string>
-    <string name="trans_connect_failed_message">Bağlanılamadı. Yeniden deneyin veya cihazı yeniden başlatın. Diğer cihazda, Ayarlar > Ek ayarlar > Mi taşıyıcı menüsüne gidin ve gönderen tarafım seçeneğine dokunun veya cihazınızı yeniden başlattıktan sonra Mi taşıyıcı uygulamasını yeniden başlatın</string>
+    <string name="trans_connect_failed_message">Bağlanılamadı. Yeniden deneyin veya cihazı yeniden başlatın. Diğer cihazda Ayarlar > Ek ayarlar > Mi taşıyıcı menüsüne gidin ve gönderen tarafım seçeneğine dokunun veya cihazınızı yeniden başlattıktan sonra Mi taşıyıcı uygulamasını yeniden başlatın</string>
     <string name="trans_retry">Yeniden dene</string>
     <string name="trans_start_failed_title">Aktarım başlatılamadı</string>
     <string name="trans_start_failed_message">Aktarım başlatılamadı. Yeniden deneyin veya cihazı yeniden başlatın</string>

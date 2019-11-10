@@ -37,8 +37,8 @@
         <item quantity="one">%1$s kişi | </item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> kişi oy kullandı"</item>
-        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> kişi oy kullandı"</item>
+        <item quantity="other">&lt;font color="'#20a7ff'">%1$s&lt;/font> kişi oy kullandı</item>
+        <item quantity="one">&lt;font color="'#20a7ff'">%1$s&lt;/font> kişi oy kullandı</item>
     </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">En yüksek sıcaklık: %1$s derece</item>

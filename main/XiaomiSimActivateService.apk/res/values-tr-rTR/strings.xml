@@ -47,15 +47,15 @@
     <string name="activate_popup_title_manual">Etkinleştir: %s</string>
     <string name="activate_popup_desc_sim_card">%s kartının etkinleştirilmesi amacıyla bir kısa mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_intl_sim_card">%s kartının etkinleştirilmesi amacıyla bir uluslararası mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
-    <string name="activate_popup_desc_mixed_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet (yurtiçi ve yurtdışı) mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
+    <string name="activate_popup_desc_mixed_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_2_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet yurtiçi mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_2_intl_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet uluslararası mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_sim_card_downlink">%s kartını etkinleştirmek için mevcut telefon numarasını girin</string>
-    <string name="activate_popup_desc_find_device_postfix">Sim kartınızı değiştirmenizden sonra bir aktivasyon mesajı gönderilebilir</string>
+    <string name="activate_popup_desc_find_device_postfix">Sim kartınızı değiştirmenizden sonra bir etkinleştirme mesajı gönderilebilir</string>
     <string name="activate_popup_title_new_sim_card">Yeniden etkinleştir: %s</string>
     <string name="activate_popup_desc_new_sim_card">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla bir mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_new_intl_sim_card">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla bir uluslararası mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
-    <string name="activate_popup_desc_new_mixed_sim_cards">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla iki adet (yurtiçi ve yurtdışı) mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
+    <string name="activate_popup_desc_new_mixed_sim_cards">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla iki adet mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_new_2_sim_cards">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla iki adet yurtiçi mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla iki adet uluslararası mesaj gönderilecektir. Operatörünüz tarafından ücret alınacaktır</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartını etkinleştirmek için mevcut telefon numarasını girin.</string>
@@ -81,7 +81,7 @@
     <string name="activate_popup_desc_failed_phone_error">Girmiş olduğunuz telefon numarası geçersiz</string>
     <string name="activate_popup_confirm_failed_phone_error">Yeniden deneyin</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Kısa mesaj gönderilemiyor</string>
-    <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivasyon mesajı gönderilemedi. Sim kartınızın etkinleştirildiğinden emin olun
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">"Etkinleştirme mesajı gönderilemedi. Sim kartınızın etkinleştirildiğinden emin olun
 Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı telefon numarasını girin"</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Yeniden deneyin</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Numara bulunamıyor</string>
@@ -105,10 +105,10 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="activate_feature_default_name">Mi servisleri</string>
     <string name="activate_sms_postfix">Bu mesaj Mi hizmetinizi etkinleştirmek için kullanılır</string>
     <string name="activate_history_title">Sim kart aktivasyonu</string>
-    <string name="activate_history_success_overview">Sim kart başarıyla etkinleştirildi. Aktivasyon işlemi %1$s tarafından başlatıldı</string>
-    <string name="activate_history_canceled_overview">Sim kart aktivasyonu iptal edildi. Aktivasyon işlemi %1$s tarafından başlatıldı</string>
-    <string name="activate_history_multisim_success_overview">Sim kart %2$d başarıyla etkinleştirildi. Aktivasyon işlemi %1$s tarafından başlatıldı</string>
-    <string name="activate_history_multisim_canceled_overview">Sim kart %2$d aktivasyonu iptal edildi. Aktivasyon işlemi %1$s tarafından başlatıldı</string>
+    <string name="activate_history_success_overview">Sim kart başarıyla etkinleştirildi. Etkinleştirme işlemi %1$s tarafından başlatıldı</string>
+    <string name="activate_history_canceled_overview">Sim kart aktivasyonu iptal edildi. Etkinleştirme işlemi %1$s tarafından başlatıldı</string>
+    <string name="activate_history_multisim_success_overview">Sim kart %2$d başarıyla etkinleştirildi. Etkinleştirme işlemi %1$s tarafından başlatıldı</string>
+    <string name="activate_history_multisim_canceled_overview">Sim kart %2$d aktivasyonu iptal edildi. Etkinleştirme işlemi %1$s tarafından başlatıldı</string>
     <string name="activate_history_sms">Etkinleştirme işlemi sırasında mesaj gönderildi</string>
     <string name="phone_verify_title">Telefon numaranızı doğrulamak için %1$s kabul edin</string>
     <string name="phone_verify_text">%1$s telefon numaranızı almayacak. Yalnızca telefon numaranızın eşleşip eşleşmediğini kontrol edecektir</string>
@@ -119,10 +119,10 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="agree">Kabul et</string>
     <string name="privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra mesajlaşma verilerinizi toplamayı durdurur ve tüm verilerinizi sunucularından siler. Mi bulut, Mi mesaj ve diğer mesajlaşma özellikleriyle senkronizasyon artık kullanılamayacak. Yine de yetkilendirmeyi iptal etmek istiyor musunuz?</string>
     <string name="privacy_revoke_failed_msg">Etkinleştirme yapmanız yetkilendirmenin telefon numaranızı alabilmesi için yetkilendirmeyi gerektirir</string>
-    <string name="waiting_sim_in_service">Sim hizmeti bekliyor</string>
-    <string name="checking_client">Kontrol ediliyor</string>
+    <string name="waiting_sim_in_service">"Sim'in aktif hale getirilmesi bekleniyor"</string>
+    <string name="checking_client">Etkinleştirme ortamı kontrol ediliyor</string>
     <string name="error_sim_not_in_service">Sim hizmeti yok</string>
-    <string name="error_checking_client">Hata oluştu</string>
-    <string name="error_network_io">Ağ hatası</string>
-    <string name="error_no_send_sms_permission">Mesaj izni yok</string>
+    <string name="error_checking_client">Etkinleştirme sırasında bir hata oluştu</string>
+    <string name="error_network_io">Bir ağ hatası oluştu</string>
+    <string name="error_no_send_sms_permission">Xiaomi Sim etkinleştirme servisi mesaj göndermek için izin gerektiriyor</string>
 </resources>

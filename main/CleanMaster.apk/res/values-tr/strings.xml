@@ -171,6 +171,24 @@
     <string name="close">Kapat</string>
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
     <string name="connecting">Bağlanılıyor</string>
+    <string name="dc_activity_title">Derin temizlik</string>
+    <string name="dc_advise_delete">Free up space</string>
+    <string name="dc_group_title_appclean">Uygulamalar</string>
+    <string name="dc_header_can_clean">Temizlenebilir</string>
+    <string name="dc_header_can_not_clean">Occupied</string>
+    <string name="dc_header_used_space_text">Depolama meşgul</string>
+    <string name="dc_item_summary_wechat_chat">Daha fazla yer açmak için sohbet geçmişini temizle</string>
+    <string name="dc_item_title_apk">Kurulum paketlerini sil</string>
+    <string name="dc_item_title_app_data">Uygulama verilerini temizle</string>
+    <string name="dc_item_title_image">Delete photos</string>
+    <string name="dc_item_title_large_file">Büyük dosyaları sil</string>
+    <string name="dc_item_title_qq">QQ temizleyici</string>
+    <string name="dc_item_title_uninstall_app">Uygulamaları kaldır</string>
+    <string name="dc_item_title_video">Videoları sil</string>
+    <string name="dc_item_title_wechat">WeChat temizleyici</string>
+    <string name="dc_item_title_wechat_chat">WeChat geçmişini temizle</string>
+    <string name="dc_storage_cleaned">%s boş alan kaldı</string>
+    <string name="dc_storage_info">Kullanılabilir: %1$s | Toplam: %2$s</string>
     <string name="deep_clean_completed_tips">Başarıyla temizlendi</string>
     <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
     <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>
@@ -268,6 +286,10 @@
     <string name="go_to">Devam et</string>
     <string name="goto_set">Ayarla</string>
     <string name="grabage_rank_title">Bugün temizlendi</string>
+    <string name="guide_dc_dialog_message">"2GB'tan daha az boş depolama alanı kaldı. Bu cihazınızı yavaşlatabilir. Depolama alanını boşaltmak için derinlemesine temizlik yapın"</string>
+    <string name="guide_dc_dialog_negative">İptal et</string>
+    <string name="guide_dc_dialog_positive">Tamam</string>
+    <string name="guide_dc_dialog_title">Depolama alanı azalıyor</string>
     <string name="guide_secure_dialog_message">Cihazınızın optimizasyon puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="guide_secure_dialog_negative">İptal et</string>
     <string name="guide_secure_dialog_positive">Optimize et</string>
@@ -468,9 +490,9 @@
     <string name="recommend_news">Öneriler</string>
     <string name="recommend_the_following">Cihazınızdan en iyi şekilde faydalanmak için belirtilen işlemleri yapın</string>
     <string name="recommended">Öne çıkanlar</string>
-    <string name="resutl_function_deep_clean_summary">" \"&lt;"<Data>font color=#ff0000 >%1$s&lt;/font> dosya daha silinebilir. Daha fazla yer açın\" </Data></string>
-    <string name="resutl_function_qq_clean_summary">" \"&lt;"<Data>font color=#ff0000 >%1$s&lt;/font> QQ tarafından kullanılan önbelleği temizleyebilirsiniz\" </Data></string>
-    <string name="resutl_function_wechat_clean_summary">" \"&lt;"<Data>font color=#ff0000 >%1$s&lt;/font> WeChat önbelleği. Daha fazla yer açın\" </Data></string>
+    <string name="resutl_function_deep_clean_summary">\" \"&lt;\"&lt;Data>font color=#ff0000 >%1$s&lt;/font> dosya daha silinebilir. Daha fazla yer açın\" &lt;/Data></string>
+    <string name="resutl_function_qq_clean_summary">\" \"&lt;\"&lt;Data>font color=#ff0000 >%1$s&lt;/font> QQ tarafından kullanılan önbelleği temizleyebilirsiniz\" &lt;/Data></string>
+    <string name="resutl_function_wechat_clean_summary">\" \"&lt;\"&lt;Data>font color=#ff0000 >%1$s&lt;/font> WeChat önbelleği. Daha fazla yer açın\" &lt;/Data></string>
     <string name="sc_allow_network_dialog_button">İzin ver</string>
     <string name="sc_allow_network_dialog_message">Bu uygulamanın güncelleme dosyalarını almak amacıyla internete bağlanmasına izin verilsin mi?</string>
     <string name="scanning">Taranıyor</string>
@@ -640,7 +662,7 @@
     <string name="clip_board_history_desc">Kopyalana veya kesilen içerikler</string>
     <string name="clipboard">Pano</string>
     <string name="confirm_auto_cleaner">Tamam</string>
-    <string name="junk_syscache_alert_desc">"Bu önbelleği temizlemenizi önermiyoruz.&lt;font color=#d64438>Temizlendikten sonra APP'nin normal çalışmasını etkileyecektir&lt;/font>"</string>
+    <string name="junk_syscache_alert_desc">Bu önbelleği temizlemenizi önermiyoruz.<font color="#d64438">"\"Temizlendikten sonra APP'nin normal çalışmasını etkileyecektir\""</font></string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Yazılım sistemi kalır (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">LG telefonu demo videosu</string>
     <string name="junk_tag_RF_DemoVideo_MIUI">Mi telefon markası görüntü videosu</string>
@@ -665,18 +687,18 @@
     <string name="junk_tag_big_file_from_name_musicfiles">Müzik kataloğu</string>
     <string name="junk_tag_big_file_from_name_sdcard">Bellek kartı kök dizini</string>
     <string name="junk_tag_big_file_from_name_videofiles">Video kataloğu</string>
-    <string name="junk_tag_big_file_mergedfile_desc_aura">Sygic GPS harita indirmesi.&lt;font color=#d64438 >Temizlikten sonra geri yüklenemez&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_baidumap">Baidu harita indirmesi.&lt;font color=#d64438 >Temizleme işleminin çevrimdışı kullanılabilmesi için yeniden indirilmesi gerekir&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_baofeng">Fırtına video indirmesi.&lt;font color=#d64438 >Temizlikten sonra geri yüklenemez&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_downloader">Dosyayı indirmek için indirici kullanılır.&lt;font color=#d64438 >Temizledikten sonra dosya silinir&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_duokan">Kitap raflarımda okumak daha çok şey.&lt;font color=#d64438 >Temizlikten sonra görüntüleyemezsiniz&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_goapk">Bu kurulum paketini indirmek için piyasanın güvenliği.&lt;font color=#d64438 >Temizlikten sonra kullanılmayacaktır&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_googletransfer">Çevrimdışı dil paketlerini indirmek için çevrilir.&lt;font color=#d64438 >Temizledikten sonra çevrimdışı kullanmak için yeniden indirilmesi gerekir&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_navitel">Navitel harita indirmesi.&lt;font color=#d64438 >İndirilen harita silinir ve yeniden indirilmesi gerekir&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_sygic">Sygic GPS harita indirmesi.&lt;font color=#d64438 >Temizlikten sonra geri yüklenemez&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">UC tarayıcının çevrimdışı okuma romanı.&lt;font color=#d64438 >Temizlendikten sonra çevrimdışı olarak okunabilen bir roman silinir&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_vk">VK müzik çalınması için sesli dosyaların önbellekleri.&lt;font color=#d64438 >Temizlendikten sonra çevrimdışı dinleyemezsiniz&lt;/font></string>
-    <string name="junk_tag_big_file_mergedfile_desc_yandex">Tüm haritaları indirmek için Яндекс.Маркет kullanılıyor.&lt;font color=#d64438 >Temizlendikten sonra çevrimdışı kullanılamaz&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_aura">Sygic GPS harita indirmesi.<font color="#d64438">Temizlikten sonra geri yüklenemez</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_baidumap">Baidu harita indirmesi.<font color="#d64438">Temizleme işleminin çevrimdışı kullanılabilmesi için yeniden indirilmesi gerekir</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_baofeng">Fırtına video indirmesi.<font color="#d64438">Temizlikten sonra geri yüklenemez</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_downloader">Dosyayı indirmek için indirici kullanılır.<font color="#d64438">Temizledikten sonra dosya silinir</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_duokan">Kitap raflarımda okumak daha çok şey.<font color="#d64438">Temizlikten sonra görüntüleyemezsiniz</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_goapk">Bu kurulum paketini indirmek için piyasanın güvenliği.<font color="#d64438">Temizlikten sonra kullanılmayacaktır</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_googletransfer">Çevrimdışı dil paketlerini indirmek için çevrilir.<font color="#d64438">Temizledikten sonra çevrimdışı kullanmak için yeniden indirilmesi gerekir</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_navitel">Navitel harita indirmesi.<font color="#d64438">İndirilen harita silinir ve yeniden indirilmesi gerekir</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_sygic">Sygic GPS harita indirmesi.<font color="#d64438">Temizlikten sonra geri yüklenemez</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">UC tarayıcının çevrimdışı okuma romanı.<font color="#d64438">Temizlendikten sonra çevrimdışı olarak okunabilen bir roman silinir</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_vk">VK müzik çalınması için sesli dosyaların önbellekleri.<font color="#d64438">Temizlendikten sonra çevrimdışı dinleyemezsiniz</font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_yandex">Tüm haritaları indirmek için Яндекс.Маркет kullanılıyor.<font color="#d64438">Temizlendikten sonra çevrimdışı kullanılamaz</font></string>
     <string name="junk_tag_big_file_mergedfile_name_aura">Haritayı indir (Sygic)</string>
     <string name="junk_tag_big_file_mergedfile_name_downloader">Dosyayı indir(Downloader)</string>
     <string name="junk_tag_big_file_mergedfile_name_duokan">Raf kitaplarım (Daha fazlasına bak)</string>

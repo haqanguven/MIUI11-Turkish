@@ -3,7 +3,7 @@
     <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
     <string name="welcome">Hoş geldiniz</string>
-    <string name="app_name">Provizyon</string>
+    <string name="app_name">Başlangıç</string>
     <string name="system_navigation_mode">Sistem gezinme modu</string>
     <string name="input_method_setting">Klavye seçin</string>
     <string name="input_method_category">Mesaj yazma, not yazma ve diğer alanlarda kullanmak üzere varsayılan klavyenizi seçin. Dilediğiniz zaman üçüncü parti klavye uygulamalarını yükleyebileceğinizi unutmayın</string>
@@ -36,7 +36,7 @@ Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
     <string name="other_settings_ad_dialog_content">"Bu özelliği kapattıktan sonra artık kişiselleştirilmiş reklamlar almayacaksınız. Yine de ilgi alanlarınızla alakalı olmayan reklamlar alacaksınız. Kişiselleştirilmiş reklamlar hakkında daha fazla bilgiyi Xiaomi gizlilik politikasında öğrenebilirsiniz
 Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
     <string name="other_settings_enhanced_lockscreen">Atlı karınca duvar kağıdı</string>
-    <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın. Gizlilik poltikası şartları ve koşulları geçerlidir</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın. %1$s ve %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik politikası</string>
     <string name="back">Geri</string>
@@ -54,9 +54,9 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
     <string name="ime_privacy_policy">Seçili klavyenin gizlilik politikası</string>
     <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. Bu klavyenin gizlilik politikasını %s adresinde görüntüleyin</string>
     <string name="terms_of_use">Şartlar ve koşullar</string>
-    <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçenekleri kullanabileceğinizi anlamak için hizmet şartları ve gizlilik politikamızı okuyun
-
-Miui'yi kullanabilmeniz için hizmet iartlarımız ve gizlilik politikamızı kabul etmeniz gerekir. %s ve Mi hesap bileşenleri internete bağlanacak ve konumunuzu alacaktır"</string>
+    <string name="terms_of_use_label">"Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için kullanıcı sözleşmemizi ve gizlilik politikamızı okuyun
+Miui'yi kullanabilmeniz için önce kullanıcı Sözleşmemizi ve gizlilik Politikamızı kabul etmelisiniz
+%s ve Mi hesap bileşenleri internete bağlanacak ve konumunuzu alacak"</string>
     <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi Sim etkinleştirme hizmetleri, Mi bulut, Cihazı bul, Ana ekran, Oyun merkezi, MAB, Miui daemon ve MSA sistem bileşenleri, Çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, İstatistik, Mi bağlantı</string>
     <string name="terms_of_use_label_mab">, MAB</string>
     <string name="terms_of_use_label_Mistore">, Mi mağaza sistemi eklentisi</string>
@@ -106,10 +106,10 @@ Bu özelliği kullanmadan önce kika gizlilik politikasını kabul etmeniz gerek
     <string name="language_settings">Dil seçin</string>
     <string name="font_hint_normal">Metin boyutunu arttır</string>
     <string name="font_hint_large">Varsayılan metin boyutu</string>
-    <string name="navigation_picker_radio_text_full_screen">Tam ekran modu</string>
-    <string name="navigation_picker_radio_text_virtual_key">Sanal tuş modu</string>
+    <string name="navigation_picker_radio_text_full_screen">Tam ekran hareketleri</string>
+    <string name="navigation_picker_radio_text_virtual_key">Sanal tuşlar</string>
     <string name="congratulation_swipe">Sisteme girmek için yukarı doğru kaydırın</string>
-    <string name="enable_accessibility_dialog_message">"Ekrana 2 parmağınız ile 10 saniyeden daha fazla basılı tutarak TalkBack özelliğini açtınız. TalkBack görme engelli kişiler için sesli geri bildirim sağlar. TalkBack'ı yanlışlıkla açtıysanız iptal tuşuna basın ve ardından ekrana çift dokunun"</string>
+    <string name="enable_accessibility_dialog_message">Ekrana 2 parmağınız ile 10 saniyeden daha fazla basılı tutarak geri konuş özelliğini açtınız. Geri konuş görme engelli kişiler için sesli geri bildirim sağlar. Geri konuş özelliğini yanlışlıkla açtıysanız iptal tuşuna basın ve ardından ekrana çift dokunun</string>
     <string name="enable_accessibility_dialog_positive_btn">Tamam</string>
     <string name="enable_accessibility_dialog_negative_btn">İptal et</string>
     <string name="cm_terms_title">Mobil ağ operatör dözleşmesi</string>
@@ -122,13 +122,13 @@ Bu özelliği kullanmadan önce kika gizlilik politikasını kabul etmeniz gerek
     <string name="voice_assist_condition">"Bu durumlarda Mi AI kullanabileceksiniz:
 1. Ekran açıkken
 2. Ekranı kapalıyken müzik dinlerken"</string>
-    <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanıza izin verir ancak daha fazla güç tüketir (Her saat +%1)</string>
-    <string name="ai_button_title">AI düğmesi hakkında</string>
-    <string name="ai_button_desc">"Mi AI'yı tetiklemek ve sadece sesinizi kullanarak telefonunuzdaki görevleri tamamlamak için bu düğmeyi kullanın"</string>
+    <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanıza izin verir ancak daha fazla güç tüketir (Her saat +1%)</string>
+    <string name="ai_button_title">AI düğmesi</string>
+    <string name="ai_button_desc">"AMi AI özelliğini tetiklemenizi ve Mi AI kısayollarını kullanmanızı sağlar"</string>
     <string name="ai_button_long_press">Basın ve basılı tutun</string>
     <string name="ai_button_long_press_desc">Komutunu söyle ve düğmeyi bırak</string>
     <string name="ai_button_single_press">Basın</string>
-    <string name="ai_button_single_press_desc">Mi AI tetikleyici</string>
+    <string name="ai_button_single_press_desc">Mi AI kısayollarını görüntülemek için AI düğmesine basın</string>
     <string name="ai_button_double_press">Çift baskı</string>
     <string name="ai_button_double_press_desc">Mi AI özelliklerini ayarlayın</string>
     <string name="zone_picker_title">Saat dilimini seç</string>

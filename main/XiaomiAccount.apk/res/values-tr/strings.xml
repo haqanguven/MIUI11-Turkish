@@ -524,6 +524,8 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="confirm_new_pwd">Yeni şifreyi onayla</string>
     <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
     <string name="same_new_and_old_pwd">Mevcut şifre ile aynı olamaz</string>
+    <string name="pwd_width_phone_number_or_mail_num">Şifreniz telefon numaranızı, e-postanızı veya Mi hesap kimliğinizi içeremez</string>
+    <string name="risky_pwd_not_allow">Yeni şifre güvenli değil. Başka bir tane ayarla</string>
     <string name="account_security_info_pref_title">Güvenlik bilgileri</string>
     <string name="account_bind_settings">Hesaplar</string>
     <string name="account_bind_devices">Cihazlar</string>
