@@ -13,7 +13,7 @@
     <string name="all_apps_setting_drawer_desc">Tüm yüklü uygulamalarınızı ana ekranda yukarı doğru kaydırarak açılabilen uygulama çekmecesine yerleştirin. Ana ekrana taşıdığınız tüm uygulamaları uygulama çekmecesinde de bulabileceksiniz</string>
     <string name="all_apps_setting_drawer_tips_desc">Uygulama çekmecesi ana ekranda yukarı doğru kaydırarak açılır. Uygulama çekmecesi ile ana ekran moduna geçmek içerik merkezini kullanılmaz hale getirir. Yine de geçilsin mi?</string>
     <string name="all_apps_setting_drawer_tips_title">Uygulama çekmecesi kullanılıyor</string>
-    <string name="all_apps_setting_drawer_title">Çekmece</string>
+    <string name="all_apps_setting_drawer_title">Uygulama çekmecesi</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Orijinal düzen</string>
     <string name="all_apps_setting_scroll_bar">Kaydırma çubuğu</string>

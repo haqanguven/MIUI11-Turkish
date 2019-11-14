@@ -1217,7 +1217,7 @@ Bu özellik Ayarlar menüsünden kapatılabilir."</string>
     <string name="call_records_summary_2">19 Haziran | 1 dakika 16 saniye</string>
     <string name="call_records_summary_3">26 Haziran | 2 dakika 24 saniye</string>
     <string name="call_settings_primary_user_only">Birinci alanda arama ayarlarını değiştirin</string>
-    <string name="call_settings_summary">Sesli mesaj, arama yönlendirme ve bekletme, arayan kimliğini ayarla</string>
+    <string name="call_settings_summary">Sesli mesaj, arama yönlendirme, bekletme ve arayan kimliğini ayarla</string>
     <string name="call_settings_title">Arama ayarları</string>
     <string name="call_volume_option_title">Arama ses düzeyi</string>
     <string name="calls_title">Çağrılar</string>
@@ -3140,7 +3140,7 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="lost_internet_access_text">Kablosuz ağın internet bağlantısı sorunlu olduğunda mobil ağa geçiş yapabilirsiniz. Veri kullanımı ücretleri geçerli olabilir.</string>
     <string name="lost_internet_access_title">"Kablosuz ağ internet'e bağlı değil"</string>
     <string name="mah">%d mAh</string>
-    <string name="main_netcheck_summary">Ağ sorunları için bağlantıyı test et</string>
+    <string name="main_netcheck_summary">Ağ sorunları için bağlantıyı test edin</string>
     <string name="main_running_process_description">Kullanımda olan ana işlem.</string>
     <string name="main_toolbar_statistic">Veri kullanım istatistikleri</string>
     <string name="make_sure_cancel_update">Güncelleme iptal edilsin mi?</string>
@@ -3562,7 +3562,7 @@ Bu cihazda başka kullanıcılar da var.
     <string name="network_dashboard_title">Ağ ve İnternet</string>
     <string name="network_detail">%s ağ detayları</string>
     <string name="network_error">Ağ hatası</string>
-    <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin.</string>
+    <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin</string>
     <string name="network_operators_settings">Ağ operatörleri</string>
     <string name="network_reset_not_available">Bu kullanıcı için ağ ayarlarına sıfırlama işlevi kullanılamıyor</string>
     <string name="network_restrictions">Ağ kısıtlamaları</string>
@@ -5022,7 +5022,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="select_private_dns_configuration_title">Özel DNS</string>
     <string name="select_sim_for_calls">Telefon etmek için şu Sim kartı kullan:</string>
     <string name="select_sim_for_data">Veri için bir Sim kart seçin</string>
-    <string name="select_ssid_type_title">SSID seçin</string>
+    <string name="select_ssid_type_title">SSID</string>
     <string name="select_time_format_category_title">Zaman biçimi</string>
     <string name="select_time_format_title">Zaman biçimi</string>
     <string name="select_to_speak_summary">Sesli okunması için ekranınızdaki öğelere dokunun</string>
@@ -6473,15 +6473,15 @@ Kelime eklemek için artı simgesine dokunun."</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
     <string name="wifi_ask_disable">%s, Kablosuz özelliğini kapatmak istiyor</string>
     <string name="wifi_ask_enable">%s, Kablosuz özelliğini açmak istiyor</string>
-    <string name="wifi_assistant">Wifi yardımcısı</string>
+    <string name="wifi_assistant">Wifi yardımcı</string>
     <string name="wifi_assistant_auto_confirm_data_message">Mevcut Wifi ağının internet erişimi yok, bunun yerine mobil veri kullanılacaktır, Wifi yardımcısını ayarlar menüsünde kapatabilirsiniz</string>
     <string name="wifi_assistant_confirm_always">Bir sonraki sefere ipucu yok</string>
     <string name="wifi_assistant_confirm_connection_title">Bağlantıyı onaylayın</string>
-    <string name="wifi_assistant_data_prompt">Sormayı etkinleştir</string>
-    <string name="wifi_assistant_data_prompt_summary">Wifi yardımcısı mobil ağa geçiş yapmak istediğinde sor</string>
+    <string name="wifi_assistant_data_prompt">Her zaman sor</string>
+    <string name="wifi_assistant_data_prompt_summary">Wifi yardımcı mobil ağa geçiş yapmak istediğinde her zaman onayınızı alır</string>
     <string name="wifi_assistant_description">"Bu özelliği etkinleştirmenizden sonra:
-1. İnternet bağlantısı kötü olduğunda, sistem otomatik olarak diğer kullanılabilir Wifi ağlarını dener.
-2.Kullanılabilir tüm Wifi bağlantıları kötüyse ve mobil veri etkinleştirildiyse, sistem en iyi ağ bağlantısını otomatik olarak seçer"</string>
+1. İnternet bağlantısı kötü olduğunda sistem otomatik olarak diğer kullanılabilir wifi ağlarını dener
+2.Kullanılabilir tüm wifi bağlantıları kötüyse ve mobil veri etkinleştirildiyse sistem en iyi ağ bağlantısını otomatik olarak seçer"</string>
     <string name="wifi_assistant_disconnect">Bağlantıyı kes</string>
     <string name="wifi_assistant_explicitly_confirm_data_message">Mevcut Wifi ağının internet erişimi yok, mobil veriye geçiş yapmak istiyor musunuz?</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Mevcut Wifi ağının internet erişimi yok, bağlantıyı kesmek istiyor musunuz?</string>
@@ -6491,7 +6491,7 @@ Kelime eklemek için artı simgesine dokunun."</string>
     <string name="wifi_assistant_ok">Tamam</string>
     <string name="wifi_assistant_on">Açık</string>
     <string name="wifi_assistant_setup_wifi_assistant">Yapılandır</string>
-    <string name="wifi_assistant_summary">Wifi bağlantısı kötü olduğunda Wifi veya mobil veri arasında otomatik olarak geçiş yap</string>
+    <string name="wifi_assistant_summary">Wifi bağlantısı kötü olduğunda wifi veya mobil veri arasında otomatik olarak geçiş yapar</string>
     <string name="wifi_assistant_switch_data">Mobil veri kullan</string>
     <string name="wifi_assistant_switch_wifi">Ağ değiştir</string>
     <string name="wifi_auto_connect">Otomatik bağlan</string>
@@ -6536,8 +6536,8 @@ Kelime eklemek için artı simgesine dokunun."</string>
     <string name="wifi_connect_cmcc_dialog_title">CMCC bağlandı</string>
     <string name="wifi_connect_failed_message">Wifi ağına bağlanılamadı</string>
     <string name="wifi_connected_mac_randomization">Bağlı MAC rastgeleleştirme</string>
-    <string name="wifi_connected_mac_randomization_summary">Wi‑Fi ağlarına bağlanırken, MAC adresini rastgele değiştir</string>
-    <string name="wifi_connected_no_internet">Bağlandı, internet yok</string>
+    <string name="wifi_connected_mac_randomization_summary">Wifi ağlarına bağlanırken MAC adresini rastgele değiştir</string>
+    <string name="wifi_connected_no_internet">Bağlandı. İnternet yok</string>
     <string name="wifi_connection_management">Wifi bağlantı yönetimi</string>
     <string name="wifi_context_menu_change_password">Şifreyi değiştir</string>
     <string name="wifi_context_menu_change_wapi_certificate">Wapi sertifikasını değiştir</string>
@@ -6660,7 +6660,7 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_modify">Değiştir</string>
     <string name="wifi_more">Diğer</string>
     <string name="wifi_multiple_cert_added">(Birden fazla sertifika eklendi)</string>
-    <string name="wifi_network_optimization">Ağ akıllı bağlantı</string>
+    <string name="wifi_network_optimization">Akıllı ağ bağlantısı</string>
     <string name="wifi_network_prefix_length">Ağ ön ek uzunluğu</string>
     <string name="wifi_no_domain_warning">Alan adı belirtilmelidir.</string>
     <string name="wifi_no_internet">İnternete bağlanılamıyor</string>
@@ -6700,9 +6700,9 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_priority_changed" formatted="false">Eski değer %s | Yeni değer %s</string>
     <string name="wifi_priority_label">Öncelik</string>
     <string name="wifi_priority_settings_label">Öncelik ayarları</string>
-    <string name="wifi_priority_settings_summary">Her erişim noktası için önceliği ayarla</string>
+    <string name="wifi_priority_settings_summary">Her erişim noktasının önceliğini ayarlayın</string>
     <string name="wifi_priority_settings_title">Wifi öncelik ayarları</string>
-    <string name="wifi_priority_type_summary">Her bir erişim noktasının önceliğini el ile ayarla</string>
+    <string name="wifi_priority_type_summary">Her erişim noktasının önceliğini el ile ayarlayın</string>
     <string name="wifi_priority_type_title">Wifi önceliği</string>
     <string name="wifi_property">Wifi özelliği</string>
     <string name="wifi_protection_on">Açık</string>
@@ -6875,13 +6875,13 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifi_tether_starting">Hotspot açılıyor…</string>
     <string name="wifi_tether_stopping">Hotspot kapatılıyor…</string>
     <string name="wifi_traffic_priority">Trafik modu</string>
-    <string name="wifi_traffic_priority_extreme">Ekstrem mod</string>
+    <string name="wifi_traffic_priority_extreme">Ekstrem</string>
     <string name="wifi_traffic_priority_extreme_summary">Mevcut uygulamanın ağ kaynaklarını öncelikli olarak kullanım izni mevcut, bu durum arka plan uygulamalarının ağı kullanamamalarına neden olabilir</string>
     <string name="wifi_traffic_priority_off">Kapalı</string>
     <string name="wifi_traffic_priority_on">Açık</string>
-    <string name="wifi_traffic_priority_regular">Normal mod</string>
+    <string name="wifi_traffic_priority_regular">Normal</string>
     <string name="wifi_traffic_priority_regular_summary">Arka planda indirme özelliği ağ kaynaklarını mevcut uygulamayla paylaşır</string>
-    <string name="wifi_traffic_priority_summary">Ağ trafik önceliğini akıllı olarak ayarla</string>
+    <string name="wifi_traffic_priority_summary">Ağ trafik önceliğini akıllı olarak ayarlar</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="wifi_type_approval_title">Tür onayı</string>
     <string name="wifi_unchanged">(değişmedi)</string>

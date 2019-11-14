@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">Tümü</string>
     <string name="call_record_list_group_connected">Bağlanıldı</string>
     <string name="call_record_list_group_unconnected">Bağlanmadı</string>
+    <string name="cancel_rename">İptal et</string>
     <string name="clear_records">Senkronize edilen kayıtları sil</string>
     <string name="cloud_record_open">Kayıtları senkronize et</string>
     <string name="cloud_record_tip">Kayıtları Mi bulut ile senkronize et</string>
@@ -73,6 +74,7 @@
     <string name="korea_permission_record_resc">Ses kaydetmek için</string>
     <string name="korea_permission_storage">Depolama</string>
     <string name="korea_permission_storage_desc">Kayıtları saklamak için</string>
+    <string name="loading_more">Yükleniyor</string>
     <string name="loading_order_list">Yükleniyor</string>
     <string name="loading_order_list_empty">Burada sipariş yok</string>
     <string name="low_battery_error">Pil seviyesi %5 seviyesinden düşük. Kaydın kaybolmaması için kaydı durdurun ve kaydedin</string>

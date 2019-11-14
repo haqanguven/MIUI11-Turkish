@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="usage_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d kez açıldı</item>
         <item quantity="one">%d kez açıldı</item>
@@ -15,6 +19,10 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">%d bildirim alındı</item>
         <item quantity="one">%d bildirim alındı</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">Son %d dakika içinde bir şeyler kazanacağınıza inanıyorum</item>
+        <item quantity="one">Son %d dakika içinde bir şeyler kazanacağınıza inanıyorum</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d saat</item>
@@ -68,12 +76,25 @@
         <item quantity="other">" dakika"</item>
         <item quantity="one">" dakika"</item>
     </plurals>
-    <plurals name="usage_days">
+    <plurals name="last_several_days">
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
     </plurals>
-    <plurals name="usage_state_focus_usage_summary">
-        <item quantity="other">Son %d dakika içinde bir şeyler kazanacağınıza inanıyorum</item>
-        <item quantity="one">Son %d dakika içinde bir şeyler kazanacağınıza inanıyorum</item>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>
+        <item quantity="one">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s bugün %1$d günlük ortalamanızdan daha az ekran süresi</item>
+        <item quantity="one">%2$s bugün %1$d günlük ortalamanızdan daha az ekran süresi</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s bugün %1$d günlük ortalamanızdan daha fazla ekran süresi</item>
+        <item quantity="one">%2$s bugün %1$d günlük ortalamanızdan daha fazla ekran süresi</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f kere</item>
+        <item quantity="zero">%.2f kere</item>
+        <item quantity="one">%.2f kere</item>
     </plurals>
 </resources>

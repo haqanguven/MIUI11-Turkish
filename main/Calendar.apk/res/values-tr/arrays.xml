@@ -179,17 +179,17 @@
         <item>1982-01-10</item>
     </string-array>
     <string-array name="fortune_random_name">
-        <item>Hakan</item>
-        <item>Gökhan</item>
-        <item>Barış</item>
         <item>Hüseyin</item>
+        <item>Barış</item>
+        <item>Gökhan</item>
+        <item>Hakan</item>
         <item>Gamze</item>
         <item>Gizem</item>
         <item>Şengül</item>
         <item>Ayşe</item>
-        <item>Duru</item>
-        <item>Hira</item>
         <item>Rüzgar</item>
+        <item>Hira</item>
+        <item>Duru</item>
     </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>

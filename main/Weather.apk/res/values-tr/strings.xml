@@ -75,7 +75,7 @@
     <string name="aqi_settings_title">HKE</string>
     <string name="aqi_station_best_quality_station">Çevredeki en iyi</string>
     <string name="aqi_station_min_distance_station">En yakın istasyon</string>
-    <string name="aqi_sub_desc">AQI</string>
+    <string name="aqi_sub_desc">HKE</string>
     <string name="aqi_top_pollution">Tehlikeli kirleticiler</string>
     <string name="button_abandon">Değişiklikleri yoksay</string>
     <string name="button_add_city">Konum ekle</string>

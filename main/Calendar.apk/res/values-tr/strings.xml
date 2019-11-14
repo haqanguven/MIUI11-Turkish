@@ -82,6 +82,7 @@
     <string name="anti_aggression_day">Saldırganlık günü</string>
     <string name="anti_aggression_day_tradition">Saldırganlık günü</string>
     <string name="app_label">Takvim</string>
+    <string name="app_name">Statik</string>
     <string name="arbor_day">Ağaç dikme günü</string>
     <string name="arbor_day_tradition">Ağaç dikme günü</string>
     <string name="armed_forces_day">Askeri bayram</string>
@@ -230,6 +231,14 @@
     <string name="edit_event_tab_birthday">Doğum günü</string>
     <string name="edit_event_tab_countdown">Geri sayım</string>
     <string name="edit_event_tab_event">Etkinlik</string>
+    <string name="edit_event_title_create_agenda">Etkinlik ekle</string>
+    <string name="edit_event_title_create_anniversary">Yıl dönümü ekle</string>
+    <string name="edit_event_title_create_birthday">Doğum günü ekle</string>
+    <string name="edit_event_title_create_countdown">Geri sayım ekle</string>
+    <string name="edit_event_title_edit_agenda">Etkinliği düzenle</string>
+    <string name="edit_event_title_edit_anniversary">Yıl dönümünü düzenle</string>
+    <string name="edit_event_title_edit_birthday">Doğum gününü düzenle</string>
+    <string name="edit_event_title_edit_countdown">Geri sayımı düzenle</string>
     <string name="edit_event_to_label">Bitiş</string>
     <string name="electricity_amount_label">Elektrik tüketimi</string>
     <string name="electricity_bill_event_title">Elektrik ücreti ödemesi:</string>
@@ -435,6 +444,7 @@
     <string name="limit_card_preview_desc">Abone olduktan ve bir limit hatırlatıcı ayarladıktan sonra verileri güncelleyin</string>
     <string name="limit_card_set_reminder">Hatırlatıcıyı ayarla</string>
     <string name="limit_city_label">Şehir seçimi</string>
+    <string name="limit_detail_no_limit">Sınırsız</string>
     <string name="limit_detail_title">Şehir sınırı</string>
     <string name="limit_no_city">Şehir verisi yok</string>
     <string name="limit_notification_date_format">d/M(EE)</string>
@@ -802,6 +812,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="tab_title_day">Gün</string>
     <string name="tab_title_month">Ay</string>
     <string name="tab_title_week">Hafta</string>
+    <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
+    <string name="tag_feed_list_container">feed_list_container</string>
     <string name="taishen">Fetal tanrı</string>
     <string name="talk_back_month">Ay</string>
     <string name="talk_back_read_date">%1$s (%2$s ay takvimine göre)</string>

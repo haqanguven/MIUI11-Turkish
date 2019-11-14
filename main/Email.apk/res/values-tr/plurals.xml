@@ -5,8 +5,8 @@
         <item quantity="one">%1$d+ okunmamış ileti</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d adet okunmamış ileti</item>
-        <item quantity="one">%1$d adet okunmamış ileti</item>
+        <item quantity="other">%1$d okunmamış ileti</item>
+        <item quantity="one">%1$d okunmamış ileti</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d konuşma arşivlensin mi?</item>
@@ -53,8 +53,8 @@
         <item quantity="one">&lt;b>%1$d&lt;/b> öğe önemli klasöründen kaldırıldı</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>Kimlik%1$d&lt;/b>\" öğe spam klasöründen kaldırıldı\"</item>
-        <item quantity="one">&lt;b>Kimlik%1$d&lt;/b>\" öğe spam klasöründen kaldırıldı\"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> öğe spam klasöründen kaldırıldı</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> öğe spam klasöründen kaldırıldı</item>
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">&lt;b>%1$d&lt;/b> mesaj spam olarak bildirildi</item>
@@ -121,15 +121,15 @@
         <item quantity="one">%1$d kişiye yanıt ver</item>
     </plurals>
     <plurals name="remote_search_result">
-        <item quantity="other">Tüm hesaplardan %s sonuçlar</item>
-        <item quantity="one">Tüm hesaplardan %s sonuçlar</item>
+        <item quantity="other">Tüm hesaplardan %s sonuç</item>
+        <item quantity="one">Tüm hesaplardan %s sonuç</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">%1$d adet eski ileti</item>
         <item quantity="one">%1$d adet eski ileti</item>
     </plurals>
     <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">"%2$s'de %1$s gönderilmemiş mesaj"</item>
-        <item quantity="one">"%2$s'de %1$s gönderilmemiş mesaj"</item>
+        <item quantity="other">%1$s %2$s içinde gönderilmemiş mesaj</item>
+        <item quantity="one">%1$s %2$s içinde gönderilmemiş mesaj</item>
     </plurals>
 </resources>

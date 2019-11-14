@@ -242,7 +242,7 @@
     <string name="search_alarm_clock_keywords">Alarm;Alarm saati;</string>
     <string name="search_stopwatch_keywords">Kronometre</string>
     <string name="search_timer_keywords">Zamanlayıcı</string>
-    <string name="search_worldclock_keywords">Zaman; Dünya saati; Saat</string>
+    <string name="search_worldclock_keywords">Zaman;Dünya saati;Saat</string>
     <string name="set_alarm">Zaman seçin</string>
     <string name="set_alarm_choose_ringtone">Zil sesi seçin</string>
     <string name="set_alarm_done">Bitti</string>
