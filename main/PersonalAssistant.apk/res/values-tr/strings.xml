@@ -449,8 +449,8 @@
     <string name="cta_dialog_miot_text_all">Normal çalışabilmesi için Mi evin internet ağınızı, konumunuzu, bluetoothunuzu açma yetkisini alması, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>
     <string name="cta_dialog_negative">Çık</string>
     <string name="cta_dialog_positive">Kabul et</string>
-    <string name="cta_dialog_text_all">Uygulama küpünü kullanmak için kullanıcı sözleşmesi ve gizlilik politikasını kabul etmeniz gerekmektedir: %1$s %2$s %3$s %4$s. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor</string>
-    <string name="cta_dialog_text_new_user">"Uygulama kasasını kullanmadan önce Xiaomi'nin %1$s Kullanıcı sözleşmesi %2$s, %3$s Gizlilik Politikası %4$s ve %5$s akıllı yardımcı Gizlilik politikasını %6$s kabul etmelisiniz. Uygulama kasasının internete bağlanması ve normal çalışması için konum bilgilerinize erişmesi gerekir. Kabul etmek için başlat düğmesine dokunun"</string>
+    <string name="cta_dialog_text_all">Uygulama kasasını kullanmak için kullanıcı sözleşmesi ve gizlilik politikasını kabul etmeniz gerekmektedir: %1$s %2$s %3$s %4$s. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor</string>
+    <string name="cta_dialog_text_new_user">%1$s kullanıcı sözleşmemizi %2$s ve %3$s gizlilik politikasını %4$s okuyun ve kabul edin</string>
     <string name="cta_dialog_text_old_user">Uygulama kasasını kullanmadan önce %1$s akıllı yardımcı Gizlilik politikası %2$s’nı kabul etmeniz gerekir. Kabul etmek için başlat düğmesine dokunun</string>
     <string name="cta_dialog_title">Şartlar ve koşullar</string>
     <string name="cta_negative">Kapat</string>
