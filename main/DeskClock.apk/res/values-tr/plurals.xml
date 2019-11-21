@@ -68,4 +68,20 @@
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1s saat</item>
+        <item quantity="one">%1$s saat</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1s saat</item>
+        <item quantity="one">%1$s saat</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
+    </plurals>
 </resources>

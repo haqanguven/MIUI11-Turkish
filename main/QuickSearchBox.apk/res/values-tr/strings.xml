@@ -40,6 +40,10 @@ Tarayıcı geçmişinizi temizlemek için tarayıcının ayarlarını kullanın"
     <string name="search_sources">Aranabilir öğeler</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="voice_search_hint_title">Şunu söylemeyi deneyin:</string>
+    <string name="miuishare_no_network">Ağa bağlanılamadı</string>
+    <string name="miuishare_title_more">Daha fazla</string>
+    <string name="miuishare_title_share">Paylaş</string>
+    <string name="miuishare_wechat_timeline_title">WeChat anılar</string>
     <string name="about_preference_activity_title">Hakkında</string>
     <string name="account_prifix">Hesap:</string>
     <string name="apk_description">"Global arama cihazınızda ihtiyaç duyacağınız her şeyi bulmanızı sağlar
@@ -228,6 +232,7 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="mi_account_unlogin_title">Oturum açılmadı</string>
     <string name="miui_autologin_bar_error">Oturum açılamıyor</string>
     <string name="miui_autologin_bar_title">Mi hesabı ile oturum açın</string>
+    <string name="more_tabs">Daha fazla</string>
     <string name="network_unavailable">Ağa bağlanılamadı</string>
     <string name="new_cta_declaration_location">Doğru hava durumu bilgileri, ilgili yerel hizmetler ve çevrimiçi mağazaları sunmak için</string>
     <string name="new_cta_declaration_read_contacts">Kişileri aramak için</string>
@@ -253,6 +258,7 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="permission_prompt_title">Daha fazlasını istiyor musunuz?</string>
     <string name="pull_to_exit">Çıkış yapmak için aşağı doğru çekin</string>
     <string name="pull_to_input">Arama çubuğunu görüntülemek için aşağı doğru çekin</string>
+    <string name="qsb_feedback_email">misearch-feedback@xiaomi.com</string>
     <string name="reader_history_default_subtitle">Son görüntülenenler</string>
     <string name="reader_history_read_continue">Okumaya devam et</string>
     <string name="reader_history_title">Kitaplar</string>
@@ -323,6 +329,7 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="settings_source_description">Ayarlar</string>
     <string name="settings_source_label">Ayarlar</string>
     <string name="settings_speech_title">Sesli arama</string>
+    <string name="share_by_yidianzixun">[Bilgi]</string>
     <string name="share_page_text">Ne paylaştığıma bak: %1$s %2$s</string>
     <string name="speech_preference_activity_title">Sesli arama</string>
     <string name="storage_internal">Dahili depolama alanı</string>
@@ -356,6 +363,7 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="switch_prompt_title">%s bulamıyor musunuz?</string>
     <string name="switch_prompt_title_default">İhtiyacınız olanı bulamıyor musunuz?</string>
     <string name="switch_setting">Ayarlar</string>
+    <string name="toast_network_fail">Bir ağ hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="today">Bugün</string>
     <string name="transfer_data_from">Panodan</string>
     <string name="translation_description">İngilizce-Çince çeviri</string>
@@ -382,14 +390,6 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="xiaoai_speech_uninstalled">Mi AI sesli yardımcı silindi</string>
     <string name="xiaomi_search_label">Sonuçlar</string>
     <string name="yesterday">Dün</string>
-    <string name="miuishare_no_network">Ağa bağlanılamadı</string>
-    <string name="miuishare_title_more">Daha fazla</string>
-    <string name="miuishare_title_share">Paylaş</string>
-    <string name="miuishare_wechat_timeline_title">WeChat anılar</string>
-    <string name="mobile_network_settings">Veri ağını etkinleştir</string>
-    <string name="more_tabs">Daha fazla</string>
-    <string name="qsb_feedback_email">misearch-feedback@xiaomi.com</string>
-    <string name="share_by_yidianzixun">Bilgi</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -423,13 +423,14 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="debug_server_preview_mode">Sunucu önizleme ortamı</string>
+    <string name="debug_web_preview_mode">Önizleme</string>
+    <string name="device_id">Cihaz tanımlama</string>
     <string name="download_fail">İndirme başarısız oldu</string>
     <string name="download_ing">İndiriliyor</string>
     <string name="download_pause">Duraklatmayı indir</string>
     <string name="download_start">Şimdi indir</string>
     <string name="google_authority">com.android.quicksearchbox.google</string>
     <string name="history_item_sub">%s</string>
-    <string name="home_feed_url">https://search.browser.miui.com/v5/hf/#page=homefeed</string>
     <string name="hot_word_list_foot">Liste tabanlıdır ve arama sınırsızdır</string>
     <string name="hot_word_tab_title_update_status">Gerçek zamanlı en iyi arama %s güncellemesi</string>
     <string name="miui_privacy_policy_url" formatted="false">https://www.miui.com/res/doc/privacy.html?region=%s&amp;lang=%s</string>
@@ -455,10 +456,5 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="system_hint_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
     <string name="transfer_url_type">Kopyalanan bağlantıyı aç</string>
     <string name="translation_authority">com.android.quicksearchbox.translation</string>
-    <string name="xiaomi_info_flow_url">https://search.browser.miui.com/v5/#page=feed</string>
-    <string name="xiaomi_info_flow_url_alpha">https://search.browser.miui.com/v5/alpha/#page=feed</string>
-    <string name="xiaomi_source_url">https://search.browser.miui.com/v5/</string>
-    <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/v5/alpha/</string>
     <string name="xiaomi_source_url_file_cdn_prefix">file://ssl-cdn.static.browser.mi-img.com/</string>
-    <string name="xiaomi_source_url_file_prefix">file://search.browser.miui.com/</string>
 </resources>

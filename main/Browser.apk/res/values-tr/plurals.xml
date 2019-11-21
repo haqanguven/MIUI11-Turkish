@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d görüntüleme</item>
+        <item quantity="one">%d görüntüleme</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Sizin için %d yeni ürün bulundu</item>
+        <item quantity="one">Sizin için %d yeni ürün bulundu</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Son %d gün</item>
     </plurals>
@@ -38,5 +46,37 @@
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d dakika kaldı</item>
         <item quantity="one">%d dakika kaldı</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s yorum</item>
+        <item quantity="one">%s yorum</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d fotoğraf</item>
+        <item quantity="one">%d fotoğraf</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s görüntülüme</item>
+        <item quantity="one">%s görüntülüme</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s yorum</item>
+        <item quantity="one">%1$s | %2$s yorum</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d kişi zaten oy kullandı</item>
+        <item quantity="one">%d kişi zaten oy kullandı</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s saat önce</item>
+        <item quantity="one">· %s saat önce</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s dakika önce</item>
+        <item quantity="one">· %s dakika önce</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">Zhihu %d cevap</item>
+        <item quantity="one">Zhihu %d cevap</item>
     </plurals>
 </resources>
