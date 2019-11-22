@@ -36,8 +36,8 @@
     <string name="always_style">Her zaman</string>
     <string name="animation_clock_panel">Dalga arama</string>
     <string name="aod_close_color_inversion">Bu özellik renk ters çevirme ile birlikte kullanılamaz. Önce renk ters çevirme özelliğini kapatın</string>
-    <string name="aod_lock_screen_date">dd MMMM EEEE</string>
-    <string name="aod_lock_screen_date_12">dd MMMM EEEE</string>
+    <string name="aod_lock_screen_date">d MMMM EE</string>
+    <string name="aod_lock_screen_date_12">d MMMM EE</string>
     <string name="aod_mode_preview">Önizleme</string>
     <string name="aod_mode_style">Saat stili ve arka planı</string>
     <string name="aod_mode_style_title">Daha fazla seçenek</string>
@@ -105,7 +105,7 @@ olacağına inan"</string>
     <string name="time_location">Saat pozisyonu</string>
     <string name="time_style">Stil</string>
     <string name="time_style_layout">Düzen</string>
-    <string name="aod_lock_screen_date_lunar">dd MMMM EEEE</string>
+    <string name="aod_lock_screen_date_lunar">d MMMM EE</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>
