@@ -1604,7 +1604,9 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="screenshot_edit">Düzenle</string>
     <string name="screenshot_failed_title">Ekran resmi yakalanamadı</string>
     <string name="screenshot_failed_to_capture_text">Uygulama veya kuruluşunuz tarafından ekran görüntülerine izin verilmiyor</string>
+    <string name="screenshot_failed_to_capture_title">Bu uygulama ekran görüntüsü almanıza izin vermiyor</string>
     <string name="screenshot_failed_to_save_text">Sınırlı depolama alanı nedeniyle ekran görüntüsü kaydedilemiyor</string>
+    <string name="screenshot_failed_to_save_title">Yeni ekran görüntüleri için yeterli depolama alanı yok</string>
     <string name="screenshot_failed_to_save_unknown_text">Ekran resmi kaydedilirken bir hata oluştu</string>
     <string name="screenshot_feedback_txt">Geri bildirim</string>
     <string name="screenshot_insert_failed">Ekran resmi yüklenemedi. Yeni bir ekran görüntüsü alın veya galeride resmi görüntüleyin</string>

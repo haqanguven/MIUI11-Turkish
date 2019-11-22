@@ -3,7 +3,6 @@
     <string name="action_add_to_workspace">İş alanına ekle</string>
     <string name="activity_not_found">Uygulama cihazınıza yüklü değil</string>
     <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınız tamamen yeniden başlatılana kadar bekleyin</string>
-    <string name="add">Ekle</string>
     <string name="add_custom_category">Özelleştirme</string>
     <string name="add_screen">Ekran ekle</string>
     <string name="added_all_category">Tüm uygulamalar başarıyla eklendi</string>
@@ -166,6 +165,7 @@
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="edit">Düzenle</string>
     <string name="edit_folder_title">Klasör adını düzenle</string>
     <string name="edit_mode_dual_app">Çift uygulama oluştur</string>
     <string name="edit_mode_group">Grup</string>
