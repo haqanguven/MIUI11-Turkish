@@ -172,15 +172,15 @@
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
     <string name="connecting">Bağlanılıyor</string>
     <string name="dc_activity_title">Derin temizlik</string>
-    <string name="dc_advise_delete">Free up space</string>
+    <string name="dc_advise_delete">Boş alan</string>
     <string name="dc_group_title_appclean">Uygulamalar</string>
     <string name="dc_header_can_clean">Temizlenebilir</string>
-    <string name="dc_header_can_not_clean">Occupied</string>
-    <string name="dc_header_used_space_text">Depolama meşgul</string>
+    <string name="dc_header_can_not_clean">Dolu</string>
+    <string name="dc_header_used_space_text">Depolama dolu</string>
     <string name="dc_item_summary_wechat_chat">Daha fazla yer açmak için sohbet geçmişini temizle</string>
     <string name="dc_item_title_apk">Kurulum paketlerini sil</string>
     <string name="dc_item_title_app_data">Uygulama verilerini temizle</string>
-    <string name="dc_item_title_image">Delete photos</string>
+    <string name="dc_item_title_image">Fotoğrafları sil</string>
     <string name="dc_item_title_large_file">Büyük dosyaları sil</string>
     <string name="dc_item_title_qq">QQ temizleyici</string>
     <string name="dc_item_title_uninstall_app">Uygulamaları kaldır</string>
@@ -193,7 +193,7 @@
     <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
     <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>
     <string name="deepclean_1_k_clean">Hızlı temizlik</string>
-    <string name="deepclean_apk_content">"Apk'lari veya gereksiz uygulamaları silin"</string>
+    <string name="deepclean_apk_content">"Apk'ları veya gereksiz uygulamaları silin"</string>
     <string name="deepclean_apk_summary_empty">Her şey yolunda görünüyor. Silinecek Apk yok</string>
     <string name="deepclean_apk_version_error">Bilinmiyor</string>
     <string name="deepclean_app_content">30 gün boyunca kullanılmayan uygulamaları sil</string>
@@ -309,7 +309,7 @@
     <string name="hints_cache_msd_title">Delta güncellemesi</string>
     <string name="hints_cleanfinish">Temizleme sona erdi</string>
     <string name="hints_deepclean_list_item_from">%s konumundan</string>
-    <string name="hints_deepclean_scanning">Taranıyor: %s</string>
+    <string name="hints_deepclean_scanning">"Taranıyor: %s"</string>
     <string name="hints_finish_quick_cleanup">Tamamlandı</string>
     <string name="hints_finish_quick_cleanup_title">%s çöpü temizle</string>
     <string name="hints_finish_quick_scan">Tarama tamamlandı</string>
@@ -378,7 +378,7 @@
     <string name="low_memory_warning_dialog_ok_button">Temizle</string>
     <string name="low_memory_warning_dialog_title">Yeteri kadar boş alan yok</string>
     <string name="main_title_filesize">%1$s çöp</string>
-    <string name="main_total_garbage">toplam çöp</string>
+    <string name="main_total_garbage">Çöp boyutu</string>
     <string name="mainbtn_text_no_trash">Atla</string>
     <string name="mainbtn_text_quick_cleanup">Temizle: %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Temizle</string>

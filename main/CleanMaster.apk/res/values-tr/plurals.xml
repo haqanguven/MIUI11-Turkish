@@ -23,8 +23,8 @@
         <item quantity="one">Saniye başına %1$d öğe | Kalan süre: %2$s</item>
     </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Take %1$d steps to free up %2$s</item>
-        <item quantity="one">Take %1$d step to free up %2$s</item>
+        <item quantity="other">%2$s boşaltmak için %1$d adım atın</item>
+        <item quantity="one">%2$s boşaltmak için %1$d adım atın</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> kurulum paketini silebilirsiniz&lt;/Data></item>
@@ -39,12 +39,12 @@
         <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> gereksiz fotoğrafı silebilirsiniz&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> büyük dosyayı silebilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> büyük dosyayı silebilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> büyük boyutlu dosyayı silebilirsiniz&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> büyük boyutlu dosyayı silebilirsiniz&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> nadiren kullanılan uygulamaları kaldırabilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> nadiren kullanılan uygulamaları kaldırabilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_video">
         <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz&lt;/Data></item>
