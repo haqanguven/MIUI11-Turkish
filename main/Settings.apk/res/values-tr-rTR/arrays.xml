@@ -3531,4 +3531,56 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>zen_mode_from_starred</item>
         <item>zen_mode_from_none</item>
     </string-array>
+	<string-array name="statusbar_style_entries">
+		<item>Varsayılan</item>
+		<item>Merkezi saat</item>
+		<item>Karışık</item>
+		<item>Aosp</item>
+	</string-array>
+	<string-array name="list_animation_entries">
+		<item>Varsayılan</item>
+		<item>Dalga (Sol)</item>
+		<item>Dalga (Sağ)</item>
+		<item>Alfa</item>
+		<item>Ölçek</item>
+		<item>Yığın (Üst)</item>
+		<item>Yığın (Alt)</item>
+		<item>Açılma</item>
+		<item>Kat</item>
+		<item>Çevirme (Sol)</item>
+		<item>Çevirme (Sağ)</item>
+	</string-array>
+	<string-array name="list_interpolator_entries">
+		<item>Varsayılan</item>
+		<item>Hızlandırma</item>
+		<item>Yavaşlatma</item>
+		<item>Hızlandırma yavaşlatma</item>
+		<item>Geri</item>
+		<item>İleri</item>
+		<item>Geri ileri</item>
+		<item>Sıçrama</item>
+		<item>Halka</item>
+		<item>Doğrusal</item>
+	</string-array>
+	<string-array name="smart_mobiledata_entries">
+		<item>Değiştirme</item>
+		<item>4G öncelikli</item>
+		<item>3G öncelikli</item>
+		<item>Sadece 2G</item>
+	</string-array>
+	<string-array name="smart_timer_entries">
+		<item>Değiştirme</item>
+		<item>10 dakika</item>
+		<item>20 dakika</item>
+		<item>30 dakika</item>
+		<item>1 saat</item>
+		<item>2 saat</item>
+		<item>3 saat</item>
+	</string-array>
+	<string-array name="smart_timer_sleepon_entries">
+		<item>Etkinleştirme</item>
+		<item>10 dakika</item>
+		<item>20 dakika</item>
+		<item>30 dakika</item>
+	</string-array>
 </resources>

@@ -2173,4 +2173,12 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
     <string name="zen_mode_enable_dialog_turn_on">Aç</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
+	<string name="call_backlight_title">Maksimum parlaklık</string>
+	<string name="call_backlight_night_title">Gece</string>
+	<string name="call_backlight_mode">Arama parlaklığı</string>
+	<string name="call_backlight_start_time">Başlama zamanı</string>
+	<string name="call_backlight_stop_time">Bitiş zamanı</string>
+	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
+	<string name="sim_time">Sim kart seçme zamanı</string>
+	<string name="sim_time_summary">Sim kart seçme zamanı: %s saniye</string>
 </resources>
