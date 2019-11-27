@@ -1911,9 +1911,9 @@
         <item>Ekranı uyandırma</item>
     </string-array>
     <string-array name="keyguard_notification_status_values">
+        <item>0</item>
         <item>1</item>
         <item>2</item>
-        <item>0</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Mavi</item>

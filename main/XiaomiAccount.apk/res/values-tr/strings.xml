@@ -418,9 +418,9 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="action_update_phone">Telefon numarasını değiştir</string>
     <string name="action_add_phone">Telefon numarası ekle</string>
     <string name="phone_num_use_for">Telefon numarası aşağıdakiler için kullanılır:</string>
-    <string name="sign_in">Giriş yapılıyor</string>
-    <string name="get_back_pwd">Şifre sıfırlanıyor</string>
-    <string name="identity">Kimlik</string>
+    <string name="sign_in">Oturum açma</string>
+    <string name="get_back_pwd">Şifre sıfırlama</string>
+    <string name="identity">Kimliğiniz</string>
     <string name="set_success">Başarıyla değiştirildi</string>
     <string name="account_user_details">Kişisel bilgiler</string>
     <string name="account_security">Hesap güvenliği</string>

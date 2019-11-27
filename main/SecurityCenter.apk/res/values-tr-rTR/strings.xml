@@ -1299,6 +1299,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_optimize_close_app">Aşırı güç harcayan uygulamaları kapat</string>
     <string name="power_optimize_disable_app_autostart">Uygulamaların otomatik olarak açılmalarından kaçın</string>
     <string name="power_optimize_disable_start_other_app">Uygulamaların diğer uygulamaları açmalarından kaçın</string>
+    <string name="power_optimize_disable_5g">5G bağlantısını kısıtla</string>
     <string name="power_optimize_brightness">Ekran parlaklığı</string>
     <string name="power_optimize_open_hide_mode">Pil tasarrufunu aç</string>
     <string name="power_optimize_auto_catagory_title">Pil sorunları</string>
@@ -1463,6 +1464,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_scan_item_title_battery_details">Pil kullanım ayrıntıları</string>
     <string name="power_center_hints_scan_danger_result">Pil sorunlarını şimdi çözebilirsiniz</string>
     <string name="power_center_scan_item_title_running_app">Arka planda çalışan uygulamalar</string>
+    <string name="power_center_scan_item_title_5g">5G bağlantısı</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth özelliğini kapat</string>
     <string name="power_center_list_item_set_lockscreen_time">30 saniye işlem yapılmadığında ekranı kapat</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">%d saniye aktif olmadığında cihazı kilitle</string>
@@ -1484,9 +1486,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
     <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
     <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini kapatın</string>
+    <string name="power_save_ps_close_setting_5g">Güç tüketen özellikleri sınırlayın (Senkronizasyon, 5G bağlantısı ve GPS)</string>
     <string name="power_center_dialog_msg_top">Pil tasarrufu açıkken Miui aşağıdaki optimizasyonları gerçekleştirir:</string>
     <string name="power_center_dialog_msg_bottom">Pil ömrünü %1$d saat %2$d dakikaya kadar artırabilirsiniz. Pil tasarrufu açılsın mı?</string>
     <string name="power_dialog_super_save_msg">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını azaltır. Ultra pil tasarrufu açılsın mı?</string>
+    <string name="power_dialog_super_save_msg_5g">"Ultra pil tasarrufu cihazınızın performansını düşürerek çoğu güç tüketen özelliği kısıtlar. Yalnızca aramalar, mesajlar ve ağ bağlantısı etkilenmez. Ultra pil tasarrufu açılsın mı?"</string>
     <string name="power_dialog_super_save_title">Ultra pil tasarrufu</string>
     <string name="power_center_power_save_title_text">Pil tasarrufu</string>
     <string name="power_center_super_save_title_text">Ultra pil tasarrufu</string>
@@ -2326,6 +2330,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="face_unlock_verity_dialog_title_failed">Sizi tanıyamadım</string>
     <string name="face_unlock_verity_dialog_title_succeed">Başarıyla doğrulandı</string>
     <string name="face_unlock_toast_verity_failed">Yüz verisi doğrulanamadı. Uygulama kilidi ayarlarına gidin ve oradan tekrar yüz verinizi doğrulamayı deneyin</string>
+    <string name="privacyapp_number_masked_text">Bildirim içeriği gizli</string>
+    <string name="privacyapp_number_unmasked_text">Bildirim içeriği gizlenebilir</string>
     <string name="wakepath_confirm_start_activity">%1$s uygulamasının %2$s uygulamasını açmasına izin verilsin mi?</string>
     <string name="unlike">Hayır. Teşekkürler</string>
     <string name="toast_network_eror">Ağa bağlanılamıyor</string>
@@ -2892,6 +2898,13 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek ile kişisel bilgilerinizin açığa çıkmasına neden olabilir
 Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanabilir"</string>
     <string name="device_manager_apply_step_3">İlerlemeden önce tüm olası riskleri anladığınızdan emin olun. Bu uygulama için cihaz yöneticisi şimdi başlatılsın mı?</string>
+    <string name="privacy_notification_title_camera_mic">%1s arka planda kamera ve mikrofon kullanıyor</string>
+    <string name="privacy_notification_title_camera">%1s arka planda kamera kullanıyor</string>
+    <string name="privacy_notification_title_mic">%1s arka planda mikrofon kullanıyor</string>
+    <string name="privacy_notification_subtitle">İzinleri yönetmek için dokunun</string>
+    <string name="privacy_description_camera_mic">%1s arka planda kamera ve mikrofon kullanıyor. Bu aktiviteyi sınırlandırmak için aşağıdaki düğmeyi değiştirebilirsiniz</string>
+    <string name="privacy_description_camera">%1s arka planda kamerayı kullanıyor. Bu aktiviteyi sınırlandırmak için aşağıdaki düğmeyi değiştirebilirsiniz</string>
+    <string name="privacy_description_mic">%1s arka planda mikrofon kullanıyor. Bu aktiviteyi sınırlandırmak için aşağıdaki düğmeyi değiştirebilirsiniz</string>
     <string name="app_permission_use_neccesary">Gerekli izinler</string>
     <string name="app_permission_use_no_neccesary">İsteğe bağlı izinler</string>
     <string name="app_permission_use_title">İzinler</string>
@@ -2929,9 +2942,9 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama kısmen çalışama</string>
     <string name="system_permission_declare_revoke_uninstallable">Güvenlik > Uygulamaları yönet > İzinler > İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz</string>
     <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
-    <string name="system_permission_declare_double_link">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
-    <string name="system_permission_declare_user_agreement">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> okuyun ve kabul edin</string>
-    <string name="system_permission_declare_privacy_policy">Bu özelliği kullanmadan önce <a href="%1$s">Gizlilik politikası</a> okuyun ve kabul edin</string>
+    <string name="system_permission_declare_double_link"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikamızı&lt;/a> okuyun ve kabul edin</Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">kullanıcı sözleşmemizi&lt;/a> okuyun ve kabul edin</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">gizlilik politikamızı&lt;/a> okuyun ve kabul edin</Data></string>
     <string name="system_permission_declare_agree">Kabul et</string>
     <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
     <string name="system_permission_perm_send_mms">Multimedya gönder</string>

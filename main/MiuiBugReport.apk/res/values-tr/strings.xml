@@ -88,8 +88,9 @@
     <string name="error_no_connection">Ağa bağlanılamadı</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s sorunu %2$s</string>
     <string name="feedback_choose_app_tag">Sorununuzu seçin</string>
-    <string name="feedback_choose_module">Öge seçin</string>
+    <string name="feedback_choose_module">Öğe seçin</string>
     <string name="feedback_choose_module_hint">Gerekli</string>
+    <string name="feedback_choose_occurrence_time">Zaman</string>
     <string name="feedback_choose_reproductivity">Üretkenlik</string>
     <string name="feedback_choose_third_app_name">Uygulama adını seçin</string>
     <string name="feedback_collect_log_failed">Kayıtlar alınamadı</string>
@@ -119,6 +120,7 @@
     <string name="feedback_detail_waiting">Oluşturuluyor</string>
     <string name="feedback_empty_report_list">Rapor yok</string>
     <string name="feedback_guess">Tahminimiz:</string>
+    <string name="feedback_hint_optional">Seç</string>
     <string name="feedback_history_remind_login_desc">Raporlarınızın detaylarını ve ilerleme sürecini görüntülemek için Mi hesabınız ile oturum açın</string>
     <string name="feedback_id">Kimlik: %d</string>
     <string name="feedback_jira_key">JIRA anahtarı: %s</string>
@@ -183,6 +185,7 @@
     <string name="feedback_third_packagename_hint">Hangi 3. parti uygulama soruna neden oluyor?</string>
     <string name="feedback_title">Başlık</string>
     <string name="feedback_title_hint">Kısaca sorunu açıklayın</string>
+    <string name="feedback_title_occurrence_time">Zaman seç</string>
     <string name="feedback_title_reproductivity">Üretkenliği seçin</string>
     <string name="feedback_tracking">Takip sorunları</string>
     <string name="feedback_version_label">Sürüm</string>
@@ -304,7 +307,7 @@
     <string name="module_security">Güvenlik &amp; Mi bulut</string>
     <string name="module_system">Sistem</string>
     <string name="module_tools">Sistem araçları</string>
-    <string name="modules">Öge seçin</string>
+    <string name="modules">Öğe seçin</string>
     <string name="multi_graph_more">Toplam öge: %d</string>
     <string name="network_err">Ağ bağlantısı kurulamıyor</string>
     <string name="network_errorbtntip_custom">Yeniden dene</string>
@@ -563,7 +566,4 @@ Hesabınızı etkinleştirmek için size göndermiş olduğumuz
     <string name="upload_log_failed">Kayıtlar gönderilemedi</string>
     <string name="warning_field_empty">%1$s girin</string>
     <string name="warning_field_invalid">Geçerli bir %1$s seçin</string>
-    <string name="feedback_choose_occurrence_time">Zaman</string>
-    <string name="feedback_hint_optional">Seç</string>
-    <string name="feedback_title_occurrence_time">Zaman seç</string>
 </resources>

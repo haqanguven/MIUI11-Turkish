@@ -373,6 +373,7 @@
     <string name="user_authentication_failed">Yetkilendirme sorunu: -29-</string>
     <string name="service_not_subscribed">Hizmete abone olunamadı: -33-</string>
     <string name="frequent_email">Sık kullanılan e-posta</string>
+    <string name="data_usage_context">Wifi açık değilse cihazınız ödeme planınıza bağlı olarak ek masraflara neden olabilecek bir mobil ağa bağlanacaktır</string>
     <string name="android_forward_intent_to_owner">@android:string/forward_intent_to_owner</string>
     <string name="android_forward_intent_to_work">@android:string/forward_intent_to_work</string>
     <string name="android_whichApplicationNamed">@android:string/whichApplicationNamed</string>

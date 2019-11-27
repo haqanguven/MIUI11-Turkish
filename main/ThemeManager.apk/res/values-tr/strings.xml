@@ -655,7 +655,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="show_mamual_hide_theme">Gizli yazı temaları göster</string>
     <string name="show_mamual_hide_wallpaper">Gizli yazı duvar kağıtlarını göster</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından yaratılır. Uygulamamız çalışmalarını desteklememize izin veren az miktarda reklam içeriyor</string>
+    <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından yaratılır. Çalışmalarını desteklemek için uygulama az miktarda reklam içeriyor</string>
     <string name="support_theme_store_supported">Desteğiniz için teşekkür ederiz</string>
     <string name="support_theme_store_title">Tasarımcılarımızı destekleyin</string>
     <string name="swipe_find_more">Daha fazlasını görüntülemek için yukarı doğru kaydırın</string>
@@ -851,7 +851,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_loop_order_loop">Orjinal</string>
     <string name="wallpaper_loop_order_shuffle">Düzensiz</string>
     <string name="wallpaper_loop_order_title">Slayt sırası</string>
-    <string name="wallpaper_loop_title">Duvar kağıtı slaytı</string>
+    <string name="wallpaper_loop_title">Duvar kağıdı slaytı</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Ana ekran duvar kağıdı slaytı</string>
     <string name="wallpaper_loop_title_lock_walpaper">Kilit ekranı duvar kağıdı slaytı</string>
     <string name="wallpaper_no_favorite">Burada henüz öğe yok</string>
@@ -870,6 +870,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_settings_pad_more_page_title">Daha fazla duvar kağıdı</string>
     <string name="wallpaper_settings_page_title">Duvar kağıdı</string>
     <string name="wallpaper_static">Statik</string>
+    <string name="wallpaper_subject_version">\@MI</string>
     <string name="wechat_not_found">"Öncelikle WeChat'i yükleyin"</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">İptal et</string>

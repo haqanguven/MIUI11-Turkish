@@ -11,7 +11,7 @@
     <string name="auth_notif_title">Oturum anahtarı</string>
     <string name="avrcp_cover_art_default_image_type">image</string>
     <string name="avrcp_cover_art_default_mimetype">JPEG</string>
-    <string name="avrcp_notification_name">BT AVRCP ileri özelliği</string>
+    <string name="avrcp_notification_name">Bluetooth AVRCP ileri özelliği</string>
     <string name="bluetooth_advanced_feat_description">Bluetooth gelişmiş tarama özelliği</string>
     <string name="bluetooth_connected">Bluetooth ses bağlandı</string>
     <string name="bluetooth_disconnected">Bluetooth ses bağlantısı kesildi</string>

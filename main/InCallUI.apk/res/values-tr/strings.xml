@@ -80,6 +80,7 @@
     <string name="manageConferenceLabel">Konferans araması yönetme</string>
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
     <string name="volte_call">VoLTE arama</string>
+    <string name="wifi_call">VoWifi arama</string>
     <string name="notification_dialing">Aranıyor</string>
     <string name="notification_ongoing_call">Devam eden arama</string>
     <string name="notification_on_hold">Beklemede</string>

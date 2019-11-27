@@ -101,7 +101,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="sdcard_no_enough_space_message">SD Kartınızda yeterli depolama alanı yok</string>
     <string name="data_no_enough_space_message">Cihazınızın dahili hafızasında yeterli boş alan yok</string>
     <string name="task_running_hint">İşlem zaten arka planda devam ediyor</string>
-    <string name="task_running_dialog">"Yedekleme ve geri yükleme işlemleri sürüyor. Görüntülemek için Tamam'a dokunun"</string>
+    <string name="task_running_dialog">Yedekleme ve geri yükleme işlemleri sürüyor. Görüntülemek için tamama dokunun</string>
     <string name="task_running_backup_hint">Görev halihazırda arka planda yürütülüyor</string>
     <string name="task_running_restore_hint">Görev halihazırda arka planda yürütülüyor</string>
     <string name="task_running_backup_dialog">"Yedekleme çalışıyor. Görüntülemek için tamam'a dokunun"</string>
@@ -176,7 +176,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="deselect_all">Seçimleri kaldır</string>
     <string name="reverse_all">Tümünü temizle</string>
     <string name="refresh">Yenile</string>
-    <string name="cloud_item_info_summary">" (Yerel: %1$s | Mi bulut: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Yerel: %1$s | Xiaomi bulut: %2$s)"</string>
     <string name="cloud_restore_guide">%s uygulamasının kullanıcı verilerini geri yüklemek için geri yükle butonuna dokunun</string>
     <string name="import_from_xiaomi_account_hint1">"1.Mi Talk uygulamasını indirin ve oturum açın
 http://www.miliao.com

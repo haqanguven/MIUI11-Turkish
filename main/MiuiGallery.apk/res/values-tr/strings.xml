@@ -1317,8 +1317,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="new_album_invalid_char">İsimler %s karakterini içermemelidir. Bir harf veya rakam girin</string>
     <string name="new_album_invalid_name">%s albümü sistem albümüdür. Lütfen yeniden adlandırın</string>
     <string name="new_album_invalid_prefix">Albüm adı başlangıcında \".\" veya \"_\" karakterlerini kullanmayın</string>
-    <string name="new_relation_invalid_char">Grup adları “%s” içermemelidir. Harfler, rakamlar veya karakterler kullanın</string>
-    <string name="new_relation_invalid_name">“%s” isimli bir grup zaten mevcut, bu grubu yeniden adlandırın</string>
+    <string name="new_relation_invalid_char">Grup adları %s içermemelidir. Harfler, rakamlar veya karakterler kullanın</string>
+    <string name="new_relation_invalid_name">%s isimli bir grup zaten mevcut. Bu grubu yeniden adlandırın</string>
     <string name="new_relation_invalid_prefix">Grup adları “.” veya “_” karakterleri ile başlayamaz</string>
     <string name="next">Sonraki</string>
     <string name="no">Hayır</string>

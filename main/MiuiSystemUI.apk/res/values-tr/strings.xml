@@ -2100,7 +2100,7 @@ Kimlik bilgisi depolama etkin değil gibi görünüyor"</string>
     <string name="yoigo_mnc">04</string>
     <string name="zen_alarm_warning">Sonraki alarmınızı %1$s duymayacaksınız</string>
     <string name="zen_alarm_warning_indef">Bundan önce kapatırsanız %1$s sonraki alarmınızı duymayacaksınız</string>
-    <string name="zen_alarms_introduction">"Alarmlar dışında sesler ve titreşimlerden rahatsız olmazsınız. "</string>
+    <string name="zen_alarms_introduction">Alarmlar dışında sesler ve titreşimlerden rahatsız edilmezsiniz. Müzik, video ve oyunlar dahil olmak üzere çalmayı seçtiğiniz her şeyi hala duyacaksınız</string>
     <string name="zen_interruption_level_priority">Sadece öncelik</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Her seferinde sor</string>
@@ -2109,7 +2109,7 @@ Kimlik bilgisi depolama etkin değil gibi görünüyor"</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
     <string name="zen_priority_customize_button">Özelleştir</string>
-    <string name="zen_priority_introduction">"Belirttiğiniz alarmlar, hatırlatıcılar, etkinlikler ve arayanlar dışındaki sesler ve titreşimlerden rahatsız edilmezsiniz. "</string>
+    <string name="zen_priority_introduction">Belirttiğiniz alarmlar, hatırlatıcılar, olaylar ve arayanlar dışında sesler ve titreşimlerden rahatsız olmazsınız. Müzik, video ve oyunlar dahil olmak üzere çalmayı seçtiğiniz her şeyi hala duyacaksınız</string>
     <string name="zen_silence_introduction">Bu alarmlar, müzik, videolar ve oyunlar dahil tüm sesler ve titreşimleri engeller</string>
     <string name="zen_silence_introduction_voice">Bu alarmlar, müzik, videolar ve oyunlar dahil tüm sesler ve titreşimleri engeller. Hala telefon görüşmesi yapabilirsiniz</string>
 </resources>

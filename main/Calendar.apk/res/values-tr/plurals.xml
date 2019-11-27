@@ -95,6 +95,10 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d daha fazla etkinlik</item>
+        <item quantity="one">%d daha fazla etkinlik</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" gün"</item>
         <item quantity="one">" gün"</item>

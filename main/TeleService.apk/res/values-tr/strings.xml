@@ -1576,6 +1576,7 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="remove">Sil</string>
     <string name="remove_sip_account">Hesabı kaldır</string>
     <string name="removing_account">Kaldırılıyor</string>
+    <string name="replace_4g_template">4G</string>
     <string name="requesting_unlock">Ağ kilidini açma isteniliyor</string>
     <string name="respond_via_sms_canned_response_1">Şu anda konuşamıyorum. Daha sonra arar mısın?</string>
     <string name="respond_via_sms_canned_response_2">Hemen geri arayacağım</string>

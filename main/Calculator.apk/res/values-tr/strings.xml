@@ -136,6 +136,7 @@
     <string name="loading_message">Uygulama yükleniyor</string>
     <string name="loading_slogan">Uygulamaları yüklemeden kullanın</string>
     <string name="loading_tips">Ayarlar başarıyla indirildi. Uygulamak için Hesaplayıcıyı yeniden başlatın</string>
+    <string name="loan_basic_point">Temel nokta</string>
     <string name="loan_edittext_hint_commercial">Miktar girin</string>
     <string name="loan_edittext_hint_commercial_combined">Ticari (×10 bin)</string>
     <string name="loan_edittext_hint_fund">Miktar girin</string>
@@ -146,8 +147,15 @@
     <string name="loan_interest_rate">Faiz</string>
     <string name="loan_pay_years">Kredi süresi</string>
     <string name="loan_payback_way">Geri ödeme</string>
-    <string name="loan_repayment_detail_loading">Ayrıntılı geri ödeme planı yükleniyor…</string>
+    <string name="loan_repayment_detail_loading">Ayrıntılı geri ödeme planı yükleniyor</string>
+    <string name="loan_type_summary_lpr">KFO</string>
+    <string name="loan_type_title">Faiz oranı standardı</string>
     <string name="loan_unit">(×10 bin)</string>
+    <string name="lpr_ok">Anladım</string>
+    <string name="lpr_tips_msg">"8 Ekim 2019 tarihinden başlayarak kişisel ticari konut kredisi faiz oranı daha önce uygulanmış referans faiz oranı olan %4,9 yerine kredi faiz oranına göre hesaplanacaktır
+
+Çin Halk Bankası internet sitesinde bir ay ve beş yıl kredi faiz oranını her ayın 20'sinde belirtilecektir (Bankacılık tatilleri nedeniyle gecikmeler olabilir)"</string>
+    <string name="lpr_tips_title">LPR (Kredi faiz oranı)</string>
     <string name="medical_treatment">Tıbbi tedavi</string>
     <string name="menuDesc">menü</string>
     <string name="minusDesc">çıkarma</string>
@@ -639,10 +647,10 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="chinese_character_elder_brother">Erkek kardeş</string>
     <string name="chinese_character_elder_sister">Kız kardeş</string>
     <string name="chinese_character_father">Baba</string>
-    <string name="chinese_character_husband">Koca</string>
+    <string name="chinese_character_husband">Erkek eş</string>
     <string name="chinese_character_mother">Anne</string>
     <string name="chinese_character_son">Oğul</string>
-    <string name="chinese_character_wife">Karı</string>
+    <string name="chinese_character_wife">Kadın eş</string>
     <string name="chinese_character_younger_brother">Erkek kardeş</string>
     <string name="chinese_character_younger_sister">Kız kardeş</string>
     <string name="clear">C</string>
@@ -667,7 +675,7 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="from_unit_short">km/h</string>
     <string name="gay_other_search_result">Aynı cinsiyetten evlilik desteklenmiyor</string>
     <string name="gay_search_result">Bir erkek ya da kadın olmak önemli değil. Tıpkı senin gibi</string>
-    <string name="husband">Koca</string>
+    <string name="husband">Erkek eş</string>
     <string name="letter_a">A</string>
     <string name="letter_b">B</string>
     <string name="letter_c">C</string>
@@ -676,9 +684,12 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="letter_f">F</string>
     <string name="lg_mathematical_value">lg</string>
     <string name="ln_mathematical_value">ln</string>
+    <string name="loan_type_summary_base">@string/base_rate</string>
+    <string name="lpr_format">%%%1$s %2$s %3$s‱ = %%%4$s</string>
     <string name="minus">−</string>
     <string name="minusOne">-1</string>
     <string name="mortgage_equals">=</string>
+    <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
     <string name="mother">Anne</string>
     <string name="mul">×</string>
     <string name="percentage">%</string>
@@ -728,8 +739,9 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="unit_data_short_radix_16">HEX</string>
     <string name="unit_data_short_radix_2">BIN</string>
     <string name="unit_data_short_radix_8">OCT</string>
+    <string name="unit_per_ten_thousand">‱</string>
     <string name="unit_percentage">%</string>
-    <string name="wife">Karı</string>
+    <string name="wife">Kadın eş</string>
     <string name="younger_brother">Erkek kardeş</string>
     <string name="younger_sister">Kız kardeş</string>
 </resources>

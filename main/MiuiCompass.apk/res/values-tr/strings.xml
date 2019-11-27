@@ -23,6 +23,7 @@
     <string name="cancel">İptal et</string>
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">Ayarlar</string>
+    <string name="cta_v2_app_purpose">yön, koordinat, atmosfer basıncı ve mevcut rakımı göstermek</string>
     <string name="dialog_body_no_network">Wifi ağına bağlanın veya mobil veriyi açın</string>
     <string name="dialog_calibrat_altitude">Kalibre ediliyor</string>
     <string name="dialog_title_no_network">Ağa bağlanılamadı</string>
@@ -66,6 +67,5 @@
     <string name="unit_degree">Dereceler</string>
     <string name="using_camera_confirm_cancel">Çık</string>
     <string name="using_camera_confirm_ok">Kabul et</string>
-    <string name="cta_v2_app_purpose">Jeomanyetik güneyi, enlem, boylam, hava basıncını gösterin ve gösterge yüksekliğini hesaplayın</string>
     <string name="keywords_search_compass">Pusula;Kalibre et,Pusula;Basınç;Enlem;Enlem kontrol edin;Pusula uygulaması;Miui Pusula uygulaması;Pusula nerede;Pusulayı indirin;Atmosferik basınç;Rakımı kontrol et,rakım ne kadar</string>
 </resources>

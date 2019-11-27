@@ -75,6 +75,8 @@
     <string name="fast_connect_device_title_connecting">Bağlanılıyor</string>
     <string name="fast_connect_device_title_find_headset">%1$s kulaklığı bul</string>
     <string name="fast_connect_device_title_find_headset_others">%1$s diğerlerini bul</string>
+    <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
+    <string name="fast_connect_nzbt_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
     <string name="goto_package">Aç: %1$s</string>
     <string name="install_package">Daha fazla özellik için %1$s yükleyin</string>
     <string name="mi_band_vibrate_alarm">Alarm çaldığında titret</string>

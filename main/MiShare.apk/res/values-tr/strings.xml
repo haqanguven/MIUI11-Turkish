@@ -118,8 +118,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="throwing_screen">Yansıt</string>
     <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
     <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
-    <string name="transfer_to_pc_summary">"Öğeleri doğrudan Mi Notebook'lara göndermek için dosya paylaşımını kullanabilirsiniz
-Diğer dizüstü bilgisayarlara önce dosya paylaşımı uygulamasını yüklemelisiniz"</string>
+    <string name="transfer_to_pc_summary">Öğeleri doğrudan Mi Notebooklara göndermek için dosya paylaşımını kullanabilirsiniz. Diğer dizüstü bilgisayarlara önce dosya paylaşımı uygulamasını yüklemelisiniz</string>
     <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
     <string name="transfer_to_phone_summary">Fotoğrafları ve dosyaları yakındaki Mi telefonlara ve diğer uyumlu Android cihazlarına göndermenize olanak sağlar</string>
     <string name="transfer_to_phone_title">Dosyaları telefonlara gönder</string>

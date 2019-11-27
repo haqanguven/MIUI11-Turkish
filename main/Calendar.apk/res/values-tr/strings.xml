@@ -846,6 +846,12 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="ticket_card_description">Bugün rezerve edilebilir</string>
     <string name="ticket_card_lunar">%1$s tren bileti</string>
     <string name="ticket_card_phase">- %1$s dönemi</string>
+    <string name="time_format_12_hours_bigger_than_10">hh:mm a</string>
+    <string name="time_format_12_hours_smaller_than_10">h:mm a</string>
+    <string name="time_format_24_hours_bigger_than_10">HH:mm</string>
+    <string name="time_format_24_hours_smaller_than_10">H:mm</string>
+    <string name="time_line_format_12_hours_bigger_than_10">@string/time_format_12_hours_bigger_than_10</string>
+    <string name="time_line_format_12_hours_smaller_than_10">@string/time_format_12_hours_smaller_than_10</string>
     <string name="time_zone">Zaman dilimi</string>
     <string name="timezone_label">Zaman dilimi</string>
     <string name="title_confirm_close_chinese_calendar">Çin takvimini kapat</string>
