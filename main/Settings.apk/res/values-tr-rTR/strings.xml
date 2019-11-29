@@ -364,9 +364,9 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="aod_and_lock_screen_settings_title">Ortam ekranı &amp; kilit ekranı</string>
     <string name="aod_close_color_inversion">Parmak izi sensörü cihazınızın sağ kenarında bulunur</string>
     <string name="aod_name_wanxiang">Her zaman açık ekranı</string>
-    <string name="aod_notification_style_animation">Hiçbiri</string>
-    <string name="aod_notification_style_none">Kilit ekranı</string>
-    <string name="aod_notification_style_screen_on">Efekt</string>
+    <string name="aod_notification_style_animation">Efekt</string>
+    <string name="aod_notification_style_none">Hiçbiri</string>
+    <string name="aod_notification_style_screen_on">Kilit ekranı</string>
     <string name="aod_settings_category_name">Ortam ekranı</string>
     <string name="aod_settings_title">Ortam ekranı</string>
     <string name="aod_show_mode_title">Görüntüle</string>
@@ -6664,7 +6664,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="webview_uninstalled_for_user">(%s için yükleme kaldırıldı)</string>
     <string name="weight_heavy">kalın</string>
     <string name="weight_light">hafif</string>
-    <string name="weight_setting_toast">Yazı tipi ağırlığını yalnızca varsayılan sistem yazı tipi için değiştirebilirsiniz</string>
+    <string name="weight_setting_toast">Yazı tipi kalınlığı yalnızca sistem yazı tipi için kullanılabilir</string>
     <string name="welcome">Hoş geldiniz</string>
     <string name="wellbing_title">Dijital refah &amp; ebeveyn denetimleri</string>
     <string name="wfc_provisioned_switch_string">Kablosuz ağ üzerinden görüşme temel hazırlığını yap</string>
@@ -7504,7 +7504,7 @@ Ayarları şu şekilde güncelle:
 	<string name="full_screen_gesture_title">Tam ekran hareketleri</string>
 	<string name="system_animation_title">Sistem animasyonları</string>
 	<string name="list_animation_title">Liste animasyonu</string>
-	<string name="list_interpolator_title">Liste eklemesi</string>
+	<string name="list_interpolator_title">Liste eklenme animasyonu</string>
 	<string name="system_volume_option_title">Sistem sesi</string>
 	<string name="charging_sound_title">Şarj bağlantı sesi</string>
 	<string name="low_battery_warning_sounds_title">Düşük pil sesi</string>
