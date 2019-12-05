@@ -7510,6 +7510,7 @@ Ayarları şu şekilde güncelle:
 	<string name="low_battery_warning_sounds_title">Düşük pil sesi</string>
 	<string name="unlocking_fingerprint_title">Parmak izi ile kilidi aç</string>
 	<string name="unlocking_fingerprint_summary">Yeniden başlattıktan sonra şifreyi veya deseni girmek yerine parmak izi ile kilidini açmanıza izin verir</string>
+	<string name="secure_screenshot_disable">Her yerde ekran resmi al</string>
 	<string name="5GHz_force">5GHz zorlama modu</string>
 	<string name="5GHz_force_summary">Değişikliğin uygulanması için cihazınızı yeniden başlatın</string>
 	<string name="smart_mobile_network_settings_title">Akıllı ağ</string>

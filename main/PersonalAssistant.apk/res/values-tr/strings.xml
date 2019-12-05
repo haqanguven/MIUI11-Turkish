@@ -197,7 +197,7 @@
     <string name="alipay_reg_manual_sms_missed">Onay kodu mesajı alamıyor musunuz?</string>
     <string name="alipay_reg_manual_sms_resend">Mesaj doğrulama kodunu tekrar edinin</string>
     <string name="alipay_reg_manual_sms_time">Mesaj almak yaklaşık %1$d saniye sürer</string>
-    <string name="alipay_reg_manual_sms_tip">\"%1$s’ye bir doğrulama kodu mesajı gönderdik. Lütfen mesajları kontrol edin ve doğrulama kodunu girin</string>
+    <string name="alipay_reg_manual_sms_tip">"%1$s’ye bir doğrulama kodu mesajı gönderdik. Lütfen mesajları kontrol edin ve doğrulama kodunu girin"</string>
     <string name="alipay_reg_manual_sms_title">Doğrulama kodunu girin</string>
     <string name="alipay_reg_phone_hint">Lütfen cep telefon numaranızı girin</string>
     <string name="alipay_reg_phone_protocol">"Kaydolarak $alipay ve $taobao'ya katılıyorsunuz"</string>
@@ -1544,7 +1544,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="setting_football_fav_null">Herhangi bir takım takip etmiyorsunuz</string>
     <string name="setting_football_hupu">Sportskeeda</string>
     <string name="setting_football_loading">Yükleniyor</string>
-    <string name="setting_football_select_title" formatted="false">Takip edilecek takımları seçin (%d/%d)</string>
+    <string name="setting_football_select_title">Takip edilecek takımları seçin</string>
     <string name="setting_football_toast_max">4 takıma kadar seçebilirsiniz</string>
     <string name="setting_home_label">Ev adresinizi ekleyin</string>
     <string name="setting_launch_all_added">Daha fazla öge eklenemiyor</string>
@@ -1773,4 +1773,14 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
     <string name="yesterday">Dün</string>
+    <string name="clock_alarm">Alarm</string>
+    <string name="clock_parent">Saat</string>
+    <string name="phone_check">Optimizasyon</string>
+    <string name="battery_history">Pil</string>
+    <string name="google_assistant">Asistan</string>
+    <string name="google_parent">Google</string>
+    <string name="midrop_send">Gönder</string>
+    <string name="midrop_parent">Mi damla</string>
+    <string name="whatsapp_photos">Fotoğraflar</string>
+    <string name="whatsapp_parent">WhatsApp</string>
 </resources>

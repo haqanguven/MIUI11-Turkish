@@ -172,7 +172,7 @@
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
     <string name="connecting">Bağlanılıyor</string>
     <string name="dc_activity_title">Derin temizlik</string>
-    <string name="dc_advise_delete">Boş alan</string>
+    <string name="dc_advise_delete">Alan boşalt</string>
     <string name="dc_group_title_appclean">Uygulamalar</string>
     <string name="dc_header_can_clean">Temizlenebilir</string>
     <string name="dc_header_can_not_clean">Dolu</string>
@@ -521,9 +521,9 @@
     <string name="tips_low_storage_dialog_msg_storage">"Depolama alanınızın % 90'ını kullanıyorsunuz. Kullanmadığınız uygulamaları kaldırın"</string>
     <string name="tips_low_storage_dialog_msg_wechat">"WeChat önbellek boyutu 3GB'a ulaştı. Bu cihazınızı yavaşlatabilir. Şimdi WeChat önbelleği temizlensin mi?"</string>
     <string name="tips_low_storage_dialog_ok">Temizle</string>
-    <string name="tips_low_storage_dialog_ok_storage">Boş alan</string>
+    <string name="tips_low_storage_dialog_ok_storage">Alan boşalt</string>
     <string name="tips_low_storage_dialog_title">Depolama alanı azalıyor</string>
-    <string name="tips_of_app_manage">Depolama alanı kazanmak için nadir kullanılan uygulamaları silin</string>
+    <string name="tips_of_app_manage">Depolama alanında yer açmak için nadir kullanılan uygulamaları silin</string>
     <string name="tips_of_auto_launch_manage">Nadir kullanılan uygulamaların otomatik olarak başlatılmalarının önüne geçin</string>
     <string name="tips_of_cloud_service">Daha fazla Mi hizmeti kullanmak için Mi hesabınız ile oturum açın</string>
     <string name="tips_of_connect">Güvenlik uygulaması özelliklerinin tamamından faydalanmak için internete bağlanın</string>

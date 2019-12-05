@@ -1414,7 +1414,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
     <string name="stk_cc_ussd_to_dial_video">USSD isteği görüntülü çağrı olarak değişti</string>
     <string name="stk_cc_ussd_to_ss">USSD isteği SS isteği olarak değişti</string>
     <string name="stk_cc_ussd_to_ussd">Yeni USSD isteği olarak değişti</string>
-    <string name="storage_internal">Dahili olarak paylaşılan depolama alanı</string>
+    <string name="storage_internal">Dahili depolama alanı</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_sd_card_label">%s SD kartı</string>
     <string name="storage_usb">USB bellek</string>

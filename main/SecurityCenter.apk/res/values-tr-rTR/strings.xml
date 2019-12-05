@@ -1566,7 +1566,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="superpower_settins_autoenter_title">Otomatik olarak aç</string>
     <string name="superpower_settins_autoenter_summary">Pil sadece %10 sarj olduğunda ultra pil tasarrufunu otomatik olarak aç</string>
     <string name="superpower_notification_title">Kalan pil %10 değerinden az</string>
-    <string name="superpower_notification_new_title">"Kalan pilin %%d'den az"</string>
+    <string name="superpower_notification_new_title">"Kalan pilin %%%d'den az"</string>
     <string name="superpower_notification_summary">Ultra pil tasarrufunu aç</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını düşürür. Ultra pil tasarrufu açılsın mı?</string>
@@ -2101,7 +2101,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="start_downloading_app">İndirme işlemine başlanıyor: %1$s</string>
     <string name="clear_immediately">Şimdi temizle</string>
     <string name="title_of_app_manage">Uygulamalar</string>
-    <string name="tips_of_app_manage">Depolama alanı kazanmak için nadir kullanılan uygulamaları silin</string>
+    <string name="tips_of_app_manage">Depolama alanını boşaltmak için nadir kullanılan uygulamaları silin</string>
     <string name="title_of_auto_launch_manage">Otomatik başlatma</string>
     <string name="tips_of_auto_launch_manage">Nadir kullanılan uygulamaların otomatik olarak başlatılmalarının önüne geçin</string>
     <string name="close">Kapat</string>

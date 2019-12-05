@@ -475,7 +475,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="notification_multiple_title">Yeni mesajlar</string>
     <string name="notification_seen">Okundu olarak işaretle</string>
     <string name="number_add_hint">Telefon numarasını girin</string>
-    <string name="number_recognition_partner">Gönderen kimliği tanıma servis sağlayıcıları</string>
+    <string name="number_recognition_partner">Gönderen kimliğini tanıma servis sağlayıcısı</string>
     <string name="open_audio_record_panel">Ses kayıt panelini aç</string>
     <string name="open_edit_sms_panel">Mesaj düzenleme panelini aç</string>
     <string name="open_url_with_web">Bu bağlantı tarayıcıda açılsın mı?</string>

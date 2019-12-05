@@ -160,7 +160,7 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="index_item_installing">Yükleniyor</string>
     <string name="index_item_installing2">Yükleniyor</string>
     <string name="indices_desc_humidity">Nem %%%1$s</string>
-    <string name="indices_desc_humidity_without_pic">%1$s%%</string>
+    <string name="indices_desc_humidity_without_pic">%%%1$s</string>
     <string name="indices_desc_pressure">%1$smb</string>
     <string name="indices_title_feel">Hissedilen</string>
     <string name="indices_title_pressure">Basınç</string>
@@ -199,6 +199,17 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="more_details">Daha fazla ayrıntı</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="network_unavailable">Ağa bağlanılamıyor</string>
+    <string name="news_hour_minute_time_format">yyyy-MM-dd HH:mm</string>
+    <string name="news_load_more_default">Yenilemek için çekin</string>
+    <string name="news_load_more_failed">Ağ kullanılamıyor. Lütfen ağı kontrol edin ve tekrar deneyin</string>
+    <string name="news_load_more_loading">Yenileniyor</string>
+    <string name="news_load_more_no_data">Sadece son 48 saati göster</string>
+    <string name="news_refresh_loading">Yükleniyor</string>
+    <string name="news_refresh_pull_to_refresh">Yenilemek için aşağı çekin</string>
+    <string name="news_refresh_release_to_refresh">Yenilemeyi serbest bırakın</string>
+    <string name="news_tips_net_error">Ağ kullanılamıyor. Lütfen ağı kontrol edin ve tekrar deneyin</string>
+    <string name="news_tips_no_data">Yeni bilgi yok</string>
+    <string name="news_tips_success">%1$d bilgi güncellendi</string>
     <string name="night_not_disturb_settings_summary">23:00 ve 07:00 saatleri arasında gelen uyarıları susturur</string>
     <string name="night_not_disturb_settings_title">Gece rahatsız etme</string>
     <string name="no_data">Veri yok</string>
@@ -326,6 +337,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="weather_list_title">Hava durumu başlıkları</string>
     <string name="weather_permission_agree">Kabul et</string>
     <string name="weather_service_channel_name">Arka plan hizmetleri</string>
+    <string name="widget_cta_not_agree">Hava durumu bilgisini almak için dokunun</string>
     <string name="wind_direction_no_data">Rüzgar</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$skm/h</string>

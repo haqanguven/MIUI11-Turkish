@@ -303,7 +303,7 @@ Kişi kartları kapatıldı"</string>
     <string name="deleteConfirmation_title">Bu kişi silinsin mi?</string>
     <string name="delete_call_log_message">Arama geçmişi silinsin mi?</string>
     <string name="delete_call_log_selected_title">Seçili arama geçmişi silinsin mi?</string>
-    <string name="delete_call_log_title">Arama kaydını seçin</string>
+    <string name="delete_call_log_title">Arama geçmişini seçin</string>
     <string name="delete_contact_calllog_title">Arama geçmişi silinsin mi?</string>
     <string name="delete_dial_input">Sil</string>
     <string name="delete_duplicate">Birleştir</string>
@@ -634,7 +634,7 @@ Neden: %s"</string>
     <string name="menu_contacts_filter">Görüntülenecek kişiler</string>
     <string name="menu_copy">Kopyala</string>
     <string name="menu_copyContact">Kişilerime kopyala</string>
-    <string name="menu_create_contact_shortcut">Ana ekrana yerleştir</string>
+    <string name="menu_create_contact_shortcut">Ana ekrana ekle</string>
     <string name="menu_deleteContact">Kişiyi sil</string>
     <string name="menu_deleteGroup">Sil</string>
     <string name="menu_dial_ip_number">Ara</string>

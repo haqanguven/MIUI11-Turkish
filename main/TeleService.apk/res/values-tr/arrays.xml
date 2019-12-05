@@ -1010,4 +1010,8 @@
 		<item>Sim kartlar &amp; mobil ağlar</item>
 		<item>Tercih edilen ağ türü</item>
 	</string-array>
+	<string-array name="line_button_tolls_entries">
+		<item>Çift satırda</item>
+		<item>Tek satırda</item>
+	</string-array>
 </resources>

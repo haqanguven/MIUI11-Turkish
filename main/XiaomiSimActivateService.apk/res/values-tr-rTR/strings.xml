@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Xiaomi Sim etkinleştirme servisi</string>
+    <string name="app_name">Sim etkinleştirme servisi</string>
     <string name="accept">Tamam</string>
     <string name="explain_send_sms_permission_title">Telefon numaranızı doğrulayın</string>
     <string name="explain_send_sms_permission_msg">%s hizmetini etkinleştirmek için Xiaomi hizmet çerçevesi telefon numaranızı doğrulamak amacıyla bir mesaj gönderecektir. Operatörünüz tarafından yurtiçi mesaj ücreti alınacaktır</string>

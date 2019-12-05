@@ -3539,27 +3539,27 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 	</string-array>
 	<string-array name="list_animation_entries">
 		<item>Varsayılan</item>
-		<item>Dalga (Sol)</item>
-		<item>Dalga (Sağ)</item>
+		<item>Dalgalanarak (Sol taraftan)</item>
+		<item>Dalgalanarak (Sağ taraftan)</item>
 		<item>Alfa</item>
-		<item>Ölçek</item>
-		<item>Yığın (Üst)</item>
-		<item>Yığın (Alt)</item>
-		<item>Açılma</item>
-		<item>Kat</item>
-		<item>Çevirme (Sol)</item>
-		<item>Çevirme (Sağ)</item>
+		<item>Solarak</item>
+		<item>Yığılarak (Üst taraftan)</item>
+		<item>Yığılarak (Alt taraftan)</item>
+		<item>Açılarak</item>
+		<item>Katlanarak</item>
+		<item>Çevirilerek (Sol taraftan)</item>
+		<item>Çevirilerek (Sağ taraftan)</item>
 	</string-array>
 	<string-array name="list_interpolator_entries">
 		<item>Varsayılan</item>
-		<item>Hızlandırma</item>
-		<item>Yavaşlatma</item>
-		<item>Hızlandırma yavaşlatma</item>
-		<item>Geri</item>
-		<item>İleri</item>
-		<item>Geri ileri</item>
-		<item>Sıçrama</item>
-		<item>Halka</item>
+		<item>Dalgalanarak yavaşlama</item>
+		<item>Yavaşlama</item>
+		<item>Yığılarak yavaşlama</item>
+		<item>Yavaşlayarak açılma</item>
+		<item>Katlanarak açılma</item>
+		<item>Hızlı açılma</item>
+		<item>Sıçrayarak</item>
+		<item>Halkalar</item>
 		<item>Doğrusal</item>
 	</string-array>
 	<string-array name="smart_mobiledata_entries">
