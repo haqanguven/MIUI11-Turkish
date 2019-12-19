@@ -701,20 +701,20 @@
         <item>9</item>
     </string-array>
     <string-array name="region_support_volte">
-        <item>TR;sagit,gemini,jason,capricorn,vince</item>
-        <item>CN;sagit,gemini,jason,capricorn,vince</item>
-        <item>IN;sagit,gemini,jason,capricorn,vince</item>
-        <item>MY;sagit,gemini,jason,capricorn,vince</item>
-        <item>KR;sagit,gemini,jason,capricorn,vince</item>
-        <item>KH;sagit,gemini,jason,capricorn,vince</item>
-        <item>US;sagit,gemini,jason,capricorn,vince</item>
-        <item>TW;sagit,gemini,jason,capricorn,vince</item>
-        <item>MO;sagit,gemini,jason,capricorn,vince</item>
-        <item>JP;sagit,gemini,jason,capricorn,vince</item>
-        <item>ID;sagit,gemini,jason,capricorn,vince</item>
-        <item>SG;sagit,gemini,jason,capricorn,vince</item>
-        <item>RU;sagit,gemini,jason,capricorn,vince</item>
-    </string-array>
+		<item>DE;sagit,gemini,jason,capricorn,vince</item>
+		<item>ES;sagit,gemini,jason,capricorn,vince</item>
+		<item>IR;sagit,gemini,jason,capricorn,vince</item>
+		<item>IN;sagit,gemini,jason,capricorn,vince</item>
+		<item>IT;sagit,gemini,jason,capricorn,vince</item>
+		<item>PL;sagit,gemini,jason,capricorn,vince</item>
+		<item>PT;sagit,gemini,jason,capricorn,vince</item>
+		<item>RU;sagit,gemini,jason,capricorn,vince</item>
+		<item>TR;sagit,gemini,jason,capricorn,vince</item>
+		<item>CN;sagit,gemini,jason,capricorn,vince</item>
+		<item>ID;sagit,gemini,jason,capricorn,vince</item>
+		<item>SG;sagit,gemini,jason,capricorn,vince</item>
+		<item>TW;sagit,gemini,jason,capricorn,vince</item>
+	</string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Kapalı</item>
         <item>64 KB</item>
@@ -1016,4 +1016,12 @@
         <item>5</item>
         <item>10</item>
     </string-array>
+	<string-array name="toogle_data_entries">
+		<item>Sim kartlar &amp; mobil ağlar</item>
+		<item>Tercih edilen ağ türü</item>
+	</string-array>
+	<string-array name="line_button_tolls_entries">
+		<item>Çift satırda</item>
+		<item>Tek satırda</item>
+	</string-array>
 </resources>
