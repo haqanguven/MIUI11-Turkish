@@ -30,7 +30,7 @@ Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
     <string name="other_settings_upload_debug_log_summary">Topladığımız veriler sistemdeki problemleri konumlandırmakta ve analiz edilmekte kullanılacak olup kişisel verilerinizi içerebilir. Hiçbir veri kimliğinizi tanımlamak için kullanılmayacaktır</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">Miui güncellemeleri yüklemek için en iyi zamanı seçer</string>
-    <string name="other_settings_ad_enable">Kişiselleştirilmiş reklam tavsiye</string>
+    <string name="other_settings_ad_enable">Kişiselleştirilmiş reklam tavsiyesi</string>
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
     <string name="other_settings_ad_disable_summary">Reklamları kişiselleştirmek için aç</string>
     <string name="other_settings_ad_dialog_content">"Bu özelliği kapattıktan sonra artık kişiselleştirilmiş reklamlar almayacaksınız. Yine de ilgi alanlarınızla alakalı olmayan reklamlar alacaksınız. Kişiselleştirilmiş reklamlar hakkında daha fazla bilgiyi Xiaomi gizlilik politikasında öğrenebilirsiniz
@@ -39,6 +39,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
     <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın. %1$s ve %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik politikası</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Mi için bakış</string>
     <string name="back">Geri</string>
     <string name="next">İleri</string>
     <string name="skip_underline">Bu adımı atla</string>
@@ -238,4 +239,5 @@ Bu özelliği kullanmadan önce kika gizlilik politikasını kabul etmeniz gerek
     <string name="service_privacy_index">Gizlilik politikası</string>
     <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum</string>
     <string name="agree_and_next">Kabul et</string>
+    <string name="data_traffic_enable_dialog_title">Şimdi Wifi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
 </resources>

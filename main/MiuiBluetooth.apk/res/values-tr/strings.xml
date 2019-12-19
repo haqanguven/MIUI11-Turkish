@@ -41,6 +41,7 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="app_name">Miui bluetooth</string>
     <string name="blackshark_name">H66L</string>
+    <string name="blackshark_right_name">H66R</string>
     <string name="ble_device_address">Bluetooth akıllı cihaz MAC adresi</string>
     <string name="ble_device_profile">Bluetooth cihaz profili</string>
     <string name="ble_device_profile_header_title">Ayarlar</string>
@@ -77,6 +78,8 @@
     <string name="fast_connect_device_title_find_headset_others">%1$s diğerlerini bul</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
+    <string name="fast_connect_wbs_name">ZMI WBS02</string>
+    <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
     <string name="goto_package">Aç: %1$s</string>
     <string name="install_package">Daha fazla özellik için %1$s yükleyin</string>
     <string name="mi_band_vibrate_alarm">Alarm çaldığında titret</string>

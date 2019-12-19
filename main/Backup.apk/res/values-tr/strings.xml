@@ -198,7 +198,6 @@ http://www.miliao.com
     <string name="already_enable_encrypt">Şifreleme zaten açık</string>
     <string name="enable_encrypt_summery1">Şifreli yedeklerinize erişim için Mi hesabınızda oturum açın</string>
     <string name="enable_encrypt_summery2">Yedekleriniz otomatik olarak şifrelenecektir. Şifreli yedeklerinize ulaşmak için Mi hesabınızda oturum açmanız gerekir</string>
-    <string name="enable_encrypt_xiaomi_account">Bu yedek %1$s tarafından oluşturuldu. Geri yüklemek için geçerli hesabı kaldırın ve %2$s hesabında oturum açın</string>
     <string name="button_got_it">Tamam</string>
     <string name="no_encrypt_password">Şifre yok</string>
     <string name="enable_encrypt_fail">Şifreleme başarısız</string>

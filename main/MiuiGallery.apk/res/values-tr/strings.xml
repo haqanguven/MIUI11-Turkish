@@ -271,6 +271,7 @@
     <string name="camera_needs_auto_backup_tip">Kamera albümünün yedeklenmesi gerekmektedir</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="can_authorize_owner_albums_share_to_tv">"Albümleri televizyonda görüntülemeye izin verin"</string>
+    <string name="can_not_transfer_when_screening">Aktarma sırasında kullanılamaz</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_authorize_to_device_failed">Yetkilendirme iptal edilemedi</string>
     <string name="cancel_authorize_watch_on_tv_failed">Televizyonda görüntüleme yetkisi iptal edilemedi</string>
@@ -880,6 +881,7 @@
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Ayarlar menüsünde indirilen fotoğrafların kalitesini seçebilir veya otomatik indirme özelliğini kapatabilirsiniz</string>
     <string name="downloading_title">Mi bulut alanından fotoğraf indirme</string>
+    <string name="dump_db_info">Veri tabanı bilgisi dökümü</string>
     <string name="edit_baby_info">Bebek bilgilerini görüntüle</string>
     <string name="edit_subtitle_enter" />
     <string name="editor_cancel">İptal et</string>
@@ -1075,6 +1077,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_people_sepia">Siyah boya</string>
     <string name="filter_people_story">Mağaza</string>
     <string name="filter_people_tea">Çay</string>
+    <string name="filter_portrait_hint">Renk</string>
     <string name="filter_scene_city">Şehir</string>
     <string name="filter_scene_df">Sis</string>
     <string name="filter_scene_koizora">Aşk</string>
@@ -1499,6 +1502,11 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="photo_movie_select_image_range">Klipler 3-20 fotoğraf içerebilir</string>
     <string name="photo_page_save_uri_image_fail">Galeriye kaydedilemedi</string>
     <string name="photo_page_save_uri_image_ok">Fotoğraf galeriye kaydedildi</string>
+    <string name="photo_portrait_color_download_fail">Eklenti indirilemedi. Ağa bağlanın ve tekrar deneyin</string>
+    <string name="photo_portrait_color_download_success">Filtreler başarıyla indirildi</string>
+    <string name="photo_portrait_color_no_face">Renkli yalnızca insan fotoğraflarında çalışır</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız şu anda wifi ağına bağlı değil görünüyor. Mobil veriyi kullanarak filtreleri indirebilirsiniz (%1$dMB)</string>
+    <string name="photo_portrait_download_sdk_without_wifi_title">Download filters</string>
     <string name="photo_print_menu_loading">Eklenti yükleniyor</string>
     <string name="photo_print_package_finish">Başarıyla yüklendi</string>
     <string name="photo_print_package_installing">Eklenti yükleniyor</string>
@@ -1721,6 +1729,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="select_origin_tip">Orijinal dosya (%s)</string>
     <string name="send_file_beautify_failed">Paylaşılamadı</string>
     <string name="send_files_to">Öğeleri gönder</string>
+    <string name="send_heif_summary">Uyumluluk için göndermeden önce görüntüleri dönüştürün</string>
+    <string name="send_heif_title">Göndermeden önce HEIF dosyasını JPG dosyasına dönüştürün</string>
     <string name="send_multiple_files_hint_format">Gönder (%s)</string>
     <string name="send_public_url">Albüm bağlantı adresini gönder</string>
     <string name="send_secret_file_failed">Paylaşılamadı</string>
@@ -1756,8 +1766,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Gizli albümleri görüntüleyin ve yönetin</string>
     <string name="show_hidden_album_title">Gizli albümler</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Başarıyla taşındı. Görüntülemek için diğer albümlere gidin</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Başarıyla taşındı. Görüntülemek için albümlere gidin</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Başarıyla taşındı</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Başarıyla taşındı</string>
     <string name="similar_keep_clear">En iyi çekimleri yapmaya devam et</string>
     <string name="slideshow_interval_dialog_title">Aralık girin</string>
     <string name="slideshow_interval_invalid">Slayt aralığı 1-3600 saniye aralığında olmalıdır</string>
@@ -1912,6 +1922,10 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="unsupport_raw">%s Raw görüntülerle çalışmıyor</string>
     <string name="unsupport_raw_and_video">%s videolar ve Raw resimlerle çalışmıyor</string>
     <string name="unsupport_video">%s videolarla çalışmıyor</string>
+    <string name="unsupported_media_downloading_tip_common">"Orijinal görüntüleri bu formatta görüntülemek Android'in bu sürümünde desteklenmemektedir. Yine de indirilsin mi?"</string>
+    <string name="unsupported_media_downloading_tip_format">"Orijinal %s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor. Yine de indirilsin mi?"</string>
+    <string name="unsupported_media_scanned_tip">"%1$s görüntü tespit edildi. %2$s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor"</string>
+    <string name="unsupported_media_view_tip">"Orijinal %s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor"</string>
     <string name="user_agree">Kabul et</string>
     <string name="user_agreement2">Hizmet şartları</string>
     <string name="user_agreement4">Gizlilik politikası</string>
@@ -2023,6 +2037,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="video_editor_watermark">Filigran</string>
     <string name="video_err">Video oynatılamıyor</string>
     <string name="video_not_exist">Video mevcut değil</string>
+    <string name="video_tags_enter" />
     <string name="video_with_time">Video %s tarihinde çekildi</string>
     <string name="video_with_time_and_location">%1$s tarihinde çekilen video. Konum: %2$s</string>
     <string name="view_by_gallery_tip">Miui galeri</string>

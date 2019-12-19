@@ -132,6 +132,7 @@
     <string name="passport_change_phone_number">Numaraları değiştir</string>
     <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
     <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
+    <string name="passport_can_not_receive_verification_code">Doğrulama kodu alınamıyor mu?</string>
     <string name="passport_reg_type_email">E-posta adresi kullan</string>
     <string name="passport_register_by_email"><u>E-posta adresi kullanarak hesap oluşturun</u></string>
     <string name="passport_international_register_by_email">E-posta adresini kullanarak bir hesap oluşturun</string>

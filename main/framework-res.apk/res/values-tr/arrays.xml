@@ -25,8 +25,8 @@
         <item>Ev</item>
         <item>Mobil</item>
         <item>İş</item>
-        <item>İş Faks</item>
-        <item>Ev Faks</item>
+        <item>İş faks</item>
+        <item>Ev faks</item>
         <item>Çağrı cihazı</item>
         <item>Diğer</item>
         <item>Özel</item>
@@ -37,7 +37,35 @@
         <item>Diğer</item>
         <item>Özel</item>
     </string-array>
-    <array name="fingerprint_acquired_vendor" />
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Tekrar dene</item>
+        <item></item>
+        <item></item>
+        <item>Parmağınız ile tamamen tarayıcıya basın ve basınç uygulayın</item>
+        <item></item>
+        <item>Parmağınız ile tamamen tarayıcıya basın ve basınç uygulayın</item>
+        <item>Parmağınız ile tamamen tarayıcıya basın ve basınç uygulayın</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmağınız ile tamamen tarayıcıya basın ve basınç uygulayın</item>
+        <item>Parmağınız ile tamamen tarayıcıya basın ve basınç uygulayın</item>
+        <item>Çok hızlı. Parmak izi tanınamadı</item>
+        <item>Parmağınızı biraz hareket ettirin ve tekrar deneyin</item>
+        <item>Parmağınızı kaldırın ve tekrar tarayıcıya yerleştirin</item>
+        <item>Parmağınızı tarayıcıda biraz daha tutun</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmağınızı hafifçe oynatın</item>
+        <item>Bu parmak izi eklendi. Farklı bir parmak kullanın</item>
+    </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Ev</item>
@@ -46,20 +74,25 @@
         <item>Özel</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>mobil veri</item>
-        <item>Kablosuz</item>
+        <item>Mobil veri</item>
+        <item>Wifi</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>
-        <item>VPN</item>
+        <item>Vpn</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Arapça</item>
+        <item>Çince (Basitleştirilmiş)</item>
+        <item>Çince (Geleneksel)</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>"Kablosuz ağ üzerinden telefon etmek ve mesaj göndermek için öncelikle operatörünüzden bu hizmeti ayarlamasını isteyin. Sonra, Ayarlar'dan Kablosuz çağrı özelliğini tekrar açın. (Hata kodu: %1$s)"</item>
+        <item>"Kablosuz ağ üzerinden arama yapma ve mesaj göndermek için öncelikle operatörünüzden bu hizmeti ayarlamasını isteyin. Sonra ayarlardan kablosuz arama özelliğini tekrar açın (Hata kodu: %1$s)"</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Kablosuz çağrının operatörünüze kaydı sırasında hata oluştu: %1$s</item>
+        <item>Kablosuz arama operatörünüze kaydı sırasında hata oluştu: %1$s</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>
-        <item>%s Kablosuz Çağrı</item>
+        <item>%s kablosuz arama</item>
     </string-array>
 </resources>

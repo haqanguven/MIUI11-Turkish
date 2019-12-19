@@ -35,7 +35,6 @@
     <string name="action_imme_open">Hemen aç</string>
     <string name="action_menu_account_not_login">Oturum açılmadı</string>
     <string name="action_menu_bookshelf">Kitaplık</string>
-    <string name="action_menu_current_version">Mevcut sürüm</string>
     <string name="action_menu_download">İndir</string>
     <string name="action_menu_request_desktop_site">Masaüstü erişimi</string>
     <string name="action_menu_text_add_shortcut">Kısayol ekle</string>
@@ -265,9 +264,6 @@
     <string name="contextmenu_webpage_capture">Ekran görüntüsü</string>
     <string name="contextmenu_webpage_html">HTML dosyası kaydet</string>
     <string name="contextmenu_webpage_snapshot">Sayfayı kaydet</string>
-    <string name="current_version_pad">Tablet</string>
-    <string name="current_version_pc">Masaüstü</string>
-    <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">Her zaman harika şeylerin olmak üzere olduğuna inanın</string>
     <string name="custom_head_weather">Hava durumu</string>
     <string name="data_monitor">Veri kullanımını izle</string>
@@ -481,7 +477,6 @@ Mi hesabınızda oturum açın"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Bu konumu değiştirmek için SD kart gerekmektedir</string>
     <string name="more_description">Menü</string>
-    <string name="more_option">Daha fazla seçenek</string>
     <string name="movie_player_3g_tip_retry">Devam et</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mw_accessibility_date_picker_month">Ay</string>
@@ -693,6 +688,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="not_now">Şimdi değil</string>
     <string name="not_remind_again">Tercihimi hatırla</string>
     <string name="notif_install_successful">İndirme işlemi tamamlandı</string>
+    <string name="notification_channel_name_local_push">Tarayıcı bildirimleri</string>
     <string name="ok">Tamam</string>
     <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
     <string name="open_cloud_sync">Mi bulut ile senkronizasyonu aç</string>
@@ -1196,4 +1192,6 @@ feedsContentId:
     <string name="voice_title_speech_again">Sizi anlayamadık</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
+    <string name="security_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
+    <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
 </resources>

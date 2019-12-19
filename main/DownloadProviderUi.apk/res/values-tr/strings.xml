@@ -320,7 +320,7 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="xl_privilege_speedup_info">Yüksek hızlı kanal erişimi ve çevrimdışı indirme desteği</string>
     <string name="xl_privilege_play">İndirmeyi oynat</string>
     <string name="xl_privilege_play_info">Tamamlanmamış indirme işlemlerini birden fazla cihazda oynatın</string>
-    <string name="xl_privilege_storage">Çok depolama alanı</string>
+    <string name="xl_privilege_storage">Depolama alanı</string>
     <string name="xl_privilege_support">Birden fazla cihaz</string>
     <string name="xl_privilege_storage_info">Tüm indirme işlemleriniz için yeteri kadar alan mevcut</string>
     <string name="xl_vip_combo">Planlar</string>

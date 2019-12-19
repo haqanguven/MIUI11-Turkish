@@ -107,7 +107,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="back_sound_support">Mevcut ağ operatörü işlemi desteklemiyor</string>
     <string name="back_sound_data">Hücresel ağ bağlantısı gerekmektedir. Yeniden deneyin</string>
     <string name="dlg_move_to_white">İstisnalara ekle</string>
-    <string name="dlg_add_white">İstisnalar listesine eklenen yeni numara ve mesajlar arama geçmişi ve Mesajlar menüsünde görüntülenir. Ancak daha önce engellenen ögeler görüntülenmez. Seçili numaralar istisnalara eklensin mi?</string>
+    <string name="dlg_add_white">İstisnalar listesine eklenen yeni numara ve mesajlar arama geçmişi ve mesajlar menüsünde görüntülenir. Ancak daha önce engellenen ögeler görüntülenmez. Seçili numaralar istisnalara eklensin mi?</string>
     <string name="dlg_not_block_sms">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen ögeler Mesajlar menüsünde görüntülenmeyecektir</string>
     <string name="dlg_not_block_call">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen ögeler arama geçmişinde görüntülenmeyecektir</string>
     <string name="dlg_update_date_title">Uyarı</string>
@@ -133,7 +133,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="st_settings_name">Engelli listesi ayarları</string>
     <string name="st_filter_keywords_setting_summary1">Bu listedeki kelimeleri içeren ve bilinmeyen numaralardan gelen mesajlar engellenecektir</string>
     <string name="st_filter_keywords_setting_summary3">Bu listede bulunan kelimeleri içeren bilinmeyen numaralardan gelen iletilere izin verilecektir</string>
-    <string name="st_filter_keywords_setting_summary2">"(Birden fazla kelimeyi ayırmak için virgül kullanın)"</string>
+    <string name="st_filter_keywords_setting_summary2">(Birden fazla kelimeyi ayırmak için virgül kullanın)</string>
     <string name="label_callwait">Arama bekletme bildirimi</string>
     <string name="open_callwait">Aç</string>
     <string name="close_callwait">Kapat</string>
@@ -359,11 +359,11 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="cta_dialog_negative">Çık</string>
     <string name="cta_dialog_positive">Kabul et</string>
     <string name="cta_settings">İnternet bağlantısına izin ver</string>
-    <string name="gdpr_msg"><Data>"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik politikamıza&lt;/a> göz atın"</Data></string>
+    <string name="gdpr_msg">"\"\"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. \""<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın\"</string>
     <string name="cta_main_purpose">Güvenlik uygulamasına hoşgeldiniz. Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="cta_HIPS_Perm_Location_Desc">Hassas konum alma (GPS ve ağ tabanlı)</string>
     <string name="cta_close_dialog_title">Erişimi kısıtla</string>
-    <string name="cta_close_dialog_content">"Güvenlik uygulamasının internete erişimini ve konum bilgisini kısıtlarsanız deprem uyarıları alamaz, virüs tanımlarını ve engelleme listesi bilgilerini güncelleyemezsiniz. Cihazınız daha az güvenli olacak. Yine de kısıtlansın mı?"</string>
+    <string name="cta_close_dialog_content">"Güvenlik uygulamasının internete erişimini ve konum bilgilerini kısıtlarsanız deprem uyarıları alamaz, virüs tanımlarını ve engelleme listesi bilgilerini güncelleyemezsiniz. Cihazınız daha az güvenli olacak. Yine de kısıtlansın mı?"</string>
     <string name="cta_close_dialog_ok">Kısıtla</string>
     <string name="cta_close_dialog_cancel">İptal et</string>
     <string name="st_antispam_mode_smart_state">11111111</string>
@@ -441,7 +441,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_guide_play_audio_last">Uyarı sesini çal (%ds)</string>
     <string name="ew_guide_next_text">Sonraki</string>
     <string name="ew_guide_law_title">Sorumluluk</string>
-    <string name="ew_guide_law_text">"Bu özellik size deprem uyarı işlevi sağlar. Deprem uyarı bilgilerinin üçüncü taraf bir erken uyarı kurumu tarafından sağlandığını anlamalısınız. Xiaomi üçüncü parti ajanslarını denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor. Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz"</string>
+    <string name="ew_guide_law_text">Bu özellik size deprem uyarı işlevi sağlar. Deprem uyarı bilgilerinin üçüncü taraf bir erken uyarı kurumu tarafından sağlandığını anlamalısınız. Xiaomi üçüncü parti ajanslarını denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor. Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz</string>
     <string name="ew_guide_law_done">Anladım</string>
     <string name="ew_guide_tips_1">Yaklaşan depremler hakkında bilgilendirilecek ve uyarı sesini duyacaksınız</string>
     <string name="ew_guide_tips_2">Depremde bilgi ve uyarı sesi güncellenecek</string>
@@ -454,8 +454,8 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_arrive_text_tips">Sismik dalga geldi: %s</string>
     <string name="ew_guide_law_agree">Kabul et</string>
     <string name="ew_guide_law_exit">Kabul etme</string>
-    <string name="ew_china_version_first_start_network_msg"><Data>"Bu özellik size deprem uyarısı işlevi sunar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesini çalacak. En yakın barınağı bulabilecek, acil durum temsilcinizi arayabilecek ve gerekirse tıbbi kartınızı sunabileceksiniz. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Normal çalışabilmek için bu özellik kişisel bilgilerinizi toplamak için aşağıdaki izinleri gerektirir: &lt;br>• Konum bilgisi: &lt;br>Konumunuza erişmek ve doğru deprem uyarıları sağlamak içindir. &lt;br>Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu özelliği kullanamazsınız. Bu özelliği kapatmayı veya açmamayı seçebilirsiniz.. &lt;br>Bu özelliği kullanmadan önce &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Gizlilik politikası&lt;/a> bölümümüzü okuyup kabul etmeniz gerekir"</Data></string>
-    <string name="ew_guide_statement_text"><Data>"&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\">Yasal uyarı&lt;/a> Bir kullanıcı deprem uyarısı işlevini etkinleştirdiğinde Xiaomi ve bağlı kuruluşları ile yasal olarak bağlayıcı bir sözleşmeye girer. Bu özelliği kullanarak bu feragatnameyi okuduğunuzu ve bu feragatnamenin içeriğini tamamen anladığınızı ve kabul ettiğinizi onaylıyorsunuz. Bu feragatnameyi kabul etmiyorsanız derhal deprem uyarı özelliğini kapatmalısınız.&lt;br> &lt;b>Özel ifade&lt;/b>&lt;br> İlgili kanun ve düzenlemelere uygun olarak deprem erken uyarı hizmetleri yalnızca ilgili hükümet birimleri tarafından izin verilen alanlara verilmektedir. Bu deprem uyarısı işlevini açtığınızda ve cihazınızın yetkili bir alanda olması durumunda deprem uyarısı servisi alabileceğiniz anlamına gelir. Şu anda deprem uyarı hizmetlerinin verildiği alanların listesini kontrol edebilirsiniz. Gelecekte daha fazla alan desteklenecek. Bizi izlemeye devam edin&lt;br> &lt;b>Sorumluluk&lt;/b>&lt;br> Güvenlik uygulaması size deprem uyarısı işlevi sunar. Deprem uyarı bilgilerinin hükümetin erken uyarı ajansları tarafından verildiğini anlamalısınız. Xiaomi bu tür ajansları denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. &lt;br> Xiaomi, deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya garanti etmiyor ve deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor.&lt;br> Deprem uyarı bilgisi almak için cihazınızı mobil ağa bağlı tutmanız gerekir. Üçüncü taraf iletişim hattı arızaları, teknik sorunlar, ağ veya terminal ekipman arızaları, sistem kararsızlığı ve diğer çeşitli mücbir sebepler deprem uyarı bilgilerini almanızı engelleyebilir. Xiaomi, bu tür olaylardan kaynaklanan kayıplardan sorumlu tutulamaz.&lt;br> Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz. &lt;br>"</Data></string>
+    <string name="ew_china_version_first_start_network_msg">&lt;Data>\"Bu özellik size deprem uyarı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesini çalacak. En yakın barınağı bulabilecek, acil durum temsilcinizi arayabilecek ve gerekirse tıbbi kartınızı sunabileceksiniz.. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Normal çalışabilmesi için için aşağıdaki izinleri gerektirir.: &lt;br>• Konum bilgisi: &lt;br>Konumunuza erişmek ve doğru deprem uyarıları sağlamak için. &lt;br>Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu özelliği kullanamazsınız. Bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Gizlilik politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir\"&lt;/Data></string>
+    <string name="ew_guide_statement_text">&lt;<a href="https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s">Data></a>\"&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\">Uyarı&lt;/a> Bir kullanıcı deprem uyarı işlevini etkinleştirdiğinde Xiaomi ve bağlı kuruluşları ile yasal olarak bağlayıcı bir sözleşmeye girer. Bu özelliği kullanarak bu uyarıyı okuduğunuzu ve bu uyarıyı içeriğini tamamen anladığınızı ve kabul ettiğinizi onaylıyorsunuz. Bu uyarıyı kabul etmiyorsanız derhal deprem uyarı özelliğini kapatmalısınız.&lt;br> &lt;b>Özel ifade&lt;/b>&lt;br> İlgili yasa ve yönetmeliklere uygun olarak deprem erken uyarı hizmeti yalnızca ilgili hükümet birimleri tarafından yetkilendirilmiş alanlara verilmektedir. Bu deprem uyarısı işlevini açtığınızda ve cihazınızın yetkili bir alanda olması durumunda deprem uyarısı servisi alabileceğiniz anlamına gelir. Şu anda deprem uyarı hizmetlerinin verildiği alanların listesini kontrol edebilirsiniz. Gelecekte daha fazla alan desteklenecek. Bizi izlemeye devam edin!&lt;br> &lt;b>Uyarı&lt;/b>&lt;br> Güvenlik uygulaması size deprem uyarısı işlevi sunar. Deprem uyarı bilgilerinin hükümetin erken uyarı kurumları tarafından sağlandığını anlamalısınız. Xiaomi bu tür ajansları denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. &lt;br> Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya garanti etmiyor ve deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor.&lt;br> Deprem uyarı bilgisi almak için cihazınızı mobil ağa bağlı tutmanız gerekir. Üçüncü taraf iletişim hattı arızaları, teknik sorunlar, ağ veya terminal ekipman arızaları, sistem kararsızlığı ve diğer çeşitli mücbir sebepler deprem uyarı bilgilerini almanızı engelleyebilir. Xiaomi bu tür olaylardan kaynaklanan kayıplardan sorumlu tutulamaz.&lt;br> Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz&lt;br>\"&lt;/Data></string>
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
     <string name="group_have_hongbao">Kırmızı zarf: %2$d (%1$s)</string>
@@ -467,108 +467,108 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="lucky_assistant_description">"Mi resmi imalat 
 WeChat/QQ 
 Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız etme işlevini kaydetmek için bilgisayarı açar"</string>
-    <string name="float_window">Masaüstünde asılı pencereler</string>
+    <string name="float_window">Masaüstü yüzer pencere</string>
     <string name="random_expression">Rastgele ifade</string>
     <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
-    <string name="lucky_alarm">Kırmızı çan alarm saati</string>
+    <string name="lucky_alarm">Kırmızı zarf alarm saati</string>
     <string name="shoop_again_float">Bir arama yap</string>
     <string name="cmd_lucky_float">Salla</string>
-    <string name="shake_send_sticker">Aşk ifadesini salla</string>
-    <string name="lucky_sound_warn">Kırmızı zarf sesli uyarısı</string>
-    <string name="wechat_lucky_warning">Mikro harf kırmızı zarf</string>
+    <string name="shake_send_sticker_summary">"\"WeChat ve QQ'da komik ifadeler rastgele belirdi. Her yeni yıl arifesinde ifadelerle savaşmak hiç bu kadar kolay olmamıştı"</string>
+    <string name="lucky_sound_warn">Kırmızı zarf sesli uyarı</string>
+    <string name="wechat_lucky_warning">WeChat kırmızı zarf</string>
     <string name="qq_lucky_warning">QQ kırmızı zarf</string>
-    <string name="miliao_lucky_warning">Pirinç çantası sohbet</string>
-    <string name="business_lucky_warning">Şirketin kırmızı zarfları</string>
+    <string name="miliao_lucky_warning">Mi sohbet zarfı</string>
+    <string name="business_lucky_warning">Şirketin kırmızı zarfı</string>
     <string name="lucky_warning_count_title">"WeChat'den"</string>
     <string name="lucky_max_chat_title">"QQ'dan"</string>
     <string name="zhifubao_not_found">Uygulama sürümünüz çok düşük veya yüklü değil</string>
     <string name="weChat_not_found">Uygulama sürümünüz çok düşük veya yüklü değil</string>
     <string name="hongbao_message_slogon">Xiaomi cep telefonu hızlı</string>
-    <string name="warn_function_no_work">&lt;u>Kırmızı zarf geldiğinde hatırlatılamaz&lt;/u></string>
+    <string name="warn_function_no_work"><u>Kırmızı zarf geldiğinde hatırlatılamaz</u></string>
     <string name="hongbao_cancel">İptal et</string>
     <string name="accessibility_service_description" />
     <string name="best_warning_dialog_title">İpuçları</string>
-    <string name="best_warning_dialog_message">"İpuçları: 使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'>有一定几率会被微信误认为使用了自动抢红包插件&lt;/font>，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
-    <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'>有一定几率会被微信误认为使用了自动抢红包插件&lt;/font>，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
-    <string name="best_warning_dialog_button">我知道了</string>
+    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
+    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
+    <string name="best_warning_dialog_button">Biliyorum</string>
     <string name="float_window_tips">Xiaomi cep telefonu hızlı</string>
-    <string name="mi_pay_lucky">小米钱包</string>
+    <string name="mi_pay_lucky">Xiaomi cüzdan</string>
     <string name="lucky_alarm_item_date">27</string>
-    <string name="lucky_alarm_item_month">11月</string>
-    <string name="lucky_alarm_app">红包活动倒计时</string>
+    <string name="lucky_alarm_item_month">11 ay</string>
+    <string name="lucky_alarm_app">Kırmızı zarf etkinliği geri sayımı</string>
     <string name="lucky_alarm_count_down">0:00:00</string>
-    <string name="item_lucky_alarm_has_been_closed">已结束</string>
+    <string name="item_lucky_alarm_has_been_closed">Bu sona erdi</string>
     <string name="lucky_alarm_count_down_default">0:00:00</string>
-    <string name="lucky_alarm_app_tail">倒计时</string>
-    <string name="lucky_alarm_app_after">红包活动已经结束</string>
-    <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
-    <string name="open_dnd_mode">勿扰模式</string>
+    <string name="lucky_alarm_app_tail">Geriye sayım</string>
+    <string name="lucky_alarm_app_after">Kırmızı zarf etkinliği sona erdi</string>
+    <string name="open_dnd_mode_summary">Rahatsız etme modunda kırmızı zarf hatırlatıcıları ve kırmızı zarf alarmlarını yönetin</string>
+    <string name="open_dnd_mode">Rahatsız etme</string>
     <string name="txv_dnd_start_time">0:00</string>
-    <string name="txv_dnd_start_time_title">起始时间</string>
-    <string name="txv_dnd_end_time_title">结束时间</string>
-    <string name="txv_dnd_type_title">勿扰方式</string>
-    <string name="txv_dnd_type_demo">仅屏蔽声音</string>
-    <string name="txv_lucky_money_group_text">仅提醒群红包</string>
-    <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
-    <string name="dnd_no_sound">仅屏蔽声音</string>
-    <string name="dnd_no_everything">不进行提醒</string>
-    <string name="dnd_mode_type">勿扰方式</string>
-    <string name="secondart_setting_title">红包提醒设置</string>
-    <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
-    <string name="title_more_setting">更多设置</string>
-    <string name="more_setting_summary">支持红包提醒种类、桌面悬浮窗、勿扰时段等功能</string>
-    <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
-    <string name="no_lucky_money">尚未收到红包</string>
-    <string name="ge">个</string>
+    <string name="txv_dnd_start_time_title">Başlangıç zamanı</string>
+    <string name="txv_dnd_end_time_title">Bitiş zamanı</string>
+    <string name="txv_dnd_type_title">Rahatsız etme</string>
+    <string name="txv_dnd_type_demo">Yalnızca sesi engelle</string>
+    <string name="txv_lucky_money_group_text">Yalnızca grup kırmızı zarfını hatırlatın</string>
+    <string name="lucky_money_group_summary">Bireyler tarafından gönderilen kırmızı zarfların alınmasına gerek yoktur. Çok fazla hatırlatmadan kaçınmak için yalnızca kırmızı zarf grubuna hatırlatmanız önerilir</string>
+    <string name="dnd_no_sound">Yalnızca sesi engelle</string>
+    <string name="dnd_no_everything">Hatırlatma</string>
+    <string name="dnd_mode_type">Rahatsız etme</string>
+    <string name="secondart_setting_title">Kırmızı zarf hatırlatma ayarları</string>
+    <string name="text_all_control_summary">Kırmızı bir zarf algılandığında ekran otomatik olarak yanar</string>
+    <string name="title_more_setting">Daha fazla</string>
+    <string name="more_setting_summary">Kırmızı zarf hatırlatma türleri, açılır pencereler ve rahatsız etme modu seçeneklerini içerir</string>
+    <string name="float_window_summary">Sayfaları sallamak için hızlı atlamayı destekler</string>
+    <string name="no_lucky_money">Kırmızı zarf alınmadı</string>
+    <string name="ge">Daha</string>
     <string name="demo_number">241</string>
-    <string name="number_of_lucky_money">已为您提醒红包总数</string>
-    <string name="alarm_setting_title">红包闹钟设置</string>
-    <string name="lucky_alarm_open_title">红包闹钟</string>
-    <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
-    <string name="app_summary">"微信/QQ/米聊抢红包神器
-支持个人红包与群红包
-春节红包活动，不错过每一个红包"</string>
-    <string name="app_right">小米公司官方出品</string>
-    <string name="open_lucky">开启小米红包助手</string>
-    <string name="lucky_alarm_sound_title">活动声音提醒</string>
-    <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
-    <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
-    <string name="alarm_lockscreen_btn">开始抢红包</string>
-    <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
-    <string name="text_lucky_alarm_before">红包活动即将开始</string>
-    <string name="text_alarm_before">"今年的红包活动即将开始
-财神已就位，敬请期待"</string>
-    <string name="text_alarm_after">"今年的红包活动已全部结束
-期待与您来年重聚"</string>
-    <string name="text_error">相关软件版本过低或未安装</string>
-    <string name="lucky_activity">红包活动</string>
-    <string name="not_available">暂无</string>
-    <string name="enter">进入</string>
-    <string name="text_alarm_close">"开启红包闹钟
-及时提醒各种红包雨
-不再错过任何红包"</string>
-    <string name="open_alarm_right_now">立刻开启</string>
-    <string name="close_lucky_money_dialog_title">关闭红包助手</string>
-    <string name="close_lucky_money_dialog_summary">确定关闭红包助手？关闭后将无法收到红包助手为您发来的红包特别提醒，可能会导致您错过红包。如您想关闭悬浮窗，可在更多设置进行关闭。</string>
-    <string name="close_lucky_money_dialog_ok">确认关闭</string>
-    <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往手机管家开启更快更稳定的小米红包助手？</string>
-    <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-    <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-    <string name="fast_open">速抢模式</string>
-    <string name="fast_open_summary">开启速抢模式后，收到红包新消息将打断当前使用应用切换到抢红包窗口。</string>
-    <string name="open_fast_open_mode">开启速抢模式</string>
-    <string name="open_fast_open_mode_summary">开启速抢模式，当收到红包时，系统将自动打开抢红包页面。</string>
-    <string name="fast_open_list_not_open_title">禁止在%s个应用中速抢</string>
-    <string name="fast_open_list_open_title">允许在%s个应用中速抢</string>
-    <string name="fast_open_dialog_message">开启速抢模式后，当您收到红包时，系统将自动打开抢红包页面，抢红包更快更方便。</string>
-    <string name="fast_open_dialog_message_summary">注意：建议关闭导航类、视频类、游戏类应用的速抢模式，以免影响应用的正常操作。手机锁屏状态下不会进行红包速抢。</string>
-    <string name="fast_open_dialog_ok">开启</string>
-    <string name="fast_open_noti_summary">%s给你发来一个红包</string>
-    <string name="lucky_sound_mode_lucky">红包来了</string>
-    <string name="lucky_str_yuan">%s元</string>
-    <string name="lucky_my_luckymoney">我的红包战绩</string>
-    <string name="lucky_alarm_back">返回红包助手</string>
-    <string name="lucky_money_close">关闭</string>
+    <string name="number_of_lucky_money">Toplam kırmızı zarf sayısını hatırlattı</string>
+    <string name="alarm_setting_title">Kırmızı zarf çalar saat ayarı</string>
+    <string name="lucky_alarm_open_title">Kırmızı zarf çalar saat</string>
+    <string name="lucky_alarm_open_summary">Açılır pencereye kırmızı zarf aktivitesinin başlamasından 1 dakika önce hatırlatma yapılır ve tüm kırmızı zarf aktivitesi süresi yüzen pencereden görülebilir</string>
+    <string name="app_summary">"WeChat/QQ/Michao kırmızı zarf eserini al
+Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
+Çin yeni yılı kırmızı zarf faaliyetlerini kaçırmayın"</string>
+    <string name="app_right">Xiaomi tarafından üretildi</string>
+    <string name="open_lucky">Xiaomi kırmızı zarf asistanını aç</string>
+    <string name="lucky_alarm_sound_title">Olay sesi hatırlatıcısı</string>
+    <string name="alarm_headsup_bottom">Kırmızı paketler ile xiaomi telefonları kapmak daha hızlı</string>
+    <string name="alarm_lock_screen_summary">Büyük bir dalga yolda</string>
+    <string name="alarm_lockscreen_btn">Kırmızı zarfları almaya başla</string>
+    <string name="setting_alarm_summary">Büyük platformlarda kırmızı zarf olayları için alarmları içerir</string>
+    <string name="text_lucky_alarm_before">Kırmızı zarf olayı başlamak üzere</string>
+    <string name="text_alarm_before">"Bu yılki kırmızı zarf etkinliği başlamak üzere
+Zenginlik tanrısı yerinde ve bu yüzden bizi izlemeye devam edin"</string>
+    <string name="text_alarm_after">"Bu yılki kırmızı zarf etkinliğinin sona erdi
+Seneye tekrar bir araya gelmek için sabırsızlanıyorum"</string>
+    <string name="text_error">İlgili yazılım sürümü çok düşük veya yüklü değil</string>
+    <string name="lucky_activity">Kırmızı zarf aktiviteleri</string>
+    <string name="not_available">Hayır</string>
+    <string name="enter">Devam et</string>
+    <string name="text_alarm_close">"Her zaman kırmızı zarf türlerini hatırlatma
+ve kırmızı zarfları asla kaçırmamak için
+kırmızı zarf alarmını açın"</string>
+    <string name="open_alarm_right_now">Şimdi aç</string>
+    <string name="close_lucky_money_dialog_title">Kırmızı zarf asistanını kapat</string>
+    <string name="close_lucky_money_dialog_summary">Kırmızı zarf yardımcısını kapatmak istediğinize emin misiniz? Kapattıktan sonra kırmızı zarf asistanından özel bir hatırlatıcı alamazsınız. Bu da kırmızı zarfı kaçırmanıza neden olabilir. Kayan pencereyi kapatmak istiyorsanız ayarlar bölümünden kapatabilirsiniz</string>
+    <string name="close_lucky_money_dialog_ok">Kapat</string>
+    <string name="dialog_remove_luckymoney">Mevcut Miui sürümü zaten sistem seviyesi kırmızı zarf asistanını destekliyor</string>
+    <string name="dialog_remobe_luckymoney_ok">Devam et</string>
+    <string name="dialog_remobe_luckymoney_cancle">Tek atış kullan</string>
+    <string name="fast_open">Hızlı aç</string>
+    <string name="fast_open_summary">Hızlı açma modunu açtıktan sonra kırmızı zarftan yeni bir mesaj almak mevcut uygulamayı kesecek ve kırmızı zarf açma penceresine geçecektir</string>
+    <string name="open_fast_open_mode">Hızlı açma modu</string>
+    <string name="open_fast_open_mode_summary">Hızlı açma modunu açtıktan sonra kırmızı bir zarf alındığında sistem otomatik olarak kırmızı zarf açma sayfasını açar</string>
+    <string name="fast_open_list_not_open_title">%s uygulama için daha hızlı açma yasaklandı</string>
+    <string name="fast_open_list_open_title">%s uygulama için daha hızlı açma izin verildi</string>
+    <string name="fast_open_dialog_message">Hızlı açma modunu açtıktan sonra kırmızı bir zarf aldığınızda sistem otomatik olarak daha hızlı ve daha uygun olan kırmızı zarf tutma sayfasını açacaktır</string>
+    <string name="fast_open_dialog_message_summary">Not: Uygulamanın normal çalışmasını etkilememek için navigasyon, video ve oyun uygulamaları için hızlı açma modunu kapatmanız önerilir. Telefon kilitliyken kırmızı zarflar açılmaz</string>
+    <string name="fast_open_dialog_ok">Aç</string>
+    <string name="fast_open_noti_summary">%s size kırmızı bir zarf gönderdi</string>
+    <string name="lucky_sound_mode_lucky">İşte kırmızı zarf geliyor</string>
+    <string name="lucky_str_yuan">%s yuan</string>
+    <string name="lucky_my_luckymoney">Kırmızı zarf kaydı</string>
+    <string name="lucky_alarm_back">Kırmızı zarf asistanına geri dön</string>
+    <string name="lucky_money_close">Kapat</string>
     <string name="create_table_oaid">CREATE TABLE OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
@@ -576,8 +576,8 @@ Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız e
     <string name="app_name_na">Veri kullanımı</string>
     <string name="list_empty_text">Boş</string>
     <string name="dialog_title_attention">Uyarı</string>
-    <string name="kilobyte_per_second">K/s</string>
-    <string name="megabyte_per_second">M/s</string>
+    <string name="kilobyte_per_second">K/saniye</string>
+    <string name="megabyte_per_second">M/saniye</string>
     <string name="gigabyteShort">GB</string>
     <string name="megabyteShort">MB</string>
     <string name="kilobyteShort">KB</string>
@@ -611,7 +611,7 @@ Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız e
     <string name="guide_wait_setting">Şimdi değil</string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_second_text">Operatörünüzü ayarlamanızdan sonra Miui operatörünüze günlük bazda ücretsiz mesaj göndererek mobil veri kullanımınızı izleyecektir. Miui tarife sınırınızı aştığınızı tespit ettiğinde ağ bağlantısını sonlandıracak ve sizi bilgilendirecektir</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operatörünüz doğru değil mi?&lt;/U>&lt;/font>"</string>
+    <string name="guide_get_operator_error"><font color="'#33b4ff'">"&lt;font color='#33b4ff'>&lt;U>>Operatörün"</font>üz doğru değil mi?&lt;/U>&lt;/font></string>
     <string name="card_tc_failed">Kalibre edilemedi</string>
     <string name="main_normal_data_usage">Mobil veri kullanımı</string>
     <string name="main_tc_send_sms">"Kalibrasyon için
@@ -766,10 +766,10 @@ bekleniyor"</string>
     <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
     <string name="free_time_traffic_settings">İndirimli veri limiti</string>
     <string name="pref_category_extra_package_tile">Bakiye paketi</string>
-    <string name="pref_key_extra_package_value">Paket boyutu</string>
+    <string name="pref_key_extra_package_value">zarf boyutu</string>
     <string name="pref_category_half_year_package_tile">Yarım yıl veri paketi</string>
     <string name="pref_key_half_year_package_switch">Yarım yıl veri paketi</string>
-    <string name="pref_key_half_year_package_value">Paket boyutu</string>
+    <string name="pref_key_half_year_package_value">zarf boyutu</string>
     <string name="pref_key_half_year_package_start">Başlangıç tarihi</string>
     <string name="pref_category_daily_package_tile">Günlük tarife</string>
     <string name="pref_key_daily_package_switch">Günlük tarife</string>
@@ -956,7 +956,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="roaming_limit_warning_notification_body">Veri kullanımını görüntülemek için dokunun</string>
     <string name="roaming_limit_network_notification_body">Kullanılabilir veri ağlarını görüntülemek için dokunun</string>
     <string name="roaming_limit_dialog_message">Günlük dolaşım mobil veri limitine ulaşıldı</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
     <string name="roaming_allow_network_dialog_title">Dolaşımda mobil veri kullanımına izin verilsin mi?</string>
     <string name="dialog_roaming_warning_message">Uluslararası veri dolaşımını açtıktan sonra operatör sizi ücretlendirecektir. Açılsın mı?</string>
     <string name="dialog_roaming_warning_checkbox">Tekrar gösterme</string>
@@ -1057,19 +1057,19 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
 3. Sim kartınızın veya Sim kart yuvasının zarar görüp görmediğinden emin olun. Sim kartın cihazınızın Sim kart yuvasına doğru takılıp takılmadığını kontrol edin"</string>
     <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
  
-<b>1. Halka açık wifi ağ sorunları</b>
+\""<b>1. Halka açık wifi ağ sorunları</b>"\"
 Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
  
-<b>2. İnternet servis sağlayıcısı sorunları</b>
+\""<b>2. İnternet servis sağlayıcısı sorunları</b>"\"
 İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
  
-<b>3. Yönlendirici donanım sorunları</b>
+\""<b>3. Yönlendirici donanım sorunları</b>"\"
 Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin 
  
-<b>4. Diğer yönlendirici sorunları</b>
+\""<b>4. Diğer yönlendirici sorunları</b>"\"
 Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün 
  
-<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>
+\""<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"\"
 Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu değiştirmeyi deneyin. Eğer ev ağınızda bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınızla iletişime geçin"</string>
     <string name="permission_exception_title">Uygulamalar için sınırlı ağ bağlantısı</string>
     <string name="bg_network_exception_title">Sınırlı arka plan ağ bağlantısı</string>
@@ -1097,18 +1097,18 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="operator_diagnostic">Operatör tanılamaları</string>
     <string name="brand_diagnostic">Operatör firma tanılamaları</string>
     <string name="tc_diagnostic_status_updating">Test ediliyor</string>
-    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Başarılı&lt;/font>"</string>
-    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Başarısız&lt;/font>"</string>
-    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Bilgi alınamadı&lt;/font>"</string>
-    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Ağ bağlantısı yok&lt;/font>"</string>
-    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Zaman aşımı&lt;/font>"</string>
-    <string name="tc_diagnostic_status_error_brand">Operatör ağı bulunamadı</string>
-    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Operatör ağı yanıt veriyor&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Sonuç: Hatalı konum&lt;br/>&lt;br/>Ayarlı konum: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Gerçek konum: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör&lt;br/>&lt;br/>Ayarlı operatör: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Mevcut operatör: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör firması&lt;br/>&lt;br/>Ayarlı operatör: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Mevcut operatör: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Sonuç: Tanılama tamamlanamadı&lt;br/>&lt;br/>Miui Tanılama araçlarının gelişimine katkıda bulunmak için bu sorunu rapor edin&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Sonuç: Operatör ağ ve markası doğru bir şekilde ayarlandı&lt;br/>&lt;br/>Düzenlemeler tamamlanamadı:&lt;br/>1. Operatör istatistikleri ay başlarında veya ay sonlarında güvenilir olmayabilir.&lt;br/>2. Güvenlik uygulaması özellikleri güncel durumda değil.&lt;br/>&lt;br/>Miui tanılama araçlarının gelişimine katkıda bulunmak için bu sorunu bize bildirin&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success"><font color="'#3EC234'">Doğru</font></string>
+    <string name="tc_diagnostic_status_failure"><font color="'#CC0000'">Hata</font></string>
+    <string name="tc_diagnostic_status_not_get"><font color="'#ED9523'">Bilgi alınamadı</font></string>
+    <string name="tc_diagnostic_status_no_network"><font color="'#ED9523'">Ağ bağlantısı yok</font></string>
+    <string name="tc_diagnostic_status_timeout"><font color="'#CC0000'">Zaman aşımı</font></string>
+    <string name="tc_diagnostic_status_error_brand">Operatör ağ bulunamadı</string>
+    <string name="tc_diagnostic_status_success_brand"><font color="'#3EC234'">Operatör ağı yanıtlıyor</font></string>
+    <string name="tc_diagnostic_sim_location_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Sonuç: Yanlış konum&lt;br/>&lt;br/>Konumu ayarla: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Mevcut konum: &lt;xliff:g id=location example=S"</font>hangHai>%2$s&lt;/xliff:g>&lt;/font></string>
+    <string name="tc_diagnostic_operator_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör&lt;br/>&lt;br/>Operatör ayarla: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Mevcut operatör: &lt;xliff:g id=location example"</font>=UNICOM>%2$s&lt;/xliff:g>&lt;/font></string>
+    <string name="tc_diagnostic_brand_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Sonuç: Yanlış taşıyıcı markası&lt;br/>&lt;br/>Ayarlı operatör: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Mevcut operatör: &lt;xliff:g id=location example=UN"</font>ICOM 4G>%2$s&lt;/xliff:g>&lt;/font></string>
+    <string name="tc_diagnostic_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Sonuç: Tanılama işlemi tamamlanamadı&lt;br/>&lt;br/>Miui'nin tanı araçlarını iyileştirmesine yardımcı olmak i"</font>çin bu sorunu bildirin&lt;/font></string>
+    <string name="tc_diagnostic_success_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Sonuç: Operatör ağ ve marka doğru ayarlandı&lt;br/>&lt;br/>Ayar tamamlanmadı:&lt;br/>1. Operatör istatistikleri ayın başında veya sonunda güvenilir olmayabilir.&lt;br/>2. Güvenlik uygulaması özellikleri güncellenmedi.&lt;br/>&lt;br/>Miui'nin tanı araçlarını iyileştirmesine yardımcı olmak i"</font>çin bu sorunu bildirin&lt;/font></string>
     <string name="tc_diagnostic_notification_title">Operatör tanılamaları</string>
     <string name="tc_diagnostic_notification_summary">Aynı anda 5 kez ayarlanamıyor. Tanılamayı başlatmak için dokunun</string>
     <string name="tc_diagnostic_upload_success">Geri bildiriminiz için teşekkürler</string>
@@ -1126,8 +1126,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="tc_diagnostic_repair_success_toast">Başarıyla değiştirildi</string>
     <string name="tc_diagnostic_complete">Bitti</string>
     <string name="tc_diagnostic_notification_sumarry">Sonuçları görüntülemek için dokunun</string>
-    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Tanılama tamamlandı. Konum sorunları düzeltildi&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Tanılama tamamlandı. Konum ve operatör sorunları düzeltildi&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location"><font color="'#3EC234'">Teşhis tamamlandı. Sabit konum sorunları</font></string>
+    <string name="tc_diagnostic_repair_location_and_operator"><font color="'#3EC234'">Tanılama tamamlandı. Sabit konum ve operatör sorunları</font></string>
     <string name="diagnostic_attention_dialog_message">%1$s için tanılama çalışıyor. Bitene kadar bekleyin ve tekrar deneyin</string>
     <string name="correction_attention_dialog_message">Ayarlar düzenleniyor. İşlem bitene kadar bekleyin ve ardından tekrar deneyin</string>
     <string name="text_button">Anladım</string>
@@ -1153,7 +1153,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="status_bar_network_flow_purchase">"   Satın al >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Tarife ayarla >"</string>
     <string name="status_bar_network_flow_phone_balance">"   Telefon bakiye:%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan: &lt;font color=%2$s>%3$s&lt;/font>;</string>
+    <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan aşıldı: <font color="%2$s">%3$s</font></string>
     <string name="status_bar_network_flow_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Kalan: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Bu ay: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
@@ -1325,7 +1325,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="btn_text_goto_setup">Ayarlara git</string>
     <string name="power_save_title_text">Pil tasarrufu</string>
     <string name="power_save_summary_text">Uygulamaların arka plan etkinliklerini azaltmak, senkronizasyonu durdurmak ve sistem animasyonlarını minimize etmek için pil tasarrufunu açın</string>
-    <string name="power_save_started_summary_text">"Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir"</string>
+    <string name="power_save_started_summary_text">Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir</string>
     <string name="hide_mode_summary_text">Pil tasarrufu için uygulamaların arka plan etkinlerini yönetin</string>
     <string name="hide_mode_app_background_setting_text">Uygulama pil tasarrufu</string>
     <string name="battery_estimate_usage_time_title">Kullanım süresi</string>
@@ -1357,12 +1357,18 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_save_mode_auto_exit_summary">Pil %60 veya tam şarj edildiğinde otomatik olarak kapatılır</string>
     <string name="power_save_mode_close_warn_title">Pil tasarrufu</string>
     <string name="power_save_mode_close_warn_text">Pil tasarrufu arka plan işlemlerini ve senkronizasyonu kısıtlar. Pil tasarrufunu cihazınız şarj oluyorken kullanmayı seçerseniz bazı özellikler düzgün çalışmayabilir. Cihaz şarj ediliyorken pil tasarrufu açık tutulsun mu?</string>
+    <string name="power_save_mode_other_optimization">İsteğe bağlı optimizasyon</string>
+    <string name="power_save_mode_close_notification_screenon_title">Bildirimler için ekranı uyandırma</string>
+    <string name="power_save_mode_close_notification_screenon_summary">Pil tasarrufu açık olduğunda çalışır</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">"Mi AI'yi sesli olarak tetikleme"</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">Pil tasarrufu açık olduğunda çalışır</string>
     <string name="battery_health_title_text">Pil sağlığı</string>
     <string name="battery_health_status_text">Pil durumu</string>
     <string name="battery_health_voltage_text">Pil voltajı</string>
     <string name="battery_health_temperature_text">Pil sıcaklığı</string>
     <string name="battery_health_left_battery_text">Kalan pil</string>
     <string name="power_optimize_disable_gps">"Gps'i kapat"</string>
+    <string name="power_optimize_disable_gps_high_accuracy">Yüksek hassasiyetli konum modunu kapatın</string>
     <string name="power_optimize_battery_save_idea">Pili optimize et</string>
     <string name="power_optimize_battery_save_more">Daha fazla</string>
     <string name="settings_battery_consume_abnormal_title">Pil kullanım bildirimleri</string>
@@ -1469,6 +1475,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_list_item_set_lockscreen_time">30 saniye işlem yapılmadığında ekranı kapat</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">%d saniye aktif olmadığında cihazı kilitle</string>
     <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
+    <string name="power_center_list_item_haptic_feedback">Dokunsal geri bildirimi kapat</string>
+    <string name="power_center_list_item_wake_notification">Bildirimler için ekranı uyandırma</string>
     <string name="power_center_list_item_deep_save_title">Gelişmiş ayarlar</string>
     <string name="power_center_list_item_battery_status_time">s</string>
     <string name="power_center_list_item_battery_status_temperature">℃</string>
@@ -1476,7 +1484,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_stop_scan_title">Taramayı durdur</string>
     <string name="hide_mode_result_summary_text">Her bir uygulama için pil tasarrufunun ayarlarını özelleştirin</string>
     <string name="auto_task_result_summary_text">Pil tasarrufu için otomatik görevler belirleyin</string>
-    <string name="pc_settings_title">Pil kullanım ayarları</string>
+    <string name="pc_settings_title">Pil &amp; performans ayarları</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="extreme_power_save_mode_card_summary">Şarjınız azken güç tasarrufu sağlamak için İleri güç tasarruf modunu açın</string>
     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
@@ -1486,8 +1494,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
     <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
     <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini kapatın</string>
-    <string name="power_save_ps_close_setting_5g">Güç tüketen özellikleri sınırlayın (Senkronizasyon, 5G bağlantısı ve GPS)</string>
+    <string name="power_save_ps_close_setting_5g">Pil tasarrufu yapmak için yüksek güç tüketimi hizmetleri ve özellikleri kapatın (Senkronizasyon, 5G ağ bağlantısı, GPS, dokunsal geri bildirim, uyandırmak için kaldırın, uyandırmak veya kapatmak için çift dokunun") to save battery</string>
+    <string name="power_save_ps_close_setting_q">Yüksek güç tüketimi hizmetleri ve özellikleri kapatın (Senkronizasyon, 5G ağ bağlantısı, dokunsal geribildirim, uyandırmak için kaldırın, uyandırmak veya kapatmak için çift dokunun")</string>
+    <string name="power_save_ps_close_setting_5g_q">Yüksek güç tüketimi hizmetleri ve özellikleri kapatın (Senkronizasyon, 5G ağ bağlantısı, dokunsal geribildirim, uyandırmak için kaldırın, uyandırmak veya kapatmak için çift dokunun)</string>
     <string name="power_center_dialog_msg_top">Pil tasarrufu açıkken Miui aşağıdaki optimizasyonları gerçekleştirir:</string>
+    <string name="power_center_dialog_msg_title">%1$s fazladan zaman kazanmak için açın. Pil tasarrufu için aşağıdaki işlemler yapılacaktır:</string>
     <string name="power_center_dialog_msg_bottom">Pil ömrünü %1$d saat %2$d dakikaya kadar artırabilirsiniz. Pil tasarrufu açılsın mı?</string>
     <string name="power_dialog_super_save_msg">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını azaltır. Ultra pil tasarrufu açılsın mı?</string>
     <string name="power_dialog_super_save_msg_5g">"Ultra pil tasarrufu cihazınızın performansını düşürerek çoğu güç tüketen özelliği kısıtlar. Yalnızca aramalar, mesajlar ve ağ bağlantısı etkilenmez. Ultra pil tasarrufu açılsın mı?"</string>
@@ -1529,8 +1540,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_main_battery_text_minute">%1$sd eklendi. Yaklaşık %2$s dakika kaldı</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s gün %2$s saat kaldı</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s saat %2$s dakika kaldı</string>
-    <string name="pc_main_power_manager_day_hour">Tamamen şarj olmasına %1$s gün %2$s saat</string>
-    <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$s saat %2$s dakika</string>
+    <string name="pc_main_power_manager_day_hour">Tamamen şarj olmasına %1$s gün %2$s saat kaldı</string>
+    <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$s saat %2$s dakika kaldı</string>
     <string name="battery_statistics_activity_title">Pil kullanım istatistikleri</string>
     <string name="pc_battery_history_consume_rank_menu_item">Sıralama</string>
     <string name="pc_battery_history_battery_detail_menu_item">Ayrıntılar</string>
@@ -1584,6 +1595,33 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_search_keywords_battery_use">Pil kullanımı</string>
     <string name="pc_search_keywords_capacity">Pil kapasitesi</string>
     <string name="pc_search_keywords_property">Performans</string>
+    <string name="notification_low_battery_title">"Kalan pil %s'den daha az"</string>
+    <string name="notification_low_battery_action_btn">Aç</string>
+    <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
+    <string name="notification_low_battery_need_charge">Cihazınızı şarj edin</string>
+    <string name="notification_channel_battery">Pil</string>
+    <string name="battery_low_percent_format_save_mode_closed">"Artık %s'den daha az pil kalmış. Cihazınızı şarj etmeyi unutmayın"</string>
+    <string name="battery_low_title">Pil azalıyor</string>
+    <string name="battery_low_title_power_save">Pil tasarrufu</string>
+    <string name="save_mode_btn_ok">Anladım</string>
+    <string name="enable_extreme_power_save_mode">Aşırı pil tasarrufu</string>
+    <string name="battery_low_percent_format_save_mode_open">"Şimdi %1$s'den az pil kalmış. %2$s ekstra zaman eklemek için pil tasarrufunı açın"</string>
+    <string name="battery_low_button_open_power_save">Aç</string>
+    <string name="battery_low_button_not_open_power_save">Şimdi değil</string>
+    <string name="low_temperature_button_ok">Anladım</string>
+    <string name="low_temperature_warning_message">Çok soğuk gibi görünüyor ve telefonunuz beklediğinizden daha erken kapanıyor. Tüm önemli değişiklikleri kaydedin</string>
+    <string name="low_temperature_warning_title">Hava sıcaklığı düşük</string>
+    <string name="battery_can_use_time">Kalan %s</string>
+    <string name="open_extreme_power_save_mode_title">Aşırı pil tasarrufunu aç</string>
+    <string name="dlg_cancel">İptal et</string>
+    <string name="dlg_confirm">Aç</string>
+    <string name="invalid_charger">USB ile şarj olmuyor. Cihazınızla birlikte verilen şarj cihazını kullanın</string>
+    <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
+    <string name="dlg_summary_title">Bir uygulamadan ayrılırken veya ana ekrana geri döndüğünüzde arka plan etkinliği kısıtlanır. Uygulamaları arka planda çalışmasına izin vermek için pil tasarrufu istisnalarına ekleyin</string>
+    <string name="dlg_summary_close_app">Uygulamalar arka planda çalışmayacak. Bildirimler kısıtlanacak</string>
+    <string name="dlg_summary_close_wifi">Wifi, bluetooth ve bağlantı noktası kapatılacak</string>
+    <string name="dlg_summary_nfc">Nfc kapatılacak</string>
+    <string name="dlg_summary_close_theme">Dinamik temalar işe yaramaz</string>
     <string name="handle_bar_title_system">Sistem</string>
     <string name="apps_list_header_title_sms">Mesajlaşma uygulamasını kontrol et</string>
     <string name="apps_list_header_title_sms_access">Doğrulama kodlarına erişimi kısıtla</string>
@@ -2467,7 +2505,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="app_manager_app_info_label">Uygulama bilgisi</string>
     <string name="app_manager_app_info_name">Uygulama adı</string>
     <string name="app_manager_app_ifno_version">Uygulama sürümü</string>
-    <string name="app_manager_app_info_pkg">Paket adı</string>
+    <string name="app_manager_app_info_pkg">zarf adı</string>
     <string name="app_manager_copy_pkg_to_clip">Panoya kopyalandı</string>
     <string name="app_manager_show_all_apps">Tüm uygulamaları göster</string>
     <string name="app_manager_hide_system_server">Sistem uygulamalarını gizle</string>
@@ -2931,10 +2969,10 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="third_desktop_dialog_ok">Anladım</string>
     <string name="user_guide">Daha yeni oyunlar keşfetmek için yukarı kaydırın</string>
     <string name="user_guide_title">Joystick seçtikleri</string>
-    <string name="system_permission_declare_main_purpose" formatted="false">%1s hoş geldiniz. Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoş geldiniz. Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s</string>
     <string name="system_permission_declare_privacy_declare">Gizliliğinize saygı duyuyor ve koruyoruz. %1s için verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
-    <string name="system_permission_declare_analytics_declare">Kullanıcı deneyimi programımıza kayıt olduğunuz için teşekkür ederiz.. Bu özelliğin normal çalışabilmesi için cihazınızın internete bağlı olması gerekir. Ayrıca ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olacak verileri toplamamıza izin vermek için aşağıdaki izinleri vermeniz gerekir. Bu veriler sadece istatistiksel amaçlar için toplanır. Bu verileri sizi kişisel olarak tanımlamak için kullanamayız</string>
-    <string name="system_permission_declare_privacy_no_permission">%1s normal çalışması için verilerinizi toplaması gerektiğini unutmayın. Gizliliğinize saygı duyuyor ve koruyoruz</string>
+    <string name="system_permission_declare_analytics_declare">Kullanıcı deneyimi programımıza kayıt olduğunuz için teşekkür ederiz. Bu özelliğin normal çalışabilmesi için cihazınızın internete bağlı olması gerekir. Ayrıca ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olacak verileri toplamamıza izin vermek için aşağıdaki izinleri vermeniz gerekir. Bu veriler sadece istatistiksel amaçlar için toplanır. Bu verileri sizi kişisel olarak tanımlamak için kullanamayız</string>
+    <string name="system_permission_declare_privacy_no_permission">%1s uygulamasının normal çalışması için verilerinizi toplaması gerektiğini unutmayın. Gizliliğinize saygı duyuyor ve koruyoruz</string>
     <string name="system_permission_declare_use_network">Ağa bağlan</string>
     <string name="system_permission_declare_use_network_no_permission">Ağa bağlan</string>
     <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama normal şekilde çalışamaz</string>
@@ -2942,15 +2980,16 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama kısmen çalışama</string>
     <string name="system_permission_declare_revoke_uninstallable">Güvenlik > Uygulamaları yönet > İzinler > İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz</string>
     <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
-    <string name="system_permission_declare_double_link"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikamızı&lt;/a> okuyun ve kabul edin</Data></string>
-    <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">kullanıcı sözleşmemizi&lt;/a> okuyun ve kabul edin</Data></string>
-    <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">gizlilik politikamızı&lt;/a> okuyun ve kabul edin</Data></string>
+    <string name="system_permission_declare_double_link">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
+    <string name="system_permission_declare_user_agreement">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> okuyun ve kabul edin</string>
+    <string name="system_permission_declare_privacy_policy">Bu özelliği kullanmadan önce <a href="%1$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="system_permission_declare_agree">Kabul et</string>
     <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
     <string name="system_permission_perm_send_mms">Multimedya gönder</string>
     <string name="system_permission_perm_read_mms">Multimedyayı oku</string>
     <string name="system_permission_perm_answer_call">Arama yap</string>
     <string name="system_permission_perm_read_numbers">Telefon numaralarını oku</string>
+    <string name="system_permission_perm_optional">" (İsteğe bağlı)"</string>
     <string name="permgroupdesc_contacts">Kişilere erişin</string>
     <string name="permgroupdesc_location">Konum bilgisine erişin</string>
     <string name="permgroupdesc_calendar">Takvim etkinliklerine erişin</string>
@@ -2962,6 +3001,20 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="permgroupdesc_phone">Aramalar yapın ve konuşmaları yönetin</string>
     <string name="permgroupdesc_sensors">Vücut sensör verilerine erişin</string>
     <string name="permgroupdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
+    <string name="HIPS_Perm_PhoneID_Desc">"Telefon numarası, IMEI ve IMSI’ye erişin"</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişin"</string>
+    <string name="permdesc_out_calls">Giden aramaları izleyin</string>
+    <string name="permdesc_in_calls">Gelen aramaları izleyin</string>
+    <string name="HIPS_Perm_Call_Desc">Doğrudan telefon numaralarını arayın</string>
+    <string name="HIPS_Perm_CallLog_Desc">Arama geçmişini yazın ve silin</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">Sistem sesli mesajları ekleyin</string>
+    <string name="HIPS_Perm_use_sip_Desc">Video akışı için oturum başlatma protokolünü kullanın</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Rehberi okuyun</string>
+    <string name="HIPS_Perm_Contact_Desc">Kişileri değiştirin ve silin</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Cihazda depolanan tüm hesaplara erişin</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Doğrudan mesajlar gönderin</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Mesajlarını okuyun</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Arama geçmişini okuyun</string>
     <string name="phone_manage">Araçlar</string>
     <string name="securitycenter_tab_title">Güvenlik</string>
     <string name="phone_manage_system_tool_title">Araçlar</string>
@@ -2980,6 +3033,11 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="banner_optimizemanage_summary">Hafızayı boşaltın</string>
     <string name="banner_red_money_assist_summary">Kırmızı zarfları daha hızlı açın</string>
     <string name="banner_red_money_assist_button">Aç</string>
+    <string name="app_running_tip_dialog_title">Uygulamadan çık</string>
+    <string name="app_running_tip_dialog_text">Arka planda çalışmasını önlemek için %1$s komutundan çıkın. Bu cihazınızı hızlandıracak ve güç tüketimini azaltacaktır</string>
+    <string name="app_running_tip_uninstall">Bu uygulamayı kaldır</string>
+    <string name="app_running_tip_dialog_positive">Tamam</string>
+    <string name="app_running_tip_dialog_negative">İptal et</string>
     <string name="firewall_rule_group_title_roaming">Yurtdışı dolaşım</string>
     <string name="mian_page_primary_txt">Uluslararası dolaşım</string>
 </resources>

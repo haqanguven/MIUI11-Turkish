@@ -105,8 +105,8 @@
     <string name="birthday_event_description_yesterday">Dün</string>
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_notification_text_days_later">%4$s etkinliğine %1$s gün kaldı (%5$s)</string>
-    <string name="birthday_notification_text_today">İyi dileklerinizi iletmeyi unutmayın.</string>
-    <string name="birthday_notification_title_days_later">%1$s adlı kişinin %2$s yaklaşıyor.</string>
+    <string name="birthday_notification_text_today">İyi dileklerinizi iletmeyi unutmayın</string>
+    <string name="birthday_notification_title_days_later">%1$s adlı kişinin %2$s yaklaşıyor</string>
     <string name="birthday_notification_title_today">%1$s adlı kişinin %3$s</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Doğum günü kaydedildi</string>
@@ -505,6 +505,9 @@
     <string name="menstruation_card_error_title">Mevcut veri isteği istisnası</string>
     <string name="menstruation_card_private_mode_sub_title">Şu anda özel modda</string>
     <string name="menstruation_card_private_mode_title">Fizyolojik döngü</string>
+    <string name="menstruation_dialog_tips">Adet yardımcısı işlevi Xiaomi sağlık tarafından sağlanmıştır. Takvimi kullanmak için devam düğmesine tıklanması Xiaomi sağlık uygulamasını indirir veya günceller</string>
+    <string name="menstruation_title">Adet asistanı</string>
+    <string name="menstruation_use_button">Kullanmaya devam et</string>
     <string name="menu_general_preferences">Genel</string>
     <string name="menu_reminder_preferences">Hatırlatıcılar</string>
     <string name="missing_name">(Adsız)</string>
@@ -574,6 +577,9 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="no_visiable_calendar_title">Hesap ekle</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Takvim hatırlatıcıları</string>
+    <string name="notification_channel_name_no_sound">Susturulmuş hatırlatmalar</string>
+    <string name="notification_channel_name_no_vibration">Titreşimsiz hatırlatmalar</string>
+    <string name="notification_channel_name_silent">Rahatsız etme modu hatırlamatmaları</string>
     <string name="notification_open_setting_button_exit">Hayır</string>
     <string name="notification_open_setting_button_ok">İzin ver</string>
     <string name="notification_open_setting_message">Takvimin size bildirim göndermesine izin vermediğiniz sürece etkinliklerle ilgili bildirimleri alamazsınız</string>
@@ -710,6 +716,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_about_calendar_version">"Takvim sürümü: "</string>
     <string name="setting_about_imei">"İmei: "</string>
     <string name="setting_about_miui_version">"Miui sürümü: "</string>
+    <string name="setting_about_oaid">"OA kimliği: %1$s"</string>
     <string name="setting_about_summary">Sürüm:</string>
     <string name="setting_accounts">Takvim hesapları</string>
     <string name="setting_chinese_calendar">Çin takvimi</string>
@@ -786,6 +793,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="sms_import_description">Zamanla ilgili mesaj olaylarını daha iyi yönetin</string>
     <string name="solar_lunar_convert_date" />
     <string name="solar_lunar_convert_description">Geleneksel Çince miladi takvimi</string>
+    <string name="solar_lunar_convert_description_2">Geleneksel Çince ve Gregoryen takvimleri arasında geçiş yap</string>
     <string name="solar_lunar_convert_tab">Dönüştür</string>
     <string name="solar_to_lunar" />
     <string name="solar_to_lunar_chinese_calendar">Çince to miladi takvimi</string>
@@ -800,6 +808,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="subscribe_card_success_for_homepage">%1$s aboneliği başarılı oldu</string>
     <string name="subscribe_channel_subscribe">Abone ol</string>
     <string name="subscribe_channel_subscribing">Abone olunuyor</string>
+    <string name="subscribe_failed">Abonelik başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="subscribing_card">Abone olunuyor</string>
     <string name="subscription_service">Servis abonelikleri</string>
     <string name="subscription_service_unsupported">Ağ erişimini kabul etmiyor. Abonelik servisi kullanılamıyor</string>

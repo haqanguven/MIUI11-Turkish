@@ -49,6 +49,11 @@
     <string name="back_description">Geri</string>
     <string name="back_view_description">Geri git</string>
     <string name="batch_delete">Tümünü sil</string>
+    <string name="bind_simcard_default">Aramalar için varsayılan Sim</string>
+    <string name="bind_simcard_menu">Aramalar için varsayılan Sim kartı ayarla</string>
+    <string name="bind_simcard_no_dual">Çift Sim bulunamadı</string>
+    <string name="bind_simcard_not_set">Ayarlanmadı</string>
+    <string name="bind_simcard_title">Aramalar için varsayılan Sim</string>
     <string name="blacklist">Engelle</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
     <string name="blurbJoinContactDataWith">%s adlı kişi ile birleştirmek istediğiniz kişiyi seçin:</string>
@@ -189,6 +194,7 @@
     <string name="cloud_state_loading">Yükleniyor</string>
     <string name="cloud_state_sync_finished">Mi bulut ile senkronize edildi</string>
     <string name="cloud_state_syncing">Mi bulut ile senkronize edildi</string>
+    <string name="cloud_upgrade_recommend">Yetersiz bulut depolama alanı nedeniyle kişiler senkronize edilemiyor. Bulut depolama planınızı yükseltin</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -470,7 +476,7 @@ Sık yapılan sorgulardan kaçınmak için bakiye verileri günde bir kez günce
     <string name="export_to_sim_prepare_title">Hazırlanıyor</string>
     <string name="export_to_sim_title">Dışa aktarılıyor</string>
     <string name="export_vcard_description">Telefonun depolama alanına vKart olarak aktar</string>
-    <string name="exporting_contact_failed_message">"Kişi verileri dışa aktarılamadı\u000d
+    <string name="exporting_contact_failed_message">"Kişi verileri dışa aktarılamadı
 Neden: %s"</string>
     <string name="exporting_contact_failed_title">Dışa aktarılamadı</string>
     <string name="exporting_contact_list_message">Şuraya aktarılıyor: %s</string>
@@ -922,7 +928,7 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="preference_phone_more_title">Arama ayarları</string>
     <string name="preference_privacy_policy_title">Gizlilik politikası</string>
     <string name="preference_remove_duplicate">Çoklu kişi kayıtlarını birleştir</string>
-    <string name="preference_show_firewall_calllog">Arama geçmişinde engellenen aramaları göster</string>
+    <string name="preference_show_firewall_calllog">Arama geçmişinde engellenen aramalar</string>
     <string name="preference_show_yellowpage_tab_description">Sarı sayfalar bu özellik kapalı olduğunda doğru çalışmayabilir</string>
     <string name="preference_show_yellowpage_tab_title">Sarı sayfaları göster</string>
     <string name="preference_simple_mode_description">Liste görünümünde fotoğrafları ve diğer kişi bilgileri görüntülenir</string>

@@ -80,9 +80,9 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="other">"&lt;font color='#ff0000'>%d uygulamanın ağ erişimi kısıtlandı"</item>
         <item quantity="one">"&lt;font color='#ff0000'>%d uygulamanın ağ erişimi kısıtlandı"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d uygulama düzgün çalışmıyor ve pil tüketiyor</item>
-        <item quantity="one">%d uygulama düzgün çalışmıyor ve pil tüketiyor</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d kilitli uygulama</item>
+        <item quantity="one">%d kilitli uygulama</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d gün "</item>
@@ -137,8 +137,8 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="one">%d dakika ekle</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
-        <item quantity="other">%s days</item>
-        <item quantity="one">%s day</item>
+        <item quantity="other">%s gün</item>
+        <item quantity="one">%s gün</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_hour">
         <item quantity="other">%s saat</item>
@@ -207,6 +207,14 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d uygulama pili boşaltıyor</item>
         <item quantity="one">%d uygulama pili boşaltıyor</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">%s dakika</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">%1$d kişi tarafından indirildi</item>

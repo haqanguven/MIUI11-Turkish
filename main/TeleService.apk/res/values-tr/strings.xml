@@ -174,6 +174,7 @@
     <string name="additional_gsm_call_settings_with_label">Ek ayarlar (%s)</string>
     <string name="administrative_disable">Yönetim kapalı</string>
     <string name="administrative_enable">Yönetim açık</string>
+    <string name="advanced_mobile_settings">Gelişmiş ayarlar</string>
     <string name="advanced_options_title">Gelişmiş</string>
     <string name="advanced_settings">Opsiyonel ayarlar</string>
     <string name="advanced_settings_container">Gelişmiş ayarlar konteyneri</string>
@@ -261,13 +262,13 @@
     <string name="bluetooth_battery_level">%1$s pil</string>
     <string name="bluetooth_connected">Bağlandı: %1$s</string>
     <string name="bluetooth_connected_battery_level">Bağlandı. Pil: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Bağlandı (Medya yok)</string>
+    <string name="bluetooth_connected_no_a2dp">Bağlandı %1$s (Medya yok)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (Medya yok). Pil: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Bağlandı (Telefon yok)</string>
+    <string name="bluetooth_connected_no_headset">Bağlandı %1$s (Telefon yok)</string>
     <string name="bluetooth_connected_no_headset_battery_level">Bağlandı (Telefon yok). Pil: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (Telefon veya medya yok)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı %1$s (Telefon veya medya yok)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlandı (Telefon veya medya yok). Pil: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">Bağlı (Mesaj erişimi yok)</string>
+    <string name="bluetooth_connected_no_map">Bağlandı %1$s (Mesaj erişimi yok)</string>
     <string name="bluetooth_connecting">Bağlanıyor</string>
     <string name="bluetooth_disable_absolute_volume">Mutlak sesi iptal et</string>
     <string name="bluetooth_disable_absolute_volume_summary">Uzak cihazda sesin aşırı yüksek olması veya kontrol edilememesi gibi ses sorunları olması ihtimaline karşı Bluetooh mutlak ses özelliğini iptal eder</string>
@@ -658,8 +659,6 @@ Oynatma kalitesi"</string>
     <string name="config_default_data_sim">Ayarlar</string>
     <string name="config_dialing_emergency_number_suffix" />
     <string name="config_disable_cdma_activation_code">false</string>
-    <string name="config_simUnlockUiClass">@null</string>
-    <string name="config_simUnlockUiPackage">@null</string>
     <string name="config_world_mode" />
     <string name="confirmPin2Label">Yeni Pin2 kodunu onaylayın</string>
     <string name="confirmPinLabel">Yeni Pin kodunu onaylayın</string>
@@ -688,7 +687,7 @@ Oynatma kalitesi"</string>
     <string name="contactdeleteSuccess">"Kişi Sim'den başarıyla silindi"</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Veri bölmesini dosya tabanlı şifrelemeye dönüştür
-!!Dikkat!! Bu işlem tüm verilerinizi siler
+Dikkat: Bu işlem tüm verilerinizi siler
 Bu özellik henüz alfa aşamasındadır ve düzgün çalışmayabilir
 Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="convert_to_file_encryption">Dosya şifrelemeye dönüştür</string>
@@ -697,6 +696,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="crescendo_ringer_summary">Zil sesi kademeli olarak belirlemiş olduğunuz seviyeye yükselir</string>
     <string name="crescendo_ringer_title">Zil sesi arttırma</string>
     <string name="ct_ut_not_support_close_4glte">UT mevcut değil. lütfen gelişmiş ayarlarda 4G LTE Modunu kapatın</string>
+    <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="daltonizer_mode_deuteranomaly">Yeşil renk körlüğü (Kırmızı-yeşil)</string>
     <string name="daltonizer_mode_disabled">Devre dışı</string>
     <string name="daltonizer_mode_monochromacy">Tam renk körlüğü</string>
@@ -732,7 +732,6 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
     <string name="default_notification_description">Varsayılan ses (%1$s)</string>
     <string name="default_port">5060</string>
-    <string name="default_preference_summary">@string/default_preference_summary_username</string>
     <string name="default_preference_summary_domain_address">&lt;Ayarlanmadı></string>
     <string name="default_preference_summary_password">&lt;Ayarlanmadı></string>
     <string name="default_preference_summary_username">&lt;Ayarlanmadı></string>
@@ -789,26 +788,26 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="dialpad_9_letters">WXYZ</string>
     <string name="dialpad_abc">ABC</string>
     <string name="dialpad_def">DEF</string>
-    <string name="dialpad_eight">8</string>
-    <string name="dialpad_five">5</string>
-    <string name="dialpad_four">4</string>
+    <string name="dialpad_eight">%d</string>
+    <string name="dialpad_five">%d</string>
+    <string name="dialpad_four">%d</string>
     <string name="dialpad_ghi">GHI</string>
     <string name="dialpad_jkl">JKL</string>
     <string name="dialpad_mno">MNO</string>
-    <string name="dialpad_nine">9</string>
-    <string name="dialpad_one">1</string>
+    <string name="dialpad_nine">%d</string>
+    <string name="dialpad_one">%d</string>
     <string name="dialpad_pound_letters" />
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_pqrs">PQRS</string>
-    <string name="dialpad_seven">7</string>
-    <string name="dialpad_six">6</string>
+    <string name="dialpad_seven">%d</string>
+    <string name="dialpad_six">%d</string>
     <string name="dialpad_star_letters" />
     <string name="dialpad_star_number">*</string>
-    <string name="dialpad_three">3</string>
+    <string name="dialpad_three">%d</string>
     <string name="dialpad_tuv">TUV</string>
-    <string name="dialpad_two">2</string>
+    <string name="dialpad_two">%d</string>
     <string name="dialpad_wxyz">WXYZ</string>
-    <string name="dialpad_zero">0</string>
+    <string name="dialpad_zero">%d</string>
     <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrasında, telefonunuzun kilidi açılıncaya kadar bu uygulama başlatılamaz</string>
     <string name="disable">Kapat</string>
     <string name="disable_all_cf">Tüm arama yönlendirme seçeneklerini kapat</string>
@@ -954,6 +953,10 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fiveg_power_secret_code_tip">Bunu güvenlik uygulaması ile çalıştırın - Batarya - 5G koruyucu</string>
     <string name="fiveg_restrict_dcnr1">"DCNR'yi kısıtla[Yuva1] :"</string>
     <string name="fiveg_restrict_dcnr2">"DCNR'yi kısıtla[Yuva2] :"</string>
+    <string name="fiveg_sa_switch_open_dialog_content">5G bağlantısı telefon hizmetlerini etkileyebilecek bağımsız modda dengesiz olabilir. Yine de SA modunu açılsın mı?</string>
+    <string name="fiveg_sa_switch_open_dialog_title">Dikkat</string>
+    <string name="fiveg_sa_switch_summary">Bağımsız modda 5G ağlarına bağlanmaya izin ver</string>
+    <string name="fiveg_sa_switch_title">SA modu</string>
     <string name="fiveg_signal_strength1">5G sinyal gücü[Yuva1] :</string>
     <string name="fiveg_signal_strength2">5G sinyal gücü[Yuva2] :</string>
     <string name="fiveg_switch_status1">5G anahtar durumu[Yuva1] :</string>
@@ -1073,14 +1076,14 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="labelCFVideo">Video</string>
     <string name="labelCFVoice">Ses</string>
     <string name="labelCW">Arama bekletme</string>
-    <string name="labelCallBarring">Call barring</string>
+    <string name="labelCallBarring">Arama engelleme</string>
     <string name="labelCallerId">Arayan kimliği</string>
     <string name="labelCdmaMore_with_label">CDMA arama ayarları (%s)</string>
     <string name="labelGSMMore">GSM arama ayarları</string>
     <string name="labelGsmMore_with_label">GSM arama ayarları (%s)</string>
     <string name="labelNwService">Ağ hizmeti ayarları</string>
     <string name="label_available">Kullanılabilir ağlar</string>
-    <string name="label_ndp">SIM network unlock PIN</string>
+    <string name="label_ndp">Sim ağ kilit açma Pin kodu</string>
     <string name="label_puk2_code">Puk2 kodunu girin</string>
     <string name="lable_all_incoming">Tüm gelen aramalar</string>
     <string name="lable_all_out_except">Ülkeniz hariç tüm uluslararası giden aramalar</string>
@@ -1117,6 +1120,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="lte_band_sel_setting">Band listesi</string>
     <string name="lte_band_set_status">Lte bandı seç</string>
     <string name="lte_freq_set_button">Pci ve frekansı ayarla</string>
+    <string name="main_netcheck_summary">Ağ sorunları için test bağlantısı</string>
     <string name="maintenance_disable">Bakım kapalı</string>
     <string name="maintenance_enable">Bakım açık</string>
     <string name="manageConferenceLabel">Konferans aramasını yönet</string>
@@ -1155,6 +1159,9 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="miui_notification_network_selection_title_by_sim">Sim %s servisi yok</string>
     <string name="mmiCancelled">MMI kodu iptal edildi</string>
     <string name="mmiStarted">MMI kodu başlatıldı</string>
+    <string name="mobile_advanced_dns_server_title">DNS sunucusu adresi</string>
+    <string name="mobile_advanced_ip_address_title">IP adresi</string>
+    <string name="mobile_connection_management">Mobil ağ bağlantısını yönet</string>
     <string name="mobile_data">Mobil veri</string>
     <string name="mobile_data_activate_button">Veri ekle</string>
     <string name="mobile_data_activate_cancel_button">İptal et</string>
@@ -1179,6 +1186,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="mobile_network_settings_not_available">Mobil ağ ayarları bu kullanıcı için kullanılabilir durumda değil</string>
     <string name="mobile_network_settings_package">com.android.phone</string>
     <string name="mobile_networks">Mobil ağ ayarları</string>
+    <string name="mobile_property">Mobil şebeke özellikleri</string>
     <string name="mock_location_app">Sahte konum uygulamasını seç</string>
     <string name="mock_location_app_not_set">Sahte konum uygulaması ayarlanmadı</string>
     <string name="mock_location_app_set">Sahte konum uygulaması: %1$s</string>
@@ -1225,6 +1233,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="name">Ad</string>
     <string name="national_disable">Ulusal haberler kapalı</string>
     <string name="national_enable">Ulusal haberler açık</string>
+    <string name="netcheck_title">Mobil şebeke teşhisi</string>
     <string name="network_1x">1x</string>
     <string name="network_2G">2G</string>
     <string name="network_3G">3G</string>
@@ -1517,7 +1526,6 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tercih edilen ağ türü</string>
     <string name="preferred_phone_account">Tercih edilen arama hesabı</string>
-    <string name="preferred_wificall_roaming_title">Dolaşım tercihleri</string>
     <string name="preferred_wificall_title">Ağ tercihi</string>
     <string name="privacy_policy_title">Gizlilik politikası</string>
     <string name="private_dns_mode_off">Kapalı</string>
@@ -1528,7 +1536,11 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="private_num">Özel numara</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="progress_dialog_exiting_ecm">Acil durum geri arama modundan çıkılıyor</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content">Arama yapamıyor ve alamıyor. VoLTE servisi şimdi Sim kartınız için kapalı (Çin Telekom)</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">Arama yapamıyor ve alamıyor. VoLTE servisi şimdi %d Sim kartınız için kapalı (Çin Telekom)</string>
+    <string name="prompt_to_suggest_no_call_service_notification_title">Arama yapamıyor ve alamıyor</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">Arama yapamıyorum. VoLTE servisini açmak için servis sağlayıcınız ile iletişime geçin</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">%d Sim kart arama yapamıyor. VoLTE servisini açmak için China Telecom ile iletişime geçin.</string>
     <string name="prompt_to_turnoff_volte_when_failed">"VoLTE hizmetleri mevcut değildir. Bir arama yapmak için VoLTE'yi kapatın"</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">"Servis mevcut değil. Ayarlardan VoLTE'yi kapatın"</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">"VoLTE'yi açmadan önce tercih ettiğiniz ağ türü olarak LTE'yi seçin"</string>
@@ -1624,40 +1636,9 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="screen_zoom_summary_large">Büyük</string>
     <string name="screen_zoom_summary_small">Küçük</string>
     <string name="screen_zoom_summary_very_large">Daha büyük</string>
-    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">Engelli listesi</string>
     <string name="search_app_name">Telefon;Arama kaydetme;Arama yönlendirme;yönlendirme;Arama bekletme;Engelli listesi;Ülke kodu;Alan kodu;Ülke kodları;Aramaları kaydet;Arama kaydetme;Tuş takımı;Arama;Aramalar;Telefon;VoIP;VoLTE;Cevapsız arama;Cevapsız aramalar;SIP;T9;IP Telefon;SAN</string>
-    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
-    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
-    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
-    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
-    <string name="search_call_record_setting">@string/call_record_setting</string>
-    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
-    <string name="search_call_waiting_title">@string/call_waiting_title</string>
-    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
-    <string name="search_caller_id_title">@string/caller_id_title</string>
-    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
-    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
-    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
-    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
-    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
-    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
-    <string name="search_fdn">@string/fdn</string>
-    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
-    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
     <string name="search_menu_title">Ara</string>
-    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
-    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
-    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
-    <string name="search_reject_via_sms">@string/reject_via_sms</string>
-    <string name="search_sip_settings">@string/sip_settings</string>
-    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
-    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
-    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
-    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
-    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
-    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
-    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">Kişi seçin</string>
     <string name="select_application">Uygulama seçin</string>
     <string name="select_automatically">Otomatik seç</string>
@@ -2030,10 +2011,10 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
     <string name="vowifi_emergency_notification_content">Mobil şebeke kapsama alanı olan alanlarda acil aramalar yapılabilir</string>
     <string name="vowifi_emergency_notification_title">Vodafone wifi aranıyor</string>
     <string name="vowifi_emergency_warning_check">Tekrar gösterme</string>
-    <string name="vowifi_emergency_warning_message">"Wifi araması acil aramalar için kullanılamaz
-
-Acil arama yapmak için cihazınız otomatik olarak bir mobil şebekeye geçecektir (2G veya 3G) 
-
+    <string name="vowifi_emergency_warning_message">"Wifi araması acil aramalar için kullanılamaz\u000d
+\u000d
+Acil arama yapmak için cihazınız otomatik olarak bir mobil şebekeye geçecektir (2G veya 3G) \u000d
+\u000d
 Acil aramalar yalnızca mobil şebeke kapsama alanı olan alanlarda yapılabilir"</string>
     <string name="vowifi_emergency_warning_title">Wifi araması ile acil aramalar</string>
     <string name="vpn_settings_not_available">Vpn ayarları bu kullanıcı için kullanılamıyor</string>
@@ -2069,21 +2050,21 @@ Acil aramalar yalnızca mobil şebeke kapsama alanı olan alanlarda yapılabilir
     <string name="wifi_call_available_title">Wifi aramasını aç</string>
     <string name="wifi_call_cancel">İptal et</string>
     <string name="wifi_call_help">Yardım</string>
-    <string name="wifi_call_help_message_1">"Wifi arama Orange tarafından sağlanmaktadır. Wifi üzerinden arama yapmanızı ve almanızı sağlayan bir servistir. Bu özellik mobil ağ kapsama alanının zayıf olduğu alanlarda kullanılabilir
-
-Wifi aramasını kullanmak için Ayarlar > Wifi aramasını açın
-
-Hizmeti etkinleştirmek için Orange servisi kullanılabilir olduğunda size bir onay mesajı gönderir. Bundan sonra bir wifi şebekesine bağlanabilir ve arama yapabilirsiniz
-
-Wifi üzerinden yapılan arama planınızın şartlarına göre ücretlendirilecektir
-
+    <string name="wifi_call_help_message_1">"Wifi arama Orange tarafından sağlanmaktadır. Wifi üzerinden arama yapmanızı ve almanızı sağlayan bir servistir. Bu özellik mobil ağ kapsama alanının zayıf olduğu alanlarda kullanılabilir\u000d
+\u000d
+Wifi aramasını kullanmak için Ayarlar > Wifi aramasını açın\u000d
+\u000d
+Hizmeti etkinleştirmek için Orange servisi kullanılabilir olduğunda size bir onay mesajı gönderir. Bundan sonra bir wifi şebekesine bağlanabilir ve arama yapabilirsiniz\u000d
+\u000d
+Wifi üzerinden yapılan arama planınızın şartlarına göre ücretlendirilecektir\u000d
+\u000d
 Bu özellik kullanılabilir olduğunda ekranınızın üstünde aşağıdaki simge gösterilecektir"</string>
-    <string name="wifi_call_help_message_2">"Wifi şebekelerini tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Wifi ağına bağlı değilseniz veya sinyal zayıfsa arama yapmak için mobil şebekeler kullanılır
-
+    <string name="wifi_call_help_message_2">"Wifi şebekelerini tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Wifi ağına bağlı değilseniz veya sinyal zayıfsa arama yapmak için mobil şebekeler kullanılır\u000d
+\u000d
 Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Mobil şebeke kapsama alanı yoksa veya sinyal zayıfsa bunun yerine wifi şebekeleri kullanılır"</string>
     <string name="wifi_call_help_title">Wifi arama yardımı</string>
     <string name="wifi_call_notification_message">Bu servisi etkinleştirmek birkaç saat sürebilir. Kullanılabilir veya kullanılabilir olmadığına dair bir onay mesajı alacaksınız</string>
-    <string name="wifi_call_preferred_summary">"Mobil şebekeleri tercih etmeyi seçerseniz mobil şebekeler varsayılan olarak aramalar için kullanılacaktır. Mobil şebeke sinyali yoksa veya çok zayıf olduğunda bunun yerine wifi şebekesi kullanılır"</string>
+    <string name="wifi_call_preferred_summary">Mobil şebekeleri tercih etmeyi seçerseniz mobil şebekeler varsayılan olarak aramalar için kullanılacaktır. Mobil şebeke sinyali yoksa veya çok zayıf olduğunda bunun yerine wifi şebekesi kullanılır</string>
     <string name="wifi_call_setting">Wifi arama</string>
     <string name="wifi_call_setting_vodafone_de">Wifi üzerinden aranıyor</string>
     <string name="wifi_call_setting_vodafone_uk">Wifi arama</string>
@@ -2123,12 +2104,10 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wifi_security_none">Yok</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -2173,21 +2152,4 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
     <string name="zen_mode_enable_dialog_turn_on">Aç</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
-	<string name="call_backlight_title">Maksimum parlaklık</string>
-	<string name="call_backlight_night_title">Gece</string>
-	<string name="call_backlight_mode">Arama parlaklığı</string>
-	<string name="call_backlight_start_time">Başlama zamanı</string>
-	<string name="call_backlight_stop_time">Bitiş zamanı</string>
-	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
-	<string name="sim_time">Sim kart seçme zamanı</string>
-	<string name="sim_time_summary">Sim kart seçme zamanı: %s saniye</string>
-	<string name="call_display_options_title">Arama ekranı düğmeleri</string>
-	<string name="button_layout_title">Düğme düzeni</string>
-	<string name="contacts_icon_title">Kişiler</string>
-	<string name="call_icon_title">Arama ekle</string>
-	<string name="notes_icon_title">Not</string>
-	<string name="microphone_icon_title">Sustur</string>
-	<string name="hold_icon_title">Beklemeye al</string>
-	<string name="recorder_icon_title">Kayıt</string>
-	<string name="show_or_hide_title">Arama ekranında göster veya gizle</string>
 </resources>

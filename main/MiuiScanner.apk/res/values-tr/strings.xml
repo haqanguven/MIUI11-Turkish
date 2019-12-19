@@ -61,6 +61,13 @@
     <string name="call_anyone">Ara</string>
     <string name="camera_error_title">Kamera hatası</string>
     <string name="cancel">İptal et</string>
+    <string name="carsHome_title">Araba</string>
+    <string name="cars_is_public">Başlatıldı</string>
+    <string name="cars_no_public">Başlatılmadı</string>
+    <string name="cars_solution">"Çözüm: "</string>
+    <string name="cars_suitability">"Eşleşme: "</string>
+    <string name="cars_title">Bir araba veya araba bölümünü tarayın</string>
+    <string name="carshome_data">Autohome Inc. tarafından sağlanan teknik destek</string>
     <string name="check_for_updates">Beta güncellemelerini kontrol et</string>
     <string name="choose_open_code_app">Uygulama seçin</string>
     <string name="choose_pay_title">Ödeme yöntemini seçin</string>
@@ -78,6 +85,7 @@
     <string name="continue_waiting">Beklemeye devam et</string>
     <string name="copy_text">Metni kopyala</string>
     <string name="copy_text_success">Metin kopyalandı</string>
+    <string name="copy_tracknum">İzleme kodunu kopyala</string>
     <string name="crop_cancel_description">İptal et</string>
     <string name="crop_done_description">Tamamlandı</string>
     <string name="crop_title_study">Fotoğrafı kes</string>
@@ -141,6 +149,8 @@
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_title">Gizlilik politikası</string>
     <string name="jd_shopping_title">"JD'de ara"</string>
+    <string name="jingdong">JD</string>
+    <string name="kuaidi100_data">Kuaidi 100 tarafından desteklenmektedir</string>
     <string name="label_choose_picture">Resim seç</string>
     <string name="label_flash_light">Işığı yak</string>
     <string name="language_entry_chinese_cn">Basitleştirilmiş Çince</string>
@@ -150,6 +160,7 @@
     <string name="language_entry_japanese">Japonca</string>
     <string name="language_entry_korean">Korece</string>
     <string name="language_entry_spanish">İspanyolca</string>
+    <string name="logistics">Hızlı teslimat</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Miui'yi en yeni sürümüne güncelleyin"</string>
     <string name="miracast_connect">Yansıt</string>
     <string name="miracast_connect_fail">Yansıtılamadı. Tekrar deneyin</string>
@@ -158,6 +169,7 @@
     <string name="miracast_message">%s cihazına yansıtılsın mı?</string>
     <string name="miracast_switch_off">Kablosuz ekran kapalı</string>
     <string name="miracast_switch_tip">Bu özelliği kullanmak için kablosuz ekranı açın</string>
+    <string name="mishop">Mi mağaza</string>
     <string name="module_title_business_card">İş kartı</string>
     <string name="module_title_code">QR kodu</string>
     <string name="module_title_document">Belge</string>
@@ -176,6 +188,7 @@
     <string name="not_insert_contact">Kişi eklenemiyor</string>
     <string name="not_recommend_access_web_url">Yine de devam et</string>
     <string name="note">Açıklama:</string>
+    <string name="now_state">"Mevcut durum: "</string>
     <string name="once">Sadece bir kez</string>
     <string name="open_url">Bağlantı adresini aç</string>
     <string name="pay_no_tip">Tekrar gösterme</string>
@@ -188,10 +201,16 @@
     <string name="plant_reg_fail_2">Bu nesne tanımlanamadı. Tarayıcı yalnızca bitkileri tanımlayabilir</string>
     <string name="plant_support">" (Teknik destek)"</string>
     <string name="plant_title">Tanımlamak isteğiniz bitkiyi taratın</string>
+    <string name="please_try_again_later">Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="preparing_sd">Dahili depolama alanı hazırlanıyor</string>
     <string name="previous">Geri</string>
     <string name="prompt">Uyarı</string>
     <string name="qr_code_details">QR kod ayrıntıları:</string>
+    <string name="queryNum">Sipariş kontrolü</string>
+    <string name="query_faile">Sipariş durumu ve detaylar henüz senkronize edilmedi. Siparişinizi manuel olarak kontrol edin</string>
+    <string name="query_inai">"Mi AI'nın size yardım etmesine izin verin"</string>
+    <string name="query_more">Daha fazla</string>
+    <string name="query_tracknum">Ekspres teslimat siparişini kontrol edin</string>
     <string name="recognize">Tara</string>
     <string name="recognize_fail">Kod okunamadı</string>
     <string name="request_server_failed">Sunucuya bağlanılamadı</string>
@@ -200,6 +219,7 @@
     <string name="sdk_not_ready">SDK hazırlanıyor. Daha sonra tekrar deneyin</string>
     <string name="secure_access_web_url">İnternet sitesine git</string>
     <string name="see_app_details">Uygulama ayrıntılarını görüntüle</string>
+    <string name="see_details">Ayrıntıları görüntülemek için dokunun</string>
     <string name="select_dialog_confirm">Tamam</string>
     <string name="send_mail">E-posta gönder</string>
     <string name="setting_alipay">Alipay</string>
@@ -214,6 +234,13 @@
     <string name="shopping_title">Ürünün bir fotoğrafını çekin</string>
     <string name="shopping_vendor_info">Taobao tarafından sağlanmaktadır</string>
     <string name="spaceIsLow_content">Dahili depolama alanında yeterli boş alan yok. Biraz yer açın</string>
+    <string name="store_feedback_prompt">Önce geri bildiriminizi girin</string>
+    <string name="store_location_dialog">Bu hizmet Dianping tarafından sağlanmaktadır. Bu hizmeti kullanırken çektiğiniz tüm fotoğraflar ve ilgili konum bilgileri de dahil olmak üzere mağazalar hakkında bilgi edinmek için Dianping ile paylaşılacaktır</string>
+    <string name="store_location_fail">"Konum bilgisi alınamadı"</string>
+    <string name="store_location_prompt">Tarayıcıların mağazaları tanımlayabilmesi için konumunuza erişmesine izin verin</string>
+    <string name="store_module_title">Mağaza</string>
+    <string name="store_no_date">Mağaza tanımlanamadı</string>
+    <string name="store_title">Mağaza işaretini tara</string>
     <string name="study_rotate_picture">Fotoğraf işleniyor</string>
     <string name="study_scan_result">Sonuç</string>
     <string name="study_searching">Sonuçlar aranıyor</string>
@@ -221,6 +248,7 @@
     <string name="study_vendor_info">Zuoyebang tarafından sağlanmaktadır</string>
     <string name="suggested_submission_success">Geri bildiriminiz başarıyla gönderildi</string>
     <string name="switch_open">Aç</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="title">Ünvan:</string>
     <string name="to_install_title">Bu QR kodu sizi yüklü olmayan bir uygulamaya yönlendirmektedir. Bu uygulama şimdi indirilsin mi?</string>
@@ -261,6 +289,7 @@
     <string name="url_is_unknown">İnternet sitesi güvenliği kontrol edilemiyor</string>
     <string name="url_is_unsafety">Bu internet sitesi güvenli değil</string>
     <string name="vender_info_translation_kingsoft">Kingsoft tarafından sağlanmaktadır</string>
+    <string name="waybill_num">"Sipariş: "</string>
     <string name="web">İnternet sitesi:</string>
     <string name="website_details">İnternet sitesi:</string>
     <string name="weixin_code_tip">Bu QR kodunu WeChat kullanarak taratın</string>
@@ -274,6 +303,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Başvurunuz yakında incelenmek üzere gönderilecek)"</string>
     <string name="wx_not_installed_toast">"Bu özellik WeChat'i kullanmaya ihtiyaç duyar. Önce WeChat'i yükleyin"</string>
+    <string name="xiaoai_dialog">"Mi AI'ye taramak
+istediğinizi söylemeyi deneyin"</string>
     <string name="you_have_permission_to_download">Beta sürümü indirmek için dokunun</string>
     <string name="you_id">"Kimliğiniz: "</string>
     <string name="your_application_is_under_review">" (Başvurunuz inceleniyor)"</string>

@@ -13,6 +13,7 @@
     <string name="hint_search_all">Uygulama ara</string>
     <string name="hint_search_in_disabled_apps">Bildirimleri gösteremeyen uygulamaları ara</string>
     <string name="hint_search_in_enabled_apps">Bildirimleri gösterebilen uygulamaları ara</string>
+    <string name="last_sent_time_second">Hemen şimdi</string>
     <string name="list_title_disable_notification">Bildirimlere izin verilmedi</string>
     <string name="loading">Yükleniyor</string>
     <string name="lock_screen_display_rules">Biçim</string>

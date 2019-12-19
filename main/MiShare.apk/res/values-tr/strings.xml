@@ -56,6 +56,7 @@
     <string name="error_receive_file_cannot_read">Dosya alınamadı</string>
     <string name="error_receive_file_changed">Alınamıyor. Öğe değişti</string>
     <string name="error_receive_file_no_enough_space">Alınamıyor. Yeterli depolama alanı yok</string>
+    <string name="error_receive_file_service_disabled">Gelen aktarmalar iptal edildi</string>
     <string name="error_receive_user_cancel">Aktarma iptal edildi</string>
     <string name="error_receive_user_interrupted">Diğer kişi transferi iptal etti</string>
     <string name="error_refuse_receive">Aktarma iptal edildi</string>
@@ -64,6 +65,7 @@
     <string name="error_send_file_cannot_read">Dosya gönderilemedi. Tekrar deneyin</string>
     <string name="error_send_file_no_enough_space">Gönderilemiyor. Diğer cihazda yeterli depolama alanı yok</string>
     <string name="error_send_file_not_found">Dosya bulunamadı. Tekrar deneyin</string>
+    <string name="error_send_file_service_disabled">Giden aktarmalar iptal edildi</string>
     <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin</string>
     <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="error_user_refuse">Gönderilemiyor. Aktarma reddedildi</string>
@@ -75,6 +77,8 @@
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
     <string name="hide">Gizle</string>
     <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
+    <string name="mi_9t">Mi 9T</string>
+    <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_drop">Dosya paylaşımı</string>
     <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için dosya paylaşımı kullanabilirsiniz
 Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur
@@ -86,6 +90,8 @@ Oppo, vivo, realme ve diğer markalar yakında dosya paylaşımı ile de uyumlu 
     <string name="no_longer_prompt">Engelle</string>
     <string name="no_longer_receive">Bu cihaz engellensin mi? Ondan dosya alamazsınız</string>
     <string name="operate_too_fast">Devam eden işlemler tamamlanana kadar bekleyin</string>
+    <string name="oppo">Oppo</string>
+    <string name="oppo_phone">Oppo</string>
     <string name="pc_device_model_name">Bilgisayar</string>
     <string name="permission_denied_hint">Dosya paylaşımını kullanabilmek için gerekli izinleri verin</string>
     <string name="progress_ratio">%%%1$d</string>
@@ -97,6 +103,15 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="receive_file">Kabul et</string>
     <string name="receive_only_from_contacts">Yalnızca kişilerden dosya al</string>
     <string name="receiver_error">Alınamadı. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="redmi_6">Redmi 6</string>
+    <string name="redmi_6_pro">Redmi 6 Pro</string>
+    <string name="redmi_6a">Redmi 6A</string>
+    <string name="redmi_7a">Redmi 7A</string>
+    <string name="redmi_k20">Redmi K20</string>
+    <string name="redmi_k20_pro">Redmi K20 Pro</string>
+    <string name="redmi_note_5">Redmi Note 5</string>
+    <string name="redmi_note_7">Redmi Note 7</string>
+    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="refuse_file">Reddet</string>
     <string name="retry_task">Tekrar gönder</string>
     <string name="scanning_device_tips">Yakındaki cihazlar aranıyor. Diğer cihazların keşfedilebilir modda olduğundan emin olun</string>
@@ -104,6 +119,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="send_file">Dosya gönder</string>
     <string name="send_files_to">Öğeleri gönder</string>
     <string name="send_files_to_remote_success">Öğeler %1$s cihazına başarıyla gönderildi</string>
+    <string name="send_files_to_remote_success_title">Başarıyla gönderildi</string>
     <string name="sender_error">Gönderilemedi. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="somepc_send_much_file_to_you_files">"%1$s size 200'den fazla dosya gönderiyor"</string>
     <string name="somepc_send_muchfile_files">"%1$s size 200'den fazla dosya gönderiyor"</string>
@@ -123,27 +139,13 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="transfer_to_phone_summary">Fotoğrafları ve dosyaları yakındaki Mi telefonlara ve diğer uyumlu Android cihazlarına göndermenize olanak sağlar</string>
     <string name="transfer_to_phone_title">Dosyaları telefonlara gönder</string>
     <string name="unkonw_device">Bilinmeyen cihaz</string>
-    <string name="wait_receive_file">Alınmayı bekliyor</string>
-    <string name="wait_remote_receive_tips">Bekliyor</string>
-    <string name="wifi_is_not_enabled">Önce wifi bağlantısını açın</string>
-    <string name="mi_9t">Mi 9T</string>
-    <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_a3">Mi A3</string>
-    <string name="oppo">OPPO</string>
-    <string name="oppo_phone">OPPO</string>
-    <string name="redmi_6">Redmi 6</string>
-    <string name="redmi_6_pro">Redmi 6 Pro</string>
-    <string name="redmi_6a">Redmi 6A</string>
-    <string name="redmi_7a">Redmi 7A</string>
-    <string name="redmi_k20">Redmi K20</string>
-    <string name="redmi_k20_pro">Redmi K20 Pro</string>
-    <string name="redmi_note_5">Redmi Note 5</string>
-    <string name="redmi_note_7">Redmi Note 7</string>
-    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="unrecognized_manufacture">Bilinmeyen</string>
     <string name="unrecognized_model">Bilinmeyen cihaz</string>
     <string name="vivo">Vivo</string>
     <string name="vivo_phone">Vivo</string>
+    <string name="wait_receive_file">Alınmayı bekliyor</string>
+    <string name="wait_remote_receive_tips">Bekliyor</string>
+    <string name="wifi_is_not_enabled">Önce wifi bağlantısını açın</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -164,6 +166,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">Poco F1</string>
+    <string name="mi_a3">Mi A3</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>

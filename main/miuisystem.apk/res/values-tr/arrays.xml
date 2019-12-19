@@ -142,7 +142,7 @@
         <item>Hakan iletişim</item>
         <item>Güven iletişim</item>
         <item>İzmir iletişim</item>
-        <item>Mi hareketi</item>
+        <item>Mi iletişim</item>
     </string-array>
     <string-array name="miui_nature_sound_array">
         <item>/system/media/audio/ui/WaterDrop_preview.ogg</item>
@@ -265,5 +265,35 @@
         <item>Arama geçmişini düzenleme</item>
         <item>Kamera erişimi</item>
         <item>Konum erişimi</item>
+    </string-array>
+    <string-array name="eu_regions">
+        <item>AT</item>
+        <item>BE</item>
+        <item>BG</item>
+        <item>CY</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>EE</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HR</item>
+        <item>HU</item>
+        <item>IE</item>
+        <item>IT</item>
+        <item>LT</item>
+        <item>LU</item>
+        <item>LV</item>
+        <item>MT</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>SE</item>
+        <item>SI</item>
+        <item>SK</item>
     </string-array>
 </resources>
