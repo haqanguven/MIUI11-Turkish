@@ -235,7 +235,23 @@
     <string name="auto_redial_pref_title">Otomatik tekrar arama</string>
     <string name="auto_retry_mode_summary">Otomatik yeniden deneme modunu aç</string>
     <string name="auto_retry_mode_title">Otomatik yeniden deneme</string>
+    <string name="autoip">Otomatik IP arama</string>
+    <string name="autoip_add_zero_prefix">Mobil cihazlar için 0 ön ek ekle</string>
+    <string name="autoip_areacode_required">Alan kodu gerekli</string>
+    <string name="autoip_areacode_required_accept">Tamam</string>
     <string name="autoip_areacode_required_for_emergency_number">Alan kodu acil aramalar için gereklidir</string>
+    <string name="autoip_autoip_current_areacode_summary">Geçerli alan kodu: %s</string>
+    <string name="autoip_current_areacode">Geçerli alan kodu</string>
+    <string name="autoip_current_areacode_summary">Geçerli konumun alan kodu</string>
+    <string name="autoip_exception">IP ön eki gerektirmeyen numaralar</string>
+    <string name="autoip_exception_summary">Toplam %d</string>
+    <string name="autoip_exception_summary_more">. Toplam %d</string>
+    <string name="autoip_no_exceptions">IP ön eki gerektirmeyen numaralar ekleyin</string>
+    <string name="autoip_prefix">IP ön eki</string>
+    <string name="autoip_prefix_summary">Taşıyıcının IP ön eki: %s</string>
+    <string name="autoip_setting">Otomatik IP ayarları</string>
+    <string name="autoip_summary">Uluslararası numaralar için IP ön eki ekleme</string>
+    <string name="autoip_support_local_numbers">Her zaman IP ön ekini kullan</string>
     <string name="available_via_carrier">%1$s üzerinden bağlandı</string>
     <string name="available_via_passpoint">%1$s üzerinden bağlandı</string>
     <string name="back">Geri</string>
@@ -659,6 +675,8 @@ Oynatma kalitesi"</string>
     <string name="config_default_data_sim">Ayarlar</string>
     <string name="config_dialing_emergency_number_suffix" />
     <string name="config_disable_cdma_activation_code">false</string>
+    <string name="config_simUnlockUiClass">@null</string>
+    <string name="config_simUnlockUiPackage">@null</string>
     <string name="config_world_mode" />
     <string name="confirmPin2Label">Yeni Pin2 kodunu onaylayın</string>
     <string name="confirmPinLabel">Yeni Pin kodunu onaylayın</string>
@@ -732,6 +750,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
     <string name="default_notification_description">Varsayılan ses (%1$s)</string>
     <string name="default_port">5060</string>
+    <string name="default_preference_summary">@string/default_preference_summary_username</string>
     <string name="default_preference_summary_domain_address">&lt;Ayarlanmadı></string>
     <string name="default_preference_summary_password">&lt;Ayarlanmadı></string>
     <string name="default_preference_summary_username">&lt;Ayarlanmadı></string>
@@ -937,33 +956,23 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fdn_list_with_label">SAN listesi (%s)</string>
     <string name="fdn_summary">Listelenmiş sabit arama numaralarını veya belirlenmiş ön eki olan numaralara aramaları kısıtla</string>
     <string name="fdn_with_label">Sabit arama numaraları (%s)</string>
-    <string name="fiveg_bearer_status1">5G taşıyıcı durumu[Yuva1] :</string>
-    <string name="fiveg_bearer_status2">5G taşıyıcı durumu[Yuva2] :</string>
-    <string name="fiveg_endc_available1">NR ENDC available[Yuva1] :</string>
-    <string name="fiveg_endc_available2">NR ENDC available[Yuva2] :</string>
-    <string name="fiveg_endc_status1">Endc durumu[Yuva1] :</string>
-    <string name="fiveg_endc_status2">Endc durumu[Yuva2] :</string>
-    <string name="fiveg_icon_type1">Nr simge türü[Yuva1] :</string>
-    <string name="fiveg_icon_type2">Nr simge türü[Yuva2] :</string>
+    <string name="fiveg_bearer_status1">5G taşıyıcı durumu:</string>
+    <string name="fiveg_endc_available1">NR ENDC mevcut:</string>
+    <string name="fiveg_endc_status1">Endc durumu:</string>
+    <string name="fiveg_icon_type1">Nr simge türü:</string>
     <string name="fiveg_infos">5G bilgileri</string>
-    <string name="fiveg_network_config_type1">Ağ yapılandırma türü[Yuva1] :</string>
-    <string name="fiveg_network_config_type2">Ağ yapılandırma türüe[Yuva2] :</string>
-    <string name="fiveg_plmn_info_list1">PLMN bilgi listesi[Yuva1] :</string>
-    <string name="fiveg_plmn_info_list2">PLMN bilgi listesi[Yuva2] :</string>
+    <string name="fiveg_network_config_type1">Ağ yapılandırma türü:</string>
+    <string name="fiveg_plmn_info_list1">PLMN bilgi listesi:</string>
     <string name="fiveg_power_secret_code_tip">Bunu güvenlik uygulaması ile çalıştırın - Batarya - 5G koruyucu</string>
-    <string name="fiveg_restrict_dcnr1">"DCNR'yi kısıtla[Yuva1] :"</string>
-    <string name="fiveg_restrict_dcnr2">"DCNR'yi kısıtla[Yuva2] :"</string>
+    <string name="fiveg_restrict_dcnr1">"DCNR'yi kısıtla:"</string>
     <string name="fiveg_sa_switch_open_dialog_content">5G bağlantısı telefon hizmetlerini etkileyebilecek bağımsız modda dengesiz olabilir. Yine de SA modunu açılsın mı?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Dikkat</string>
     <string name="fiveg_sa_switch_summary">Bağımsız modda 5G ağlarına bağlanmaya izin ver</string>
     <string name="fiveg_sa_switch_title">SA modu</string>
-    <string name="fiveg_signal_strength1">5G sinyal gücü[Yuva1] :</string>
-    <string name="fiveg_signal_strength2">5G sinyal gücü[Yuva2] :</string>
-    <string name="fiveg_switch_status1">5G anahtar durumu[Yuva1] :</string>
-    <string name="fiveg_switch_status2">5G anahtar durumu[Yuva2] :</string>
+    <string name="fiveg_signal_strength1">5G sinyal gücü:</string>
+    <string name="fiveg_switch_status1">5G anahtar durumu:</string>
     <string name="fiveg_switch_title">5G ağı</string>
-    <string name="fiveg_upperlayer_indication1">Üst katman gösterge furumu[Yuva1] :</string>
-    <string name="fiveg_upperlayer_indication2">Üst katman gösterge furumu[Yuva2] :</string>
+    <string name="fiveg_upperlayer_indication1">Üst katman gösterge furumu:</string>
     <string name="flash_when_ring_summary">Gelen aramalar için flaşı yakıp söndürür</string>
     <string name="flash_when_ring_title">Telefon çaldığında yakıp söndür</string>
     <string name="forbidden_network">(Yasaklandı)</string>
@@ -1636,9 +1645,40 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="screen_zoom_summary_large">Büyük</string>
     <string name="screen_zoom_summary_small">Küçük</string>
     <string name="screen_zoom_summary_very_large">Daha büyük</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">Engelli listesi</string>
     <string name="search_app_name">Telefon;Arama kaydetme;Arama yönlendirme;yönlendirme;Arama bekletme;Engelli listesi;Ülke kodu;Alan kodu;Ülke kodları;Aramaları kaydet;Arama kaydetme;Tuş takımı;Arama;Aramalar;Telefon;VoIP;VoLTE;Cevapsız arama;Cevapsız aramalar;SIP;T9;IP Telefon;SAN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
     <string name="search_menu_title">Ara</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">Kişi seçin</string>
     <string name="select_application">Uygulama seçin</string>
     <string name="select_automatically">Otomatik seç</string>
@@ -2011,10 +2051,10 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
     <string name="vowifi_emergency_notification_content">Mobil şebeke kapsama alanı olan alanlarda acil aramalar yapılabilir</string>
     <string name="vowifi_emergency_notification_title">Vodafone wifi aranıyor</string>
     <string name="vowifi_emergency_warning_check">Tekrar gösterme</string>
-    <string name="vowifi_emergency_warning_message">"Wifi araması acil aramalar için kullanılamaz\u000d
-\u000d
-Acil arama yapmak için cihazınız otomatik olarak bir mobil şebekeye geçecektir (2G veya 3G) \u000d
-\u000d
+    <string name="vowifi_emergency_warning_message">"Wifi araması acil aramalar için kullanılamaz
+
+Acil arama yapmak için cihazınız otomatik olarak bir mobil şebekeye geçecektir (2G veya 3G) 
+
 Acil aramalar yalnızca mobil şebeke kapsama alanı olan alanlarda yapılabilir"</string>
     <string name="vowifi_emergency_warning_title">Wifi araması ile acil aramalar</string>
     <string name="vpn_settings_not_available">Vpn ayarları bu kullanıcı için kullanılamıyor</string>
@@ -2050,17 +2090,17 @@ Acil aramalar yalnızca mobil şebeke kapsama alanı olan alanlarda yapılabilir
     <string name="wifi_call_available_title">Wifi aramasını aç</string>
     <string name="wifi_call_cancel">İptal et</string>
     <string name="wifi_call_help">Yardım</string>
-    <string name="wifi_call_help_message_1">"Wifi arama Orange tarafından sağlanmaktadır. Wifi üzerinden arama yapmanızı ve almanızı sağlayan bir servistir. Bu özellik mobil ağ kapsama alanının zayıf olduğu alanlarda kullanılabilir\u000d
-\u000d
-Wifi aramasını kullanmak için Ayarlar > Wifi aramasını açın\u000d
-\u000d
-Hizmeti etkinleştirmek için Orange servisi kullanılabilir olduğunda size bir onay mesajı gönderir. Bundan sonra bir wifi şebekesine bağlanabilir ve arama yapabilirsiniz\u000d
-\u000d
-Wifi üzerinden yapılan arama planınızın şartlarına göre ücretlendirilecektir\u000d
-\u000d
+    <string name="wifi_call_help_message_1">"Wifi arama Orange tarafından sağlanmaktadır. Wifi üzerinden arama yapmanızı ve almanızı sağlayan bir servistir. Bu özellik mobil ağ kapsama alanının zayıf olduğu alanlarda kullanılabilir
+
+Wifi aramasını kullanmak için Ayarlar > Wifi aramasını açın
+
+Hizmeti etkinleştirmek için Orange servisi kullanılabilir olduğunda size bir onay mesajı gönderir. Bundan sonra bir wifi şebekesine bağlanabilir ve arama yapabilirsiniz
+
+Wifi üzerinden yapılan arama planınızın şartlarına göre ücretlendirilecektir
+
 Bu özellik kullanılabilir olduğunda ekranınızın üstünde aşağıdaki simge gösterilecektir"</string>
-    <string name="wifi_call_help_message_2">"Wifi şebekelerini tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Wifi ağına bağlı değilseniz veya sinyal zayıfsa arama yapmak için mobil şebekeler kullanılır\u000d
-\u000d
+    <string name="wifi_call_help_message_2">"Wifi şebekelerini tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Wifi ağına bağlı değilseniz veya sinyal zayıfsa arama yapmak için mobil şebekeler kullanılır
+
 Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için varsayılan olarak kullanılırlar. Mobil şebeke kapsama alanı yoksa veya sinyal zayıfsa bunun yerine wifi şebekeleri kullanılır"</string>
     <string name="wifi_call_help_title">Wifi arama yardımı</string>
     <string name="wifi_call_notification_message">Bu servisi etkinleştirmek birkaç saat sürebilir. Kullanılabilir veya kullanılabilir olmadığına dair bir onay mesajı alacaksınız</string>
@@ -2104,10 +2144,12 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wifi_security_none">Yok</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -2152,22 +2194,4 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
     <string name="zen_mode_enable_dialog_turn_on">Aç</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
-	<string name="call_backlight_mode">Arama parlaklığı</string>
-	<string name="call_backlight_title">Maksimum parlaklık</string>
-	<string name="call_backlight_level_title">Parlaklık seviyesi</string>
-	<string name="call_backlight_night_title">Gece</string>
-	<string name="call_backlight_start_time">Başlama zamanı</string>
-	<string name="call_backlight_stop_time">Bitiş zamanı</string>
-	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
-	<string name="sim_time">Sim kart seçme zamanı</string>
-	<string name="sim_time_summary">Sim kart seçme zamanı: %s saniye</string>
-	<string name="call_display_options_title">Arama ekranı düğmeleri</string>
-	<string name="button_layout_title">Düğme düzeni</string>
-	<string name="contacts_icon_title">Kişiler</string>
-	<string name="call_icon_title">Arama ekle</string>
-	<string name="notes_icon_title">Not</string>
-	<string name="microphone_icon_title">Sustur</string>
-	<string name="hold_icon_title">Beklemeye al</string>
-	<string name="recorder_icon_title">Kayıt</string>
-	<string name="show_or_hide_title">Arama ekranında göster veya gizle</string>
 </resources>

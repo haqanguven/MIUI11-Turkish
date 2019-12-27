@@ -1679,7 +1679,6 @@
         <item>cactus</item>
         <item>pine</item>
         <item>rosy</item>
-        <item>ginkgo</item>
         <item>willow</item>
         <item>olive</item>
         <item>tiare</item>
@@ -3531,56 +3530,4 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>zen_mode_from_starred</item>
         <item>zen_mode_from_none</item>
     </string-array>
-	<string-array name="statusbar_style_entries">
-		<item>Varsayılan</item>
-		<item>Merkezi saat</item>
-		<item>Karışık</item>
-		<item>Aosp</item>
-	</string-array>
-	<string-array name="list_animation_entries">
-		<item>Varsayılan</item>
-		<item>Dalgalanarak (Sol taraftan)</item>
-		<item>Dalgalanarak (Sağ taraftan)</item>
-		<item>Alfa</item>
-		<item>Solarak</item>
-		<item>Yığılarak (Üst taraftan)</item>
-		<item>Yığılarak (Alt taraftan)</item>
-		<item>Açılarak</item>
-		<item>Katlanarak</item>
-		<item>Çevirilerek (Sol taraftan)</item>
-		<item>Çevirilerek (Sağ taraftan)</item>
-	</string-array>
-	<string-array name="list_interpolator_entries">
-		<item>Varsayılan</item>
-		<item>Dalgalanarak yavaşlama</item>
-		<item>Yavaşlama</item>
-		<item>Yığılarak yavaşlama</item>
-		<item>Yavaşlayarak açılma</item>
-		<item>Katlanarak açılma</item>
-		<item>Hızlı açılma</item>
-		<item>Sıçrayarak</item>
-		<item>Halkalar</item>
-		<item>Doğrusal</item>
-	</string-array>
-	<string-array name="smart_mobiledata_entries">
-		<item>Değiştirme</item>
-		<item>4G öncelikli</item>
-		<item>3G öncelikli</item>
-		<item>Sadece 2G</item>
-	</string-array>
-	<string-array name="smart_timer_entries">
-		<item>Değiştirme</item>
-		<item>10 dakika</item>
-		<item>20 dakika</item>
-		<item>30 dakika</item>
-		<item>1 saat</item>
-		<item>2 saat</item>
-		<item>3 saat</item>
-	</string-array>
-	<string-array name="smart_timer_sleepon_entries">
-		<item>Etkinleştirme</item>
-		<item>10 dakika</item>
-		<item>20 dakika</item>
-		<item>30 dakika</item>
-	</string-array>
 </resources>

@@ -375,7 +375,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="account_user_avatar_from_album">Fotoğraf seç</string>
     <string name="account_crop_user_avatar">Fotoğrafı kırp</string>
     <string name="sns_access_token_expired_warning">Hesap oturumu sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
-    <string name="user_avatar_uploading">Yalnızca bir saniye</string>
+    <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_avatar_update_title">Profil resmini değiştir</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="account_invalid_user_avatar">Bu fotoğraf geçersiz. Farklı bir fotoğraf deneyin</string>
@@ -399,7 +399,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="error_dup_binded_email">Bu e-posta adresi zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="error_invalid_bind_address">Girmiş olduğunuz e-posta adresi geçersiz.</string>
     <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi Hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
-    <string name="just_a_second">Yalnızca bir saniye</string>
+    <string name="just_a_second">Yükleniyor</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve ardından yeniden deneyin</string>
     <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
     <string name="exceed_binded_phone_times_notice">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>

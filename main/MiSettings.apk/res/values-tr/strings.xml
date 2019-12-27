@@ -121,7 +121,6 @@
     <string name="trend_from_yesterday_less_simple">%1$s dünden daha düşük</string>
     <string name="trend_from_yesterday_more">%1$s cihazını dünden daha fazla kullanıyorsunuz</string>
     <string name="trend_from_yesterday_more_simple">%1$s dünden daha fazla kullanıyorsunuz</string>
-    <string name="try_to_create">Kısayol oluşturma denendi</string>
     <string name="unlock_times_per_day">Ortalama günlük kilit açma:</string>
     <string name="unlock_times_per_hour">Ortalama saatlik kilit açma:</string>
     <string name="usage_agree">Kabul et</string>
@@ -142,9 +141,11 @@
     <string name="usage_app_weekend_limit">Hafta sonu</string>
     <string name="usage_beat_fans">%s Mi fanından daha iyi</string>
     <string name="usage_continuous_days">Kısa süre</string>
+    <string name="usage_creating_weekly_report">Haftalık rapor oluşturuluyor</string>
     <string name="usage_exit">Çıkış</string>
     <string name="usage_focus_focus_premission_main_summary">Odak modu kullanım istatistiklerini kaydetmek için bu uygulamanın hesap bilgilerinize erişmesi gerekir</string>
     <string name="usage_focus_focus_premission_second_summary">Yukarıdaki izinleri kabul etmiyorsanız bu uygulama doğru bir şekilde çalışmayacaktır. Uygulamanın temel işlevlerini etkilemez</string>
+    <string name="usage_focus_new_summary">Kendimle daha iyi tanış</string>
     <string name="usage_focus_save_success">Galeriye başarıyla kaydedildi</string>
     <string name="usage_focus_summary_level1">Odaklanmaya birkaç dakika ayırmak kolaydır</string>
     <string name="usage_focus_summary_level2">Odaklama tatmin edici bir rutin haline gelebilir</string>
@@ -169,6 +170,10 @@ Size hizmet vermek için ekran kullanımınızla ilgili bilgileri toplamamız ge
 Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilgileri toplamak için izinlerinizi veya işlevlerinizi aşağıdaki gibi olması gerekir:"</string>
     <string name="usage_home_premission_second_summary">Normal çalışabilmesi için bu uygulamanın kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
     <string name="usage_home_premission_second_summary_new">"Kişisel bilgilerinizi korumak için ilgili yasa ve yönetmeliklere ve gizlilik politikalarına kesinlikle uyacağız. Yukarıdaki gerekli izinleri veya işlevleri kabul etmiyorsanız bu uygulama düzgün çalışmayacaktır. Ekran zaman yönetimi > Ayarlar > Ekran zaman yönetimini devre dışı bırakma izninizi veya gizlilikle ilgili diğer hususları geri almak için bizimle privacy@xiaomi.com adresinden iletişime geçebilirsiniz"</string>
+    <string name="usage_no_net_summary">Lütfen internet bağlantınızın normal olup olmadığını kontrol edin</string>
+    <string name="usage_refresh">Yenile</string>
+    <string name="usage_request_error_summary">Zaman aşımı bilinmiyor</string>
+    <string name="usage_request_timeout_summary">Zaman aşımına uğradı</string>
     <string name="usage_state_accurate_date">dd MMMM yyyy</string>
     <string name="usage_state_add_up_count">Oturumlar</string>
     <string name="usage_state_add_up_days">Günler</string>
@@ -264,6 +269,8 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_stats_week_day">Hafta sonu</string>
     <string name="usage_total_days">Toplam günler</string>
     <string name="usage_total_times">Toplam oturumlar</string>
+    <string name="usage_weekly_report_summary">Özel haftalık zaman</string>
+    <string name="usage_weekly_report_title">Haftalık kullanım</string>
     <string name="usagestats_app_category_miui_education">Eğitim</string>
     <string name="usagestats_app_category_miui_entainment">Eğlence</string>
     <string name="usagestats_app_category_miui_financial">Finans</string>

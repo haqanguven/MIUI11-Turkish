@@ -302,7 +302,7 @@
     <string name="slavewifi_settings">Ayarları değiştirmek için dokunun</string>
     <string name="throwing_screen">Yayınla</string>
     <string name="throwing_print">Yazıcı</string>
-    <string name="send_files_to">Öğe gönder</string>
+    <string name="send_files_to">Paylaş</string>
     <string name="file_sending">Dosya aktarılıyor</string>
     <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
     <string name="enable_midrop">Aç</string>
@@ -374,6 +374,7 @@
     <string name="service_not_subscribed">Hizmete abone olunamadı: -33-</string>
     <string name="frequent_email">Sık kullanılan e-posta</string>
     <string name="data_usage_context">Wifi açık değilse cihazınız ödeme planınıza bağlı olarak ek masraflara neden olabilecek bir mobil ağa bağlanacaktır</string>
+    <string name="slatoast">Hızı artırmak için mobil veri kullanmak mobil veriyi tüketebilir</string>
     <string name="android_forward_intent_to_owner">@android:string/forward_intent_to_owner</string>
     <string name="android_forward_intent_to_work">@android:string/forward_intent_to_work</string>
     <string name="android_whichApplicationNamed">@android:string/whichApplicationNamed</string>

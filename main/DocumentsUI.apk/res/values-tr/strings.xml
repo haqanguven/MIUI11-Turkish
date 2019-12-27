@@ -68,8 +68,8 @@
     <string name="copy_preparing">Kopyalama işlemine hazırlanıyor</string>
     <string name="copy_remaining">%s kaldı</string>
     <string name="create_error">Klasör oluşturulamadı</string>
-    <string name="datetime_format_12">MMM dd, yyyy, h:mm a</string>
-    <string name="datetime_format_24">MMM dd, yyyy, H:mm</string>
+    <string name="datetime_format_12">dd MMM yyyy, h:mm a</string>
+    <string name="datetime_format_24">dd MMM yyyy, H:mm</string>
     <string name="debug_content_uri">Tanım</string>
     <string name="debug_document_id">Belge kimliği</string>
     <string name="debug_is_archive">Arşiv mi</string>

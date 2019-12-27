@@ -61,6 +61,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="start_backup_to_micloud">Uygulamaları Xiaomi buluta yedekle</string>
     <string name="backing_up_to_micloud">Yedekleniyor</string>
     <string name="restore_from_cloud">Bulut yedeklemesinden geri yükle</string>
+    <string name="restore_from_mimover">Mi taşıyıcıyı kullanarak eski cihazdan aktar</string>
     <string name="backup_to_cloud">Uygulamayı yedekle</string>
     <string name="restoring_file_title_no_progress">Dosyalar geri yükleniyor</string>
     <string name="menu_item_sort">Sırala</string>
@@ -189,9 +190,9 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="btn_restore_resume">Devam et</string>
     <string name="btn_restore_wait">Wifi ağı bekleniyor</string>
     <string name="btn_restore_continue">Yine de geri yükle</string>
-    <string name="msg_restore_with_metered_network_pattern"><b><font color="'red'">%s dosya </font></b>indirilecek</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecek"</string>
     <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz mobil veri indirmek için kullanılacaktır</string>
-    <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek.&lt;/font>&lt;/b>"</string>
+    <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek&lt;/font>&lt;/b>"</string>
     <string name="title_restore_with_current_network">Dosya indirmek için geçerli bağlantıyı kullan</string>
     <string name="title_alert_restore_error">Geri yükleme başarısız oldu</string>
     <string name="msg_alert_restore_error">Bulut yedeklemesinden geri yüklenemedi. Lütfen tekrar deneyin</string>
@@ -216,7 +217,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
 Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_app_order_loading">Yükleniyor</string>
     <string name="restore_app_order_finish">Bitti</string>
-    <string name="restore_app_order_search_input_high_light"><font color="'#ff0800'">%s</font></string>
+    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
     <string name="provision_restore_data">Öğeler geri yükleniyor</string>
     <string name="provision_background_restore_more_data">Arka planda daha fazla öğe geri yükle</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>

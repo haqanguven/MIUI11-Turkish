@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Anahtarlık</string>
+    <string name="app_name">Anahtar</string>
     <string name="title_no_certs">Sertifika bulunamadı</string>
     <string name="title_select_cert">Sertifika seçin</string>
     <string name="requesting_application">%s uygulaması sertifika talebinde bulundu. Sertifika seçmek, uygulamanın şu andaki ve gelecekteki sunucularla iletişiminde bu kimliği kullanmasını sağlar</string>

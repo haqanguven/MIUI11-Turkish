@@ -316,9 +316,9 @@
     <string name="checked_something">%s seçildi</string>
     <string name="choose_baby_sexy">Cinsiyet</string>
     <string name="choose_owner_relation">İlişki</string>
-    <string name="choose_people">Bir kişinin albümünü se\"</string>
+    <string name="choose_people">Bir kişinin albümünü seç</string>
     <string name="choose_some_people">%s ile albümü seç</string>
-    <string name="chooser_fragment_mishare_title">Share to</string>
+    <string name="chooser_fragment_mishare_title">Paylaş:</string>
     <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
     <string name="cityname_10">Anshun</string>
     <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
@@ -834,6 +834,8 @@
     <string name="delete">Sil</string>
     <string name="delete_album_failed">Albüm silinemedi</string>
     <string name="delete_album_msg_format">%2$s albümünde kayıtlı %1$s %3$s silinsin mi?</string>
+    <string name="delete_album_msg_format_cloud">Xiaomi bukut ve tüm senkronize edilmiş cihazlardan %1$s %2$s silinsin mi?</string>
+    <string name="delete_album_msg_format_local">%1$s %2$s silinsin mi?</string>
     <string name="delete_album_success">Albüm silindi</string>
     <string name="delete_from_all_devices_and_cloud">Tüm cihazlardan ve Mi bulut alanından</string>
     <string name="delete_from_cloud">Öğeleri Mi bulut alanından sil</string>
@@ -856,6 +858,7 @@
     <string name="disable_auto_upload_tip">Bu albüm için Mi bulut ile senkronizasyon kapatılsın mı?</string>
     <string name="disable_auto_upload_title">Mi bulut ile senkronizasyon özelliğini kapat</string>
     <string name="do_not_remind_me">Tekrar gösterme</string>
+    <string name="doc_photo_enter" />
     <string name="document_provider_guide_step_1">1. Diğer düğmesine dokunun.</string>
     <string name="document_provider_guide_step_2">2. Dahili belleği göstere dokunun</string>
     <string name="document_provider_guide_step_3">3. Yan menü düğmesine dokunun</string>
@@ -1087,8 +1090,12 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_scene_vivid">Canlı</string>
     <string name="filter_scene_warm">Güneş</string>
     <string name="filter_single_sky">Gökyüzü</string>
+    <string name="filter_sky_clear_sky">Açık hava</string>
     <string name="filter_sky_cloudy">Bulutlu</string>
+    <string name="filter_sky_cumulus">Bulut kümesi</string>
+    <string name="filter_sky_dawn">Şafak vakti</string>
     <string name="filter_sky_detect_forbidden_tips">Gökyüzü algılanamadı</string>
+    <string name="filter_sky_double_rainbow">Çift gökkuşağı</string>
     <string name="filter_sky_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="filter_sky_download_finish">Eklenti başarıyla indirildi</string>
     <string name="filter_sky_download_sdk_without_wifi_msg">Wifi ağına bağlı değilseniz fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi indirmek için mobil veriyi kullanabilirsiniz (%1$dMB)</string>
@@ -1096,9 +1103,13 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_dusk">Akşam karanlığı</string>
     <string name="filter_sky_glow">Parıltı</string>
     <string name="filter_sky_hint">Skyscaping</string>
+    <string name="filter_sky_nimbus">Yağmur bulutu</string>
     <string name="filter_sky_rainbow">Gökyüzü</string>
+    <string name="filter_sky_snowy">Kar yağışlı</string>
+    <string name="filter_sky_stratus">Katman bulutu</string>
     <string name="filter_sky_sunny">Güneşli</string>
     <string name="filter_sky_sunset">Gün batımı</string>
+    <string name="filter_sky_twilight">Alaca karanlık</string>
     <string name="finish_create_baby_album_toast">Mi bulutda %s için albüm oluşturuldu</string>
     <string name="finish_fill_baby">Oluştur</string>
     <string name="first_time_add_video_to_secret_tips">Videoları gizleyebilmek için galeriyi güncelle</string>
@@ -1627,6 +1638,10 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="retry_to_create_album">Yeniden dene</string>
     <string name="retry_to_request_qr_code">Yeniden dene</string>
+    <string name="risk_control_deleted_date">dd/MM</string>
+    <string name="risk_control_deleted_message">"Birisi galeri öğelerinizi %2$s'de %1$s üzerinde %3$s kullanarak buluttan sildi. Bu siz miydiniz?</string>
+    <string name="risk_control_deleted_time">HH:mm</string>
+    <string name="risk_control_deleted_title">Güvenlik uyarısı</string>
     <string name="runtime_permission_ungranted">Kapalı galeri talep edilen izinler yok</string>
     <string name="same_name_album_exist_and_toast">Aynı isme sahip başka bir albüm zaten mevcut. Bunun yerine %s albümü oluşturuldu</string>
     <string name="scan_barcode_guide">Albümün QR kodunu almak için paylaş simgesine dokunun</string>
@@ -1787,8 +1802,10 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="slim_space">boşaltıldı</string>
     <string name="slim_stop">Optimizasyonu durdur</string>
     <string name="slow_motion_enter" />
+    <string name="special_type_8k">AI 8K</string>
     <string name="special_type_eye_repair">AI kullanarak sabit kapalı gözler</string>
     <string name="special_type_hdr">HDR</string>
+    <string name="special_type_log">LOG</string>
     <string name="special_type_night_beauty">AI düşük ışıklı portre</string>
     <string name="special_type_night_mode">AI gece modu</string>
     <string name="special_type_portrait">AI ışık boyamalı portre</string>
@@ -1899,6 +1916,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="trash_bin">Çöp kutusu</string>
     <string name="trash_bin_key_word">Silinen fotoğraflar</string>
     <string name="trash_bin_summary">Son zamanlarda silinmiş olan fotoğraflarınızı yedeklenen bölümünden görüntüleyin</string>
+    <string name="trash_bin_summary_local">Son silinen fotoğrafları ve videoları görüntüleme</string>
     <string name="trash_empty">Burada ürün yok</string>
     <string name="trash_menu_delete">Sil</string>
     <string name="trash_menu_recovery">Geri yükle</string>

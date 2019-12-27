@@ -20,7 +20,6 @@
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_only_suport_content">Fotoğraf, video veya müzik akışı yapın</string>
     <string name="dialog_open_wifi_bt">Aç</string>
-    <string name="dialog_please_make_sure_tv_ok">Hedef cihazın kablosuz ekran görüntüsünü açması gerekiyor</string>
     <string name="dialog_please_make_sure_tv_ok_or_help">"Lütfen hedef cihazın kablosuz ekran yansıtma işlevinin etkin olup olmadığını kontrol edin
 Daha fazla soru için lütfen yardım bölümüne bakın"</string>
     <string name="dialog_recent_connected">Son kullanılan</string>
@@ -104,12 +103,16 @@ Miracast işlevini el ile açmanız gerekirse, TV ekranından beni seçmek için
     <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde bu özelliğe kablosuz ekran, ekran aynalama veya birden çok ekran denir
 4. Herhangi bir sorunla karşılaşırsanız hizmetler &amp; geri bildirimler uygulamamızı kullanarak bunları bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun</string>
-    <string name="notification_rc_desc">"Cep telefonunuz için XiaoMi Box'a video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin"</string>
     <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
     <string name="notification_show_more">Daha fazla özellik görüntüleyin</string>
     <string name="privacy_agree">Kabul et</string>
-    <string name="privacy_text_1">　　Yansıtma işlevi ekranına hoşgeldiniz. Ekran yansıtma hizmeti Milian tarafından sağlanır ve ekran yansıtma işlevlerinden bazıları üçüncü taraf şirket yayın ekranları tarafından da desteklenir. Gizliliğinizi sağlamak için lütfen <a href="http://cdn.hpplay.com.cn/xm/privacy.html ">Ekran yayını Gizlilik politikası</a> ve <a href="http://cdn.hpplay.com.cn/xm/lawer.html">Ekran yayını kullanım koşulları</a> bilgilerini okuduğunuzdan emin olun</string>
-    <string name="privacy_text_2">　　Kabul et öğesine tıklayarak yukarıdaki <a href="http://www.miui.com/res/doc/eula/cn.html">Kullanıcı sözleşmesi</a>, <a href="http://www.miui.com/res/doc/privacy/cn.html">Gizlilik politikası</a> içeriğini ve verilen ayrıcalığı kabul etmiş olursunuz</string>
+    <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+    <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="privacy_text_1"><Data>"Yansıtmaya hoş geldiniz. Yansıtma telefonunuzun ekranındaki öğeleri daha büyük bir harici monitörde yansıtmanıza olanak tanır
+Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf servis sağlayıcı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%2$s>HappyCast yasal bildirimi&lt;/a> ve &lt;a href=%1$s>HappyCast gizlilik politikasını okuyun ve kabul edin&lt;/a>
+Normal bir şekilde çalışabilmek için bu uygulamanın internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerekir:"</Data></string>
+    <string name="privacy_text_2"><Data>"Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız. Bu gibi durumlarda ayarlardan bu uygulamayı kaldırmayı, oturumu kapatmayı veya izinleri sınırlamayı seçebilirsiniz
+Bu özelliği kullanmadan önce &lt;a href=%1$s>kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=%2$s>gizlilik politikamızı&lt;/a> okuyun ve kabul edin"</Data></string>
     <string name="privacy_text_pemission">"　　• Bu öğeleri harici ekranlara yansıtmak için cihazınızdaki resimlere erişin ve kaydedin
 　　• Harici cihazlara ses göndermek için aramaları ve sesleri kaydedin
 　　• Telefon bilgilerini alır. Telefon IMEI, Android_id, sürüm ve günlük bilgileri kaydını okur
@@ -120,7 +123,6 @@ Miracast işlevini el ile açmanız gerekirse, TV ekranından beni seçmek için
     <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı şebekeye bağlı olduklarında bulunması daha kolaydır</string>
     <string name="san_wait_msg_4">Cihazları bulamıyorsanız yardım sayfasını görüntüleyin</string>
     <string name="sdk_name">lebo</string>
-    <string name="service_name">Evrensel oynatıcı hizmeti</string>
     <string name="small_window">Pencereyi küçült</string>
     <string name="status_bar_in_casting">Yansıtma</string>
     <string name="status_bar_in_casting_long">Diğer özellikleri genişletmek için tıklayın</string>

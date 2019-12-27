@@ -63,6 +63,7 @@
     <string name="account_settings_retry_summary">Senkronize etmek için dokunun</string>
     <string name="account_settings_ringtone">Bildirim sesi</string>
     <string name="account_settings_servers">Sunucu ayarları</string>
+    <string name="account_settings_smime_title">S/MIME (Güvenli veya çok amaçlı internet e-posta uzantıları)</string>
     <string name="account_settings_summary">Senkronizasyon sıklığı, bildirimler, vb.</string>
     <string name="account_settings_sync_calendar_enable">Takvimi senkronize et</string>
     <string name="account_settings_sync_calendar_summary">Bu hesabın takvim etkinliğini senkronize et</string>
@@ -164,6 +165,11 @@
     <string name="account_setup_security_required_title">Uzaktan güvenlik yönetimi</string>
     <string name="account_setup_server_acc_manager_title">Hesaplar</string>
     <string name="account_setup_username_password_toast">Geçerli bir e-posta adresi ve şifre girin</string>
+    <string name="account_smime">S/MIME</string>
+    <string name="account_smime_cert_title">sertifika</string>
+    <string name="account_smime_encrypt">S/MIME şifreleme</string>
+    <string name="account_smime_install_cert">Kurulum sertifikası</string>
+    <string name="account_smime_sign">S/MIME imza</string>
     <string name="account_sync_off">Hesap senkronizasyonu kapalı</string>
     <string name="account_sync_settings_settings">Kişi ve takvimi senkronize et</string>
     <string name="account_sync_settingstip_description">Eşitle</string>
@@ -278,6 +284,15 @@
     <string name="cc_attribution">Bilgi: %1$s&lt;br></string>
     <string name="cc_bcc">Bilgi veya kopya</string>
     <string name="cc_heading">"Bilgi: "</string>
+    <string name="certificate_add_failed">%s sertifikası yüklenemedi</string>
+    <string name="certificate_added">%s sertifikası yüklendi</string>
+    <string name="certificate_alias_prompt_certificate_name">Sertifika adı</string>
+    <string name="certificate_alias_prompt_title">Sertifikayı adlandır</string>
+    <string name="certificate_alias_prompt_w">Yinelenen sertifika adı. Lütfen sertifikayı yeniden adlandırın</string>
+    <string name="certificate_password_hit">Şifrenizi girin</string>
+    <string name="certificate_password_prompt_title">Sertifikayı çıkart</string>
+    <string name="certificate_password_tips">Sertifikayı çıkarmak için bir şifre girin</string>
+    <string name="certificate_password_tips_w">Lütfen doğru şifreyi girin</string>
     <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
     <string name="change_sync_settings">Senkronizasyon ayarlarını değiştir</string>
     <string name="changepw_dialog_tips">%s hesabı parolasını yeniden girin</string>
@@ -354,12 +369,17 @@
     <string name="contextmenu_send_mail">E-posta gönder</string>
     <string name="contextmenu_sharelink">Bağlantı adresini paylaş</string>
     <string name="contextmenu_sms_dot">Mesaj</string>
+    <string name="conversation_cert_distrust">Güveni iptal et</string>
+    <string name="conversation_cert_info_tips">Gönderen bu mesajı güvenilir bir sertifika ile imzaladı</string>
+    <string name="conversation_cert_info_title">İmzalı</string>
+    <string name="conversation_cert_trust">İmzaya güven</string>
     <string name="conversation_content_provider">Konuşma içerik sağlayıcı</string>
     <string name="conversation_detail_hide">Gizle</string>
     <string name="conversation_detail_show">Ayrıntılar</string>
     <string name="conversation_folder_moved">%1$s konumuna taşındı</string>
     <string name="conversation_item_mark_read">Okundu</string>
     <string name="conversation_item_mark_unread">Okunmadı</string>
+    <string name="conversation_message_encrypt_tips">Bu mesaj şifreli. Bu iletinin şifresini çözmek için lütfen şifreli kimliğinizi içeren bir sertifika dosyası yükleyin</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Şuraya gönder "</string>
     <string name="conversation_photo_welcome_text">Bu konuşmayı seçmek için bir gönderici resmine dokunun</string>
     <string name="conversation_pull_ad_content">E-postalarınızı zahmetsizce yönetin</string>
@@ -786,6 +806,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="no_mails">E-posta yok</string>
     <string name="no_matched_attachment">Sonuç yok</string>
     <string name="no_more_mail">Başka mesaj yok</string>
+    <string name="no_open_smime_toast">Lütfen önce S/MIME sertifikasını yükleyin</string>
     <string name="no_recognize_describe">"Bilet veya rezervasyon içeren bir e-posta bulunamadı
 Farklı bir posta kutusu deneyin"</string>
     <string name="no_search_results">Sonuç bulunamadı</string>
@@ -812,6 +833,7 @@ Farklı bir posta kutusu deneyin"</string>
     <string name="oauth_login_continue">Devam et</string>
     <string name="oauth_login_continue_qq">Bir giriş kodu alın ve oturum açın ></string>
     <string name="oauth_login_usr_proxy">Vekil sunucu kullanarak oturum aç</string>
+    <string name="obtain_new_auth_code">Yeni doğrulama kodu alın</string>
     <string name="ok">Tamam</string>
     <string name="okay_action">Tamam</string>
     <string name="one_day">1 gün</string>
@@ -979,6 +1001,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Kodu kopyala</string>
     <string name="qq_bar_open_imap">Yardım</string>
     <string name="qq_bar_send_message">Mesaj gönder</string>
+    <string name="qq_changepw_dialog_tips">Lütfen en son doğrulama kodunu %s adresinden edinin ve tekrar giriş yapın</string>
     <string name="qq_login_basecode">Web QQ mail oturumu açılıyor. Bağımsız bir parola girin</string>
     <string name="qq_login_get_auth">Mesaj alamıyorsanız parola korumasını açın</string>
     <string name="qq_login_help_bottom_tip">Parolanızı sıfırlamanız veya ayar durumunu kontrol etmeniz gerekirse size sunulan seçenekleri görmek için https://mail.qq.com/ adresini ziyaret edin. Daha fazla soru için WeChat genel numarasını ekleyin:</string>
@@ -1134,6 +1157,8 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="select_no_file">Hiçbir eklenti seçilmedi</string>
     <string name="select_path">Yol seç</string>
     <string name="send">Gönder</string>
+    <string name="send_encrypt_dialog_fail_content">Alıcının güvenilir bir imza sertifikası olmadığı için bu e-posta şifrelenemez. Bu e-posta şifrelenmemiş bir biçimde mi gönderildi?</string>
+    <string name="send_encrypt_dialog_fail_title">Şifreli posta gönderilemiyor</string>
     <string name="send_failed">Mesaj gönderilemedi</string>
     <string name="send_feed_back">Geribildirim gönder</string>
     <string name="send_feed_back_keywords">geribildirim gönder</string>
@@ -1295,6 +1320,7 @@ Hesap kaldırılsın mı?"</string>
     <string name="upload_logs">Kayıtları karşıya yükle</string>
     <string name="upload_logs_keywords">kayıtları karşıya yükle</string>
     <string name="uploading_logs">Yükleniyor</string>
+    <string name="user_new_auth_code">Yeni doğrulama koduyla oturum açın</string>
     <string name="user_privacy_settings">Gizlilik ayarları</string>
     <string name="user_privacy_settings_agreement_authorization">(Kabul et seçeneğine dokunarak WPS mail uygulamasına gerekli tüm izinleri verimiş olursunuz)</string>
     <string name="user_privacy_settings_path">İpucu: Kullanıcı gizlilik ayarlarında izinlerinizi, ayarlarınızı ve kullanıcı gizlilik ayarlarınızı geri alabilirsiniz</string>
@@ -1329,6 +1355,9 @@ Postayı bir kez senkronize etmek için <b>şimdi senkronize et</b> veya bu hesa
     <string name="wipe_account_fail_title">Kişisel bilgiler silinemedi</string>
     <string name="wps_title">WPS mail</string>
     <string name="wrong_password">Girmiş olduğunuz şifre hatalı</string>
+    <string name="xiaomi_auth_toastbar">Telefonunuz henüz yetkilendirilmedi. Giriş izni için lütfen buraya tıklayın</string>
+    <string name="xiaomi_email">Xiaomi mail</string>
+    <string name="xiaomi_under_certification">Yetkilendirme devam ediyor</string>
     <string name="yes">Evet</string>
     <string name="you_are_in_mobile_network">Günlük yüklemek için mobil veri kullanıyor musunuz?</string>
     <string name="youfuli">Promosyon</string>

@@ -348,6 +348,10 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="other">Trojan: %d</item>
         <item quantity="one">Trojan: %d</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
+        <item quantity="one">En az %s uygulamayı koruyabilirsiniz</item>
+    </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"%d saniye bekledikten sonra yeniden deneyin. "</item>
         <item quantity="one">"%d saniye bekledikten sonra yeniden deneyin. "</item>
@@ -452,6 +456,10 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
         <item quantity="one">%d zaman içinde kontrol edildi</item>
     </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
     <plurals name="function_shield_num">
         <item quantity="other">%d özellik</item>
         <item quantity="one">%d özellik</item>
@@ -479,5 +487,9 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
     <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
     </plurals>
 </resources>

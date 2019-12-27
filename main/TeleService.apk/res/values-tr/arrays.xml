@@ -808,6 +808,11 @@
         <item>10</item>
         <item>7</item>
     </integer-array>
+    <integer-array name="support_networktypes_cdma_master_all">
+        <item>33</item>
+        <item>10</item>
+        <item>7</item>
+    </integer-array>
     <integer-array name="support_networktypes_cdma_vice">
         <item>10</item>
         <item>7</item>
@@ -817,21 +822,10 @@
         <item>20</item>
         <item>18</item>
         <item>1</item>
-        <item>11</item>
-        <item>12</item>
-        <item>2</item>
-        <item>3</item>
-        <item>1</item>
     </integer-array>
     <integer-array name="support_networktypes_gsm_vice">
         <item>20</item>
         <item>18</item>
-        <item>1</item>
-        <item>17</item>
-        <item>11</item>
-        <item>12</item>
-        <item>2</item>
-        <item>3</item>
         <item>1</item>
     </integer-array>
     <string-array name="t9_indexing_method_entries">
@@ -1016,12 +1010,4 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-	<string-array name="toogle_data_entries">
-		<item>Sim kartlar &amp; mobil ağlar</item>
-		<item>Tercih edilen ağ türü</item>
-	</string-array>
-	<string-array name="line_button_tolls_entries">
-		<item>Çift satırda</item>
-		<item>Tek satırda</item>
-	</string-array>
 </resources>

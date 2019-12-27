@@ -28,4 +28,12 @@
         <item quantity="other">%d öğe senkronize edilmedi</item>
         <item quantity="one">%d öğe senkronize edilmedi</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">%d kayıt buluttan silinsin mi?</item>
+        <item quantity="one">%d kayıt buluttan silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">%d kayıt silinsin mi?</item>
+        <item quantity="one">%d kayıt silinsin mi?</item>
+    </plurals>
 </resources>

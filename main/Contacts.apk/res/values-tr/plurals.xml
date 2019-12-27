@@ -86,17 +86,9 @@
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d bulundu</item>
-        <item quantity="one">1 bulundu</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d kişi</item>
         <item quantity="one">1 kişi</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Telefon numarası olan %d kişi</item>
-        <item quantity="one">Telefon numarası olan 1 kişi</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d kişi kısmen yinelenen veri içeriyor</item>
@@ -105,10 +97,6 @@
     <plurals name="merge_info">
         <item quantity="other">%0$d kaynak birleştirildi</item>
         <item quantity="one">birleştirilmedi</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Sesli mesaj</item>
-        <item quantity="one">Sesli mesaj</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d kişi seçildi</item>

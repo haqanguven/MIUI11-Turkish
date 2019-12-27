@@ -99,12 +99,12 @@
     <string name="add_contact">Ekle</string>
     <string name="add_contact_desc">Kişilere ekle</string>
     <string name="aerr_application">%1$s durdu</string>
-    <string name="aerr_application_repeated">%1$s sürekli olarak duruyor</string>
+    <string name="aerr_application_repeated">%1$s durduruldu</string>
     <string name="aerr_close">Kapat</string>
     <string name="aerr_close_app">Uygulamayı kapat</string>
     <string name="aerr_mute">Cihaz yeniden başlatılana kadar bir daha gösterme</string>
     <string name="aerr_process">%1$s durdu</string>
-    <string name="aerr_process_repeated">%1$s sürekli olarak duruyor</string>
+    <string name="aerr_process_repeated">%1$s durduruldu</string>
     <string name="aerr_report">Geri bildirim gönder</string>
     <string name="aerr_restart">Uygulamayı tekrar aç</string>
     <string name="aerr_title" />

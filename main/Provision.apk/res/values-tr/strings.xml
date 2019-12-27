@@ -239,5 +239,5 @@ Bu özelliği kullanmadan önce kika gizlilik politikasını kabul etmeniz gerek
     <string name="service_privacy_index">Gizlilik politikası</string>
     <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum</string>
     <string name="agree_and_next">Kabul et</string>
-    <string name="data_traffic_enable_dialog_title">Şimdi Wifi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
+    <string name="data_traffic_enable_dialog_title">Şimdi wifi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
 </resources>

@@ -80,6 +80,7 @@
     <string name="apply_font_btn_exclude">Şimdi değil</string>
     <string name="apply_font_btn_reboot">Yeniden başlat</string>
     <string name="apply_font_tip">Bu temanın yazı tipini uygulamak için cihazınızı yeniden başlatın</string>
+    <string name="apply_not_support_in_second_space">Bu öğe İkinci alanda uygulanamıyor</string>
     <string name="apply_theme_with_ringtones">Tema zil sesi</string>
     <string name="audio_duration_minutes_format">%1$d dakika</string>
     <string name="audio_duration_seconds_format">%1$d saniye</string>
@@ -151,6 +152,7 @@
     <string name="de_more_info">Daha fazla</string>
     <string name="de_more_resource">Daha fazlasını görüntülemek için kaydırın</string>
     <string name="de_no_more_recommendations">Şimdilik bu kadar</string>
+    <string name="de_preview">Önizleme</string>
     <string name="de_redeem">Kurtul</string>
     <string name="de_to_comment">Yorum</string>
     <string name="de_try">Dene</string>
@@ -279,8 +281,7 @@
     <string name="in_the_end">Görüntülenecek öğe yok</string>
     <string name="incall_show_apply">Giden aramalar için profil videosu</string>
     <string name="incall_show_apply_fail">Ayarlanamadı</string>
-    <string name="incall_show_apply_success">"Başarıyla uygulandı. Bu özelliği kapatmak için
-Ayarlar > Ses &amp; titreşim > Profil videosu ayarlarına gidin"</string>
+    <string name="incall_show_apply_success">Başarıyla uygulandı</string>
     <string name="incall_show_apply_success_without_ringtone">"Başarıyla uygulandı. Videoda ses yok. Özgün zil sesi kullanılacaktır
 Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayarlarına gidin"</string>
     <string name="incall_show_find_more">Daha fazlasını bul</string>
@@ -361,6 +362,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="my_gifts_purchased">Satın aldıklarım</string>
     <string name="my_gifts_received">Alınanlar</string>
     <string name="network_exception">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="new_resource_price_unit"> Mi</string>
     <string name="no_data">Ağa bağlanılamıyor</string>
     <string name="no_net_work_connection">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="official_accounts">WeChat</string>
@@ -738,6 +740,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="theme_purchased_non_local">Çevrimiçi</string>
     <string name="theme_select_others">Gözat</string>
     <string name="theme_setting">Ayarlar</string>
+    <string name="theme_setting_all">Tüm temalar</string>
     <string name="theme_staggered_item_text">Mi kredisi alın</string>
     <string name="theme_user_agreement_allow">Kabul et</string>
     <string name="theme_user_agreement_content1">"Bu ürünü kullanarak belirtilen sözleşmeleri kabul etmiş sayılıyorsunuz; "</string>
@@ -863,7 +866,10 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_set_as_both">İkisine de uygula</string>
     <string name="wallpaper_set_as_desktop">Ana ekran olarak belirle</string>
     <string name="wallpaper_set_as_float_wallpaper">Saydam duvar kağıdı olarak ayarla</string>
+    <string name="wallpaper_set_as_incall_show">Profil videosu olarak ayarla</string>
     <string name="wallpaper_set_as_lockscreen">Kilit ekranı olarak belirle</string>
+    <string name="wallpaper_setting_all">Tüm duvar kağıtları</string>
+    <string name="wallpaper_setting_live">Canlı</string>
     <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
     <string name="wallpaper_settings_loading_text">Yükleniyor</string>
     <string name="wallpaper_settings_no_history">Geçmiş yok</string>
