@@ -55,7 +55,6 @@
     <string name="account_settings_notify_summary">Yeni e-posta alındığında bildirim görüntüle</string>
     <string name="account_settings_param">Hesap ayarları</string>
     <string name="account_settings_policies">Güvenlik politikaları</string>
-    <string name="account_settings_preference_add_account">E-posta hesabı ekle</string>
     <string name="account_settings_preference_att_save_path">Eklentiler için varsayılan konum</string>
     <string name="account_settings_preference_head_icon">Profil fotoğrafları</string>
     <string name="account_settings_preference_notify">Bildir</string>
@@ -287,6 +286,7 @@
     <string name="certificate_add_failed">%s sertifikası yüklenemedi</string>
     <string name="certificate_added">%s sertifikası yüklendi</string>
     <string name="certificate_alias_prompt_certificate_name">Sertifika adı</string>
+    <string name="certificate_alias_prompt_hit">Sertifikaya takma ad girin</string>
     <string name="certificate_alias_prompt_title">Sertifikayı adlandır</string>
     <string name="certificate_alias_prompt_w">Yinelenen sertifika adı. Lütfen sertifikayı yeniden adlandırın</string>
     <string name="certificate_password_hit">Şifrenizi girin</string>
@@ -660,7 +660,6 @@
     <string name="mail_outlook_psw_login">Şifre ile giriş yap</string>
     <string name="mailbox_list_account_selector_combined_view">Birleşik hesap</string>
     <string name="mailbox_name_display_ad">Reklamlar</string>
-    <string name="mailbox_name_display_add_account">E-posta hesabı ekle</string>
     <string name="mailbox_name_display_circular">Bildirimler</string>
     <string name="mailbox_name_display_drafts">Taslaklar</string>
     <string name="mailbox_name_display_inbox">Gelen kutusu</string>
@@ -839,7 +838,6 @@ Farklı bir posta kutusu deneyin"</string>
     <string name="one_day">1 gün</string>
     <string name="one_month">1 ay</string>
     <string name="one_week">1 hafta</string>
-    <string name="open_androidp_warning">"9.0 resmi olmayan Sdk’ları uyar"</string>
     <string name="open_calendar_and_contacts_permission">E-posta uygulamasına ayarlar menüsünde takvim bilgilerine erişim izni verin</string>
     <string name="open_external_storage_and_calendar_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına erişim izni verin</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına, kişilere ve takvim bilgilerine erişim izni verin</string>
@@ -1102,7 +1100,6 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="refreshing_done">Tamamlandı</string>
     <string name="release_to_refresh">Yenilemek için bırakın</string>
     <string name="remind_attachment_size_limit">E-postalarınız %sMB boyutundan küçük olmalıdır</string>
-    <string name="remote_no_mail">remote_no_mail</string>
     <string name="remote_search_body_too_large_prompt">"Bu e-posta çok uzun
 Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görüntüleyin"</string>
     <string name="remove_account">Hesabı kaldır</string>
@@ -1194,7 +1191,6 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="shortcut_name_title">Klasör kısayol adı</string>
     <string name="show_elided">▶ Alıntı metni göster</string>
     <string name="show_images">Resimleri indir ve göster</string>
-    <string name="show_more_attachment">Daha fazla ek</string>
     <string name="show_password">Şifreyi göster</string>
     <string name="signature">"
 
@@ -1266,8 +1262,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="toast_bar_open_gmail_synchronization">"Gmail'e bağlanılamadı. Gmail vekil sunucu özelliğini açın"</string>
     <string name="toast_bar_send_fail_remind">E-posta gönderilemedi. Giden klasörüne kaydedildi</string>
     <string name="toast_bar_sync_failed_client_cert">QQ şifre/e-posta şifresi/ müşteri doğrulama kodu açıklaması</string>
-    <string name="toast_bar_sync_failed_mi_authority">"Senkronize edilemedi. Bir iki dakika bekleyin ve tekrar deneyin
-(Yetkisiz bir cihaz kullanıyorsanız intranete bağlanın veya bir doğrulama kodu kullanın)"</string>
+    <string name="toast_bar_sync_failed_mi_authority">Cihazınızı yetkilendirmek için oturum açın</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Takvim bilgilerini ve kişileri senkronize etmek için e-posta uygulamasına ayarlar menüsünde gerekli izinleri verin</string>
     <string name="toastbar_calendar_permission_switch_close">Takvim hatırlatıcıları almak için e-posta uygulamasına Ayarlar menüsünde gerekli izinleri verin</string>
     <string name="toastbar_contacts_permission_switch_close">Kişi eklemek için e-posta uygulamasına ayarlar menüsünde gerekli izinleri verin</string>

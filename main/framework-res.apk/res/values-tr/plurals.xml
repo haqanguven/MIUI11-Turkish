@@ -21,8 +21,8 @@
         <item quantity="one">%d gün</item>
     </plurals>
     <plurals name="duration_days_shortest_future">
-        <item quantity="other">%dg içinde</item>
-        <item quantity="one">%dg içinde</item>
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">%d gün içinde</item>
     </plurals>
     <plurals name="duration_hours_relative">
         <item quantity="other">%d saat önce</item>
@@ -69,8 +69,8 @@
         <item quantity="one">%d yıl</item>
     </plurals>
     <plurals name="duration_years_shortest_future">
-        <item quantity="other">%dy içinde</item>
-        <item quantity="one">%dy içinde</item>
+        <item quantity="other">%d yıl içinde</item>
+        <item quantity="one">%d yıl içinde</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">%d saniye içinde tekrar deneyin</item>

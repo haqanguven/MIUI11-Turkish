@@ -730,7 +730,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_accessibility_title">Erişilebilirlik</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Ortak harf kombinasyonları adres çubuğuna tek bir dokunuşla girilebilir</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Hızlı bağlantı adresi girişi</string>
-    <string name="pref_adblock_counts">%d engellendi</string>
+    <string name="pref_adblock_counts">%d reklam engellendi</string>
     <string name="pref_adblock_title">Reklam engelleyici</string>
     <string name="pref_advert_null">Reklam olarak etiketlenmiş öğe yok. İşaretlemek için internet sayfasındaki bir öğeye basın ve basılı tutun</string>
     <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>

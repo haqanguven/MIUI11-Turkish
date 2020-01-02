@@ -181,6 +181,11 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
 Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="location_provider_btn_text">Konum hizmetlerini aç</string>
     <string name="location_tag">Konum</string>
+    <string name="manager_city_option_add_city_back_search">Aramaya geri dön</string>
+    <string name="manager_city_option_add_city_content">Bu şehir başlangıç sayfasına başarıyla ekledi</string>
+    <string name="manager_city_option_add_city_title">Başarıyla eklendi</string>
+    <string name="manager_city_option_add_home">Başlangıç sayfasına ekle</string>
+    <string name="manager_city_option_view_on_home">Başlangıç sayfasında görüntüle</string>
     <string name="menu_location">Konumlar</string>
     <string name="menu_speaker">Sesli yayın</string>
     <string name="minute_rain">Yağış tahmini</string>
@@ -238,6 +243,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="precipitation_degree_three">Ilımlı</string>
     <string name="precipitation_degree_two">Aydınlık</string>
     <string name="pressure_connect">%1$s mb</string>
+    <string name="pressure_content">%1$s%2$s</string>
     <string name="privacy_grant_failed">Yetki verilemedi. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="privacy_grant_or_revoke_settings">Yetki verme &amp; alma</string>
     <string name="privacy_grant_success">Yetki başarıyla verildi</string>

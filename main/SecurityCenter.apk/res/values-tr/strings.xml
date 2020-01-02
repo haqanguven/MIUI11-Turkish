@@ -107,9 +107,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="back_sound_support">Mevcut ağ operatörü işlemi desteklemiyor</string>
     <string name="back_sound_data">Hücresel ağ bağlantısı gerekmektedir. Yeniden deneyin</string>
     <string name="dlg_move_to_white">İstisnalara ekle</string>
-    <string name="dlg_add_white">İstisnalar listesine eklenen yeni numara ve mesajlar arama geçmişi ve mesajlar menüsünde görüntülenir. Ancak daha önce engellenen ögeler görüntülenmez. Seçili numaralar istisnalara eklensin mi?</string>
-    <string name="dlg_not_block_sms">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen ögeler Mesajlar menüsünde görüntülenmeyecektir</string>
-    <string name="dlg_not_block_call">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen ögeler arama geçmişinde görüntülenmeyecektir</string>
+    <string name="dlg_add_white">İstisnalar listesine eklenen yeni numara ve mesajlar arama geçmişi ve mesajlar menüsünde görüntülenir. Ancak daha önce engellenen öğeler görüntülenmez. Seçili numaralar istisnalara eklensin mi?</string>
+    <string name="dlg_not_block_sms">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen öğeler Mesajlar menüsünde görüntülenmeyecektir</string>
+    <string name="dlg_not_block_call">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen öğeler arama geçmişinde görüntülenmeyecektir</string>
     <string name="dlg_update_date_title">Uyarı</string>
     <string name="dlg_update_data_content">Wifi ağına bağlı değilsiniz. Mobil verileri kullanmak ek ücretler oluşturabilir. Devam edilsin mi?</string>
     <string name="dlg_sec_network_unavailable">İnternet bağlantısı kısıtlandığından güvenlik uygulaması güncellenemiyor. Güvenliğin uygulamasının internete bağlanmasına izin verilsin mi?</string>
@@ -1798,8 +1798,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="menu_text_power_percent_title">Pil seviyesi: %s</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
     <string name="examination_score_100">Her şey yolunda gözüküyor</string>
-    <string name="examination_score_80_100">Birkaç öge optimize edilebilir</string>
-    <string name="examination_score_80_60">Bazı ögeler optimize edilebilir</string>
+    <string name="examination_score_80_100">Birkaç öğe optimize edilebilir</string>
+    <string name="examination_score_80_60">Bazı öğeler optimize edilebilir</string>
     <string name="examination_score_60_0">Şimdi tara</string>
     <string name="examination_score_has_virus">Bazı şüpheli uygulamalar tespit edildi</string>
     <string name="activity_title_settings">Ayarlar</string>
@@ -2438,7 +2438,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="optimize_result_title_system_default_settings">Varsayılan ayarlar değiştirildi</string>
     <string name="optimize_result_summary_system_default_settings">Varsayılan Miui uygulamalarını kullanmanız sistem stabilizasyonu ve güvenliği seviyesini arttırır</string>
     <string name="optimize_result_toast_system_default_settings">Varsayılan ayarlara geri dönüldü</string>
-    <string name="optimize_result_toast_system_no_item_selected">Hiçbir öge seçilmedi</string>
+    <string name="optimize_result_toast_system_no_item_selected">Hiçbir öğe seçilmedi</string>
     <string name="optimize_result_title_sucurity_risk">Güvenlik riskleri bulundu</string>
     <string name="optimize_result_summary_sucurity_risk">Bazı güvenlik özellikleri kapalı durumda. Cihazınızı daha güvenli hale getirmek için belirtilen özellikleri açın:</string>
     <string name="information_setting">Öneriler</string>

@@ -107,6 +107,7 @@
     <string name="cm_privacy_dialog_tips">"Akıllı mesajlaşma servisleri operatörünüz tarafından sağlanır. Mesajlaşma bu hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. Bu hizmetleri kullanmaya başlamadan önce taşıyıcınızın %1s'ini kabul etmelisiniz. Kabul ediyor musunuz?"</string>
     <string name="cm_privacy_dialog_title">Dikkat</string>
     <string name="cmcc_privacy">Çin mobil taşıyıcı gizlilik sözleşmesi</string>
+    <string name="com.crashlytics.android.build_id">a52eb4db-7176-416d-bc0f-7db4f901252b</string>
     <string name="complain_message_title">Rapor</string>
     <string name="compressing">Resim boyutu çok büyük. Sıkıştırılıyor</string>
     <string name="confirm">Tamam</string>
@@ -160,6 +161,7 @@
     <string name="copy_to_sdcard_fail">Ek kaydedilemedi</string>
     <string name="copy_to_sdcard_success">Ek %s olarak kaydedildi</string>
     <string name="current_data_version">Mi mesaj sürümü</string>
+    <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
     <string name="delete">Sil</string>
     <string name="delete_block_conversation">Bu sohbeti sil</string>
     <string name="delete_bookmark">Favorilerden kaldır</string>
@@ -237,12 +239,17 @@
     <string name="fake_cell_timeout_hint">Güvenlik kontrol edilemedi</string>
     <string name="favorite_at_time">Favorilere eklenme zamanı: %1s</string>
     <string name="fdn_check_failure">Yalnızca sabit arama numaralarına mesaj gönderebilirsiniz</string>
+    <string name="feature_mx">Mi mesaj</string>
+    <string name="feature_mx_summary"><b>Mi mesaj ücret ödemeden internet üzerinden diğer Mi mesaj kullanıcılarına mesaj göndermenizi sağlar.</b> Bu servisi etkinleştirmek için bir mesaj gerekiyor. Operatörünüz bu mesaj için sizden ücret alacak. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Kullanıcı sözleşmesi</a></font> ve <font color="#B3000000"><a href="http://url2">Gizlilik politikasını</a></font> okuyun ve kabul edin</string>
+    <string name="feature_smart_sms">Akıllı mesajlar</string>
+    <string name="feature_smart_sms_summary"><b>Akıllı mesajlar gönderen kimliği tanıma ve akıllı menüler sağlar</b>". Akıllı mesajlar kısmen Yulore tarafından sağlanır. Bu özelliği kullanmadan önce Yulore'un "<font color="#B3000000"><a href="http://url3">Gizlilik politikasını</a></font> okuyun ve kabul edin</string>
     <string name="festival_sms_loading">Yükleniyor</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Oluşturulma tarihi:</string>
     <string name="file_size">Boyut:</string>
     <string name="file_title">İsim:</string>
     <string name="file_width_height">Boyut:</string>
+    <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Yeni mesaj</string>
     <string name="forward_from">İleten:</string>
@@ -258,6 +265,11 @@
     <string name="from_pkg_name">Uygulamadan:</string>
     <string name="ft_cfs_dialog_content">Dosyalar Rcs kullanılarak teslim edilemedi. Bunun yerine kısa mesajla bağlantı gönderilsin mi?</string>
     <string name="ft_cfs_dialog_title">Alternatif dosya aktarımı</string>
+    <string name="gcm_defaultSenderId">442074018142</string>
+    <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
+    <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
+    <string name="google_storage_bucket">global-sms-ab3bc.appspot.com</string>
     <string name="group_already_kicked_hint">Bu grupta değilsiniz. Mesaj gönderemezsiniz</string>
     <string name="group_member_is_composing">Yazıyor</string>
     <string name="group_message">Grup mesajı</string>
@@ -289,6 +301,7 @@
     <string name="hybrid_service_unavailiable">Hizmet mevcut değil</string>
     <string name="hybrid_try_again">Tekrar deneyin</string>
     <string name="i_know">Tamam</string>
+    <string name="ignore">Şimdi değil</string>
     <string name="imageview_ad">Reklam</string>
     <string name="importing_progress_private_message">İçe aktarılıyor</string>
     <string name="in_sms">Mesaj</string>
@@ -441,8 +454,8 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="net_sms_unsubscribe">Abonelik kaldırıldı</string>
     <string name="network_error_description">Bir ağ hatası oluştu. Bir ya da iki dakika bekleyin ve tekrar deneyin</string>
     <string name="networking_allow_continue">İzin ver</string>
-    <string name="networking_allow_desc">"Mi mesaj'ın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Ücretsiz metin ve ses hizmetleri sunmak, bilinmeyen numaraları tanımlamak, gereksiz mesajları engellemek ve diğer özellikleri etkinleştirmek için Mi mesaj'ın sarı sayfaları kullanması gerekmektedir. Sarı sayfalara internete bağlanma, konum bilginizi alma ve kişilerinizi okuma izni verilsin mi?"</string>
-    <string name="networking_allow_desc_without_mx">"Mi mesaj'ın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Bilinmeyen numaraları tanımlamak, gereksiz mesajları engellemek ve diğer özellikleri etkinleştirmek için Mi mesaj'ın sarı sayfaları kullanması gerekmektedir. Sarı sayfalara internete bağlanma, konum bilginizi alma ve kişilerinizi okuma izni verilsin mi?"</string>
+    <string name="networking_allow_desc">Mi mesajın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Ücretsiz metin ve ses hizmetleri sunmak, bilinmeyen numaraları tanımlamak, gereksiz mesajları engellemek ve diğer özellikleri etkinleştirmek için Mi mesajın sarı sayfaları kullanması gerekmektedir. Sarı sayfalara internete bağlanma, konum bilginizi alma ve kişilerinizi okuma izni verilsin mi?</string>
+    <string name="networking_allow_desc_without_mx">Mi mesajın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Bilinmeyen numaraları tanımlamak, gereksiz mesajları engellemek ve diğer özellikleri etkinleştirmek için Mi mesajın sarı sayfaları kullanması gerekmektedir. Sarı sayfalara internete bağlanma, konum bilginizi alma ve kişilerinizi okuma izni verilsin mi?</string>
     <string name="networking_allow_title">Uyarı</string>
     <string name="new_message">Oluştur</string>
     <string name="new_message_arrived">Yeni bir mesajınız var</string>
@@ -515,12 +528,12 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_show_photo_word_summary">Fotoğrafı olmayan kişilere otomatik olarak bir fotoğraf ekleyin</string>
     <string name="pref_show_sms_template_entry_summary">Mesajlarda tek seferlik şifreleri algılar</string>
     <string name="pref_show_sms_template_in_summary">Mesajlarda tek kullanımlık şifreleri otomatik olarak tespit et</string>
-    <string name="pref_show_sms_template_summary">"Mi mesaj'ın kod kopyalama, bakiye kontrolü vb. gibi akıllı özelliklerini kullanmak için açın"</string>
+    <string name="pref_show_sms_template_summary">Mi mesajın kod kopyalama veya bakiye kontrolü gibi akıllı özelliklerini kullanmak için açın</string>
     <string name="pref_smart_messages_settings">Akıllı mesajlar</string>
     <string name="pref_sms_storage_title">Depolama</string>
     <string name="pref_sms_theme_title">Görünüm</string>
     <string name="pref_summary_allow_si_sl_push">Mesajların internet sitelerinden içerik yüklemelerine izin verir</string>
-    <string name="pref_summary_auto_delete">Sınırlara ulaşıldığında eski mesajları siler</string>
+    <string name="pref_summary_auto_delete">Ayarlanan sınıra ulaşıldığında eski mesajları siler</string>
     <string name="pref_summary_delete_limit">Konuşma başına %1$s mesaj</string>
     <string name="pref_summary_delivery_reports">Gönderilen mesajlar için iletildi raporu gösterir</string>
     <string name="pref_summary_delivery_ringtone">Teslim edilen mesajlar için sesli bildirim alın</string>
@@ -551,7 +564,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_title_mms_retrieval_during_roaming">Dolaşımdayken multimedya içeriğini indir</string>
     <string name="pref_title_mms_validity_period">Multimedya sona erme tarihi</string>
     <string name="pref_title_msg_blocked">Engelleme listesi</string>
-    <string name="pref_title_notification_body_enabled">Kilit ekranında mesajları göster</string>
+    <string name="pref_title_notification_body_enabled">Kilit ekranı mesajları</string>
     <string name="pref_title_privacy_authority">Yetki</string>
     <string name="pref_title_privacy_policy_detail">Gizlilik politikası</string>
     <string name="pref_title_ringtone_repeat">Bildirim sesleri</string>
@@ -582,11 +595,13 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="privacy_password_title3">Şifrenizi güncelleyin</string>
     <string name="privacy_password_title4">Şifre güncellendi</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_term">Gizlilik politikası</string>
     <string name="private_message">Özel mesajlaşma</string>
     <string name="private_new_notification">Mesaj bildirimleri</string>
     <string name="private_protect">Şifreler</string>
     <string name="private_settings">Özel mesaj ayarları</string>
     <string name="processing">Çalışıyor</string>
+    <string name="project_id">global-sms-ab3bc</string>
     <string name="prompt_area_code">+90</string>
     <string name="prompt_otp">Kod</string>
     <string name="prompt_phone">Telefon numarası</string>
@@ -672,7 +687,13 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="recommend_bar_message_smart_message">Tek seferlik şifreleri kopyalayın, paketleri takip edin, akıllı menüler kullanın ve daha fazlasını yapın</string>
     <string name="recommend_bar_ok">Aç</string>
     <string name="recommend_bar_title_mx_rcs">Mi mesaj</string>
-    <string name="recommend_bar_title_smart_message">Akıllı mesajlaşma</string>
+    <string name="recommend_bar_title_smart_message">Akıllı mesajlar</string>
+    <string name="recommend_both_dialog_title">Mesajlara hoş geldiniz</string>
+    <string name="recommend_dialog_message">Ek özelliklere erişmek için Mi mesajı ve akıllı mesajlar özelliğini açabilirsiniz</string>
+    <string name="recommend_mx_dialog_title">Mi mesaja hoş geldiniz</string>
+    <string name="recommend_mx_setting_summary">Mi mesaj ücret ödemeden internet üzerinden diğer Mi mesaj kullanıcılarına mesaj göndermenizi sağlar</string>
+    <string name="recommend_smart_sms_dialog_title">Akıllı mesajlara hoş geldiniz</string>
+    <string name="recommend_smart_sms_setting_summary">Akıllı mesajlar gönderen kimliği tanıma ve akıllı menüler sağlar</string>
     <string name="recording_failed">Kayıt edilemiyor</string>
     <string name="refill_now">Şimdi bakiye yükleyin</string>
     <string name="refreshing">Yenileniyor</string>
@@ -836,12 +857,12 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="stick">Sabitle</string>
     <string name="stick_conversation">Geçerli konuşmayı sabitle</string>
     <string name="sticked_conversation">Konuşma zaten sabitlenmiş</string>
-    <string name="storage_dialog_attachments">Multimedya eklentileri:</string>
-    <string name="storage_dialog_available_space">Kullanılabilir alan:</string>
-    <string name="storage_dialog_database">Veritabanı:</string>
-    <string name="storage_dialog_mms">Multimedya: %d</string>
-    <string name="storage_dialog_mms_size">Multimedya boyutu:</string>
-    <string name="storage_dialog_sms">Mesaj: %d</string>
+    <string name="storage_dialog_attachments">"Multimedya eklentileri: "</string>
+    <string name="storage_dialog_available_space">"Kullanılabilir alan: "</string>
+    <string name="storage_dialog_database">"Veri tabanı: "</string>
+    <string name="storage_dialog_mms">"Multimedya: %d"</string>
+    <string name="storage_dialog_mms_size">"Multimedya boyutu: "</string>
+    <string name="storage_dialog_sms">"Mesaj: %d"</string>
     <string name="storage_limits_activity">Depolama sınırları</string>
     <string name="storage_limits_message">Her mesaj dizisi için kaydedilen mesaj sayısı sınırlansın mı?</string>
     <string name="storage_limits_setting">Limitleri ayarla</string>
@@ -899,6 +920,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="too_many_recipients">Mesaj çok fazla alıcıya sahip (%1$s). %2$s kişiden fazla alıcı eklenemiyor</string>
     <string name="too_many_unsent_mms">Şu anda mesaj gönderilemiyor. Çok fazla sayıda gönderilmemiş multimedya mesajınız var</string>
     <string name="try_to_send">Göndermeyi dene</string>
+    <string name="turn_on">Aç</string>
     <string name="type_attachment">eklenti</string>
     <string name="type_audio">ses</string>
     <string name="type_picture">resim</string>
@@ -928,6 +950,7 @@ Son deneme: %s"</string>
     <string name="url_scan_again">Tekrar kontrol et</string>
     <string name="url_scanning">Bağlantı adresi kontrol ediliyor</string>
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
+    <string name="user_term">Kullanıcı sözleşmesi</string>
     <string name="verification_code_icon_name">D</string>
     <string name="verification_code_list_title">Doğrulama kodları</string>
     <string name="view">Görüntüle</string>
@@ -941,6 +964,7 @@ Son deneme: %s"</string>
     <string name="yes">Tamam</string>
     <string name="yesterday">Dün</string>
     <string name="you_have_new_message">Yeni mesajın var</string>
+    <string name="yulore_term">Gizlilik politikası</string>
     <string name="zero_sms_feedback_message">Bildirilen mesajlar sunucularımıza gönderdikleri telefon numaralarıyla birlikte yüklenir. Bu mesajlar sadece engelleme listesi işlevselliğini geliştirmek için kullanılır</string>
     <string name="zero_sms_feedback_success">Başarıyla bildirildi</string>
     <string name="zero_sms_feedback_title">Rapor</string>

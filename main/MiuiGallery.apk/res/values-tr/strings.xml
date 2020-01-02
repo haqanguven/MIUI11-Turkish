@@ -1092,7 +1092,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_single_sky">Gökyüzü</string>
     <string name="filter_sky_clear_sky">Açık hava</string>
     <string name="filter_sky_cloudy">Bulutlu</string>
-    <string name="filter_sky_cumulus">Bulut kümesi</string>
+    <string name="filter_sky_cumulus">Orta bulutlu</string>
     <string name="filter_sky_dawn">Şafak vakti</string>
     <string name="filter_sky_detect_forbidden_tips">Gökyüzü algılanamadı</string>
     <string name="filter_sky_double_rainbow">Çift gökkuşağı</string>
@@ -1100,13 +1100,13 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_download_finish">Eklenti başarıyla indirildi</string>
     <string name="filter_sky_download_sdk_without_wifi_msg">Wifi ağına bağlı değilseniz fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi indirmek için mobil veriyi kullanabilirsiniz (%1$dMB)</string>
     <string name="filter_sky_download_sdk_without_wifi_title">Eklentiyi indir</string>
-    <string name="filter_sky_dusk">Akşam karanlığı</string>
+    <string name="filter_sky_dusk">Akşam vakti</string>
     <string name="filter_sky_glow">Parıltı</string>
     <string name="filter_sky_hint">Skyscaping</string>
     <string name="filter_sky_nimbus">Yağmur bulutu</string>
-    <string name="filter_sky_rainbow">Gökyüzü</string>
+    <string name="filter_sky_rainbow">Gökkuşağı</string>
     <string name="filter_sky_snowy">Kar yağışlı</string>
-    <string name="filter_sky_stratus">Katman bulutu</string>
+    <string name="filter_sky_stratus">Çok bulutlu</string>
     <string name="filter_sky_sunny">Güneşli</string>
     <string name="filter_sky_sunset">Gün batımı</string>
     <string name="filter_sky_twilight">Alaca karanlık</string>
