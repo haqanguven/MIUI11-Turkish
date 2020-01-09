@@ -10,8 +10,8 @@
     <string name="privacy_tip_ok">Tamam</string>
     <string name="privacy_notif_title">Xunlei indirme hızlandırıcısı açık</string>
     <string name="privacy_notif_content">Ayrıntıları görüntülemek için dokunun</string>
-    <string name="notif_text_engine_on">Hızlandırılıyor</string>
-    <string name="notif_text_engine_off">Xunlei hızlandırıcı kapalı</string>
+    <string name="notif_text_engine_on">Hızlandırıcı açık</string>
+    <string name="notif_text_engine_off">Hızlandırıcı kapalı</string>
     <string name="notif_title_single_downloading">İndiriliyor: %1$s</string>
     <string name="notif_title_multiple_downloading">%1$d dosya indiriliyor</string>
     <string name="notif_title_file_size">Toplam: %1$d</string>

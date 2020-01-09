@@ -501,14 +501,14 @@
         <item>1003</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
-        <item>Short latency</item>
-        <item>Middle latency</item>
-        <item>Long latency</item>
+        <item>Kısa gecikme</item>
+        <item>Orta gecikme</item>
+        <item>Uzun gecikme</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Short latency (50~100ms)</item>
-        <item>Middle latency (150~200ms)</item>
-        <item>Long latency (300~500ms)</item>
+        <item>Kısa gecikme (50~100ms)</item>
+        <item>Orta gecikme (150~200ms)</item>
+        <item>Uzun gecikme (300~500ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_values">
         <item>49152</item>
@@ -1585,6 +1585,7 @@
     <string-array name="data_network_type_name_default">
         <item>4G</item>
         <item>4G+</item>
+        <item>5G</item>
     </string-array>
     <array name="data_type_name_cus_reg_key" />
     <array name="data_type_name_cus_reg_value" />
@@ -2693,9 +2694,9 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>Alıcı</item>
         <item>Ana ekran</item>
         <item>Son etkinlik</item>
-        <item>Önbelleğe alınan (Etkinlik)</item>
-        <item>Önbelleğe alınan (Etkinlik istemcisi)</item>
-        <item>Önbelleğe alınan (Boş)</item>
+        <item>Önbelleğe alındı (Etkinlik)</item>
+        <item>Önbelleğe alındı (Etkinlik istemcisi)</item>
+        <item>Önbelleğe alındı (Boş)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>

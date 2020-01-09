@@ -456,6 +456,10 @@ Güncelleme yapmazsanız çift uygulamalar da düzgün çalışmayabilir"</strin
     <string name="greenguard_parent_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
     <string name="greenguard_functional_description">"Cihazları uzaktan yönetin, konum bilgisini görüntüleyin,
 yüklü uygulamaları kontrol etme ve kullanımı kısıtlama"</string>
+    <string name="greenguard_install_title">Aile korumasını yükle</string>
+    <string name="greenguard_install_message">Aile korumasını bir sistem uygulamasıdır. Yüklemek için internete ihtiyacınız yok</string>
+    <string name="greenguard_install_confirm">Yükle</string>
+    <string name="greenguard_install_cancle">Hayır</string>
     <string name="cta_declaration_title">Şartlar ve koşullar</string>
     <string name="cta_declaration_message_format" formatted="false">Şirket modunu kullanmadan önce bizim &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> okuyup kabul etmeniz gerekir. Şirket modunu etkinleştirmek için cihazınızın internete bağlanması gerekir. Kabul ediyor musunuz?</string>
     <string name="cta_declaration_agree_and_continue">Kabul et</string>

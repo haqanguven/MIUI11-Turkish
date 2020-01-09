@@ -79,6 +79,8 @@ Bu özelliği kullanmadan önce kika gizlilik politikasını kabul etmeniz gerek
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="terms_privacy_policy_input_method_kika">Kika gizlilik politikası</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji gizlilik politikası</string>
+    <string name="poco_launcher_user_agreement">Poco başlatıcı kullanıcı sözleşmesi</string>
+    <string name="poco_launcher_privacy_policy">Poco Launcher gizlilik politikası</string>
     <string name="application_permissions">Uygulama izinleri</string>
     <string name="agree">Kabul et</string>
     <string name="disagree">İptal et</string>

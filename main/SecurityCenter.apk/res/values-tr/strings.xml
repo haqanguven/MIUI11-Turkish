@@ -456,6 +456,31 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_guide_law_exit">Kabul etme</string>
     <string name="ew_china_version_first_start_network_msg">&lt;Data>\"Bu özellik size deprem uyarı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesini çalacak. En yakın barınağı bulabilecek, acil durum temsilcinizi arayabilecek ve gerekirse tıbbi kartınızı sunabileceksiniz.. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Normal çalışabilmesi için için aşağıdaki izinleri gerektirir.: &lt;br>• Konum bilgisi: &lt;br>Konumunuza erişmek ve doğru deprem uyarıları sağlamak için. &lt;br>Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu özelliği kullanamazsınız. Bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Gizlilik politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir\"&lt;/Data></string>
     <string name="ew_guide_statement_text">&lt;<a href="https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s">Data></a>\"&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\">Uyarı&lt;/a> Bir kullanıcı deprem uyarı işlevini etkinleştirdiğinde Xiaomi ve bağlı kuruluşları ile yasal olarak bağlayıcı bir sözleşmeye girer. Bu özelliği kullanarak bu uyarıyı okuduğunuzu ve bu uyarıyı içeriğini tamamen anladığınızı ve kabul ettiğinizi onaylıyorsunuz. Bu uyarıyı kabul etmiyorsanız derhal deprem uyarı özelliğini kapatmalısınız.&lt;br> &lt;b>Özel ifade&lt;/b>&lt;br> İlgili yasa ve yönetmeliklere uygun olarak deprem erken uyarı hizmeti yalnızca ilgili hükümet birimleri tarafından yetkilendirilmiş alanlara verilmektedir. Bu deprem uyarısı işlevini açtığınızda ve cihazınızın yetkili bir alanda olması durumunda deprem uyarısı servisi alabileceğiniz anlamına gelir. Şu anda deprem uyarı hizmetlerinin verildiği alanların listesini kontrol edebilirsiniz. Gelecekte daha fazla alan desteklenecek. Bizi izlemeye devam edin!&lt;br> &lt;b>Uyarı&lt;/b>&lt;br> Güvenlik uygulaması size deprem uyarısı işlevi sunar. Deprem uyarı bilgilerinin hükümetin erken uyarı kurumları tarafından sağlandığını anlamalısınız. Xiaomi bu tür ajansları denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. &lt;br> Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya garanti etmiyor ve deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor.&lt;br> Deprem uyarı bilgisi almak için cihazınızı mobil ağa bağlı tutmanız gerekir. Üçüncü taraf iletişim hattı arızaları, teknik sorunlar, ağ veya terminal ekipman arızaları, sistem kararsızlığı ve diğer çeşitli mücbir sebepler deprem uyarı bilgilerini almanızı engelleyebilir. Xiaomi bu tür olaylardan kaynaklanan kayıplardan sorumlu tutulamaz.&lt;br> Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz&lt;br>\"&lt;/Data></string>
+    <string name="ew_main_settings">Ayarlar</string>
+    <string name="ew_main_setting_warning_desc">Daha fazla</string>
+    <string name="ew_main_setting_show_desc">Deneme</string>
+    <string name="ew_setting_more_title">Deprem uyarıları hakkında daha fazla bilgi edinin</string>
+    <string name="ew_setting_strong_push_title">Güçlü depremler hakkında uyar (Varsayılan: Açık)</string>
+    <string name="ew_setting_strong_push_message">2.0 ve daha yüksek yoğunluklu depremler için</string>
+    <string name="ew_setting_normal_push_title">Sistem bildirimlerini al</string>
+    <string name="ew_setting_normal_push_message">"2.0'dan düşük yoğunluktaki depremler için"</string>
+    <string name="ew_setting_desc_title">Tahmini yoğunluk hakkında</string>
+    <string name="ew_setting_desc_message">"Sistem depremin şiddetini, depremin büyüklüğünü, merkez üssünün yerini ve sizden uzaklığı temel alarak tahmin eder. Depremin yoğunluğu ne kadar büyük olursa deprem yerinize o kadar fazla yıkım getirebilir. Tahmini yoğunluk 2,0'dan büyük olduğunda güçlü bir deprem uyarısı alırsınız tahmini yoğunluk 2,0'dan düşük olduğunda sistem bildirimlerini almayı seçebilirsiniz"</string>
+    <string name="ew_main_warning_list">Uyarıları görüntüle</string>
+    <string name="ew_main_warning_list_title">Uyarı geçmişi</string>
+    <string name="ew_main_warning_list_tips">Görüntüle</string>
+    <string name="ew_list_title">Uyarılar</string>
+    <string name="ew_list_all">Tümü</string>
+    <string name="ew_list_receive">Alınan</string>
+    <string name="ew_list_receive_time">Başlangıç zamanı: %s</string>
+    <string name="ew_list_receive_distance">Merkez üssü sizden %s km uzakta</string>
+    <string name="ew_list_not_receive_tips">* Merkez üssü sizden uzak. Depremi hissedemeyebilirsiniz</string>
+    <string name="ew_push_title">%s için deprem uyarısı</string>
+    <string name="ew_push_message">Tahmini yoğunluk: %s. Yakınınızda hafif titremeyi bekleyin</string>
+    <string name="ew_alert_earthquake_feel_little">Hafif sarsıntı</string>
+    <string name="ew_alert_earthquake_feel_none">Duyarlı değil</string>
+    <string name="ew_list_receive_time_title">Başlangıç zamanı</string>
+    <string name="ew_list_empty_text">Burada henüz uyarı yok</string>
     <string name="preference_category_videobox_switch_group">category_videobox_switch_group</string>
     <string name="preference_key_videobox_switch">key_videobox_switch</string>
     <string name="preference_category_videobox_line_group">category_videobox_line_group</string>
@@ -963,7 +988,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="roaming_limit_warning_notification_body">Veri kullanımını görüntülemek için dokunun</string>
     <string name="roaming_limit_network_notification_body">Kullanılabilir veri ağlarını görüntülemek için dokunun</string>
     <string name="roaming_limit_dialog_message">Günlük dolaşım mobil veri limitine ulaşıldı</string>
-    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">Dolaşımda mobil veri kullanımına izin verilsin mi?</string>
     <string name="dialog_roaming_warning_message">Uluslararası veri dolaşımını açtıktan sonra operatör sizi ücretlendirecektir. Açılsın mı?</string>
     <string name="dialog_roaming_warning_checkbox">Tekrar gösterme</string>
@@ -1176,6 +1201,15 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="tether_over_limit_dialog_cancle_btn">Bağlantı noktasını sıfırla</string>
     <string name="network_traffic_warning_title">Sistem uygulamaları için veri kullanımı</string>
     <string name="network_traffic_warning_text">Miui bireysel sistem uygulamaları için veri kullanım istatistiklerini hesaplayamaz. Bu uygulamanın mobil verileri aktif olarak kullanması durumunda uygulama ayrıntılarında veri kullanımı ile ilgili bilgileri görebileceksiniz</string>
+    <string name="apn_exception_modify_summary">Varsayılan operatör erişim noktası kullanılmıyor veya değiştirilmiyor</string>
+    <string name="apn_exception_wap_summary">"WAP şimdi kararsız. NET'e geçin"</string>
+    <string name="signal_exception_none_4g_5g_network">"2G veya 3G mobil ağı kullanıyorsunuz. Bağlantı hızı düşük olabilir</string>
+    <string name="signal_exception_4g_bad_rsrq">Geçerli sinyal alımı zayıf. Bağlantı hızı düşük olabilir</string>
+    <string name="nd_result_title_network">Ağ bağlantısı</string>
+    <string name="nd_result_title_auxiliary">Ağ yapılandırması</string>
+    <string name="nd_result_title_optimize">Ağ optimizasyonu</string>
+    <string name="nd_result_summary_optimize">Kararsız olduğunda ağ bağlantısını optimize etmeyi deneyin</string>
+    <string name="nd_result_button_optimize">Optimize et</string>
     <string name="optimize_manage_title">Hızı arttır</string>
     <string name="cpu_usage_android_system">Android sistemi</string>
     <string name="cpu_usage_process_run_time_little_time">1 dakikadan az</string>
@@ -2239,6 +2273,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="ac_unmask_all_apps">Tüm uygulamalar için göster</string>
     <string name="ac_summaryOn">Açıldı. Uygulamaları açmak için şifre gerekmektedir</string>
     <string name="ac_summaryOff">Kapatıldı. Uygulamaları açmak için şifre gerekmemektedir</string>
+    <string name="ac_recommend_guide_dialog_app_content">Kişisel bilgilerinizi korumak ve veri sızıntılarını önlemek için bu uygulama ile uygulama kilidini kullanın</string>
+    <string name="ac_recommend_guide_dialog_content">Uygulama kilidini kullanarak kişisel bilgilerinizi koruyabilir ve veri sızıntılarını önleyebilirsiniz</string>
+    <string name="ac_recommend_guide_dialog_ignore">Tekrar gösterme</string>
+    <string name="ac_recommend_guide_dialog_open">Aç</string>
     <string name="applock_guide_title">Uygulama kilidi ile gizliliğinizi koruyun</string>
     <string name="applock_guide_tip1">Birden fazla şifre türü seçeneği mevcuttur. Parmak iziniz, yüzünüz veya şifrenizi girerek uygulamaların kilidini açın</string>
     <string name="applock_guide_tip1_without_finger_face">Birden fazla şifre türü seçeneği mevcuttur</string>
@@ -2908,6 +2946,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="gb_audition_instruction">Kaydetmek icin basili tut (%1$s-%2$s saniye)</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
     <string name="gb_operat_frequently">Çok hızlı değil</string>
+    <string name="gb_voice_changer_permission_dlg_title">İzinler gerekli</string>
+    <string name="gb_voice_changer_permission_dlg_msg">Ses değiştiricinin normal çalışabilmesi için ses kaydı yapabilmesi gerekir</string>
+    <string name="gb_voice_changer_dlg_button_refuse">Reddet</string>
+    <string name="gb_voice_changer_dlg_button_agree">İzin ver</string>
     <string name="game_manual_record_setting_title">Anahtar anlar</string>
     <string name="game_manual_record_setting_king">Zafer kralı</string>
     <string name="game_manual_record_setting_peace">Barış seçkinleri</string>
@@ -3147,12 +3189,25 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="videobox_hangup_tips_content">Bu özellik ekran kapalıyken uygulamanın arka planda çalışmasını sağlar. Şimdi açılsın mı?</string>
     <string name="vtb_other_milink_connect">Şimdi video yayınlanamıyor</string>
     <string name="vtb_stop_milink_connect">Yayınlama videosunu durdurdu</string>
+    <string name="vtb_func_desc">Bu özellik hakkında</string>
+    <string name="vtb_func_frc_title">Hareket yumuşatma</string>
+    <string name="vtb_func_frc_desc0">Hareket yumuşatma bulanıklığı azaltır ve hareketli nesnelere ayrıntı ekler. Bu özelliğin kullanılması güç tüketimini artırır</string>
+    <string name="vtb_func_frc_desc1">"Hareket yumuşatma aşağıdaki koşullarda çalışmaz:"</string>
+    <string name="vtb_func_frc_desc2">"Video çözünürlüğü 1080P'den yüksek olduğunda"</string>
+    <string name="vtb_func_frc_desc3">"Kare hızı 30 fps'den yüksek olduğunda"</string>
+    <string name="vtb_func_frc_desc4">HDR videolarda</string>
+    <string name="vtb_func_vpp_title">Geliştirilmiş hatlarda</string>
+    <string name="vtb_func_vpp_desc4">"Video çözünürlüğü 4K'dan yüksek olduğunda bu özellik çalışmaz"</string>
+    <string name="vtb_func_display_style_desc1">Seçilen efektler HDR videolara uygulanmaz</string>
+    <string name="vtb_func_display_style_desc2">Bu efektler ekran görüntülerine uygulanamaz</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Önbelleği temizlemeyi unutmayın</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Depolama alanını boşaltmak için %s WeChat önbelleğini temizle</string>
     <string name="notification_garbage_cleanup_title">Çöp dosyalarını temizle</string>
     <string name="notification_garbage_cleanup_summary">Cihazınızı hızlandırmak için çöp kutusunu temizle (%s)</string>
     <string name="global_wa_setting_alert_dialog_title">WhatsApp temizleyici</string>
     <string name="global_wa_setting_alert_dialog_content">%s alanını boşaltabilirsiniz</string>
+    <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
+    <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
     <string name="firewall_rule_group_title_roaming">Yurtdışı dolaşım</string>
     <string name="mian_page_primary_txt">Uluslararası dolaşım</string>
 </resources>

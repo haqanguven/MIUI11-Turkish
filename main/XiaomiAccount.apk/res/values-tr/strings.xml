@@ -138,10 +138,7 @@
     <string name="passport_international_register_by_email">E-posta adresini kullanarak bir hesap oluşturun</string>
     <string name="passport_account_not_actived">Hesabınız henüz etkinleştirilmedi</string>
     <string name="passport_active_email_visit">%s adresi gelen kutunuzu kontrol edin</string>
-    <string name="passport_click_email_to_valid">"
-
-Hesabınızı etkinleştirmek için size göndermiş olduğumuz 
-bağlantı adresini kullanın"</string>
+    <string name="passport_click_email_to_valid">Hesabınızı etkinleştirmek için gelen kutunuza gönderdiğimiz bağlantıyı takip edin</string>
     <string name="passport_resend_active_email">E-postayı yeniden gönder</string>
     <string name="passport_failed_to_send_activate_email">Etkinleştirme e-postası gönderilemedi</string>
     <string name="passport_reg_success">Hesap oluşturuldu</string>

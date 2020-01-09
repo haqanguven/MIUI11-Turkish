@@ -877,6 +877,7 @@ Yalnızca desteklenen şarj cihazlarını kullanın"</string>
     <string name="ir_mcc">432</string>
     <string name="keep_screen_on">Uyanık kal</string>
     <string name="keep_screen_on_summary">Şarj edilirken ekran hiçbir zaman uykuya geçmez</string>
+    <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">Geri</string>
     <string name="keyboard_key_backspace">Geri</string>
     <string name="keyboard_key_button_template">Tuş: %1$s</string>

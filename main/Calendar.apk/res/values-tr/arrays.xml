@@ -719,6 +719,15 @@
         <item>Başak</item>
         <item>23/8 - 22/9</item>
     </string-array>
+    <string-array name="week_array">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
     <string-array name="week_header_name">
         <item>Pazar</item>
         <item>Pazartesi</item>

@@ -56,9 +56,13 @@
     <string name="alarmclock_empty_text">Alarm yok</string>
     <string name="alarmclock_silent_hint">Alarm sessize alındı</string>
     <string name="alert">Zil sesi</string>
+    <string name="alert_ringtone">Alarm zil sesi</string>
+    <string name="alert_volume">Zil sesi seviyesi</string>
+    <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarlama</string>
     <string name="analog_gadget">Analog saat</string>
     <string name="app_label">Saat</string>
     <string name="auto_silence_never">Asla</string>
+    <string name="auto_silence_summary">Alarmların ve zamanlayıcıların susturulacağı süreyi ayarlayın</string>
     <string name="auto_silence_title">Otomatik susturma</string>
     <string name="back">Çıkış</string>
     <string name="battery_charging_level">%%%d</string>
@@ -139,6 +143,7 @@
     <string name="done">Tamam</string>
     <string name="dynamic_alarm_speech">Akıllı alarm</string>
     <string name="edit_alarm">Alarmı düzenle</string>
+    <string name="edit_label">Alarm etiketini düzenle</string>
     <string name="edit_systemtime">Sistem saatini değiştir</string>
     <string name="edit_systemtime_setting_summary">Tarih, saat ve çift saat</string>
     <string name="every_day">Her gün</string>
@@ -151,6 +156,7 @@
     <string name="holiday_update_fail">Güncellenemedi</string>
     <string name="holiday_update_loading">Güncelleniyor</string>
     <string name="holiday_update_success">Tüm öğeler güncel</string>
+    <string name="holiday_update_title">Tatil günleri hakkındaki bilgileri güncelle</string>
     <string name="hour_unit">Saat +</string>
     <string name="install_weather_app_error">Uygulama yüklenemedi</string>
     <string name="install_weather_app_loading">Yükleniyor</string>
@@ -164,6 +170,8 @@
     <string name="korea_permission_storage">Depolama</string>
     <string name="korea_permission_storage_desc">Alarmları kaydetmek için</string>
     <string name="label">Etiket belirle</string>
+    <string name="label_input_desc">Alarm çaldığında bu etiket ekranda görüntülenecektir</string>
+    <string name="label_input_hint">Etiket gir</string>
     <string name="label_pref_summary">Etiket</string>
     <string name="lap">Tur</string>
     <string name="lap_num">Tur</string>
@@ -244,18 +252,24 @@
     <string name="module_white_noise_download_wifi">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Şimdi indirilsin mi?</string>
     <string name="module_white_noise_download_wifi_privacy">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="monday_to_friday">Pazartesiden cumaya</string>
+    <string name="more_alert_setting">Ek alarm ayarları</string>
     <string name="more_setting">Daha fazla ayar</string>
     <string name="more_settings">Ayarlar</string>
+    <string name="net_permission_cancel">Reddet</string>
+    <string name="net_permission_ok">Kabul et</string>
     <string name="network_privacy">Saat yerel tatiller hakkında bilgileri almak ve alarmları ayarlamak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikamızı</a> okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="network_privacy_global">Saat kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce, <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="never">Bir kez</string>
+    <string name="new_label">Alarm etiketi ekle</string>
     <string name="no_alarm_setting">Alarm yok</string>
     <string name="no_worldclock">Saat yok</string>
+    <string name="normal_settings">Genel ayarlar</string>
     <string name="not_update">Şimdi değil</string>
     <string name="oneshot_alarm">Kapandıktan sonra sil</string>
     <string name="open_keep_screen">Ekran devam edecek</string>
     <string name="open_sleep_record">Aç</string>
     <string name="other_category_title">Diğer</string>
+    <string name="other_settings">Ek ayarlar</string>
     <string name="pause">Durdur</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Kişiselleştirilmiş içerik tavsiyeleri</string>
@@ -272,6 +286,7 @@
     <string name="revert">Geri al</string>
     <string name="ringtone_all">Tüm zil sesleri</string>
     <string name="ringtone_dew">Sabah çiği</string>
+    <string name="ringtone_digital_timer">Saat</string>
     <string name="ringtone_dream">Hayal</string>
     <string name="ringtone_firefly">Havai fişekler</string>
     <string name="ringtone_other">Daha fazla zil sesi</string>
@@ -354,6 +369,7 @@
     <string name="time_picker_label_hour">saat</string>
     <string name="time_picker_label_minute">dakika</string>
     <string name="time_picker_label_second">saniye</string>
+    <string name="time_settings">Saat ayarları</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Alarmı susturmak için ekrana dokunun</string>
     <string name="timer_alarm_dot_matrix_label">Zamanlayıcı</string>
@@ -387,8 +403,9 @@
     <string name="timer_item_picker_minute">D</string>
     <string name="timer_item_picker_second">S</string>
     <string name="timer_new_item">Zamanlayıcı ekle</string>
-    <string name="timer_notify_text">Zamanlayıcıyı ertele veya yoksay.</string>
+    <string name="timer_notify_text">Zamanlayıcıyı ertele veya yoksay</string>
     <string name="timer_pause_timer">Zamanlayıcıyı durdur</string>
+    <string name="timer_ringtone">Saat zil sesi</string>
     <string name="timer_running">Zamanlayıcı çalışıyor</string>
     <string name="timer_start_alarm">Zaman doldu</string>
     <string name="timer_start_timer">Zamanlayıcı başlat</string>

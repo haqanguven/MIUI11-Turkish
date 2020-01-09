@@ -13,7 +13,7 @@
     <string name="read_write_all_voicemail_label">Tüm sesli mesajlara erişim</string>
     <string name="read_write_all_voicemail_description">Bu uygulamaya tüm sesli postaları almak ve depolamak için izin verin</string>
     <string name="voicemail_from_column">"Sesli posta gönderen "</string>
-    <string name="debug_dump_title">Kişi veritabanını kopyala</string>
+    <string name="debug_dump_title">Kişi veri tabanını kopyala</string>
     <string name="debug_dump_database_message">1) Kişilerinizin tamamının iletişim bilgileri ve arama kayıtlarınıda içeren, kişi veritabanınızın bir kopyasını dahili depolama alanına almak ve 2) e-posta göndermek üzeresiniz. E-posta alındığında veya veritabanının kopyası depolama alanına başarılı bir şekilde kopyalandığında, kopyayı mümkün olan en kısa sürede silmeyi unutmayın</string>
     <string name="debug_dump_delete_button">Şimdi sil</string>
     <string name="debug_dump_start_button">Başlat</string>

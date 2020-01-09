@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">Tamam</string>
     <string name="data_connection_title">Veri kullanımı uyarısı</string>
     <string name="delete">Sil</string>
+    <string name="delete_cloud_data_at_same_time">Buluttan da sil</string>
     <string name="delete_dialog_message">Kayıt silinsin mi?</string>
     <string name="deleting_message">Siliniyor…</string>
     <string name="details">Ayrıntılar</string>
@@ -143,6 +144,8 @@
     <string name="preference_online_orders">Çevrimiçi siparişler</string>
     <string name="preference_recog_faqs">Çevrimiçi yazıya dökme yardımı</string>
     <string name="preference_recog_terms">Hizmet şartları</string>
+    <string name="preference_record_desktop_indicator_summary">Kaydedici arka planda çalışırken ana ekranda mavi bir gösterge gösterin</string>
+    <string name="preference_record_desktop_indicator_title">Ana ekran göstergesi</string>
     <string name="preference_record_scenes_dialog_title">Kayıt türünü seçin</string>
     <string name="preference_scenes">Kayıt türü</string>
     <string name="preference_silent_mode">Kayıt esnasında zil sesini kapat</string>
@@ -281,7 +284,6 @@
     <string name="webview_try_again">Tekrar deneyin</string>
     <string name="wifi_recommended_body" formatted="false">Bu dosyayı (%s) indirmek için mobil veri bağlantınızı kullanmanız, veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız, operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz. İndirme işlemini bir Wi-Fi ağına bağlanılana kadar bekletmek için %s dokunun.</string>
     <string name="wifi_recommended_title">Veri kullanımı uyarısı</string>
-    <string name="delete_cloud_data_at_same_time">Buluttan da sil</string>
     <string name="faq">"Sıkça sorulan sorular:
 
 1. Hangi eyaletler siparişe dahil edildi?
@@ -292,8 +294,6 @@ Sipariş aktarılırsa geri ödeme otomatik olarak geri ödenir. Geri ödeme 5 i
 
 3. Kayıt metnini daha kesin hale nasıl getirebilirim?
 Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktarım sonucunun doğruluğu uzaklıktan, çevreden, popülasyonun sesini vb. etkileyecektir. Doğruluk oranı oldukça farklı olabilir. Metni daha doğru bir şekilde değiştirmek istiyorsanız telefondan ayrılmayı seçebilirsiniz"</string>
-    <string name="preference_record_desktop_indicator_summary">Kaydedici arka planda çalışırken ana ekranda mavi bir gösterge gösterin</string>
-    <string name="preference_record_desktop_indicator_title">Ana ekran göstergesi</string>
     <string name="recognition_terms">"Sevgili kullanıcı merhaba
 
 Xiaomi ses kaydedicide sesli metnine servisini kullanmaya hoş geldiniz. Bu servis günlük toplantılar, eğitim ve öğretim, medya iletişimi gibi çeşitli sahnelerde metinden metne sorununu çözebilen ve işi iyileştiren Anhui Hearing Technology Co., Ltd. tarafından sağlanmaktadır

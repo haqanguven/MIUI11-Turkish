@@ -88,9 +88,6 @@
         <item quantity="other">%d adet hatırlatıcıya kadar ayarlanabilir</item>
         <item quantity="one">%d adet hatırlatıcıya kadar ayarlanabilir</item>
     </plurals>
-    <plurals name="feed_list_dislike_title">
-        <item quantity="other">%1$d seçildi</item>
-    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>

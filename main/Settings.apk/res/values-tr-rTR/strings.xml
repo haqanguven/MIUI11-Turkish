@@ -1256,6 +1256,7 @@ Bu özellik Ayarlar menüsünden kapatılabilir"</string>
     <string name="calendar_remind">Etkinlikler</string>
     <string name="calendar_sound_dialog_title">Takvim zil tonunu seçin</string>
     <string name="calendar_sound_title">Takvim sesi</string>
+    <string name="call_example_name">Ad</string>
     <string name="call_manager_enable_summary">Bu hizmetin aramalarınızın yapılış şeklini yönetmesine izin verin</string>
     <string name="call_manager_enable_title">Arama yöneticisini etkinleştir</string>
     <string name="call_manager_summary">%1$s</string>
@@ -4196,6 +4197,8 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="ping_test_label">Ping testini çalıştır</string>
     <string name="please_select_phase2">Aşama 2 için kimlik doğrulaması</string>
     <string name="please_type_passphrase">Şifre</string>
+    <string name="poco_launcher_privacy_policy">Poco başlatıcı gizlilik politikası</string>
+    <string name="poco_launcher_user_agreement">Poco başlatıcı kullanıcı sözleşmesi</string>
     <string name="pointer_location">İşaretçi konumu</string>
     <string name="pointer_location_summary">Dokunma koordinatlarını gösterir</string>
     <string name="pointer_settings_category">Fare veya dokunmatik alan</string>
@@ -4387,6 +4390,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="privacy_factory_reset_dlg_button_text">Sıfırla</string>
     <string name="privacy_factory_reset_dlg_message">Şifrenizi unutmanız durumunda yeni bir şifre belirlemek için fabrika ayarlarına geri dönmeniz gerekecektir</string>
     <string name="privacy_factory_reset_dlg_title">Verilerinizi yedekleyin</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi kullanmadan önce şifreyi girin</string>
     <string name="privacy_file">Dosyalar</string>
     <string name="privacy_gallery">Fotoğraflar</string>
     <string name="privacy_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin</string>
@@ -7494,7 +7498,7 @@ Ayarları şu şekilde güncelle:
 	<string name="toggle_count_title">Küçültülmüş gölge düzeni</string>
 	<string name="toggles_count_title">Genişletilmiş gölge düzeni</string>
 	<string name="status_icon_setting_title">Simge boyutu ayarları</string>
-	<string name="percent_size_title">Pil boyutu</string>
+	<string name="percent_size_title">Pil yüzde boyutu</string>
 	<string name="clock_size_title">Saat boyutu</string>
 	<string name="net_size_title">Bağlantı hızı boyutu</string>
 	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
@@ -7517,12 +7521,13 @@ Ayarları şu şekilde güncelle:
 	<string name="system_animation_title">Sistem animasyonları</string>
 	<string name="list_animation_title">Liste animasyonu</string>
 	<string name="list_interpolator_title">Liste eklenme animasyonu</string>
+	<string name="charging_animation_title">Kilit ekranı şarj animasyonu</string>
 	<string name="charging_sounds_on_title">Şarja bağlama sesi</string>
 	<string name="charging_sounds_off_title">Şarjdan çıkarma sesi</string>
 	<string name="charging_sounds_full_title">Şarj doldu sesi</string>
 	<string name="low_battery_warning_sounds_title">Düşük pil sesi</string>
 	<string name="unlocking_fingerprint_title">Parmak izi ile kilidi aç</string>
-	<string name="unlocking_fingerprint_summary">Yeniden başlattıktan sonra şifreyi veya deseni girmek yerine parmak izi ile kilidini açmanıza izin verir</string>
+	<string name="unlocking_fingerprint_summary">Yeniden başlattıktan sonra şifreyi veya deseni girmek yerine parmak izi ile kilidi açmanıza izin verir</string>
 	<string name="secure_screenshot_disable">Her yerde ekran resmi al</string>
 	<string name="5GHz_force">5GHz zorlama modu</string>
 	<string name="5GHz_force_summary">Değişikliğin uygulanması için cihazınızı yeniden başlatın</string>

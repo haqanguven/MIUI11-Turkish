@@ -201,7 +201,8 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="minute_rain_pull_down_refresh">Yenilemek için aşağı çekin</string>
     <string name="minute_rain_refreshing_now">Yenileniyor</string>
     <string name="missing_required_permission">Gerekli izni devre dışı bıraktınız</string>
-    <string name="more_details">Daha fazla ayrıntı</string>
+    <string name="more_details">Daha fazla</string>
+    <string name="more_expanded">Daha fazla</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="network_unavailable">Ağa bağlanılamıyor</string>
     <string name="news_hour_minute_time_format">yyyy-MM-dd HH:mm</string>

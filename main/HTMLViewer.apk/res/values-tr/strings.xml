@@ -26,5 +26,7 @@
     <string name="settings_ad_loading_unavailable">Bilgi yüklenemedi</string>
     <string name="autoconnect">Otomatik bağlan</string>
     <string name="poco_privacy_policy">Poco başlatıcı gizlilik politikası &amp; Poco başlatıcı kullanıcı sözleşmesi</string>
+    <string name="poco_launcher_user_agreement">POCO başlatıcı kullanıcı sözleşmesi</string>
+    <string name="poco_launcher_privacy_policy">POCO başlatıcı gizlilik politikası</string>
     <string name="legal_written_offer">Yazılı teklif</string>
 </resources>

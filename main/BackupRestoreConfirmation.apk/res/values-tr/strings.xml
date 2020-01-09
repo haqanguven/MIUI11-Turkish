@@ -16,7 +16,7 @@ Geri yükleme isteğinde siz bulunmadıysanız işlemin ilerlemesine izin vermey
     <string name="device_encryption_restore_text">Lütfen cihazı şifrelemek için kullandığınız şifreyi aşağıya girin</string>
     <string name="device_encryption_backup_text">Lütfen cihazınızı şifrelemek için kullandığınız şifreyi aşağıya girin. Bu şifre aynı zamanda yedekleme arşivini şifrelemek için de kullanılacaktır</string>
     <string name="backup_enc_password_text">Tam yedekleme verilerini şifrelemek için lütfen bir şifre girin. Şifre boş bırakılırsa mevcut yedekleme şifreniz kullanılacaktır:</string>
-    <string name="backup_enc_password_optional">Tam yedekleme verilerini şifrelemek istiyorsanız, aşağıya bir şifre girin:</string>
+    <string name="backup_enc_password_optional">Tam yedekleme verilerini şifrelemek istiyorsanız aşağıya bir şifre girin:</string>
     <string name="backup_enc_password_required">Cihazınız şifrelenmiş olduğundan yedeklemenizi şifrelemeniz gerekmektedir. Lütfen aşağıya bir şifre girin:</string>
     <string name="restore_enc_password_text">Geri yükleme verileri şifreliyse lütfen şifreyi aşağıya girin:</string>
     <string name="toast_backup_started">Yedekleme başlatılıyor</string>

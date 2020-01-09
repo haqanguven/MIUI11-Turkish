@@ -1298,6 +1298,8 @@ Seçilen ağ yerine tercih edilen ağ kullanılacaktır"</string>
     <string name="not_a_valid_port">Bağlantı noktası numarası 1000 ile 65534 arasında olmalıdır</string>
     <string name="not_allowed">Sim kartınız bu ağa bağlanmanıza izin vermiyor</string>
     <string name="not_voice_capable">Sesli arama desteklenmiyor</string>
+    <string name="notification_demo_version_text">Arama yapamıyor veya mobil veri kullanamıyor</string>
+    <string name="notification_demo_version_title">Bu bir demo cihazı</string>
     <string name="notification_network_selection_text">Seçilen ağ (%s) kullanılamıyor</string>
     <string name="notification_network_selection_title">Hizmet yok</string>
     <string name="notification_voicemail_no_vm_number">Sesli mesaj numarası bilinmiyor</string>

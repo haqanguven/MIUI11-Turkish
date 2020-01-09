@@ -11,6 +11,7 @@
     <string name="find_device_error_password_changed">Hesap şifresi yakın bir tarihte zaten değiştirildi</string>
     <string name="find_device_error_network">Ağ hatası</string>
     <string name="find_device_error_server">Sunucu hatası: %s</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_account_sys_timeout">"Mi hesabına bağlanılamadı. "</string>
     <string name="find_device_error_account_unknown_error">Mi hesabı hatası: %s</string>
     <string name="find_device_crash">Cihazı bul uygulaması beklenmedik bir şekilde sonlandırıldı</string>

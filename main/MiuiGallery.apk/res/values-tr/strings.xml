@@ -859,7 +859,7 @@
     <string name="disable_auto_upload_title">Mi bulut ile senkronizasyon özelliğini kapat</string>
     <string name="do_not_remind_me">Tekrar gösterme</string>
     <string name="doc_photo_enter" />
-    <string name="document_provider_guide_step_1">1. Diğer düğmesine dokunun.</string>
+    <string name="document_provider_guide_step_1">1. Diğer düğmesine dokunun</string>
     <string name="document_provider_guide_step_2">2. Dahili belleği göstere dokunun</string>
     <string name="document_provider_guide_step_3">3. Yan menü düğmesine dokunun</string>
     <string name="document_provider_guide_step_4">4. SD kart seçeneğini seçin</string>
@@ -2007,6 +2007,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="video_editor_loading_warning_msg">Meydana gelen kodlama hatasından dolayı bazı özellikler ve önizlemeler düzenleme işlemi süresince kullanılamayabilir. Bu durum video dosyasının son halini etkilemeyecektir</string>
     <string name="video_editor_loading_warning_title">Kodlama hatası</string>
     <string name="video_editor_more">Gelişmiş</string>
+    <string name="video_editor_not_support_8k_tips">8K videolar düzenlenemiyor</string>
     <string name="video_editor_not_support_tips">Bu video dosyaları desteklenmiyor</string>
     <string name="video_editor_ok">Tamam</string>
     <string name="video_editor_regulator">Ayarla</string>
