@@ -156,7 +156,7 @@
     <string name="holiday_update_fail">Güncellenemedi</string>
     <string name="holiday_update_loading">Güncelleniyor</string>
     <string name="holiday_update_success">Tüm öğeler güncel</string>
-    <string name="holiday_update_title">Tatil günleri hakkındaki bilgileri güncelle</string>
+    <string name="holiday_update_title">Tatil günlerini güncelle</string>
     <string name="hour_unit">Saat +</string>
     <string name="install_weather_app_error">Uygulama yüklenemedi</string>
     <string name="install_weather_app_loading">Yükleniyor</string>

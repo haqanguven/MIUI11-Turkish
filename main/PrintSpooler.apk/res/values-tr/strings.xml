@@ -103,7 +103,7 @@
     <string name="printing_in_progress">Yazdırılıyor</string>
     <string name="printing_notification_title_template">%1$s yazdırılıyor</string>
     <string name="printing_successful">Başarıyla yazdırıldı</string>
-    <string name="reason_unknown">bilinmiyor</string>
+    <string name="reason_unknown">Bilinmiyor</string>
     <string name="recommended_services_title">Önerilen hizmetler</string>
     <string name="restart">Yeniden başlat</string>
     <string name="retry_connect">Tekrar deneyin</string>

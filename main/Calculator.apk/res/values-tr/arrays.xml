@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Santimetre</item>
+        <item>Metre</item>
+        <item>Ölçü</item>
+        <item>İnç</item>
+    </string-array>
     <string-array name="loan_rulers">
         <item>@string/loan_type_summary_lpr</item>
         <item>@string/loan_type_summary_base</item>
@@ -33,6 +39,10 @@
         <item>HKD</item>
         <item>JPY</item>
         <item>CNY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilogram</item>
+        <item>Pound</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -182,12 +192,6 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
-    </string-array>
-    <string-array name="height_array">
-        <item>Santimetre</item>
-        <item>Metre</item>
-        <item>Ölçü</item>
-        <item>İnç</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -461,9 +465,5 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
-    </string-array>
-    <string-array name="weight_array">
-        <item>Kilogram</item>
-        <item>Pound</item>
     </string-array>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="access_change_text" formatted="false">Şu anda seçilen öğe, %d öğesiyle değiştirilen %d öğesidir</string>
+    <string name="access_change_text" formatted="false">Şu anda seçilen öğe %d öğesiyle değiştirilen %d öğesidir</string>
     <string name="access_select">%s seçili</string>
     <string name="access_unselect">%s seçimi kaldırıldı</string>
     <string name="accessibilty_back_button">Geri dön</string>
@@ -365,6 +365,7 @@
     <string name="card_expand_note_toast_clear_null">Temizlendi</string>
     <string name="card_expand_note_toast_save_done">Notlara kaydet</string>
     <string name="card_expand_note_toast_save_dup">Kaydetme başarılı oldu</string>
+    <string name="card_expand_note_toast_share_null">Bu not boş</string>
     <string name="card_hint_noteboard">Not yazmak için dokunun</string>
     <string name="card_menu_edit">Düzenle</string>
     <string name="card_menu_remove">Kaldır</string>

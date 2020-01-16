@@ -698,7 +698,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_chinese_calendar">Çin takvimi</string>
     <string name="setting_content_promotion">İçerik tanıtımı</string>
     <string name="setting_daysoff_no_update">Resmi tatil günleri ile ilgili bilgiler günceldir</string>
-    <string name="setting_daysoff_update">Resmi tatiller hakkındaki bilgileri güncelle</string>
+    <string name="setting_daysoff_update">Resmi tatilleri güncelle</string>
     <string name="setting_daysoff_update_cta_cancel">Takvimin önce internete bağlanmasına izin ver</string>
     <string name="setting_daysoff_update_net_err">Güncellemeler kontrol edilemedi. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="setting_daysoff_update_schedule">Güncelleniyor</string>

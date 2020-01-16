@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_menu_item_split_disable">Uygulama bölünmüş ekranı desteklemiyor</string>
+    <string name="accessibility_menu_item_split_enable">Uygulama bölünmüş ekranı destekliyor</string>
+    <string name="accessibility_recents_item_open_app_info">%s uygulamasının bilgilerini açın</string>
+    <string name="accessibility_splite_screen_primary">Bölünmüş ekranda birincil uygulama olarak eklendi</string>
+    <string name="accessibility_splite_screen_secondary">Bölünmüş ekranda ikincil uygulama olarak eklendi</string>
     <string name="action_add_to_workspace">İş alanına ekle</string>
     <string name="activity_not_found">Uygulama cihazınıza yüklü değil</string>
     <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınız tamamen yeniden başlatılana kadar bekleyin</string>
@@ -87,6 +92,7 @@
     <string name="app_category_tools">Araçlar</string>
     <string name="app_category_travel">Seyahat</string>
     <string name="app_category_vr">VR</string>
+    <string name="app_name">Ağız</string>
     <string name="application_name">Sistem başlatıcı</string>
     <string name="apply">Ayarla</string>
     <string name="apply_action">Ayarla</string>
@@ -241,7 +247,7 @@
     <string name="gadget_weather_loading">Veri yok</string>
     <string name="gadget_weather_low_temp">Düşük sıcaklık</string>
     <string name="gadget_weather_theme_type">Araç türü</string>
-    <string name="gadget_weather_time_format">d MMMM EEEE</string>
+    <string name="gadget_weather_time_format">dd MMMM EEEE</string>
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="gadget_weather_title_14">Hava durumu</string>
     <string name="gadget_weather_title_24">Hava durumu</string>
@@ -269,6 +275,9 @@
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez</string>
     <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönüp tekrar deneyin</string>
     <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırın</string>
+    <string name="launcher_search_bar_title">Ana ekran arama çubuğu</string>
+    <string name="launcher_search_bar_value_disable">Kapalı</string>
+    <string name="launcher_search_bar_value_enable">Açık</string>
     <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>
     <string name="launcher_sliding_up_gesture">Arama bölümü</string>
     <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
@@ -286,6 +295,8 @@
     <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
     <string name="memory_clear_nothing_result">Önbellek tamamen temizlendi</string>
     <string name="memory_clear_result">%1$sB temizlendi</string>
+    <string name="memory_clear_result_giga">%1$sGB temizlendi</string>
+    <string name="memory_clear_result_mega">%1$sMB temizlendi</string>
     <string name="menu_add">Ekle</string>
     <string name="menu_auto_fill_of_uninstall">Hücreleri otomatik doldur</string>
     <string name="menu_back_desktop">Ana ekrana dön</string>
@@ -319,6 +330,7 @@
     <string name="notification_installed">Başarıyla yüklendi</string>
     <string name="notification_open_button">Aç</string>
     <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>
+    <string name="one_key_call_title">Aramak için dokunun</string>
     <string name="online_wallpaper">Çevrimiçi</string>
     <string name="open_personal_assistant_dialog_btn_cancel">İptal et</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
@@ -340,6 +352,7 @@
     <string name="photo_adjust">Önizleme</string>
     <string name="photo_confirm">Ayarla</string>
     <string name="photo_load_failed">Fotoğraf yüklenemiyor</string>
+    <string name="please_slide_agian">Tekrar kaydırın</string>
     <string name="pref_cell_layout_size">Uygulama simge düzeni</string>
     <string name="pref_enable_drawing_cache_summary">Bellekte yer açmak için bu özelliği kapatın. Bu durum daha yavaş cihaz performansına neden olabilir</string>
     <string name="pref_enable_drawing_cache_title">Çizim önbelleği</string>
@@ -361,7 +374,22 @@
     <string name="process" />
     <string name="quick_app">Hızlı uygulama</string>
     <string name="recent_apps">Son kullanılanlar</string>
+    <string name="recent_menu_item_info">Bilgi</string>
+    <string name="recent_menu_item_lock">Kilitle</string>
+    <string name="recent_menu_item_multi_window">Böl</string>
+    <string name="recent_menu_item_unlock">Kilidi aç</string>
+    <string name="recents_app_info_button_label">Uygulama bilgisi</string>
     <string name="recents_config_title">Son işlemler</string>
+    <string name="recents_dimiss_task">Temizle</string>
+    <string name="recents_empty_message">Son öğe yok</string>
+    <string name="recents_empty_message_dismissed_all">Her şeyi temizledin</string>
+    <string name="recents_empty_message_multi_window">Ana ekrandan uygulamaları aç</string>
+    <string name="recents_title_app_manager">Uygulamaları yönet</string>
+    <string name="recents_title_game">Oyunlar</string>
+    <string name="recents_title_garbage_cleanup">Temizlik</string>
+    <string name="recents_title_garbage_deepclean">Derin temizlik</string>
+    <string name="recents_title_market">Uygulama bul</string>
+    <string name="recents_title_security_scan">Güvenlik taraması</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Uygulama önerileri</string>
     <string name="recommend_apps_default_title">Boş</string>
@@ -411,6 +439,8 @@
     <string name="start_activity_failed">Başlatıcı başlatılamıyor</string>
     <string name="starting_preset_app">Başlatılıyor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_recent_memory_info1">%1$sB/%2$sB kullanılabilir</string>
+    <string name="status_bar_recent_memory_info2" />
     <string name="status_downloaded">İndirildi</string>
     <string name="status_downloading">İndiriliyor</string>
     <string name="status_installing">Yükleniyor</string>

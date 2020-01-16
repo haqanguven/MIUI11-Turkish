@@ -1089,19 +1089,19 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
 3. Sim kartınızın veya Sim kart yuvasının zarar görüp görmediğinden emin olun. Sim kartın cihazınızın Sim kart yuvasına doğru takılıp takılmadığını kontrol edin"</string>
     <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
  
-\""<b>1. Halka açık wifi ağ sorunları</b>"\"
+<b>1. Halka açık wifi ağ sorunları</b>
 Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
  
-\""<b>2. İnternet servis sağlayıcısı sorunları</b>"\"
+<b>2. İnternet servis sağlayıcısı sorunları</b>
 İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
  
-\""<b>3. Yönlendirici donanım sorunları</b>"\"
+<b>3. Yönlendirici donanım sorunları</b>
 Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin 
  
-\""<b>4. Diğer yönlendirici sorunları</b>"\"
+<b>4. Diğer yönlendirici sorunları</b>
 Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün 
  
-\""<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"\"
+<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>
 Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu değiştirmeyi deneyin. Eğer ev ağınızda bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınızla iletişime geçin"</string>
     <string name="permission_exception_title">Uygulamalar için sınırlı ağ bağlantısı</string>
     <string name="bg_network_exception_title">Sınırlı arka plan ağ bağlantısı</string>
@@ -2320,7 +2320,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="lockscreen_glogin_password_hint">Şifre</string>
     <string name="lockscreen_glogin_submit_button">Oturum aç</string>
     <string name="toast_lockscreen_glogin_empty_password">Şifre gerekmektedir</string>
-    <string name="lockscreen_glogin_checking_password">Kontrol ediliyor…</string>
+    <string name="lockscreen_glogin_checking_password">Kontrol ediliyor</string>
     <string name="passwordIncorrect">Kullanıcı adı veya şifre yanlış</string>
     <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
     <string name="access_control_need_to_unlock_nofingerprint">Uygulama kilidi şifrenizi girin</string>
@@ -3021,8 +3021,8 @@ Videolar oyun hızlandırıcı bölümüne kaydedilir"</string>
     <string name="first_aid_card_consume_power_button1">Kısıtla</string>
     <string name="first_aid_card_consume_power_summary2">Pil tasarrufu sağlamak için taşınabilir bağlantı noktasını kapatın</string>
     <string name="first_aid_card_consume_power_button2">Kapat</string>
-    <string name="first_aid_card_system_root_title">Root erişimine izin verdiniz</string>
-    <string name="first_aid_card_system_root_summary">Güvenlik risklerinden kaçınmak için root erişimini kısıtlayın</string>
+    <string name="first_aid_card_system_root_title">Kök erişimine izin verdiniz</string>
+    <string name="first_aid_card_system_root_summary">Güvenlik risklerinden kaçınmak için kök erişimini kısıtlayın</string>
     <string name="first_aid_card_system_root_button">Kısıtla</string>
     <string name="first_aid_card_wifi_or_flow_title">İnternete bağlanılamıyor</string>
     <string name="first_aid_card_wifi_or_flow_summary">Bağlanmak için wifi veya mobil veriyi açın</string>

@@ -103,7 +103,7 @@ Miracast işlevini el ile açmanız gerekirse, TV ekranından beni seçmek için
     <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde bu özelliğe kablosuz ekran, ekran aynalama veya birden çok ekran denir
 4. Herhangi bir sorunla karşılaşırsanız hizmetler &amp; geri bildirimler uygulamamızı kullanarak bunları bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun</string>
-    <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
+    <string name="notification_rc_title">Xiaomi TV yardımcısı</string>
     <string name="notification_show_more">Daha fazla özellik görüntüleyin</string>
     <string name="privacy_agree">Kabul et</string>
     <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
@@ -119,7 +119,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>kullanıcı sözleşmemizi&lt;/a
 　　• Yakındaki cihazları bulmak için konumunuza erişin"</string>
     <string name="private_protect">Gizliliği koruma</string>
     <string name="san_wait_msg_1">Hedef cihazın kablosuz ekran yayınını açması gerekiyor</string>
-    <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>
+    <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir</string>
     <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı şebekeye bağlı olduklarında bulunması daha kolaydır</string>
     <string name="san_wait_msg_4">Cihazları bulamıyorsanız yardım sayfasını görüntüleyin</string>
     <string name="sdk_name">lebo</string>

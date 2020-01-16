@@ -3562,6 +3562,10 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 		<item>Halkalar</item>
 		<item>Doğrusal</item>
 	</string-array>
+	<string-array name="charging_animation_entries">
+		<item>Etkin</item>
+		<item>Devre dışı</item>
+	</string-array>
 	<string-array name="smart_mobiledata_entries">
 		<item>Değiştirme</item>
 		<item>4G öncelikli</item>

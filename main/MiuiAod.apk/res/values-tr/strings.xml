@@ -108,6 +108,9 @@ olacağına inan"</string>
     <string name="time_style_layout">Düzen</string>
     <string name="aod_lock_screen_date_lunar">dd MMMM EEEE</string>
     <string name="aod_signature_12">hh:mm aa</string>
+    <string name="delete">Sil</string>
+    <string name="my_style_title">Stilim</string>
+    <string name="theme_cate_title">Tema</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>

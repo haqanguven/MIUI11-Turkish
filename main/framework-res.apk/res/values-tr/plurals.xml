@@ -72,10 +72,6 @@
         <item quantity="other">%d yıl içinde</item>
         <item quantity="one">%d yıl içinde</item>
     </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">%d saniye içinde tekrar deneyin</item>
-        <item quantity="one">]1 saniye içinde tekrar deneyin</item>
-    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Son %d gün</item>
         <item quantity="one">Son %d gün</item>

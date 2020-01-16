@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">%d ay</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">yıl</item>
+        <item quantity="one">yıl</item>
+    </plurals>
     <plurals name="entries">
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
@@ -15,6 +27,10 @@
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d yıl (%2$d ay)</item>
         <item quantity="one">%1$d yıl (%2$d ay)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">%d ay</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 saat önce</item>

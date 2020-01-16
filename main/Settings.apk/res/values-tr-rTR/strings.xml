@@ -2776,7 +2776,7 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="inactive_app_active_summary">Etkin. Geçiş için dokunun</string>
     <string name="inactive_app_inactive_summary">Etkin değil. Geçiş için dokunun</string>
     <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
-    <string name="incall_show">Gelen aramalar için profil videosu</string>
+    <string name="incall_show">Gelen arama profil videosu</string>
     <string name="include_app_data_title">Uygulama verilerini dahil et</string>
     <string name="incoming_call_breathing_light_color_title">Arama ışık rengi</string>
     <string name="incoming_call_breathing_light_freq_title">Aramalar yanma sıklığı</string>
@@ -3582,7 +3582,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="miui_special_feature">Diğer ayarlar</string>
     <string name="miui_touch_filtered_touchassistant_warning">İzinler penceresi hızlı erişim tarafından kapatılıyor. Bu özelliği kapatmak için hızlı erişim simgesini uzaklaştırın</string>
     <string name="miui_touch_filtered_warning">Eğer bir uygulama izin penceresini engelliyorsa örtüşen öğeleri taşıyın veya uygulamayı kapatın</string>
-    <string name="miui_updater">Google Play</string>
+    <string name="miui_updater">Google play</string>
     <string name="miui_userguide">Kullanım kılavuzu</string>
     <string name="mms_breathing_light_color_title">Mesaj ışık rengi</string>
     <string name="mms_breathing_light_freq_title">Mesajlar yanma sıklığı</string>
@@ -7522,8 +7522,7 @@ Ayarları şu şekilde güncelle:
 	<string name="list_animation_title">Liste animasyonu</string>
 	<string name="list_interpolator_title">Liste eklenme animasyonu</string>
 	<string name="charging_animation_title">Kilit ekranı şarj animasyonu</string>
-	<string name="charging_sounds_on_title">Şarja bağlama sesi</string>
-	<string name="charging_sounds_off_title">Şarjdan çıkarma sesi</string>
+	<string name="power_sounds_title">Şarj sesi</string>
 	<string name="charging_sounds_full_title">Şarj doldu sesi</string>
 	<string name="low_battery_warning_sounds_title">Düşük pil sesi</string>
 	<string name="unlocking_fingerprint_title">Parmak izi ile kilidi aç</string>
