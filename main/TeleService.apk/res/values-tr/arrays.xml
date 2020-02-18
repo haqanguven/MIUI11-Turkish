@@ -1011,4 +1011,12 @@
         <item>5</item>
         <item>10</item>
     </string-array>
+	<string-array name="line_button_tolls_entries">
+		<item>Çift satır</item>
+		<item>Tek satır</item>
+	</string-array>
+	<string-array name="toogle_data_entries">
+		<item>Sim kartlar &amp; mobil ağlar</item>
+		<item>Tercih edilen ağ türü</item>
+	</string-array>
 </resources>

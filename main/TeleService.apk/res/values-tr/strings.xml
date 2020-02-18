@@ -2204,4 +2204,21 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
     <string name="zen_mode_enable_dialog_turn_on">Aç</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
+	<string name="call_display_options_title">Arama ekranı simgeleri</string>
+	<string name="button_layout_title">Simge düzeni</string>
+	<string name="contacts_icon_title">Kişiler</string>
+	<string name="call_icon_title">Arama ekle</string>
+	<string name="notes_icon_title">Notlar</string>
+	<string name="microphone_icon_title">Sustur</string>
+	<string name="hold_icon_title">Hoparlör</string>
+	<string name="recorder_icon_title">Kayıt</string>
+	<string name="show_or_hide_title">Arama ekranında gizle veya göster</string>
+	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
+	<string name="preferred_network_type_pref_entries_only_4g">Sadece 4G (LTE)</string>
+	<string name="call_backlight_mode">Arama parlaklığı</string>
+	<string name="call_backlight_title">Maksimum parlaklık</string>
+	<string name="call_backlight_level_title">Parlaklık seviyesi</string>
+	<string name="call_backlight_night_title">Gece</string>
+	<string name="call_backlight_start_time">Başlama zamanı</string>
+	<string name="call_backlight_stop_time">Bitiş zamanı</string>
 </resources>
