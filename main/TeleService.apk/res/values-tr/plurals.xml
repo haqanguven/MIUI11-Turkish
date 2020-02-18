@@ -24,6 +24,14 @@
         <item quantity="other">%d numara silinecektir</item>
         <item quantity="one">%d numara silinecektir</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s gün</item>
+        <item quantity="one">%s gün</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d deneme kaldı"</item>

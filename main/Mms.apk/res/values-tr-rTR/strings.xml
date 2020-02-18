@@ -472,6 +472,8 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="non_english_subject_limit">13 karakter sınırı</string>
     <string name="nosend_message">Gönderilemedi</string>
     <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
+    <string name="notification_add_todo">Bana hatırlat</string>
+    <string name="notification_add_todo_content">Alış kodu: %s</string>
     <string name="notification_channel_msg_description">Mesajlarla ilgili bildirimler</string>
     <string name="notification_channel_msg_name">Mesajlar</string>
     <string name="notification_channel_other_description">Diğer bildirimler</string>
@@ -572,7 +574,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_title_send_delivery_reports">İletim mesajı gönder</string>
     <string name="pref_title_smart_msg_privacy_policy">Akıllı mesajlaşma gizlilik politikası</string>
     <string name="pref_title_sms_delete">Metin mesaj limiti</string>
-    <string name="pref_title_sms_validity_period">Mesaj sona erme tarihi</string>
+    <string name="pref_title_sms_validity_period">Mesaj süresinin dolması</string>
     <string name="pref_title_storage_status">Mesaj depolama durumu</string>
     <string name="pref_title_system_mms_priority">Varsayılan olarak ayarla</string>
     <string name="pref_title_vcard">vKart</string>

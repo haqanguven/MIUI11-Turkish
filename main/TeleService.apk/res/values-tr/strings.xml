@@ -963,7 +963,6 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fiveg_infos">5G bilgileri</string>
     <string name="fiveg_network_config_type1">Ağ yapılandırma türü:</string>
     <string name="fiveg_plmn_info_list1">PLMN bilgi listesi:</string>
-    <string name="fiveg_power_secret_code_tip">Bunu güvenlik uygulaması ile çalıştırın - Batarya - 5G koruyucu</string>
     <string name="fiveg_restrict_dcnr1">"DCNR'yi kısıtla:"</string>
     <string name="fiveg_sa_switch_open_dialog_content">5G bağlantısı telefon hizmetlerini etkileyebilecek bağımsız modda dengesiz olabilir. Yine de SA modunu açılsın mı?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Dikkat</string>
@@ -1123,7 +1122,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="local_enable">Yerel haberler açık</string>
     <string name="local_weather_disable">Yerel hava durumu kapalı</string>
     <string name="local_weather_enable">Yerel hava durumu açık</string>
-    <string name="location">Alan</string>
+    <string name="location">Konum</string>
     <string name="lodgings_disable">Konaklama kapalı</string>
     <string name="lodgings_enable">Konaklama açık</string>
     <string name="lte_band_sel_setting">Band listesi</string>
@@ -1170,6 +1169,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="mmiStarted">MMI kodu başlatıldı</string>
     <string name="mobile_advanced_dns_server_title">DNS sunucusu adresi</string>
     <string name="mobile_advanced_ip_address_title">IP adresi</string>
+    <string name="mobile_advanced_nr_network_title">5G ağ tipi</string>
     <string name="mobile_connection_management">Mobil ağ bağlantısını yönet</string>
     <string name="mobile_data">Mobil veri</string>
     <string name="mobile_data_activate_button">Veri ekle</string>
@@ -1298,6 +1298,7 @@ Seçilen ağ yerine tercih edilen ağ kullanılacaktır"</string>
     <string name="not_a_valid_port">Bağlantı noktası numarası 1000 ile 65534 arasında olmalıdır</string>
     <string name="not_allowed">Sim kartınız bu ağa bağlanmanıza izin vermiyor</string>
     <string name="not_voice_capable">Sesli arama desteklenmiyor</string>
+    <string name="notification_channel_demo">Demo cihazı</string>
     <string name="notification_demo_version_text">Arama yapamıyor veya mobil veri kullanamıyor</string>
     <string name="notification_demo_version_title">Bu bir demo cihazı</string>
     <string name="notification_network_selection_text">Seçilen ağ (%s) kullanılamıyor</string>
@@ -1306,6 +1307,13 @@ Seçilen ağ yerine tercih edilen ağ kullanılacaktır"</string>
     <string name="notification_voicemail_text_format">Ara: %s</string>
     <string name="notification_voicemail_title">Yeni sesli mesaj</string>
     <string name="notification_voicemail_title_count">Yeni sesli mesaj (%d)</string>
+    <string name="nr_network_info">5G ağ kullanım bilgisi</string>
+    <string name="nr_usaged_first_used_time">5G ağına kayıtlı</string>
+    <string name="nr_usaged_module">Cihaz modeli</string>
+    <string name="nr_usaged_network_rate">En yüksek hız</string>
+    <string name="nr_usaged_network_usaged">Bugünün verileri</string>
+    <string name="nr_usaged_operator">Taşıyıcı</string>
+    <string name="nr_usaged_used_time">Kullanım süresi</string>
     <string name="number">Numara</string>
     <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">OEM kilit açma</string>
@@ -2196,11 +2204,4 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
     <string name="zen_mode_enable_dialog_turn_on">Aç</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
-	<string name="call_backlight_mode">Arama parlaklığı</string>
-	<string name="call_backlight_title">Maksimum parlaklık</string>
-	<string name="call_backlight_level_title">Parlaklık seviyesi</string>
-	<string name="call_backlight_night_title">Gece</string>
-	<string name="call_backlight_start_time">Başlama zamanı</string>
-	<string name="call_backlight_stop_time">Bitiş zamanı</string>
-	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
 </resources>

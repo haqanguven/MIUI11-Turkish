@@ -733,7 +733,6 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="item_title_relationship">Akrabalık şartları</string>
     <string name="unit_data_default_area_0">sq.m</string>
     <string name="unit_data_default_area_1">sq.cm</string>
-    <string name="disallow">Katılmıyorum</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

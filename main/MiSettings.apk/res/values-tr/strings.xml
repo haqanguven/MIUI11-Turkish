@@ -100,8 +100,8 @@
     <string name="search_menu_title">Ara</string>
     <string name="several_days_use_time">Ekran zamanı: %2$s</string>
     <string name="shortcut_created">Kısayol oluşturuldu</string>
-    <string name="sim_slot_1"> (Sim 1)</string>
-    <string name="sim_slot_2"> (Sim 2)</string>
+    <string name="sim_slot_1">" (Sim 1)"</string>
+    <string name="sim_slot_2">" (Sim 2)"</string>
     <string name="sms_delivered_sound_title">İletilen mesaj</string>
     <string name="sms_received_sound_title">Gelen mesaj</string>
     <string name="srgb_color_region">sRGB</string>
@@ -142,6 +142,15 @@
     <string name="usage_beat_fans">%s Mi fanından daha iyi</string>
     <string name="usage_continuous_days">Kısa süre</string>
     <string name="usage_creating_weekly_report">Haftalık rapor oluşturuluyor</string>
+    <string name="usage_current_week_usage">Geçen hafta %s ortalama günlük kullanım</string>
+    <string name="usage_device_limit_app_prolong">Uzun süreli kullanım</string>
+    <string name="usage_device_limit_app_prolong_time1">20 dakika uzun süreli kullanım</string>
+    <string name="usage_device_limit_app_prolong_time2">40 dakika uzun süreli kullanım</string>
+    <string name="usage_device_limit_app_prolong_time3">60 dakika uzun süreli kullanım</string>
+    <string name="usage_device_limit_app_prolong_time4">Bugün kısıtlama yok</string>
+    <string name="usage_device_limit_notifation_summary_start">Kalan süre: %1$s</string>
+    <string name="usage_device_limit_notifation_title">Bugün uygun zaman</string>
+    <string name="usage_device_limit_time_over">Bugün uygun zaman: %1$s</string>
     <string name="usage_exit">Çıkış</string>
     <string name="usage_focus_focus_premission_main_summary">Odak modu kullanım istatistiklerini kaydetmek için bu uygulamanın hesap bilgilerinize erişmesi gerekir</string>
     <string name="usage_focus_focus_premission_second_summary">Yukarıdaki izinleri kabul etmiyorsanız bu uygulama doğru bir şekilde çalışmayacaktır. Uygulamanın temel işlevlerini etkilemez</string>
@@ -171,7 +180,11 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_home_premission_second_summary">Normal çalışabilmesi için bu uygulamanın kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
     <string name="usage_home_premission_second_summary_new">"Kişisel bilgilerinizi korumak için ilgili yasa ve yönetmeliklere ve gizlilik politikalarına kesinlikle uyacağız. Yukarıdaki gerekli izinleri veya işlevleri kabul etmiyorsanız bu uygulama düzgün çalışmayacaktır. Ekran zaman yönetimi > Ayarlar > Ekran zaman yönetimini devre dışı bırakma izninizi veya gizlilikle ilgili diğer hususları geri almak için bizimle privacy@xiaomi.com adresinden iletişime geçebilirsiniz"</string>
     <string name="usage_no_net_summary">Lütfen internet bağlantınızın normal olup olmadığını kontrol edin</string>
+    <string name="usage_reach_device_limit">Cihaza ulaşmak Xliff sınır süresi. Kullanmaya devam edilemez</string>
+    <string name="usage_reach_device_limit_warning_text">Ekran zaman yönetimi: Bugün mevcut olan zaman</string>
     <string name="usage_refresh">Yenile</string>
+    <string name="usage_remain_about_hour_miunte" formatted="false">Yaklaşık %1s saat %1s dakika</string>
+    <string name="usage_remain_hour_miunte" formatted="false">%1s saat %1s dakika</string>
     <string name="usage_request_error_summary">Zaman aşımı bilinmiyor</string>
     <string name="usage_request_timeout_summary">Zaman aşımına uğradı</string>
     <string name="usage_special_feature">Özel özellikler</string>
@@ -265,7 +278,18 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Hafta içi</string>
     <string name="usage_state_work_day_hour_minute">Hafta içi: %1$d saat %2$d dakika</string>
+    <string name="usage_stats_device_limit">Ekipman kullanım kısıtlamaları</string>
+    <string name="usage_stats_device_limit_summary">Günlük cihazın kullanılabilir zamanını ayarla</string>
     <string name="usage_stats_experience_text">Denemek için hafifçe vurun (1 dakika)</string>
+    <string name="usage_stats_limit_time_accuracy_title">Kalan sürenin ekran doğruluğu</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary">Kalan kullanılabilir süre dakikaya kadar doğrudur ve güç tüketimi yüksektir</string>
+    <string name="usage_stats_limit_time_high_accuracy_title">Yüksek hassasiyet</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary">Uygun sürenin sadece 2 saat içinde dakikaya doğrudur ve düşük güç tüketimi mevcuttur</string>
+    <string name="usage_stats_limit_time_low_accuracy_title">Düşük hassasiyet</string>
+    <string name="usage_stats_limit_time_warn">Kalan süre hatırlatıcısı</string>
+    <string name="usage_stats_limit_time_warn_summary">Açıldıktan sonra kalan kullanılabilir süre bildirim çubuğunda görüntülenir</string>
+    <string name="usage_stats_limit_time_warn_title">Kullanılabilir kalan sürenin hatırlatıcılarını göster</string>
+    <string name="usage_stats_no_limit">Sınırsız uygulama ayarla</string>
     <string name="usage_stats_normal_day">Hafta içi</string>
     <string name="usage_stats_week_day">Hafta sonu</string>
     <string name="usage_total_days">Toplam günler</string>

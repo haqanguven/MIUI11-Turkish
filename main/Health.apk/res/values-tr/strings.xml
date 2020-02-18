@@ -92,6 +92,7 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="chart_no_data">Veri yok</string>
     <string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string name="collect_diagnosis_log">Kayıt günlüğünü topla</string>
     <string name="complete_preference_basic_info">Profilinizi tamamlayın</string>
     <string name="copy_done">Başarıyla kopyalandı</string>
     <string name="copyright_statement">Telif hakkı © Xiaomi Inc. Her hakkı saklıdır</string>
@@ -131,6 +132,8 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="day">Gün</string>
     <string name="deep_sleep">Derin uyku</string>
     <string name="delete_all_data">Tüm verileri sil</string>
+    <string name="delete_all_data_sources">Tüm veri kaynaklarını sil</string>
+    <string name="delete_all_data_sources_description">Eklenen tüm veri kaynakları silinsin mi?</string>
     <string name="delete_menstruation_record_confirm">Bu kayıt silinsin mi?</string>
     <string name="delete_origin_data_description">%1$s tarafından oluşturulan tüm veriler silinir mi?</string>
     <string name="detail_format">%1$.1f</string>
@@ -138,6 +141,10 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="device_data_sync">Sağlık verilerini senkronize et</string>
     <string name="device_list_origin_description">"Bu cihazlar %1$s Mi hesabı ile ilişkili. İhtiyacınız olan cihazı burada bulamazsanız ilgili uygulamaya zaten eklediğinizden emin olun"</string>
     <string name="device_off_sync_description">Bu cihazda oluşturulan sağlık verileri Mi sağlık ile senkronize edilmeyecek</string>
+    <string name="diagnosis_log_send_failed">Kayıt günlüğü gönderilemedi</string>
+    <string name="diagnosis_log_sent_format">"Kayıt günlüğü gönderildi
+Kimlik:%s
+Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_abandon">Yoksay</string>
     <string name="dialog_abandon_sleep_edit">Değişiklikler yok sayılsın mı?</string>
     <string name="dialog_account_perm_desc">Mi hesabınıza erişmek için</string>
@@ -202,6 +209,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="feedback_need_permission_msg">Geri bildirim için kullanılan kayıtları oluşturabilmesi için Mi sağlığa harici depolamaya yazma izni verin</string>
     <string name="feedback_permission_denied_msg">Mi sağlık harici depolamaya yazamıyor. Mi sağlığa ayarlarda gerekli izni verin</string>
     <string name="finish">Bitir</string>
+    <string name="for_diagnosis_usage_only">Bu bilgiyi yalnızca teşhis için kullanın</string>
     <string name="gender_female">Kadın</string>
     <string name="gender_male">Erkek</string>
     <string name="gender_other">Diğer</string>
@@ -336,11 +344,14 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="no_records">Burada henüz öğe yok</string>
     <string name="not_open_auto_sync">Senkronizasyon kapalı</string>
     <string name="not_support_step">Cihazınız adım sayamıyor</string>
+    <string name="ok">Tamam</string>
     <string name="open_data_sync_description">Diğer kaynaklardan gelen sağlık verilerini senkronize etmek için bulutla senkronizasyonu açın</string>
     <string name="open_sync">Senkronizasyonu aç</string>
     <string name="open_unrestricted_permissions">Uykunuzu daha doğru takip edebilmek için Mi sağlığa arka planda çalışma izni verin</string>
     <string name="other_can_add_data_source">Mevcut kaynaklar</string>
     <string name="page">%1$d/%2$d</string>
+    <string name="passport_oauth_actionbar_title">Mi hesap</string>
+    <string name="passport_oauth_sucess_tip">Yetkili başarı oldu</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -369,7 +380,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="prompt_sleep_time_noon">Şekerleme</string>
     <string name="recommand_body_weight_msg">Önerilen hedef kilo: %1$.1f kg. Kardiyovasküler ve karaciğer hastalıkları riskini azaltmak için vücut kitle indeksi %2$.1f</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
-    <string name="record_body_weight_button">Kayıt ağırlığı</string>
+    <string name="record_body_weight_button">Kiloyu kaydet</string>
     <string name="record_detail_page_title">Detaylar</string>
     <string name="recorded_menstruation">Kaydedilen adet dönemi</string>
     <string name="remind">Hatırlat</string>
@@ -397,6 +408,8 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="sedentary_toggle_content">Mi sağlık uzun süre hareketsiz kaldığınızda ayağa kalkıp yürümenizi hatırlatır</string>
     <string name="select_menstruation_end_date">Bu adet döneminin bitiş tarihini seçin</string>
     <string name="select_null">Seçilmedi</string>
+    <string name="send_diagnosis_log">Kayıt günlüğünü gönder</string>
+    <string name="sending">Gönderiliyor</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_data_cloud_sync_tip">Bu cihazdaki öğeleri yedeklemek ve sağlık verilerini diğer cihazlardan senkronize etmek için bu özelliği kullanın</string>
     <string name="setting_sedentary_off">Kapalı</string>
@@ -487,6 +500,7 @@ bağlı olarak tavsiye alabilirsiniz"</string>
     <string name="sync_status_in_progress">Senkronize ediliyor</string>
     <string name="sync_status_network_failure">Senkronize edilemedi. Ağa bağlanın ve tekrar deneyin</string>
     <string name="sync_status_never_done">Senkronize edilmedi</string>
+    <string name="temporary_not_available">Mevcut değil</string>
     <string name="text_edit_exercise_goal">Hedefi değiştir</string>
     <string name="text_no_value">--</string>
     <string name="text_save_exercise_goal">Tamamlandı</string>

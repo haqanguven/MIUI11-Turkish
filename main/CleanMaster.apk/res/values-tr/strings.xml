@@ -339,7 +339,7 @@
     <string name="global_wa_shortcut_dialog_title">Ana ekran kısayolu</string>
     <string name="global_wa_shortcut_toast">Ana ekran kısayolu başarıyla oluşturuldu</string>
     <string name="global_wa_wrapper">Duvar kağıtları</string>
-    <string name="go_to">Devam ediyor</string>
+    <string name="go_to">Devam et</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Open</string>
     <string name="goto_set">Ayarla</string>
     <string name="grabage_rank_title">Bugün temizlendi</string>

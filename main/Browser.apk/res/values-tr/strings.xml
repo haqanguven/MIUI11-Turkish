@@ -82,6 +82,7 @@
     <string name="ad_click">Tıkla</string>
     <string name="ad_deeplink_fail">Deeplink başlatılamadı</string>
     <string name="ad_deeplink_success">Deeplink başarıyla aldı</string>
+    <string name="ad_download_click_install">Yükleye tıklayın</string>
     <string name="ad_download_continue">Devam et</string>
     <string name="ad_download_downloading">İndiriliyor</string>
     <string name="ad_download_error">Hata</string>
@@ -135,11 +136,48 @@
     <string name="app_downloading_ratio_text">İndiriliyor: %s</string>
     <string name="app_downloading_text">İndiriliyor</string>
     <string name="app_installing_text">Yükleniyor</string>
+    <string name="app_name">CrashLib</string>
     <string name="app_new_version">Uygulamanın en güncel sürümü zaten yüklü durumda</string>
     <string name="app_open_text">Aç</string>
     <string name="app_task_download_exists_text">İndirme var</string>
     <string name="app_update_install">Güncelleme yüklenmeye hazır</string>
-    <string name="appbar_scrolling_view_behavior">androidx.coordinatorlayout.widget.behavior.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appbar_scrolling_view_behavior">androidy.coordinatorlayout.widget.behavior.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appdownloader_button_cancel_download">İptal et</string>
+    <string name="appdownloader_button_queue_for_wifi">Sırala</string>
+    <string name="appdownloader_button_start_now">Hemen başlat</string>
+    <string name="appdownloader_download_percent">%%%1$d</string>
+    <string name="appdownloader_download_remaining">Kalan süre: %1$s</string>
+    <string name="appdownloader_download_unknown_title">&lt;Bilinmiyor></string>
+    <string name="appdownloader_duration_hours">%1$d saat</string>
+    <string name="appdownloader_duration_minutes">%1$d dakika</string>
+    <string name="appdownloader_duration_seconds">%1$d saniye</string>
+    <string name="appdownloader_label_cancel">İptal et</string>
+    <string name="appdownloader_label_ok">Tamam</string>
+    <string name="appdownloader_notification_download">İndir</string>
+    <string name="appdownloader_notification_download_complete_open">"İndirme işlemi tamamlandıktan sonra aç'a tıklayın"</string>
+    <string name="appdownloader_notification_download_complete_with_install">"İndirme işlemi tamamlandıktan sonra yükle'ye tıklayın"</string>
+    <string name="appdownloader_notification_download_complete_without_install">İndirme tamamlandı</string>
+    <string name="appdownloader_notification_download_delete">%1$s için indirme görevini silmek istediğinizden emin misiniz?</string>
+    <string name="appdownloader_notification_download_failed">İndirme başarısız oldu</string>
+    <string name="appdownloader_notification_download_install">Yükle</string>
+    <string name="appdownloader_notification_download_open">Aç</string>
+    <string name="appdownloader_notification_download_pause">Duraklat</string>
+    <string name="appdownloader_notification_download_restart">Yeniden başlat</string>
+    <string name="appdownloader_notification_download_resume">Devam et</string>
+    <string name="appdownloader_notification_download_space_failed">Depolama dolu ve indirme başarısız oldu</string>
+    <string name="appdownloader_notification_downloading">İndiriliyor</string>
+    <string name="appdownloader_notification_need_wifi_for_size">Dosya çok büyük ve wifi aracılığıyla indirilmesi gerekiyor</string>
+    <string name="appdownloader_notification_paused_in_background">Arka planda duraklatıldı</string>
+    <string name="appdownloader_notification_prepare">Hazırlık aşamasında</string>
+    <string name="appdownloader_tip">İpucu</string>
+    <string name="appdownloader_wifi_recommended_body">"Bu içeriği şimdi indirmeye başlamak (%1$s) pil ömrünü kısaltabilir veya aşırı mobil veri bağlantısı trafiğine neden olabilir
+
+Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için %2$s öğesine dokunun"</string>
+    <string name="appdownloader_wifi_recommended_title">İndirme kuyruğuna daha sonra eklemek ister misiniz?</string>
+    <string name="appdownloader_wifi_required_body">"Bu içeriğin indirilmesini tamamlamak için wifi özelliğini kullanmalısınız (%1$s).
+
+Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için %2$s öğesine dokunun"</string>
+    <string name="appdownloader_wifi_required_title">Dosya operatör ağı üzerinden indirilemeyecek kadar büyük</string>
     <string name="application_name">Tarayıcı</string>
     <string name="at_miui_browser">Tarayıcı</string>
     <string name="auto_download_e_c">Korsan internet sitesi gezinme sayfası</string>
@@ -205,6 +243,8 @@
     <string name="channel_header_title">Kanalım</string>
     <string name="channel_more_description">Kanal eklemek için tıklayın</string>
     <string name="channel_more_title">Daha fazla kanal</string>
+    <string name="channel_network_error">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
+    <string name="channel_no_data">Şimdilik bu kadar. Diğer kanallara göz atın</string>
     <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_security_tip_privacy_policy">Gizlilik politikası</string>
@@ -226,13 +266,39 @@
     <string name="cloud_time_tips">Son senkronizasyon</string>
     <string name="cloud_up_to_loading_tips">Senkronizasyon için bırakın</string>
     <string name="collect_video">Video topla</string>
+    <string name="comment_add_fail">Yorum eklenemedi</string>
+    <string name="comment_add_sucess">Yorum eklendi</string>
+    <string name="comment_all_display">Şimdilik bu kadar</string>
     <string name="comment_app_menu">Yorum</string>
+    <string name="comment_confirm_report">Rapor</string>
+    <string name="comment_copied">Kopyalandı</string>
+    <string name="comment_delete">Sil</string>
+    <string name="comment_delete_confirm_title">Şimdi silinsin mi?</string>
+    <string name="comment_delete_fail">Yorum silinemedi</string>
+    <string name="comment_delete_sucess">Yorum başarıyla silindi</string>
     <string name="comment_description">Yorum</string>
+    <string name="comment_empty_hint">Burada henüz yorum yok. İlkini bırakabilirsiniz</string>
+    <string name="comment_error_hint">Yorumlar yüklenemedi. Tekrar denemek için dokunu</string>
+    <string name="comment_fail">Yorum eklenemedi. Tekrar deneyin</string>
+    <string name="comment_flag_choice">Öne çıkan</string>
+    <string name="comment_flag_top">Sabitlenen</string>
     <string name="comment_hint">Yorum</string>
+    <string name="comment_just_now">Şu anda</string>
     <string name="comment_max_length">Yorumunuz çok uzun</string>
     <string name="comment_menu">Yorum</string>
+    <string name="comment_no_net_hint">Bir sunucu hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="comment_num_description">Yorum numarası</string>
-    <string name="comment_publish_to_topic">Comments sync to</string>
+    <string name="comment_publish_to_topic">Yorumlar ile senkronize edildi</string>
+    <string name="comment_reply">Yanıtla</string>
+    <string name="comment_reply_fail">Yanıtlanamadı</string>
+    <string name="comment_reply_sucess">Başarıyla yanıtlandı</string>
+    <string name="comment_report_advertising_marketing">Pazarlama veya bilinçaltı reklamcılık</string>
+    <string name="comment_report_harassment_abuse">Taciz veya nefret söylemi</string>
+    <string name="comment_report_pornographic_violence">Müstehcen veya şiddet barındıran içerik</string>
+    <string name="comment_report_reactionary_politics">Siyasi aşırılık</string>
+    <string name="comment_report_send">Başarıyla gönderildi</string>
+    <string name="comment_select_report_reason">Bunu neden bildiriyorsun?</string>
+    <string name="comment_success">Yorum başarıyla eklendi</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -242,7 +308,7 @@
     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="context_menu_add_to_desk_id">Ana ekrana ekle</string>
-    <string name="context_menu_orientation_portrait_swap_id">V/H ekran</string>
+    <string name="context_menu_orientation_portrait_swap_id">D/Y ekran</string>
     <string name="contextmenu_add_contact">Kişi ekle</string>
     <string name="contextmenu_copy">Kopyala</string>
     <string name="contextmenu_copylink">Bağlantı adresini kopyala</string>
@@ -273,9 +339,20 @@
     <string name="data_traffic_prompt_message">Video aramak için mobil veri bağlantınızı kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız operatörünüz tarafından ek kullanım ücretlerine maruz kalabilirsiniz</string>
     <string name="data_traffic_prompt_title">Veri kullanım uyarısı</string>
     <string name="data_traffic_stop">Durdur</string>
-    <string name="debug_browser_positive">Ayarla</string>
+    <string name="debug_address_title">Süper adres değiştirme modu</string>
+    <string name="debug_browser_hint">Gel ve beni değiştir</string>
+    <string name="debug_browser_info_title">Bilgi akışı:</string>
+    <string name="debug_browser_sug_title">Sug için arama:</string>
+    <string name="debug_browser_switch">Tek bir tıklamayla test ortamını değiştirin</string>
     <string name="debug_browser_title">Gerekli alan adını girin:</string>
+    <string name="debug_browser_warning">Özel ortam tek tıklamayla değiştirme işlemini kapatın</string>
+    <string name="debug_code_hint">Lütfen gizli bir kod girin</string>
+    <string name="debug_code_warning">Hayaletler var. İşlemi sonlandırın</string>
+    <string name="debug_edit_error">Güzel. Yazmakla uğraşma</string>
+    <string name="debug_edit_title">Değiştir</string>
+    <string name="debug_info_flow_title">Daha fazla</string>
     <string name="debug_mode_toast">Hata ayıklama modu etkin</string>
+    <string name="debug_sug_switch">Sug test ortamını değiştirin</string>
     <string name="delete">Sil</string>
     <string name="delete_bookmark">Sil</string>
     <string name="delete_bookmark_action_warning">Yer işaretleri silinsin mi?</string>
@@ -378,10 +455,13 @@ Mi hesabınızda oturum açın"</string>
     <string name="exit_browser_confirmation">Masaüstüne dönmek için tekrar basın</string>
     <string name="exit_browser_warning">Tarayıcı kapatılsın mı?</string>
     <string name="exit_fullscreen">Tam ekrandan çık</string>
+    <string name="expand_article">Makalenin tamamını görüntüle</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="fast_app_card_bottom_text" formatted="false">%s %s</string>
     <string name="favorite">Favorilere ekle</string>
+    <string name="feedback_not_interested_response">Bu türden daha az ürün göreceksiniz</string>
     <string name="file_dir">Klasör değiştir</string>
     <string name="file_picker">Yolu seçin</string>
     <string name="filename_empty_alert_message">Dosya adı girin</string>
@@ -733,7 +813,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_adblock_counts">%d reklam engellendi</string>
     <string name="pref_adblock_title">Reklam engelleyici</string>
     <string name="pref_advert_null">Reklam olarak etiketlenmiş öğe yok. İşaretlemek için internet sayfasındaki bir öğeye basın ve basılı tutun</string>
-    <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>
+    <string name="pref_auto_update_under_wifi">Wifi ile güncelle</string>
     <string name="pref_cancel_screen">Engeli kaldır</string>
     <string name="pref_check_security_url_summary">İnternet sitesi bağlantı adreslerini güvenliklerini kontrol etmek amacıyla Mi sunucularına gönder</string>
     <string name="pref_check_security_url_title">Bağlantı adresi güvenlik denetimi</string>
@@ -764,8 +844,6 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_file_download_default_path_prefix">Varsayılan konum: %s</string>
     <string name="pref_file_download_save_modify_default_path">İndirme konumu</string>
     <string name="pref_fling_gesture">Kaydırma hareketi</string>
-    <string name="pref_follow_sys_dark_mode_content">Sistemin karanlık mod durumuna göre siyah veya beyaz arayüzü değiştirin</string>
-    <string name="pref_follow_sys_dark_mode_title">Karanlık mod</string>
     <string name="pref_font_size_category">İnternet sayfası metin boyutu</string>
     <string name="pref_force_userscalable">Yakınlaştırmaya zorla</string>
     <string name="pref_force_userscalable_summary">İnternet sitelerinin yakınlaştırma ayarlarını kontrol etme taleplerini geçersiz kıl</string>
@@ -917,15 +995,25 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="send_startpage">Başlangıç ​​sayfası</string>
     <string name="sequence_bookmark_description">Yer işaretlerini yeniden düzenlemek için basılı tutun</string>
     <string name="share_by_yidianzixun">[Bilgi]</string>
-    <string name="share_image_text">"\\MIUI'de ne paylaştığıma bak"</string>
+    <string name="share_image_text">"Miui'de ne paylaştığıma bak"</string>
     <string name="share_page_text">Ne paylaştığıma bak: %1$s @MIUI| %2$s</string>
     <string name="share_video">Video paylaş</string>
+    <string name="short_video_ad_download_app">%s indir</string>
+    <string name="short_video_ad_download_immediately">İndir</string>
+    <string name="short_video_ad_downloading">%%%d indiriliyor</string>
+    <string name="short_video_ad_installing">Yükleniyor</string>
+    <string name="short_video_ad_open_app">%s ile aç</string>
+    <string name="short_video_ad_open_immediately">Aç</string>
+    <string name="short_video_ad_resume_downloading">Devam et</string>
+    <string name="short_video_ad_see_details">Detayları göster</string>
+    <string name="short_video_ad_tag">Reklam</string>
     <string name="short_video_comment_hint">Fikrinizi söyleyin</string>
     <string name="short_video_description">Video kanalı</string>
     <string name="short_video_gesture_btn">Biliyorum</string>
     <string name="short_video_gesture_hint">Daha fazla görmek için kaydır</string>
     <string name="short_video_net_dialog_continue">Devam et</string>
     <string name="short_video_net_dialog_title">Şu anda wifi olmayan bir ortamda oynatmaya devam etmek trafik tüketecektir</string>
+    <string name="short_video_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="short_video_tip">Bak! Eğlenceli video</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız
 Topladığımız veriler şunlardır:
@@ -1034,6 +1122,40 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="translation_query_error">Çeviri yapılamadı</string>
     <string name="translation_query_error_network">Bilgi alınamadı. Ağa bağlanın ve tekrar deneyin</string>
     <string name="translation_result_copy">Panoya kopyalandı</string>
+    <string name="tt_00_00">00:00</string>
+    <string name="tt_ad">Ad</string>
+    <string name="tt_app_name">tt_open_ad_sdk</string>
+    <string name="tt_auto_play_cancel_text">İptal et</string>
+    <string name="tt_cancel">İptal et</string>
+    <string name="tt_comment_num">%1$s derecelendirme</string>
+    <string name="tt_comment_score">Değerlendir</string>
+    <string name="tt_confirm_download">Wifi olmayan bir ağ kullanıyorsunuz. İndirmek istediğinizden emin misiniz?</string>
+    <string name="tt_confirm_download_have_app_name">%s uygulamasını indirmeye hazır</string>
+    <string name="tt_dislike_header_tv_back">Geri</string>
+    <string name="tt_dislike_header_tv_title">Ayarla</string>
+    <string name="tt_full_screen_skip_tx">5s sonra atla</string>
+    <string name="tt_label_cancel">İptal et</string>
+    <string name="tt_label_ok">Tamam</string>
+    <string name="tt_no_network">Ağ yok. Lütfen daha sonra tekrar deneyin</string>
+    <string name="tt_permission_denied">Yetki yok. Lütfen yetkilendirin</string>
+    <string name="tt_request_permission_descript_external_storage">Depolama</string>
+    <string name="tt_request_permission_descript_location">Konum</string>
+    <string name="tt_request_permission_descript_read_phone_state">Bir arama yap</string>
+    <string name="tt_reward_screen_skip_tx">Atla</string>
+    <string name="tt_splash_skip_tv_text">3s | Atla</string>
+    <string name="tt_tip">Şimdi</string>
+    <string name="tt_unlike">İlgilenmiyorum</string>
+    <string name="tt_video_bytesize">Akış</string>
+    <string name="tt_video_bytesize_M">M</string>
+    <string name="tt_video_bytesize_MB">MB</string>
+    <string name="tt_video_continue_play">Oynatmaya devam et</string>
+    <string name="tt_video_dial_phone">Hemen ara</string>
+    <string name="tt_video_download_apk">Hemen indirin</string>
+    <string name="tt_video_mobile_go_detail">Ayrıntıları görüntüle</string>
+    <string name="tt_video_retry_des_txt">Yükleme başarısız oldu. Tekrar denemek için tıklayın</string>
+    <string name="tt_video_without_wifi_tips">Wifi ile bağlı değilsiniz</string>
+    <string name="tt_web_title_default">Reklam</string>
+    <string name="tt_will_play">Yakında</string>
     <string name="undo">Geri al</string>
     <string name="unknown_title">Bilinmiyor</string>
     <string name="unsecurity_url_toast">Bu internet sitesi güvenli değil</string>
@@ -1100,6 +1222,13 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
     <string name="vo_choose_activity_content">Konum başarısız oldu. Lütfen şehri manuel olarak seçin</string>
     <string name="vo_choose_activity_positive">Şehir seç</string>
     <string name="vo_comment_text">İncele</string>
+    <string name="vo_debug_info_flow_agg_dialog" formatted="false">"imageMode
+%s
+images:
+%s
+interactionType:
+%s
+"</string>
     <string name="vo_debug_info_flow_dialog" formatted="false">"imei
 %s
 track_ext:
@@ -1127,6 +1256,12 @@ item_style:
 feedsContentId:
 %s
 "</string>
+    <string name="vo_detail_feed_activity">Ayrıntı sayfası besleme akışı</string>
+    <string name="vo_fast_game_card_bottom_text">Oyunları yüklemeden oyna</string>
+    <string name="vo_fast_game_card_more_text">Daha fazla oyun</string>
+    <string name="vo_fast_game_card_title_text">Bu oyunları da beğenebilirsiniz</string>
+    <string name="vo_feed_activity">Besleme akışı testi</string>
+    <string name="vo_feed_back_dislike">İlgilenmiyorum</string>
     <string name="vo_feedback_back">Geri dön</string>
     <string name="vo_feedback_black">Siyah çek: %s</string>
     <string name="vo_feedback_content">Düşük içerik kalitesi</string>
@@ -1135,7 +1270,8 @@ feedsContentId:
     <string name="vo_feedback_quality">Geri bildirim: Spam</string>
     <string name="vo_feedback_shield">Kalkan</string>
     <string name="vo_feedback_sub_quality">Başlık partisi, kaba, vb.</string>
-    <string name="vo_feedback_sub_shield">Bekle</string>
+    <string name="vo_feedback_sub_shield">, vb.</string>
+    <string name="vo_home_feed_activity">Ana sayfa akışı</string>
     <string name="vo_icon_text_burst">Gir</string>
     <string name="vo_icon_text_deep">Derinlik</string>
     <string name="vo_icon_text_featured">Seç</string>
@@ -1143,7 +1279,6 @@ feedsContentId:
     <string name="vo_icon_text_recommend">Öneri</string>
     <string name="vo_icon_text_topping">Sabit</string>
     <string name="vo_icon_text_video">Video</string>
-    <string name="vo_info_flow_debug_title">Veri ayıklama</string>
     <string name="vo_info_flow_load_error_content">Yükle</string>
     <string name="vo_info_flow_load_error_title">Yükleme başarısız oldu. Lütfen ağı kontrol edin ve tekrar deneyin~</string>
     <string name="vo_info_flow_load_more_content">Daha fazla yükle</string>
@@ -1161,6 +1296,8 @@ feedsContentId:
     <string name="vo_location_change_positive">Şimdi geç</string>
     <string name="vo_location_change_title">Şehiri değiştir</string>
     <string name="vo_location_choose_city">Şehri değiştirmek için tıklayın</string>
+    <string name="vo_mi_ad_detail">%s ile aç</string>
+    <string name="vo_search_tag_title_text">İlgili öğeler</string>
     <string name="vo_share_text">Paylaş</string>
     <string name="vo_small_video_load_more_text">Daha fazla slayt yükleniyor</string>
     <string name="vo_small_video_title">Harika küçük video</string>
@@ -1192,6 +1329,4 @@ feedsContentId:
     <string name="voice_title_speech_again">Sizi anlayamadık</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
-    <string name="security_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
-    <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
 </resources>

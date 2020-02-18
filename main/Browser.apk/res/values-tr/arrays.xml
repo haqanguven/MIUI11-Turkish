@@ -102,127 +102,127 @@
         <item>http://3g.163.com/</item>
     </string-array>
     <string-array name="city">
-        <item>北京</item>
+        <item>Beijing</item>
         <item>beijing</item>
         <item>101010100</item>
-        <item>上海</item>
+        <item>Shanghai</item>
         <item>shanghai</item>
         <item>101020100</item>
-        <item>天津</item>
+        <item>Tianjin</item>
         <item>tianjin</item>
         <item>101030100</item>
-        <item>重庆</item>
+        <item>Chongqing</item>
         <item>chongqing</item>
         <item>101040100</item>
-        <item>哈尔滨</item>
+        <item>Haerbin</item>
         <item>haerbin</item>
         <item>101050101</item>
-        <item>齐齐哈尔</item>
+        <item>Qiqihaer</item>
         <item>qiqihaer</item>
         <item>101050201</item>
-        <item>甘南</item>
+        <item>Gannan</item>
         <item>gannan</item>
         <item>101050204</item>
-        <item>牡丹江</item>
+        <item>Mudanjiang</item>
         <item>mudanjiang</item>
         <item>101050301</item>
-        <item>佳木斯</item>
+        <item>Jiamusi</item>
         <item>jiamusi</item>
         <item>101050401</item>
-        <item>绥化</item>
+        <item>Suihua</item>
         <item>suihua</item>
         <item>101050501</item>
-        <item>黑河</item>
+        <item>Heihe</item>
         <item>heihe</item>
         <item>101050601</item>
-        <item>大兴安岭</item>
+        <item>Daxinganling</item>
         <item>daxinganling</item>
         <item>101050701</item>
-        <item>伊春</item>
+        <item>Yichun</item>
         <item>yichun</item>
         <item>101050801</item>
-        <item>大庆</item>
+        <item>Daqing</item>
         <item>daqing</item>
         <item>101050901</item>
-        <item>七台河</item>
+        <item>Qitaihe</item>
         <item>qitaihe</item>
         <item>101051002</item>
-        <item>鸡西</item>
+        <item>Jixi</item>
         <item>jixi</item>
         <item>101051101</item>
-        <item>鹤岗</item>
+        <item>Hegang</item>
         <item>hegang</item>
         <item>101051201</item>
-        <item>双鸭山</item>
+        <item>Shuangyashan</item>
         <item>shuangyashan</item>
         <item>101051301</item>
-        <item>长春</item>
+        <item>Changchun</item>
         <item>changchun</item>
         <item>101060101</item>
-        <item>吉林</item>
+        <item>Jilin</item>
         <item>jilin</item>
         <item>101060201</item>
-        <item>四平</item>
+        <item>Siping</item>
         <item>siping</item>
         <item>101060401</item>
-        <item>通化</item>
+        <item>Tonghua</item>
         <item>tonghua</item>
         <item>101060501</item>
-        <item>白城</item>
+        <item>Baicheng</item>
         <item>baicheng</item>
         <item>101060601</item>
-        <item>辽源</item>
+        <item>Liaoyuan</item>
         <item>liaoyuan</item>
         <item>101060701</item>
-        <item>松原</item>
+        <item>Songyuan</item>
         <item>songyuan</item>
         <item>101060801</item>
-        <item>白山</item>
+        <item>Baishan</item>
         <item>baishan</item>
         <item>101060901</item>
-        <item>沈阳</item>
+        <item>Shenyang</item>
         <item>shenyang</item>
         <item>101070101</item>
-        <item>大连</item>
+        <item>Dalian</item>
         <item>dalian</item>
         <item>101070201</item>
-        <item>鞍山</item>
+        <item>Anshan</item>
         <item>anshan</item>
         <item>101070301</item>
-        <item>抚顺</item>
+        <item>Fushun</item>
         <item>fushun</item>
         <item>101070401</item>
-        <item>本溪</item>
+        <item>Benxi</item>
         <item>benxi</item>
         <item>101070501</item>
-        <item>丹东</item>
+        <item>Dandong</item>
         <item>dandong</item>
         <item>101070601</item>
-        <item>锦州</item>
+        <item>Jinzhou</item>
         <item>jinzhou</item>
         <item>101070701</item>
-        <item>营口</item>
+        <item>Yingkou</item>
         <item>yingkou</item>
         <item>101070801</item>
-        <item>阜新</item>
+        <item>Fuxin</item>
         <item>fuxin</item>
         <item>101070901</item>
-        <item>辽阳</item>
+        <item>Liaoyang</item>
         <item>liaoyang</item>
         <item>101071001</item>
-        <item>铁岭</item>
+        <item>Tieling</item>
         <item>tieling</item>
         <item>101071101</item>
-        <item>朝阳</item>
+        <item>Chaoyang</item>
         <item>chaoyang</item>
         <item>101071201</item>
-        <item>盘锦</item>
+        <item>Panjin</item>
         <item>panjin</item>
         <item>101071301</item>
-        <item>葫芦岛</item>
+        <item>Huludao</item>
         <item>huludao</item>
         <item>101071401</item>
-        <item>呼和浩特</item>
+        <item>Huhehaote</item>
         <item>huhehaote</item>
         <item>101080101</item>
         <item>包头</item>
@@ -1109,6 +1109,18 @@
         <item>@color/material_yellow</item>
     </array>
     <array name="mw_config_keySystemUuidMapping" />
+    <string-array name="pref_debug_address">
+        <item>Biçimsel ortam</item>
+        <item>Gelişmiş ortam</item>
+        <item>Test ortamı</item>
+        <item>Özel ortam</item>
+    </string-array>
+    <string-array name="pref_debug_address_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="pref_fling_gesture_entries">
         <item>Sayfa ileri</item>
         <item>Sekmeleri değiştir</item>
@@ -1293,11 +1305,11 @@
     </string-array>
     <string-array name="sm">
         <item>Sm</item>
-        <item>sm.cn</item>
-        <item>http://stlogo.sm.cn/wap/sm/img/favicon.ico</item>
-        <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy204461</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
     <string-array name="sm_in_list">
         <item>search_sm</item>

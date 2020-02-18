@@ -25,6 +25,14 @@
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
     </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">Yaklaşık %s saat</item>
+        <item quantity="one">Yaklaşık %s saat</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">Yaklaşık %s dakika</item>
+        <item quantity="one">Yaklaşık %s dakika</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d kez açıldı</item>
         <item quantity="one">%d kez açıldı</item>
@@ -88,6 +96,14 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Hafta içi: %d dakika</item>
         <item quantity="one">Hafta içi: %d dakika</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">%s dakika</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" saat"</item>

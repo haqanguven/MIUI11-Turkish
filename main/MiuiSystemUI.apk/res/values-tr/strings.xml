@@ -264,6 +264,7 @@
     <string name="accessibility_status_bar_headphones">Kulaklık bağlandı</string>
     <string name="accessibility_status_bar_headset">Kulaklık bağlı</string>
     <string name="accessibility_status_bar_hotspot">Bağlantı noktası</string>
+    <string name="accessibility_status_bar_micphone">Mikrofon başarıyla bağlandı</string>
     <string name="accessibility_status_bar_no_slave_wifi">Köle wifi bağlantısı kesildi</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">Köle wifi dört çubuk</string>
     <string name="accessibility_status_bar_slave_wifi_one_bar">Köle wifi bir çubuk</string>
@@ -577,7 +578,7 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="debug_monitoring_category">İzleme</string>
     <string name="debug_networking_category">Ağ işlemleri</string>
     <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
-    <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için kaydırın</string>
+    <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın</string>
     <string name="default_theme">Varsayılan</string>
     <string name="delete">Sil</string>
     <string name="demo_mode">Deneme modu</string>
@@ -827,6 +828,9 @@ Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="how_to_back_home">Ana ekrana git</string>
     <string name="how_to_switch_recents">Son kullanılanları aç</string>
+    <string name="how_to_use_app_quick">Uygulamalar arasında geçiş yap</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Ekranın altından yukarı doğru çekin ardından sola veya sağa kaydırın</string>
+    <string name="how_to_use_app_quick_summary">Tam ekran göstergesinden veya ekranın altından sola veya sağa kaydırın</string>
     <string name="how_to_use_drawer">Uygulama kaydırma işlevi nasıl kullanılır?</string>
     <string name="how_to_use_drawer_summary">Sol üstten hızlıca kaydır</string>
     <string name="how_to_use_fsg">Hareketleri kullanarak bu işlemleri gerçekleştirebilirsiniz:</string>
@@ -1508,7 +1512,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="quick_settings_tiles">default</string>
     <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
     <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-    <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode</string>
+    <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
     <string name="quick_settings_time_label">Zaman</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için onu basılı tutun ve ardından panelin üst kısmına sürükleyin</string>
     <string name="quick_settings_user_label">Ben</string>
@@ -1611,6 +1615,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="screenshot_dlg_cancel">İptal et</string>
     <string name="screenshot_dlg_delete_button">Sil</string>
     <string name="screenshot_edit">Düzenle</string>
+    <string name="screenshot_failed_in_landscape_mode">Yatay modda kaydırma ekran görüntüleri oluşturulamıyor</string>
     <string name="screenshot_failed_title">Ekran resmi yakalanamadı</string>
     <string name="screenshot_failed_to_capture_text">Uygulama veya kuruluşunuz tarafından ekran görüntülerine izin verilmiyor</string>
     <string name="screenshot_failed_to_capture_title">Bu uygulama ekran görüntüsü almanıza izin vermiyor</string>

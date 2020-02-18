@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Pil ve performans</string>
+    <string name="app_name">Pil &amp; performans</string>
     <string name="error_filename_too_long">Girmiş olduğunuz dosya adı çok uzun</string>
     <string name="power_config_select_apps_title">Uygulamalar</string>
     <string name="power_config_event_delete">Sil</string>
@@ -9,11 +9,11 @@
     <string name="power_hide_mode_title">Pil &amp; performans</string>
     <string name="power_config_apps">Pil tasarrufu</string>
     <string name="app_list_title">Uygulamaları seçin</string>
-    <string name="power_hide_mode_app_list_summary">Arka planda pil tasarrufu</string>
+    <string name="power_hide_mode_app_list_summary">Arka planda pil tasarrufunu geliştirin</string>
     <string name="about_hide_mode">Pil tasarrufu hakkında</string>
     <string name="show_system_app">Sistem uygulamalarını göster</string>
     <string name="hide_system_app">Sistem uygulamalarını gizle</string>
-    <string name="about_extreme_mode">Aşırı tasarruf</string>
+    <string name="about_extreme_mode">Aşırı pil tasarrufu</string>
     <string name="scenario_policies_title">Akıllı senaryolar</string>
     <string name="config_scenario_policies_title">Senaryolar</string>
     <string name="scenario_policies_summary">Farklı senaryolar için farklı pil tasarruf stratejileri uygulanır</string>
@@ -22,8 +22,8 @@
     <string name="sleep_config_enhance_description_non_nfc">Miui uyuduğunuzu algıladığında arkaplan uygulamalarını kapatır. Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlar ve bildirimler için ekranı açmaz</string>
     <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
     <string name="nonui_mode_config_description">Miui cihazınızı kullanmadığınızı tespit ettiğinde bildirimler için ekran ışığı yakılmaz. Bildirim ışığı, parmak izi sensörü ve dokunma kontrolleri pil tasarrufu amacıyla kapatılır</string>
-    <string name="power_center">Pil</string>
-    <string name="power_usage">Pil kullanımı</string>
+    <string name="power_center">Pil &amp; performans</string>
+    <string name="power_usage">Pil grafiği</string>
     <string name="power_mode">Güç ayarları</string>
     <string name="performance_category">Performans</string>
     <string name="pref_config_title">Performans optimizasyonu</string>
@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">Daha fazla işlem yapıldığında cihazınız daha fazla ısınır</string>
     <string name="vip_feedback">Vip geri bildirim</string>
     <string name="vip_feedback_enable">Vip geri bildirimi aç</string>
-    <string name="extreme_power_config_mode_category">Aşırı tasarruf</string>
-    <string name="extreme_power_config_mode_title">Aşırı tasarruf</string>
+    <string name="extreme_power_config_mode_category">Aşırı pil tasarrufu</string>
+    <string name="extreme_power_config_mode_title">Aşırı pil tasarrufu</string>
     <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu</string>
     <string name="extreme_power_settings_title">Ayarlar</string>
     <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapandı</string>
@@ -82,7 +82,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelle</string>
     <string name="current_cloud_addr_is">Bulut kontrol sunucusu adresi:</string>
     <string name="update_profile_sucess">Sunucudan başarıyla güncellendi</string>
-    <string name="update_profile_failture_not_connect_wifi">"Güncellenemedi. Wifi'ye bağlanın ve tekrar deneyin"</string>
+    <string name="update_profile_failture_not_connect_wifi">Güncellenemedi. Wifi ağına bağlanın ve tekrar deneyin</string>
     <string name="sucess">Tamamlandı</string>
     <string name="failure">Başarısız oldu</string>
     <string name="cloud_addr_info">Bulut bilgileri</string>
@@ -108,8 +108,10 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="atrace_start">İzleme günlüğü kaydediliyor</string>
     <string name="atrace_saving">İzleme günlüğü kaydediliyor</string>
     <string name="atrace_saved">Kaydedildi</string>
-    <string name="adaptive_battery_title">Uyarlanabilir batarya kullanın</string>
-    <string name="adaptive_battery_summary">"Sık kullanmadığınız uygulamalar için pili sınırlayın"</string>
+    <string name="adaptive_battery_title">Uyarlanabilir pil</string>
+    <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
     <string name="permstep_label">Adım sayısı erişimi</string>
     <string name="permstep_description">Bu uygulamanın adım sayınıza erişmesine izin verin</string>
+    <string name="power_tools_current">Akım</string>
+    <string name="power_tools_fps">Fps</string>
 </resources>

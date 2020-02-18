@@ -6,9 +6,9 @@
     <string name="accessibility_splite_screen_primary">Bölünmüş ekranda birincil uygulama olarak eklendi</string>
     <string name="accessibility_splite_screen_secondary">Bölünmüş ekranda ikincil uygulama olarak eklendi</string>
     <string name="action_add_to_workspace">İş alanına ekle</string>
-    <string name="activity_not_found">Uygulama cihazınıza yüklü değil</string>
+    <string name="activity_not_found">Uygulama cihazınızda yüklü değil</string>
     <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınız tamamen yeniden başlatılana kadar bekleyin</string>
-    <string name="add_custom_category">Özelleştirme</string>
+    <string name="add_custom_category">Özelleştir</string>
     <string name="add_screen">Ekran ekle</string>
     <string name="added_all_category">Tüm uygulamalar başarıyla eklendi</string>
     <string name="all_app_category_all">Tümü</string>
@@ -32,7 +32,7 @@
     <string name="all_apps_setting_desktop_title">Normal</string>
     <string name="all_apps_setting_drawer_desc">Tüm yüklü uygulamalarınızı ana ekranda yukarı doğru kaydırarak açılabilen uygulama çekmecesine yerleştirin. Ana ekrana taşıdığınız tüm uygulamaları uygulama çekmecesinde de bulabileceksiniz</string>
     <string name="all_apps_setting_drawer_tips_desc">Uygulama çekmecesi ana ekranda yukarı doğru kaydırarak açılır. Uygulama çekmecesi ile ana ekran moduna geçmek içerik merkezini kullanılmaz hale getirir. Yine de geçilsin mi?</string>
-    <string name="all_apps_setting_drawer_tips_title">Uygulama çekmecesi kullanılıyor</string>
+    <string name="all_apps_setting_drawer_tips_title">Uygulama çekmecesini kullan</string>
     <string name="all_apps_setting_drawer_title">Uygulama çekmecesi</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Orijinal düzen</string>
@@ -49,8 +49,8 @@
     <string name="announce_for_create_folder_with_app">%1$s ile bir klasör oluşturuldu</string>
     <string name="announce_for_delete_gadget_and_widget">Araç</string>
     <string name="announce_for_delete_item">%1$s silindi</string>
-    <string name="announce_for_drag_enter_delete_zone">Ögeler kaldırma alanına sürüklendi</string>
-    <string name="announce_for_drag_enter_folder_grid">Ögeleri klasöre taşıyabilirsiniz</string>
+    <string name="announce_for_drag_enter_delete_zone">Öğeleri kaldırma alanına sürüklendi</string>
+    <string name="announce_for_drag_enter_folder_grid">Öğeleri klasöre taşıyabilirsiniz</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Ögeler ekran önizlemesi %1$d numaraya sürüklendi</string>
     <string name="announce_for_drop">%1$s bırakıldı</string>
     <string name="announce_for_drop_folder_grid_view">Klasörde %1$d numara</string>
@@ -106,9 +106,9 @@
     <string name="aqi_quality_index_light_pollution">Uyarı</string>
     <string name="aqi_quality_index_moderate">Orta</string>
     <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
-    <string name="auto_add_app_shortcut">Masaüstüne yeni yüklenen uygulamalar eklendi</string>
-    <string name="auto_delete_category_dialog_content">Silmek istediğinize emin misiniz?</string>
-    <string name="auto_delete_category_dialog_title">Grubu sil</string>
+    <string name="auto_add_app_shortcut">Ana ekranınıza yerleştirmek istediğiniz yeni uygulamaları seçin</string>
+    <string name="auto_delete_category_dialog_content">Mevcut uygulamalar bu kategoriden kaldırılacak ve kategori silinecektir. Bu kategori silinsin mi?</string>
+    <string name="auto_delete_category_dialog_title">Kategori siliniyor</string>
     <string name="backup_fail">Başlatıcı yedeklenemedi</string>
     <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemiyor</string>
     <string name="buffering">Yükleniyor</string>
@@ -266,6 +266,7 @@
     <string name="home_pull_down_action">Ana ekranda aşağı kaydırın</string>
     <string name="home_screen">Ana ekran</string>
     <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
+    <string name="home_switch_personal_assistant">-1 ekran</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
     <string name="icon_size">Simge boyutu</string>
     <string name="image_too_small_message">Orijinal resim yeterince büyük değil</string>
@@ -384,6 +385,8 @@
     <string name="recents_empty_message">Son öğe yok</string>
     <string name="recents_empty_message_dismissed_all">Her şeyi temizledin</string>
     <string name="recents_empty_message_multi_window">Ana ekrandan uygulamaları aç</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">Yayın yaparken bölünmüş ekran kullanılamıyor</string>
+    <string name="recents_task_screening">Yayın yapılıyor</string>
     <string name="recents_title_app_manager">Uygulamaları yönet</string>
     <string name="recents_title_game">Oyunlar</string>
     <string name="recents_title_garbage_cleanup">Temizlik</string>
@@ -431,7 +434,7 @@
     <string name="shortcut_share_dialog_title">Uyarı</string>
     <string name="show_all">Tümünü göster</string>
     <string name="show_mem_info_title">Bellek durumu göstergesi</string>
-    <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntüle</string>
+    <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntülenir</string>
     <string name="show_recents_recommend_title">Öneriler</string>
     <string name="sort_by_abc">Ada göre sırala</string>
     <string name="sort_by_frequency">Kullanıma göre sırala</string>
@@ -446,8 +449,13 @@
     <string name="status_installing">Yükleniyor</string>
     <string name="status_paused">Duraklatıldı</string>
     <string name="status_pending">Bekliyor</string>
+    <string name="switch_personal_assistant_app_vault">Uygulama kasası</string>
+    <string name="switch_personal_assistant_google">Google</string>
+    <string name="switch_personal_assistant_none">Hiçbiri</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
+    <string name="system_shortcuts_remove">Kaldır</string>
     <string name="system_text">Sistem</string>
+    <string name="task_access_locked_app_msg">Uygulama kilidini aç</string>
     <string name="title_jeejen">Jeejen ana ekranı</string>
     <string name="title_select_live_folder">Klasör seçin</string>
     <string name="title_select_shortcut">Kısayol seçin</string>

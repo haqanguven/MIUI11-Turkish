@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d cevap</item>
+        <item quantity="one">%d cevap</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">%d yorumu görüntüle</item>
+        <item quantity="one">%d yorumu görüntüle</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Seçilen %d neden</item>
+        <item quantity="one">Seçilen %d neden</item>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d görüntüleme</item>
         <item quantity="one">%d görüntüleme</item>
@@ -42,6 +62,12 @@
     <plurals name="video_history_clear_prompt">
         <item quantity="other">%1$d öğeyi geçmişten kaldırmak istiyor musun?</item>
         <item quantity="one">%1$d öğeyi geçmişten kaldırmak istiyor musun?</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Video yüklenemedi
+Sonrakini %d saniyede oynatacak"</item>
+        <item quantity="one">"Video yüklenemedi
+Sonrakini %d saniyede oynatacak"</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d dakika kaldı</item>

@@ -318,6 +318,7 @@
         <item>Doğal</item>
         <item>Standart</item>
     </string-array>
+    <array name="config_support_tdscdma_roaming_on_networks" />
     <string-array name="connect_disconnect_vibrate_entries">
         <item>@string/connect_disconnect_vibrate_normal</item>
         <item>@string/connect_disconnect_vibrate_weak</item>
@@ -1010,8 +1011,4 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-	<string-array name="toogle_data_entries">
-		<item>Sim kartlar &amp; mobil ağlar</item>
-		<item>Tercih edilen ağ türü</item>
-	</string-array>
 </resources>

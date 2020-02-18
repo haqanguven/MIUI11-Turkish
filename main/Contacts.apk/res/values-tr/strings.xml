@@ -140,7 +140,7 @@
     <string name="callrecordview_menu_delete_sim">Arama geçmiş kayıtlarını temizle (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Bilinmeyen numaraları temizle</string>
     <string name="callrecordview_menu_edit_call_note">Arama notunu düzenle</string>
-    <string name="callrecordview_menu_identify_numbers">Telefon numaralarını tanımla</string>
+    <string name="callrecordview_menu_identify_numbers">Arayan kimliği</string>
     <string name="callrecordview_menu_ip">Otomatik IP araması</string>
     <string name="callrecordview_menu_livetalk">Bakiye paketi</string>
     <string name="callrecordview_menu_misim">Mi Sim</string>

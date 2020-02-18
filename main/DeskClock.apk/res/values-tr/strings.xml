@@ -66,33 +66,33 @@
     <string name="auto_silence_title">Otomatik susturma</string>
     <string name="back">Çıkış</string>
     <string name="battery_charging_level">%%%d</string>
-    <string name="bedtime">Yatma zamanı</string>
+    <string name="bedtime">Uyku zamanı</string>
     <string name="bedtime_analysis_more">Daha fazla veri</string>
-    <string name="bedtime_banner_desc">Tutarlı uyku önemlidir</string>
-    <string name="bedtime_banner_guide_desc">Yatma zamanını planla</string>
-    <string name="bedtime_guide_back_desc">Şimdi çıkarsanız yatmadan önce uyarıları alamazsınız. Yine de çıkılsın mı?</string>
-    <string name="bedtime_manage">Yatma vakti</string>
-    <string name="bedtime_manage_desc">Yatmadan önce hatırlatma programlayın ve uykunuzu izleyin</string>
-    <string name="bedtime_manage_open">Yatma zamanını planla</string>
-    <string name="bedtime_manage_tip">Yatma vaktini yönetin</string>
-    <string name="bedtime_not_open_text">Uyku zamanı hatırlatıcılarını kullanmaya başladıktan sonra istatistikleriniz burada görünecek</string>
-    <string name="bedtime_repeat_desc">Hatırlatıcı aldığınız günler</string>
-    <string name="bedtime_repeat_type">Zaman</string>
+    <string name="bedtime_banner_desc">İstikrarlı uyku önemlidir</string>
+    <string name="bedtime_banner_guide_desc">Uyku zamanınızı planlayın</string>
+    <string name="bedtime_guide_back_desc">Eğer şimdi çıkış yaparsanız uyku zamanı alarmlarını alamayacaksınız. Yine de çıkış yapılsın mı?</string>
+    <string name="bedtime_manage">Uyku zamanı</string>
+    <string name="bedtime_manage_desc">Uyku zamanı hatırlatıcılarını planla ve uykunu izle</string>
+    <string name="bedtime_manage_open">Uyku zamanınızı planlayın</string>
+    <string name="bedtime_manage_tip">Uyku zamanını burada düzenle</string>
+    <string name="bedtime_not_open_text">Uyku zamanı hatırlatıcılarını kullanmaya başladıktan sonra istatistikleriniz burada görünecektir</string>
+    <string name="bedtime_repeat_desc">Hatırlatıcıları aldığınız günler</string>
+    <string name="bedtime_repeat_type">Program</string>
     <string name="bedtime_setting_complete">İyi uykular</string>
-    <string name="bedtime_setting_complete_desc">En iyi şekilde çalışabilmek için yeni yatma çizelgenizi takip edin</string>
-    <string name="bedtime_setting_no_disturbance">Uyurken rahatsız etme moduna geçmek ister misiniz?</string>
-    <string name="bedtime_setting_no_disturbance_desc">Zil sesleri, bildirim sesleri ve titreşim siz uyanana kadar susar</string>
-    <string name="bedtime_setting_repeat_type">Yatma saatiniz ne zaman uygulanacak</string>
-    <string name="bedtime_setting_repeat_type_desc">Hatırlatıcı alacağınız günleri seçin</string>
-    <string name="bedtime_settings">Yatma zamanı ayarları</string>
-    <string name="bedtime_sleep_time_remind">Bu saatten 15 dakika önce yatağa gitmeniz hatırlatılacak</string>
-    <string name="bedtime_sleep_time_setting">Ne zaman yatacaksınız?</string>
-    <string name="bedtime_wake_up_time_remind">Bu konuda bir alarm çalacaktır</string>
-    <string name="bedtime_wake_up_time_setting">Ne zaman kalkacaksınız?</string>
-    <string name="bedtime_welcome">Yatma vaktini yönetin</string>
-    <string name="bedtime_welcome_desc">Düzenli ve tutarlı bir uyku takvimi sağlamak sağlığınıza fayda sağlar. Her gün yatmanıza ve zamanında kalkmanıza yardımcı olacak hatırlatıcılar ayarlayın</string>
+    <string name="bedtime_setting_complete_desc">En iyi fonksiyonu gösterebilmek için yeni uyku zamanı programınızı takip edin</string>
+    <string name="bedtime_setting_no_disturbance">Uyurken rahatsız etme moduna geçilsin mi?</string>
+    <string name="bedtime_setting_no_disturbance_desc">Uyanana kadar zil sesleri, bildirim sesleri ve titreşim sessize alınacak</string>
+    <string name="bedtime_setting_repeat_type">Uyku zamanı programı ne zaman uygulanacak?</string>
+    <string name="bedtime_setting_repeat_type_desc">Hatırlatıcıları alacağınız günleri seçin</string>
+    <string name="bedtime_settings">Uyku zamanı ayarları</string>
+    <string name="bedtime_sleep_time_remind">Bu zamandan 15 dakika önce uyku zamanınızın geldiği hatırlatılacaktır</string>
+    <string name="bedtime_sleep_time_setting">Saat kaçta uyuyacaksınız?</string>
+    <string name="bedtime_wake_up_time_remind">Bir alarm bu saatte kapanacaktır</string>
+    <string name="bedtime_wake_up_time_setting">Saat kaçta uyanacaksınız?</string>
+    <string name="bedtime_welcome">Uyku zamanı</string>
+    <string name="bedtime_welcome_desc">Düzenli ve istikrarlı bir uyku programı sürdürmek sağlığınıza faydalıdır. Her gün zamanında uyumanıza ve uyanmanıza yardımcı olacak hatırlatıcılar kurun</string>
     <string name="birthday_alarm">Doğum günü alarmı</string>
-    <string name="birthday_alarm_summary">Doğum gününüzde varsayılan zil sesi yerine Mutlu Yıllar şarkısını zil sesi olarak kullan</string>
+    <string name="birthday_alarm_summary">Doğum gününüzde varsayılan zil sesi yerine mutlu yıllar şarkısını zil sesi olarak kullan</string>
     <string name="cancel">İptal et</string>
     <string name="channel_name_alarm">Alarm</string>
     <string name="channel_name_sleep">Uyku</string>
@@ -133,7 +133,7 @@
     <string name="dialog_message_for_contact_permission">Doğum günü alarmlarını kullanıma sunmak için saatin kişilerinize erişmesi gerekiyor. Kabul ediyor musunuz?</string>
     <string name="dialog_message_negative">Kabul etme</string>
     <string name="dialog_message_not_remind">Tekrar gösterme</string>
-    <string name="dialog_net_permission_in_repeat_type">\"Bu özellik düzgün çalışabilmek için internete bağlanmalıdır. Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> anlaşmalarımızı kabul etmelisiniz. Kabul ediyor musunuz?</string>
+    <string name="dialog_net_permission_in_repeat_type">Bu özellik düzgün çalışabilmek için internete bağlanmalıdır. Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> anlaşmalarımızı kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_privacy_content">Saat yerel tatiller hakkında bilgileri almak, alarmları ayarlamak ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_privacy_content_global">Saat kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_privacy_content_news">Saat kişiselleştirilmiş hizmetleri sunmak ve sabah haberlerini alarma eklemek için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
@@ -152,10 +152,10 @@
     <string name="force_touch_enter_stopwatch">Kronometre</string>
     <string name="force_touch_enter_timer">Zamanlayıcı</string>
     <string name="go_back">Geri</string>
-    <string name="holiday_update">Milli tatiller için bir güncelleme mevcut</string>
+    <string name="holiday_update">Tatiller için bir güncelleme mevcut</string>
     <string name="holiday_update_fail">Güncellenemedi</string>
     <string name="holiday_update_loading">Güncelleniyor</string>
-    <string name="holiday_update_success">Tüm öğeler güncel</string>
+    <string name="holiday_update_success">Güncel</string>
     <string name="holiday_update_title">Tatil günlerini güncelle</string>
     <string name="hour_unit">Saat +</string>
     <string name="install_weather_app_error">Uygulama yüklenemedi</string>
@@ -163,7 +163,7 @@
     <string name="invalid_time">Geçersiz zaman: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">Zamanlayıcı süresi geçersiz</string>
     <string name="keep_screen_on">Ekranı açık tut</string>
-    <string name="korea_permission_calendar">Calendar</string>
+    <string name="korea_permission_calendar">Takvim</string>
     <string name="korea_permission_calendar_desc">Etkinlik bilgilerine erişmek ve hatırlatıcıları göndermek için</string>
     <string name="korea_permission_phone">Telefon</string>
     <string name="korea_permission_phone_desc">Cihaz durumuna erişmek ve aramalar sırasında hatırlatıcıları susturmak için</string>
@@ -202,7 +202,7 @@
     <string name="life_post_weather_invalid">Hava durumu bilgileri alınamadı. Yeniden denemek için dokunun</string>
     <string name="life_post_weather_no_network">Hava durumu bilgilerini güncellemek için ağa bağlanın</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">Saat kişiselleştirilmiş hizmetleri sunmak ve alarmlarınıza sabah haberlerini eklemek için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce, <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
+    <string name="listen_news_privacy">Saat kişiselleştirilmiş hizmetleri sunmak ve alarmlarınıza sabah haberlerini eklemek için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="loading_ringtone">Zil sesi yükleniyor</string>
     <string name="menu_add_worldclock">Saat ekle</string>
     <string name="menu_desk_clock">Saat</string>
@@ -258,7 +258,7 @@
     <string name="net_permission_cancel">Reddet</string>
     <string name="net_permission_ok">Kabul et</string>
     <string name="network_privacy">Saat yerel tatiller hakkında bilgileri almak ve alarmları ayarlamak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikamızı</a> okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
-    <string name="network_privacy_global">Saat kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce, <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
+    <string name="network_privacy_global">Saat kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="never">Bir kez</string>
     <string name="new_label">Alarm etiketi ekle</string>
     <string name="no_alarm_setting">Alarm yok</string>
