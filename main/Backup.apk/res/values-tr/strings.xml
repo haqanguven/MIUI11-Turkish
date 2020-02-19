@@ -660,4 +660,32 @@ Boş yer açın veya daha küçük transferler yapın"</string>
     <string name="dialog_backup_password_change_device_restore_tips">Yedekleme şifresi açıkken Mi taşıyıcı kullanılamaz. Önce yedekleme şifresini kapatın</string>
     <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken öğeler geri yüklenemez. Önce yedekleme şifresini kapatın</string>
     <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="local_main_backup_and_restore">Bu cihazda</string>
+    <string name="local_main_backup">Yerel yedeklemeler</string>
+    <string name="local_main_backup_detail_title">Sistem ayarları, hesaplar ve uygulama verileri</string>
+    <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+    <string name="local_main_backup_time">En son yedekleme: %1$s</string>
+    <string name="local_main_backup_settings">Yerel yedekleme ayarları</string>
+    <string name="local_main_auto_backup_title">Otomatik olarak yedekle</string>
+    <string name="local_main_encrypt_backup_title">Yedekleri şifrele</string>
+    <string name="local_main_encrypt_backup_summary">Mi hesabınızı kullanarak yedeklediğiniz öğeleri şifreleyin</string>
+    <string name="local_main_backup_manager">Yerel yedekleri yönet</string>
+    <string name="local_main_backup_manager_title">Yedekleri yönet</string>
+    <string name="local_main_latest_backup_time_loading">Yükleniyor</string>
+    <string name="local_main_backup_manage_null">%s</string>
+    <string name="local_back_up_detail_description">"Not:
+1. Veri kaybını önlemek için yerel yedekleri bilgisayarınıza kopyalayın
+2. Fabrika ayarlarına sıfırlama yapmadan önce daima yerel yedekleri bilgisayarınıza kopyalayın. Aksi takdirde yerel yedekler kaybolacaktır
+3. Yerel yedekler nerede saklanır? %1$s"</string>
+    <string name="local_click_to_jump">Görüntülemek için dokunu</string>
+    <string name="local_backup_select_activity">Yedek oluştur</string>
+    <string name="local_restore_select_activity">Yedekleri yönet</string>
+    <string name="local_restore_select_data_activity">Bir yedekten geri yükle</string>
+    <string name="local_no_backup_data">Burada henüz yedek yok</string>
+    <string name="local_button_backup_data">Yedekle</string>
+    <string name="local_button_backup_now">Yedekle</string>
+    <string name="local_button_restore_data">Bu cihaza geri yükle</string>
+    <string name="local_button_restore_now">Geri yükle</string>
+    <string name="local_config_on">Açık</string>
+    <string name="local_config_off">Kapalı</string>
 </resources>

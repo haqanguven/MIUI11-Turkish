@@ -183,8 +183,8 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_reach_device_limit">Cihaza ulaşmak Xliff sınır süresi. Kullanmaya devam edilemez</string>
     <string name="usage_reach_device_limit_warning_text">Ekran zaman yönetimi: Bugün mevcut olan zaman</string>
     <string name="usage_refresh">Yenile</string>
-    <string name="usage_remain_about_hour_miunte" formatted="false">Yaklaşık %1s saat %1s dakika</string>
-    <string name="usage_remain_hour_miunte" formatted="false">%1s saat %1s dakika</string>
+    <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Zaman aşımı bilinmiyor</string>
     <string name="usage_request_timeout_summary">Zaman aşımına uğradı</string>
     <string name="usage_special_feature">Özel özellikler</string>

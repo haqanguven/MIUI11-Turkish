@@ -64,6 +64,10 @@
         <item quantity="other">%d dakika içinde senkronizasyona devam ediliyor</item>
         <item quantity="one">%d dakika içinde senkronizasyona devam ediliyor</item>
     </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">%d öğeden fazla seçilemiyor</item>
+        <item quantity="one">%d öğeden fazla seçilemiyor</item>
+    </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s dakika önce</item>
         <item quantity="one">%s dakika önce</item>

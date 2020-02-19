@@ -7517,11 +7517,11 @@ Ayarları şu şekilde güncelle:
 	<string name="unread_notifications_summary">Kilit ekranında okunmamış bildirimleri her zaman gösterir</string>
 	<string name="notifications_reply_title">Bildirimleri cevaplama</string>
 	<string name="notifications_reply_summary">Kilit ekranında bildirimleri cevaplamanıza olanak sağlar</string>
-	<string name="full_screen_gesture_title">Tam ekran hareketleri</string>
+	<string name="charging_animation_title">Kilit ekranı şarj animasyonu</string>
+	<string name="charging_animation_view_title">Kilit ekranı şarj animasyonu görünümü</string>
 	<string name="system_animation_title">Sistem animasyonları</string>
 	<string name="list_animation_title">Liste animasyonu</string>
 	<string name="list_interpolator_title">Liste eklenme animasyonu</string>
-	<string name="charging_animation_title">Kilit ekranı şarj animasyonu</string>
 	<string name="powermenu_on_lockscreen_title">Kilit ekranı güç menüsü</string>
 	<string name="powermenu_on_lockscreen_summary">Kilit ekranında güç menüsü kullanımını değiştirir</string>
 	<string name="time_setting_sound_title">Zaman ayarı sesi</string>
@@ -7546,15 +7546,4 @@ Ayarları şu şekilde güncelle:
 	<string name="h_icon_h_plus_title">H simgesi yerine H+ simgesi</string>
 	<string name="4g_or_lte_title">4G veya LTE simgesi</string>
 	<string name="4g_instead_lte_title">4G simgesi yerine LTE simgesi</string>
-	<string name="smart_mobile_network_settings_title">Akıllı ağ</string>
-	<string name="smart_mobile_network_title">Akıllı ağ</string>
-	<string name="smart_mobile_data_transfer">Aramalarda mobil veri ağını kapat</string>
-	<string name="smart_mobiledata_on">Mobil veri ağı açıldığı zaman</string>
-	<string name="smart_mobiledata_off">Mobil veri ağı kapatıldığı zaman</string>
-	<string name="smart_timer">2G ağında aktarım zamanlayıcısı</string>
-	<string name="smart_timer_sleepon">2G ağında uyanma zamanlayıcısı</string>
-	<string name="smart_wifi_data_transfer">Aramalarda wifi ağını kapat</string>
-	<string name="sim_select_title">Sim kart tercihi</string>
-	<string name="switch_mobile_title">Arama sırasında şebeke türü</string>
-	<string name="WiFiOn_mobile_title">Wifi ağı açıldığı zaman</string>
 </resources>

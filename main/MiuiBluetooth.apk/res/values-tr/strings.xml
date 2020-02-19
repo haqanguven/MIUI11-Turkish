@@ -114,4 +114,5 @@
     <string name="unbind_device_alert_title">Eşleştirmeyi sonlandır</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="zhiyun_name">SMOOTH Q2</string>
 </resources>

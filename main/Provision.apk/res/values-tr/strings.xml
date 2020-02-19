@@ -71,24 +71,29 @@ Miui'yi kullanabilmeniz için önce kullanıcı Sözleşmemizi ve gizlilik Polit
     <string name="terms_of_use_label_phrase">, Sık kullanılan ifadeler</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-Bu özelliği kullanmadan önce facemoji gizlilik politikasını kabul etmeniz gerekir"</string>
+Bu özelliği kullanmadan önce facemoji klavyesinin gizlilik politikasını kabul etmeniz gerekir"</string>
     <string name="terms_of_use_lable_default_input_method_kika">"
 
-Bu özelliği kullanmadan önce kika gizlilik politikasını kabul etmeniz gerekir"</string>
+Bu özelliği kullanmadan önce kika klavyesinin gizlilik politikasını kabul etmeniz gerekir"</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul etmelisiniz"</string>
     <string name="user_agreement">Hizmet şartları</string>
     <string name="privacy_policy">Gizlilik politikası</string>
-    <string name="terms_privacy_policy_input_method_kika">Kika gizlilik politikası</string>
-    <string name="terms_privacy_policy_input_method_facemoji">Facemoji gizlilik politikası</string>
+    <string name="terms_privacy_policy_input_method_kika">Kika klavye gizlilik politikası</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Facemoji klavye gizlilik politikası</string>
     <string name="poco_launcher_user_agreement">Poco başlatıcı kullanıcı sözleşmesi</string>
-    <string name="poco_launcher_privacy_policy">Poco Launcher gizlilik politikası</string>
+    <string name="poco_launcher_privacy_policy">Poco başlatıcı gizlilik politikası</string>
+    <string name="mint_keyboard_oobe_terms">Mint klavye gizlilik politikası</string>
     <string name="application_permissions">Uygulama izinleri</string>
     <string name="agree">Kabul et</string>
     <string name="disagree">İptal et</string>
     <string name="setting_locale">Bölge ayarlanıyor</string>
     <string name="agree_terms">Hizmet şartları ve gizlilik politikasını okudum ve kabul ediyorum</string>
-    <string name="poco_agree_terms_other">(Poco başlatıcı gizlilik politikası ve kullanıcı sözleşmesi dahil)</string>
-    <string name="agree_terms_input_method_facemoji">Facemoji gizlilik politikasını okudum ve kabul ettim</string>
-    <string name="agree_terms_input_method_kika">Kika gizlilik politikasını okudum ve kabul ettim</string>
+    <string name="poco_agree_terms_other">(Poco başlatıcı gizlilik politikası ve kullanıcı sözleşmesi dahildir)</string>
+    <string name="agree_terms_input_method_facemoji">Facemoji klavye gizlilik politikasını okudum ve kabul ettim</string>
+    <string name="agree_terms_input_method_kika">Kika klavye gizlilik politikasını okudum ve kabul ettim</string>
+    <string name="mint_keyboard_oobe_checkbox">"Mint klavye gizlilik politikasını okudum ve kabul ettim"</string>
     <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
     <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
     <string name="locale_picker_title">Bölgenizi seçin</string>

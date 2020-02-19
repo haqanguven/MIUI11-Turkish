@@ -112,6 +112,4 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
     <string name="permstep_label">Adım sayısı erişimi</string>
     <string name="permstep_description">Bu uygulamanın adım sayınıza erişmesine izin verin</string>
-    <string name="power_tools_current">Akım</string>
-    <string name="power_tools_fps">Fps</string>
 </resources>

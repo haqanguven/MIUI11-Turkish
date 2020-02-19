@@ -82,6 +82,8 @@
     <string name="file_transfer_progress">İlerleme: %%%1$d</string>
     <string name="file_transfer_progress_title">Devam ediyor</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
+    <string name="help">Yardımı görüntüle</string>
+    <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
     <string name="hide">Gizle</string>
     <string name="i_know">Anladım</string>
     <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
@@ -91,15 +93,18 @@
     <string name="mi_drop">Dosya paylaşımı</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mishare_folder_in_file_explorer">Dosya yöneticisi > Dosya paylaşımı</string>
+    <string name="mishare_service_channel_desc">Dosya paylaşımı işlemleri hakkında bildirimler</string>
     <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için dosya paylaşımı kullanabilirsiniz
 Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur
 Oppo, vivo, realme ve diğer markalar yakında dosya paylaşımı ile de uyumlu olacak. Uyumlu cihazların listesini internet sitemizden kontrol edebilirsiniz"</string>
     <string name="mishare_state_protection">Dosya paylaşımı otomatik olarak aç</string>
     <string name="mishare_state_protection_summary">Bluetooth veya wifi açıldığında dosya paylaşımı otomatik olarak başlatır</string>
+    <string name="mishare_transefer_channel_desc">Dosya paylaşımı tarafından gönderilen ve alınan öğelerle ilgili bildirimler</string>
     <string name="multi_file_name">%1$s,%2$s</string>
     <string name="name_with_ellipsize">%1$s - %2$s</string>
     <string name="no_longer_prompt">Engelle</string>
     <string name="no_longer_receive">Bu cihaz engellensin mi? Ondan dosya alamazsınız</string>
+    <string name="notification_channel_name">Aktarma bildirimleri</string>
     <string name="operate_too_fast">Devam eden işlemler tamamlanana kadar bekleyin</string>
     <string name="oppo">Oppo</string>
     <string name="oppo_phone">Oppo</string>
@@ -127,6 +132,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="redmi_k30">Redmi K30</string>
     <string name="redmi_k30_5g">Redmi K30 5G</string>
     <string name="redmi_note_5">Redmi Note 5</string>
+    <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="redmi_note_8">Redmi Note 8</string>

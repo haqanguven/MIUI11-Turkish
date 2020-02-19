@@ -60,7 +60,7 @@
     <string name="global_actions_silent_mode">Sessiz</string>
     <string name="reboot_info_auto_boot">Cihaz %s saatinde açılmaya programlandı</string>
     <string name="reboot_info_shutdown_alarm">Alarm %s saatinde çalacaktır</string>
-    <string name="key_btn_space">Boşluk</string>
+    <string name="key_btn_space">Alan</string>
     <string name="key_btn_ok">Tamam</string>
     <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
     <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
@@ -231,6 +231,8 @@
     <string name="throwing_screen">Yayınla</string>
     <string name="throwing_print">Yazıcı</string>
     <string name="send_files_to">Paylaş</string>
+    <string name="help">Yardımı görüntüle</string>
+    <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
     <string name="file_sending">Dosya aktarılıyor</string>
     <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
     <string name="enable_midrop">Aç</string>
@@ -295,9 +297,9 @@
     <string name="wireless_charging_notification_message2">"Batarya %30'dan daha az şarjlı. Geri kablosuz şarj işlemi şimdi kapatıldı"</string>
     <string name="wireless_charging_notification_message3">Şarj sırasında bir hata oluştu. Geri kablosuz şarj işlemi şimdi kapatıldı</string>
     <string name="customer_location_judgment">Çin</string>
-    <string name="user_authentication_failed">Yetkilendirme sorunu: -29-</string>
-    <string name="service_not_subscribed">Hizmete abone olunamadı: -33-</string>
     <string name="frequent_email">Sık kullanılan e-posta</string>
     <string name="data_usage_context">Wifi açık değilse cihazınız ödeme planınıza bağlı olarak ek masraflara neden olabilecek bir mobil ağa bağlanacaktır</string>
     <string name="slatoast">Hızı artırmak için mobil veri kullanmak mobil veriyi tüketebilir</string>
+    <string name="sunlight_notification_title">Güneş ışığı modunu aç</string>
+    <string name="sunlight_notification_content">Parlaklığı otomatik olarak güçlü ortam ışığına ayarlayın</string>
 </resources>

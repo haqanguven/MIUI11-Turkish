@@ -59,6 +59,8 @@
     <string name="business_no_result">İş kartı tanımlanamadı. Tekrar deneyin</string>
     <string name="calender">Takvim</string>
     <string name="call_anyone">Ara</string>
+    <string name="calories_logo_text">Sağlık tarafından sağlanan AI desteği</string>
+    <string name="calories_request_interface_text">AI desteği</string>
     <string name="camera_error_title">Kamera hatası</string>
     <string name="cancel">İptal et</string>
     <string name="carsHome_title">Araba</string>
@@ -221,6 +223,7 @@
     <string name="see_app_details">Uygulama ayrıntılarını görüntüle</string>
     <string name="see_details">Ayrıntıları görüntülemek için dokunun</string>
     <string name="select_dialog_confirm">Tamam</string>
+    <string name="select_from_album">Albümden seç</string>
     <string name="send_mail">E-posta gönder</string>
     <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Her zaman sor</string>
@@ -248,6 +251,7 @@
     <string name="study_vendor_info">Zuoyebang tarafından sağlanmaktadır</string>
     <string name="suggested_submission_success">Geri bildiriminiz başarıyla gönderildi</string>
     <string name="switch_open">Aç</string>
+    <string name="take_a_picture">Bir fotoğraf çek</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="title">Ünvan:</string>
@@ -313,6 +317,7 @@ istediğinizi söylemeyi deneyin"</string>
     <string name="keywords_search_namecard">Tarayıcı;Kartvizit;Kartvizit;Tarama;Tarama kartları;Kart;Kartlar;Rehber;İletişim.</string>
     <string name="keywords_search_study">Tarayıcı;Sorunlar;Sorunları çöz;Ödev;Okul;Fizik;Kimya;Matematik;Matematik;İngilizce;Tarih;Çince</string>
     <string name="keywords_search_translation">Tarayıcı;Çeviri;Sözlük;İngilizce;Yabancı dil;Dil;Dil;İngilizce;Çince;İtalyanca;Almanca;Japonca;Korece;İspanyolca;Fransızca;Baidu Çevir;Youdao sözlüğü;Baidu sözlük;Google çeviri</string>
+    <string name="submitting">Gönderiliyor</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>

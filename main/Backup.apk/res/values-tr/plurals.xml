@@ -60,4 +60,8 @@
         <item quantity="other">%d öğeyi yeniden içe aktarın</item>
         <item quantity="one">%d öğeyi yeniden içe aktarın</item>
     </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s yedek (%2$s)</item>
+        <item quantity="one">%1$s yedek (%2$s)</item>
+    </plurals>
 </resources>

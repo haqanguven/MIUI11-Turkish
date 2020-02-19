@@ -3537,6 +3537,14 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 		<item>Karışık</item>
 		<item>Aosp</item>
 	</string-array>
+	<string-array name="charging_animation_entries">
+		<item>Devre dışı</item>
+		<item>Etkin</item>
+	</string-array>
+	<string-array name="charging_animation_view_entries">
+		<item>Varsayılan</item>
+		<item>Dalga</item>
+	</string-array>
 	<string-array name="list_animation_entries">
 		<item>Varsayılan</item>
 		<item>Dalgalanarak (Sol taraftan)</item>
@@ -3561,30 +3569,5 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 		<item>Sıçrayarak</item>
 		<item>Halkalar</item>
 		<item>Doğrusal</item>
-	</string-array>
-	<string-array name="charging_animation_entries">
-		<item>Devre dışı</item>
-		<item>Etkin</item>
-	</string-array>
-	<string-array name="smart_mobiledata_entries">
-		<item>Değiştirme</item>
-		<item>4G öncelikli</item>
-		<item>3G öncelikli</item>
-		<item>Sadece 2G</item>
-	</string-array>
-	<string-array name="smart_timer_entries">
-		<item>Değiştirme</item>
-		<item>10 dakika</item>
-		<item>20 dakika</item>
-		<item>30 dakika</item>
-		<item>1 saat</item>
-		<item>2 saat</item>
-		<item>3 saat</item>
-	</string-array>
-	<string-array name="smart_timer_sleepon_entries">
-		<item>Etkinleştirme</item>
-		<item>10 dakika</item>
-		<item>20 dakika</item>
-		<item>30 dakika</item>
 	</string-array>
 </resources>
