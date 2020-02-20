@@ -2214,7 +2214,6 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
 	<string name="recorder_icon_title">Kayıt</string>
 	<string name="show_or_hide_title">Arama ekranında gizle veya göster</string>
 	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
-	<string name="preferred_network_type_pref_entries_only_4g">Sadece 4G (LTE)</string>
 	<string name="call_backlight_mode">Arama parlaklığı</string>
 	<string name="call_backlight_title">Maksimum parlaklık</string>
 	<string name="call_backlight_level_title">Parlaklık seviyesi</string>
