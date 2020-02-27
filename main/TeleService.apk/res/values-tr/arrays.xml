@@ -702,19 +702,19 @@
         <item>9</item>
     </string-array>
     <string-array name="region_support_volte">
-		<item>DE;sagit,gemini,jason,capricorn,vince</item>
-		<item>ES;sagit,gemini,jason,capricorn,vince</item>
-		<item>IR;sagit,gemini,jason,capricorn,vince</item>
-		<item>IN;sagit,gemini,jason,capricorn,vince</item>
-		<item>IT;sagit,gemini,jason,capricorn,vince</item>
-		<item>PL;sagit,gemini,jason,capricorn,vince</item>
-		<item>PT;sagit,gemini,jason,capricorn,vince</item>
-		<item>RU;sagit,gemini,jason,capricorn,vince</item>
-		<item>TR;sagit,gemini,jason,capricorn,vince</item>
-		<item>CN;sagit,gemini,jason,capricorn,vince</item>
-		<item>ID;sagit,gemini,jason,capricorn,vince</item>
-		<item>SG;sagit,gemini,jason,capricorn,vince</item>
-		<item>TW;sagit,gemini,jason,capricorn,vince</item>
+		<item>DE;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>ES;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>IR;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>IN;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>IT;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>PL;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>PT;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>RU;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>TR;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>CN;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>ID;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>SG;sagit,gemini,jason,capricorn,vince,mido</item>
+		<item>TW;sagit,gemini,jason,capricorn,vince,mido</item>
 	</string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Kapalı</item>

@@ -183,9 +183,9 @@
         <item>Enerji dolu</item>
     </string-array>
     <string-array name="weekend_title">
-        <item>Geçen hafta sonları</item>
-        <item>Hatırlanacak günler</item>
-        <item>Günlük olaylar</item>
-        <item>Sıradan &amp; olağanüstü</item>
+        <item>Hafta sonu</item>
+        <item>Hatıralar</item>
+        <item>Günlük</item>
+        <item>Diğer</item>
     </string-array>
 </resources>

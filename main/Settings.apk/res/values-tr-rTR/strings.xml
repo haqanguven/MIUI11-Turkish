@@ -221,6 +221,7 @@ Klavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız"</string>
     <string name="account_sync_summary_some_on">Senkronizasyon %1$d / %2$d öğe için açık</string>
     <string name="account_sync_title">Hesap senkronizasyonu</string>
     <string name="account_type" />
+    <string name="acount_data">Hesaplar</string>
     <string name="action_drag_label_move_bottom">En alta taşı</string>
     <string name="action_drag_label_move_down">Aşağı taşı</string>
     <string name="action_drag_label_move_top">En üste taşı</string>
@@ -482,6 +483,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="app_usage_preference">Uygulama kullanım tercihleri</string>
     <string name="app_version">Sürüm</string>
     <string name="app_wifi">Wifi</string>
+    <string name="application_data">Uygulamalar</string>
     <string name="application_forbid_auto_startup">%s uygulamasının arkaplanda başlamasını durdur</string>
     <string name="application_info_label">Uygulama bilgileri</string>
     <string name="application_item_already_permission">İzin verildi</string>
@@ -626,14 +628,25 @@ Uygulamayı kısıtlamak için önce pil optimizasyonunu açın"</string>
     <string name="backtouch_enable_title">Sesi arkada ayarla</string>
     <string name="backup_configure_account_default_summary">Şu anda yedeklenmiş verileri depolayan hiçbir hesap yok</string>
     <string name="backup_configure_account_title">Yedekleme hesabı</string>
+    <string name="backup_data">Yedekler</string>
     <string name="backup_data_summary">Uygulama verilerini, wifi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
     <string name="backup_data_title">Verilerimi yedekle</string>
+    <string name="backup_difference_content">"Yerel yedekler:
+Yerel yedeklemeler uygulama verilerini veya normalde daha fazla öğede içerebilir. Yedekleme dosyaları MIUI-backup-AllBackup'da saklanır ve yedekleme işlemi tamamlandıktan sonra bir bilgisayara kopyalanması gerekir
+
+Bulut yedekleri:
+Yedeklemeler Xiaomi bulutta saklanır ve kablosuz olarak erişilebilir. Bu yöntem yerel yedeklemelerden daha hızlı ve kolaydır ancak uygulama verilerini Xiaomi buluta yedekleyemezsiniz
+"</string>
+    <string name="backup_difference_title">4. Yerel yedeklemelerin bulut yedeklemelerinden farkı nedir?</string>
     <string name="backup_disabled">Yedekleme devre dışı</string>
     <string name="backup_erase_dialog_message">Wifi şifrelerinizin, yer işaretlerinizin, diğer ayarlarınızın ve uygulama verilerinizin yedeklenmesi sona erdirilip Google sunucularındaki tüm kopyaları silinsin mi?</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">Yedekleme hizmeti etkin değil</string>
     <string name="backup_pw_cancel_button_text">İptal et</string>
     <string name="backup_pw_set_button_text">Yedekleme şifresi ayarla</string>
+    <string name="backup_restore_data_content">"Your backups can contain contacts, messages (SMS and MMS), call history, calendar events, photos, audio files, videos, documents, apps, app data, and Home screen layout.
+"</string>
+    <string name="backup_restore_data_title">5. What items can I back up or restore?</string>
     <string name="backup_section_title">Yedekleme ve geri yükleme</string>
     <string name="backup_set_clear_success">Yedek şifresi başarıyla devre dışı bırakıldı</string>
     <string name="backup_set_clear_title">Yedek şifresini devre dışı bırak</string>
@@ -1377,12 +1390,14 @@ Bu özellik Ayarlar menüsünden kapatılabilir"</string>
     <string name="clear_activities">Varsayılanları temizle</string>
     <string name="clear_activities_summary">Bu uygulamayı bazı işlemler için varsayılan olarak kullan</string>
     <string name="clear_adb_keys">USB hata ayıklama yetkilendirmelerini geri al</string>
+    <string name="clear_all_data">Tüm verileri sil</string>
     <string name="clear_cache_btn_text">Önbelleği temizle</string>
     <string name="clear_data_dlg_text">Bu uygulamanın tüm verileri kalıcı olarak silinecek. Bu veriler arasında tüm dosyalar, ayarlar, hesaplar, veri tabanları yer alıyor</string>
     <string name="clear_data_dlg_title">Uygulama verileri silinsin mi?</string>
     <string name="clear_failed_dlg_text">Uygulama depolama alanı temizlenemedi</string>
     <string name="clear_instant_app_confirmation">Bu hazır uygulamayı kaldırmak istiyor musunuz?</string>
     <string name="clear_instant_app_data">Uygulamayı temizle</string>
+    <string name="clear_phone_data_category">Aşağıdaki öğeleri silin</string>
     <string name="clear_uri_btn_text">Erişimi temizle</string>
     <string name="clear_user_data_text">Depolama alanını temizle</string>
     <string name="close_aod">Bu özellik her zaman açık modu ile birlikte kullanılamaz. Önce her zaman açık modunu kapatın</string>
@@ -1397,7 +1412,9 @@ Bu özellik Ayarlar menüsünden kapatılabilir"</string>
     <string name="cloud_backup_section_title">Xiaomi bulut yedekleme</string>
     <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
     <string name="cloud_restore_section_summary">Sistem ayarlarını, ana ekran düzenini ve uygulamaları geri yükleyin</string>
+    <string name="cloud_restore_section_summary_new">Ana ekran düzenini, uygulamaları, sistem ayarlarını ve daha fazlasını yedekleyin</string>
     <string name="cloud_restore_section_title">Xiaomi bulut yedeğinden geri yükle</string>
+    <string name="cloud_restore_section_title_new">Xiaomi buluttan geri yükle</string>
     <string name="cmcc_hardware_version">Donanım sürümü</string>
     <string name="color_black">Siyah</string>
     <string name="color_blue">Mavi</string>
@@ -1448,6 +1465,7 @@ Bu özellik Ayarlar menüsünden kapatılabilir"</string>
     <string name="color_unspecified">Varsayılan</string>
     <string name="color_white">Beyaz</string>
     <string name="color_yellow">Sarı</string>
+    <string name="common_issue">Yardım</string>
     <string name="common_settings">Hızlı ayarlar</string>
     <string name="complete_parameters">Tüm özellikler</string>
     <string name="complete_settings">Genel ayarlar</string>
@@ -1538,6 +1556,7 @@ Bu özellik Ayarlar menüsünden kapatılabilir"</string>
     <string name="connected_wifi">Bağlandı</string>
     <string name="connecting_to_vpn">Vpn bağlantısı kuruluyor</string>
     <string name="connection_and_sharing">Bağlantı &amp; paylaşım</string>
+    <string name="contact_data">Kişiler</string>
     <string name="content_description_menu_button">Menü</string>
     <string name="contributors_title">Katkıda bulunanlar</string>
     <string name="controls_label">Denetimler</string>
@@ -1770,6 +1789,9 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="data_used_template">%1$s kullanıldı</string>
     <string name="data_warning">Veri uyarısı</string>
     <string name="data_warning_footnote">Veri uyarısı ve veri limiti cihazınız tarafından ölçülür. Bu değer operatör verilerinden farklı olabilir</string>
+    <string name="datasize_decrease_content">"Kişiler, mesajlar ve sistem verileri yedeklenirken sıkıştırılır. Bu da daha küçük dosya boyutuyla sonuçlanır
+"</string>
+    <string name="datasize_decrease_title">6. Bazı yedek dosyalar neden gerçek öğelerden daha küçük?</string>
     <string name="date_and_time">Tarih &amp; saat</string>
     <string name="date_and_time_settings_summary">Tarihi, saati, saat dilimini ve biçimleri ayarlayın</string>
     <string name="date_and_time_settings_title">Tarih &amp; saat</string>
@@ -2255,29 +2277,6 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="enterprise_privacy_settings_summary_with_name">%s tarafından yönetilen değişiklikler ve ayarlar</string>
     <string name="enterprise_privacy_usage_stats">Her uygulamada harcanan zaman ve veri miktarı</string>
     <string name="enterprise_privacy_wipe_device">Yönetici tüm cihaz verilerini silebilir</string>
-    <string name="eq_auto">Özel</string>
-    <string name="eq_blues">Blues</string>
-    <string name="eq_cancel">İptal et</string>
-    <string name="eq_classical">Klasik</string>
-    <string name="eq_country">Yerel</string>
-    <string name="eq_dance">Dans</string>
-    <string name="eq_delete">Kaldır</string>
-    <string name="eq_delete_success">Tamamlandı</string>
-    <string name="eq_electronic">Elektronik</string>
-    <string name="eq_flat">Varsayılan</string>
-    <string name="eq_hiphop">Hip Hop</string>
-    <string name="eq_jazz">Caz</string>
-    <string name="eq_metal">Metal</string>
-    <string name="eq_ok">Tamam</string>
-    <string name="eq_pop">Pop</string>
-    <string name="eq_preset_create">Oluştur</string>
-    <string name="eq_preset_format">Kullanıcı ön ayarı %d</string>
-    <string name="eq_preset_hint">Efekt adı</string>
-    <string name="eq_preset_rename">Yeniden adlandır</string>
-    <string name="eq_preset_select">Bir ön ayar seçin</string>
-    <string name="eq_return">Geri dön</string>
-    <string name="eq_rock">Rock</string>
-    <string name="equalizer">Ekolayzır</string>
     <string name="erase_application">Uygulamaları sil</string>
     <string name="erase_application_description">İndirilen uygulamaları sil</string>
     <string name="erase_data">Sil</string>
@@ -2570,8 +2569,8 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="gesture_setting_off">Kapalı</string>
     <string name="gesture_setting_on">Açık</string>
     <string name="gesture_w">W deseni</string>
-    <string name="gesture_wakeup_summary">Varsayılan veya klasik temayı uyguladığınızda ekranı çift tıklayarak kapatabilirsiniz</string>
-    <string name="gesture_wakeup_title">Uyandırmak için ekrana çift dokun</string>
+    <string name="gesture_wakeup_summary">Varsayılan veya klasik temayı uyguladığınızda ekrana çift tıklayarak kapatabilir veya uyandırabilirsiniz</string>
+    <string name="gesture_wakeup_title">Kilitlemek veya uyandırmak için çift dokun</string>
     <string name="gesture_z">Z deseni</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
@@ -2750,6 +2749,39 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="home_key">Ana ekran</string>
     <string name="home_title">Ana ekran</string>
     <string name="home_work_profile_not_supported">İş profillerini desteklemez</string>
+    <string name="how_backup_content">"3 tür yedekleme oluşturabilirsiniz: Yerel, bulut ve USB
+
+Yerel yedeklemeler:
+Yerel yedeklemeler sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya kaydetmenize olanak tanır (MIUI-backup-AllBackup). Yedek dosyası oluşturulduktan sonra USB kablosuyla bilgisayarınıza aktarabilirsiniz
+Not:
+Öğeleri yedeklemek ve geri yüklemek için Mi PC Suite'i kullanabilirsiniz
+Bulut yedekleri:
+Sistem ayarlarını, ana ekran düzenini, uygulamaları ve diğer öğeleri Xiaomi buluta wifi üzerinden yedekleyebilirsiniz
+
+USB yedekleri:
+Bu yöntem sistem ayarlarını, hesapları, uygulama verilerini ve diğer öğeleri harici bir USB depolama aygıtına kaydetmenizi sağlar
+"</string>
+    <string name="how_backup_title">1. Nasıl öğeleri yedekleyebilirim?</string>
+    <string name="how_encrypt_content">"Yalnızca yerel yedeklemeleri şifreleyebilirsiniz. Bunu yapmanın 2 yolu vardır:
+a) Sayfayı yerel yedeklemelerinizle açın, şifrelemeyi açmak için düğmeye dokunun ve Mi hesabınızda oturum açın. Bundan sonra yedeklemeler otomatik olarak şifrelenecektir. Şifreli yedeklemelerden öğeleri geri yüklemek için Mi hesabınızda oturum açmanız gerektiğini unutmayın
+b) Öğeleri yedeklemek için Mi PC Suite kullanıyorsanız orada şifreleme seçeneklerini kullanabilirsiniz
+
+Not:
+Şifrelenmiş yedeklemeler için ayarladığınız şifreyi unutmayın. Unutursanız yedeklemelerinizin şifresini çözemezsiniz
+"</string>
+    <string name="how_encrypt_title">3. Yedeklerimi nasıl şifreleyebilirim?</string>
+    <string name="how_restore_backup_content">"Farklı yöntemler kullanılarak yedeklenen öğeleri nasıl geri yükleyebilirsiniz:
+
+Yerel yedeklemeler:
+Yedekleme dosyasını bilgisayarınızdan cihazınıza kopyalayın (MIUI-backup-AllBackup). Ayarlar > Yedekle, geri yükle veya sıfırla > Bu cihazda seçeneğine gidin ve yedekleme dosyasını seçin
+
+Bulut yedekleri:
+Mi hesabınızda oturum açın Ayarlar > Yedekle, geri yükle veya sıfırla > Xiaomi bulut seçeneğine gidin ve yedekleme dosyasını seçin
+
+USB yedekleri:
+Yedekleme dosyasını cihazınıza kopyalayın (MIUI-backup-AllBackup). Ayarlar > Yedekle, geri yükle veya sıfırla > Bu cihazda seçeneğine gidin ve yedekleme dosyasını seçin
+"</string>
+    <string name="how_restore_backup_title">2. Yedeklenen öğeleri nasıl geri yüklerim?</string>
     <string name="http_invoke_app">İnternet uygulamaları</string>
     <string name="http_invoke_app_summary">Uygulamaları yüklemeden daha hızlı açın</string>
     <string name="ignore_optimizations_off">Optimize et</string>
@@ -2786,7 +2818,6 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="infinity_display_title">Tam ekran hareketleri</string>
     <string name="information_dialog_button_text">Anladım</string>
     <string name="input_assistance">Giriş yardımı</string>
-    <string name="input_hint_prefix">%1$s girin</string>
     <string name="input_method">Klavye</string>
     <string name="input_method_bottom_close">Kapalı</string>
     <string name="input_method_bottom_open">Açık</string>
@@ -3060,7 +3091,9 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="local_backup_password_toast_success">Yeni yedek şifresi ayarlandı</string>
     <string name="local_backup_password_toast_validation_failure">Yedek şifresi ayarlanamadı</string>
     <string name="local_backup_section_summary">Sistem ayarları, hesap bilgisi ve uygulamaları yedekle</string>
+    <string name="local_backup_section_summary_new">Hesapları, uygulama verilerini, sistem ayarlarını ve daha fazlasını yedekle</string>
     <string name="local_backup_section_title">Yerel yedekler</string>
+    <string name="local_backup_section_title_new">Yerel yedekler</string>
     <string name="locale_default">Varsayılan</string>
     <string name="locale_not_translated">Bazı uygulamalarda kullanılamayabilir</string>
     <string name="locale_remove_menu">Kaldır</string>
@@ -3405,6 +3438,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="master_clear_progress_title">Siliniyor</string>
     <string name="master_clear_short_title">Tüm verileri sil (Sıfırla)</string>
     <string name="master_clear_title">Tüm verileri sil (Fabrika ayarlarına sıfırla)</string>
+    <string name="master_clear_title_new">Tüm verileri sil (Fabrika ayarlarına sıfırla)</string>
     <string name="max_aspect_settings_all_app_display_loading">Yükleniyor</string>
     <string name="max_cpu10_info">"On çekirdek - Maksimum "</string>
     <string name="max_cpu2_info">"Çift çekirdek - Maksimum "</string>
@@ -3648,66 +3682,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="mtp_ptp_mode_summary">MTP veya PTP işlevi etkin</string>
     <string name="multi_touch_points_category_title">Çoklu dokunma noktaları</string>
     <string name="multi_touch_points_preference">Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>
-    <string name="music_app_unavailable">Mi müzik uygulamasının kullanılabilir olduğundan emin olun</string>
-    <string name="music_audio_effect_optimize">Ses ayarları</string>
-    <string name="music_audio_effect_optimize_summary">Dirac, kulaklık ve diğer ses ayarları</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hifi, kulaklık ve diğer ses ayarları</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hifi, kulaklık ve diğer ses ayarları</string>
-    <string name="music_audio_effect_settings">Efekt ayarları</string>
-    <string name="music_dirac_control">Ses kalitesini optimize et</string>
-    <string name="music_dirac_mode_cancelling">Mi gürültü engelleme 3.5mm</string>
-    <string name="music_dirac_mode_capsule">Mi kapsül</string>
-    <string name="music_dirac_mode_earbuds">Mi kulaklıkları</string>
-    <string name="music_dirac_mode_general">Genel</string>
-    <string name="music_dirac_mode_general_earbuds">Genel</string>
-    <string name="music_dirac_mode_general_inear">Genel kulak içi</string>
-    <string name="music_dirac_mode_half_in_ear">Mi Yarı kulak içi</string>
-    <string name="music_dirac_mode_headset">Mi kulaklıkları</string>
-    <string name="music_dirac_mode_headset_comfort">Mi konfor</string>
-    <string name="music_dirac_mode_in_ear">Mi kulak içi</string>
-    <string name="music_dirac_mode_in_ear2">Mi kulak içi 2</string>
-    <string name="music_dirac_mode_in_ear_2013">Mi kulak içi (2013)</string>
-    <string name="music_dirac_mode_in_ear_pro">Mi kulak içi Pro</string>
-    <string name="music_dirac_mode_india_earphones">Mi kulaklıkları</string>
-    <string name="music_dirac_mode_india_earphones_basic">Mi kulaklık basit</string>
-    <string name="music_dirac_mode_off">Dirac kapalı</string>
-    <string name="music_dirac_mode_piston_1">Mi piston 1</string>
-    <string name="music_dirac_mode_piston_100">Mi piston</string>
-    <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-    <string name="music_dirac_mode_piston_basic">Temel sürüm</string>
-    <string name="music_dirac_mode_piston_color">Renkli sürüm</string>
-    <string name="music_dirac_mode_piston_standard">Standart sürüm</string>
-    <string name="music_dirac_mode_piston_youth">Gençlik sürümü</string>
-    <string name="music_dirac_mode_reduction_noise">Mi gürültü engelleme Type-C</string>
-    <string name="music_dolby_mode_movie">Video</string>
-    <string name="music_dolby_mode_music">Müzik</string>
-    <string name="music_dolby_mode_off">Kapalı</string>
     <string name="music_equalizer">Ekolayzır</string>
-    <string name="music_equalizer_summary">Farklı müzik türleri için ayrı ayrı seviye ayarla</string>
-    <string name="music_hd_title">HD ses</string>
-    <string name="music_headphone_settings">Kulaklık türünü seçin</string>
-    <string name="music_headset_button_settings">Tuşları ata</string>
-    <string name="music_headset_calibrate">Tuşları ata</string>
-    <string name="music_headset_calibrate_apply">Uygula</string>
-    <string name="music_headset_calibrate_confirm">Ayarlar uygulansın mı?</string>
-    <string name="music_headset_calibrate_hint">Yukarı tuşuna basın</string>
-    <string name="music_headset_calibrate_next_track">Sonraki parça</string>
-    <string name="music_headset_calibrate_prev_track">Önceki parça</string>
-    <string name="music_headset_calibrate_success">Ayarlar uygulandı</string>
-    <string name="music_headset_calibrate_volume_down">Ses seviyesini alçalt</string>
-    <string name="music_headset_calibrate_volume_up">Ses seviyesini yükselt</string>
-    <string name="music_headset_calibrate_wrong_key">Yanlış giriş</string>
-    <string name="music_headset_mode_music">Müzik çalar kontrolü</string>
-    <string name="music_headset_mode_settings">Kulaklık kontrol tuşları</string>
-    <string name="music_headset_mode_volume">Ses düzeyi kontrolü</string>
-    <string name="music_headset_no_contected">Kulaklık bağlı değil</string>
-    <string name="music_headset_settings">Kulaklıklar &amp; ses efektleri</string>
-    <string name="music_hifi_summary">Gürültü ve deformasyonu azaltıp ses kalitesini artır</string>
-    <string name="music_hifi_title">Hifi ses</string>
-    <string name="music_mi_effect_summary">Hoparlör kullanırken Mi ses Arttırıcı kullan</string>
-    <string name="music_mi_effect_title">Mi ses yükseltici</string>
-    <string name="music_title_dolby_control">Dolby dijital Plus</string>
-    <string name="music_unsupport_effect_summary">USB kulaklıklar desteklenmiyor</string>
     <string name="musicfx_title">Müzik efektleri</string>
     <string name="mute_music_stream">Müzik akışını sustur</string>
     <string name="mute_voiceassist_stream">Sesli yardımcıyı sustur</string>
@@ -3719,6 +3694,9 @@ Bu cihazda başka kullanıcılar da var
     <string name="my_device_info_device_name_preference_title">Cihaz adı</string>
     <string name="n_cacrts">%d CA sertifikası</string>
     <string name="nature_color">Varsayılan</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Ekranın altından yukarı doğru çekin ve ardından sola veya sağa kaydırın</string>
+    <string name="navigation_guide_app_quick_switch_summary">Tam ekran göstergesinden veya ekranın altından sola veya sağa kaydırın</string>
+    <string name="navigation_guide_app_quick_switch_title">Uygulamalar arasında geçiş yap</string>
     <string name="navigation_guide_app_summary">Üst alanda ekranın sağ veya sol köşesinden kaydırın</string>
     <string name="navigation_guide_app_title">Uygulama işlevini çalıştır</string>
     <string name="navigation_guide_appswitch_anim_summary">Bir önceki uygulamaya gitmek için ekranın ucundan itibaren kaydırın</string>
@@ -3733,6 +3711,10 @@ Bu cihazda başka kullanıcılar da var
     <string name="navigation_guide_dialog_skip">Şimdi değil</string>
     <string name="navigation_guide_dialog_summary">Sistem navigasyonu amacıyla kullanabileceğiniz hareketleri öğrenin</string>
     <string name="navigation_guide_dialog_title">Hareketleri öğren</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">Tam ekran göstergesini gizledikten sonra uygulamalar arasında geçiş yapmak için yeni bir hareket kullanılır. Bu hareketi şimdi öğrenmek ister misiniz?</string>
+    <string name="navigation_guide_gesture_line_dialog_title">Yeni bir hareket öğren</string>
+    <string name="navigation_guide_hide_gesture_line_summary">Tam ekran hareketlerini kullanırken tam ekran göstergesini gösterme</string>
+    <string name="navigation_guide_hide_gesture_line_title">Tam ekran göstergesini gizle</string>
     <string name="navigation_guide_home_summary">Ekranın altından yukarı doğru kaydır</string>
     <string name="navigation_guide_home_title">Ana ekrana git</string>
     <string name="navigation_guide_recent_summary">Ekranın altından yukarı doğru kaydırın ve duraklayın</string>
@@ -4063,6 +4045,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
 Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</string>
     <string name="other">Diğer</string>
     <string name="other_advanced_settings">Ek ayarlar</string>
+    <string name="other_data">Bu cihazdaki diğer öğeler</string>
     <string name="other_device_info">Diğerleri</string>
     <string name="other_input_settings">Ek klavye ayarları</string>
     <string name="other_personal_settings">Kişisel ayarlar</string>
@@ -4183,6 +4166,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="phone_info_label">Telefon bilgileri</string>
     <string name="phone_language">Diller</string>
     <string name="phone_language_summary" />
+    <string name="photo_data">Fotoğraf ve videolar</string>
     <string name="physical_keyboard_title">Fiziksel klavye</string>
     <string name="pick_up_gesture_wakeup_title">Uyandırmak için kaldır</string>
     <string name="picture_color_mode">Resim renk modu</string>
@@ -4439,6 +4423,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="privacy_protection_title">Gizlilik</string>
     <string name="privacy_relative">Gizlilik</string>
     <string name="privacy_settings">Yedekle &amp; sıfırla</string>
+    <string name="privacy_settings_new">Yedekle, geri yükle veya sıfırla</string>
     <string name="privacy_settings_title">Yedekleme</string>
     <string name="privacy_thumbnail_blur_progress_message">Yükleniyor</string>
     <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
@@ -4670,6 +4655,7 @@ UT arayüzü: %5$s"</string>
     <string name="reset_second_space_passwd_detail">İlk alanda kullanılan Mi hesabı şifresini girin</string>
     <string name="reset_shortcut_manager_throttling">Kısayol yöneticisi hız sınırlamasını sıfırla</string>
     <string name="reset_shortcut_manager_throttling_complete">Kısayol yöneticisi hız sınırlaması sıfırlandı</string>
+    <string name="reset_title">Sıfırla</string>
     <string name="resetting_second_space_passwd">İkinci alan şifresi sıfırlanıyor</string>
     <string name="resident_timezone_summary">İkinci saat</string>
     <string name="resolver_settings_label">Sırala</string>
@@ -4913,6 +4899,7 @@ Ekran sabitlemeyi kullanmak için:
     <string name="screenshot_three_gesture_summary">Diğer 3 parmak hareketleri devre dışı bırakılacaktır</string>
     <string name="sd_card_settings_label">USB bellek</string>
     <string name="sd_card_storage">USB bellek</string>
+    <string name="sd_data">SD kart verileri</string>
     <string name="sd_eject">Payl dep birimnn bağl kes</string>
     <string name="sd_eject_summary">Dahili USB belleğin bağlntsn kes</string>
     <string name="sd_ejecting_summary">Kaldırma işlemi devam ediyor</string>
@@ -5884,6 +5871,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="system_app_settings">Sistem uygulama ayarları</string>
     <string name="system_apps_updater">Sistem uygulama güncelleyici</string>
     <string name="system_backup_section_title">Yedekleme</string>
+    <string name="system_backup_section_title_new">Yedekle veya geri yükle</string>
     <string name="system_dashboard_summary">Diller, saat, yedek, güncellemeler</string>
     <string name="system_default_app">(Sistem varsayılanı)</string>
     <string name="system_haptic_feedback">Dokunsal geribildirim</string>
@@ -5952,6 +5940,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="time_zone_auto_stub">Saat dilimini seçin</string>
     <string name="timed_titlei">Zamanlayıcı %d</string>
     <string name="timezone_settings">Zaman dilimi</string>
+    <string name="tip_remove_data">Fabrika ayarlarına sıfırlama bu öğeleri cihazınızdan siler</string>
     <string name="title_color_calibration">Renk düzeltme ön ayarları</string>
     <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürülüyor</string>
     <string name="title_font">Yazı tipi</string>
@@ -6329,14 +6318,14 @@ veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="usb_tethering_subtext">Telefonun internet bağlantısını USB üzerinden paylaşın</string>
     <string name="usb_tethering_unavailable_subtext">USB bağlı değil</string>
     <string name="usb_title">USB</string>
-    <string name="usb_use">"USB'yi şunun için kullan:"</string>
+    <string name="usb_use">USB kullanımı</string>
     <string name="usb_use_MIDI">MIDI</string>
     <string name="usb_use_MIDI_desc">Bu cihazı MIDI olarak kullanın</string>
-    <string name="usb_use_charging_only">Veri aktarımı yok</string>
-    <string name="usb_use_charging_only_desc">Yalnızca bu cihazı şarj edin</string>
-    <string name="usb_use_file_transfers">Dosya aktarımı</string>
+    <string name="usb_use_charging_only">Sadece şarj</string>
+    <string name="usb_use_charging_only_desc">Sadece bu cihazı şarj edin</string>
+    <string name="usb_use_file_transfers">Dosyaları aktar</string>
     <string name="usb_use_file_transfers_desc">Dosyaları başka bir cihaza aktarın</string>
-    <string name="usb_use_photo_transfers">Fotoğrafları aktarımı (PTP)</string>
+    <string name="usb_use_photo_transfers">Fotoğrafları aktar (PTP)</string>
     <string name="usb_use_photo_transfers_desc">MTP desteklenmiyorsa fotoğrafları veya dosyaları aktarın (PTP)</string>
     <string name="usb_use_power_only">Bağlı cihazı şarj edin</string>
     <string name="usb_use_tethering">USB bağlantı noktası</string>

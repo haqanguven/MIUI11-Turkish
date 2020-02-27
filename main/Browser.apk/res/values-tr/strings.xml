@@ -332,6 +332,10 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="contextmenu_webpage_snapshot">Sayfayı kaydet</string>
     <string name="custom_head_card_text">Her zaman harika şeylerin olmak üzere olduğuna inanın</string>
     <string name="custom_head_weather">Hava durumu</string>
+    <string name="dark_mode_setting_dark">Gece modu (Karanlık)</string>
+    <string name="dark_mode_setting_follow">Sistem</string>
+    <string name="dark_mode_setting_light">Gündüz modu (Aydınlık)</string>
+    <string name="dark_mode_setting_title">Gece modu</string>
     <string name="data_monitor">Veri kullanımını izle</string>
     <string name="data_monitor_dialog_message">Mobil verilerinizi boşa harcıyor gibi görünüyor. Bunu durdurmak için başlangıç sayfasını açın</string>
     <string name="data_traffic_continue">Devam et</string>
@@ -1290,7 +1294,7 @@ feedsContentId:
     <string name="vo_info_flow_refresh_empty">Güncelleme yok~</string>
     <string name="vo_info_flow_refresh_error">Ağ güçlü değil. Lütfen ağ durumunu kontrol edin</string>
     <string name="vo_info_flow_rs_hint">Ara</string>
-    <string name="vo_like_text">Beğendiğiniz</string>
+    <string name="vo_like_text">Beğen</string>
     <string name="vo_location_change_cancel">Bir dahaki sefere söyle</string>
     <string name="vo_location_change_content">Hedeflemeniz değişti. Geçerli hedeflemeye geçtiniz mi?</string>
     <string name="vo_location_change_positive">Şimdi geç</string>
