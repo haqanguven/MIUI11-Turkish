@@ -268,6 +268,10 @@
         <item quantity="other">%1$d fotoğraf indirilemedi (%2$dMB). Ağa bağlanın ve tekrar deneyin</item>
         <item quantity="one">Fotoğraf indirilemedi (%2$dMB). Ağa bağlanın ve tekrar deneyin</item>
     </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d dosya henüz indirilmedi (%2$dMB). Mobil veriyi kullanarak indirilsin mi?"</item>
+        <item quantity="one">"%1$d dosya henüz indirilmedi (%2$dMB). Mobil veriyi kullanarak indirilsin mi?"</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraf indirilemedi. Yeniden denensin mi?</item>
         <item quantity="one">Fotoğraf indirilemedi. Yeniden denensin mi?</item>

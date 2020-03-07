@@ -74,10 +74,19 @@
         <item>Kasım</item>
         <item>Aralık</item>
     </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Oyun zamanı</item>
+        <item>Çocuğun hafta sonu</item>
+        <item>Çocuk</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Hafta sonlarım</item>
         <item>Hayatın parçaları</item>
         <item>Hafta sonu hatıraları</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Yeni arkadaşlar ve eski dostlar</item>
+        <item>Geçen yılki buluşmalar</item>
     </string-array>
     <string-array name="menu_copy_or_move">
         <item>Taşı</item>
@@ -133,6 +142,10 @@
         <item>İyi zamanlar</item>
         <item>Birlikte</item>
     </string-array>
+    <string-array name="recent_group_people">
+        <item>Birlikte</item>
+        <item>Tahvil ve kravatlar</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Ben</item>
         <item>Çocuk</item>
@@ -181,6 +194,10 @@
     <string-array name="sports_title">
         <item>İleri taşınıyor</item>
         <item>Enerji dolu</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Çok hızlı büyüyorlar</item>
+        <item>Çocuğun fotoğrafları</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Hafta sonu</item>

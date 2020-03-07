@@ -104,6 +104,7 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="divDesc">bölme</string>
+    <string name="dob_selection_error">Doğum tarihi bugünün tarihinden daha önce olmalıdır</string>
     <string name="dotDesc">nokta</string>
     <string name="e">e</string>
     <string name="eDesc">Euler sayısı</string>
@@ -140,6 +141,7 @@
     <string name="hint_annual_rate">Yıllık oran girin</string>
     <string name="hint_enter_amount">Miktar girin</string>
     <string name="hint_floatwindow_alpha_guide_text">Şeffaflığı ayarlamak için dokunun</string>
+    <string name="history_delete_confirmation">Geçmiş temizlensin mi?</string>
     <string name="home_loan">Konut kredisi faizi</string>
     <string name="home_title_calculator">Hesaplayıcı</string>
     <string name="house_rent">Kira</string>
@@ -171,14 +173,19 @@
     <string name="item_title_vel_conversion">Hız</string>
     <string name="item_title_volume_conversion">Hacim</string>
     <string name="item_title_weight_conversion">Kütle</string>
+    <string name="label_about">Hakkında</string>
+    <string name="label_clear_history">Tümünü temizle</string>
     <string name="label_date_difference">Fark</string>
     <string name="label_days">Gün</string>
+    <string name="label_delete">Temizle</string>
     <string name="label_emi">Aylık eşit taksit</string>
     <string name="label_first_repayment">İlk ödeme</string>
     <string name="label_from_date">Başlangıç</string>
+    <string name="label_history">Geçmiş</string>
     <string name="label_interest">Faiz</string>
     <string name="label_loan_tenure">Kredi süresi</string>
     <string name="label_months">Ay</string>
+    <string name="label_no_history">Burada henüz öğe yok</string>
     <string name="label_principal">Ana para</string>
     <string name="label_share">Paylaş</string>
     <string name="label_start_date">Başlangıç tarihi</string>

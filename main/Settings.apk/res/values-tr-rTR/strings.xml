@@ -321,13 +321,13 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s uygulamasına her zaman araç oluşturma ve verilerine erişme izni ver</string>
     <string name="allow_data_usage_title">Dolaşımdayken veri kullanımına izin ver</string>
     <string name="allow_device_id_access">Cihaz kimliğimi kullanabilecek uygulamaları seçin</string>
-    <string name="allow_float_summary">Kayan bildirimlere izin ver</string>
+    <string name="allow_float_summary">Kayan bildirimlere izin verir</string>
     <string name="allow_float_title">Kayan bildirimler</string>
     <string name="allow_interruption">Kesintilere izin ver</string>
     <string name="allow_interruption_summary">Uygulamanın ses çıkarmasına, titreşim yapmasına veya ekranda bildirimler göstermesine izin verin</string>
-    <string name="allow_keyguard_summary">Kilit ekranında bildirimlere izin ver</string>
+    <string name="allow_keyguard_summary">Kilit ekranında bildirimlere izin verir</string>
     <string name="allow_keyguard_title">Kilit ekranı bildirimleri</string>
-    <string name="allow_lights_title">Led ışığı kullanımına izin ver</string>
+    <string name="allow_lights_title">Işık bildirimi</string>
     <string name="allow_mock_location">Sahte konumlara izin ver</string>
     <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
     <string name="allow_oaid_used">Cihaz kimliğini kullanmaya izin ver</string>
@@ -665,7 +665,7 @@ Yedeklemeler Xiaomi bulutta saklanır ve kablosuz olarak erişilebilir. Bu yönt
     <string name="backup_set_new_pw_title">Yeni yedek şifresini girin</string>
     <string name="backup_set_null_pw">Önce şifreyi girin</string>
     <string name="backup_set_pw_confirm_title">Yeni yedek şifresini doğrulayın</string>
-    <string name="badge_title">Uygulama simge rozetlerini göster</string>
+    <string name="badge_title">Uygulama simge rozeti</string>
     <string name="band_mode_failed">Başarısız</string>
     <string name="band_mode_loading">Bant listesi yükleniyor</string>
     <string name="band_mode_set">Ayarla</string>
@@ -883,6 +883,7 @@ Uygulamalar:
     <string name="bluetooth_broadcasting">Yayınlama</string>
     <string name="bluetooth_confirm_passkey_msg">Şu cihazla eşlemek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Şu parolanın göründüğünden emin olun:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_failed">Bağlanılamadı. Tekrar deneyin</string>
+    <string name="bluetooth_connect_settings">Bluetooth bağlantı ayarları</string>
     <string name="bluetooth_connect_specific_profiles_title">Bağlan</string>
     <string name="bluetooth_connected">%1$s bağlandı</string>
     <string name="bluetooth_connected_battery_level">"Bağlandı |  Pil %1$s%2$s"</string>
@@ -930,8 +931,6 @@ Uygulamalar:
     <string name="bluetooth_disable_absolute_volume_summary">Uzak cihazlarla aşırı yüksek ses seviyesi veya ses seviyesini kontrol edememe gibi ses sorunla yaşamamak için Bluetooth için kesin ses seviyesi özelliğini devre dışı bırakın</string>
     <string name="bluetooth_disable_inband_ringing">Bant içi çalmayı devre dışı bırak</string>
     <string name="bluetooth_disable_inband_ringing_summary">Bluetooth kulaklıklarda özel telefon zil sesleri çalma</string>
-    <string name="bluetooth_disable_mi_fast_connect">Mi bağlantıyı devre dışı bırak</string>
-    <string name="bluetooth_disable_mi_fast_connect_summary">Mi bağlantı özelliklerini devre dışı bırakır</string>
     <string name="bluetooth_disable_profile_message">Şu devre dışı bırakılacak:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Şu cihazdan:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Profil devre dışı bırakılsın mı?</string>
     <string name="bluetooth_disabled">Kapalı</string>
@@ -946,6 +945,7 @@ Uygulamalar:
     <string name="bluetooth_disconnected">Bağlantı kesildi</string>
     <string name="bluetooth_disconnecting">Bağlantı kesiliyor</string>
     <string name="bluetooth_display_passkey_pin_msg">&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> ile eşlemek için cihaz üzerinde &lt;br>&lt;b>%2$s&lt;/b> yazarak geri veya enter tuşuna basın</string>
+    <string name="bluetooth_display_settings">Bluetooth ekran ayarları</string>
     <string name="bluetooth_dock_settings">Yuva ayarları</string>
     <string name="bluetooth_dock_settings_a2dp">Müzik ve medya için</string>
     <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -986,6 +986,8 @@ Uygulamalar:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Maksimum sayıda bağlı bluetooth ses cihazı seç</string>
     <string name="bluetooth_max_connected_audio_devices_string">Maksimum sayıda bağlı bluetooth ses cihazı</string>
     <string name="bluetooth_menu_advanced">Gelişmiş</string>
+    <string name="bluetooth_mi_fast_connect">Mi bağlantı</string>
+    <string name="bluetooth_mi_fast_connect_summary">Yakındaki bluetooth cihazlarına bağlan</string>
     <string name="bluetooth_name_not_set">Ad ayarlanmadı. Hesap adı kullanılıyor</string>
     <string name="bluetooth_no_devices_found">Yakınlarda bluetooth cihazı bulunamadı</string>
     <string name="bluetooth_not_visible_to_other_devices">Diğer bluetooth cihazları tarafından görülemez</string>
@@ -1222,16 +1224,14 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_hci_snoop_log">Bluetooth HCI snoop günlüğü</string>
     <string name="bt_hci_snoop_log_summary">Bir dosyadaki tüm Bluetooth HCI paketlerini alır</string>
     <string name="bt_ldac_declaration">Bluetooth cihazı LDAC özelliğini desteklediğinde cihaz otomatik olarak bağlanır. LDAC özelliği yüksek kaliteli ses deneyimi sağlarken aynı zamanda daha fazla güç tüketimine neden olur. Oynatma işlemi Bluetooth yazılım sınırlamalarından dolayı gecikebilir.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC, yüksek kaliteli ses deneyimi sağlar ve aynı zamanda daha yüksek güç tüketimine sebep olur
-Bu özellik [Settings] menüsünden kapatılabilir"</string>
+    <string name="bt_ldac_dialog_summary">"LDAC, yüksek kaliteli ses deneyimi sağlar ve aynı zamanda daha yüksek güç tüketimine sebep olur. Bu özellik [Settings] menüsünden kapatılabilir"</string>
     <string name="bt_ldac_dialog_title">Varsayılan olarak bağlanılan mevcut cihaz LDAC özelliğini desteklemektedir:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC özelliği yüksek kaliteli ses deneyimi sağlarken aynı zamanda daha fazla güç tüketimine neden olur. Oynatma işlemi Bluetooth yazılım sınırlamalarından dolayı gecikebilir</string>
     <string name="bt_ldac_open_dialog_title">LDAC açılsın mı?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Özellikler</string>
     <string name="bt_lhdc_declaration">Bluetooth cihazı LHDC özelliğini desteklediğinde cihaz otomatik olarak bağlanır. LHDC özelliği yüksek kaliteli ses deneyimi sağlarken aynı zamanda daha fazla güç tüketimine neden olur. Oynatma işlemi Bluetooth yazılım sınırlamalarından dolayı gecikebilir</string>
-    <string name="bt_lhdc_dialog_summary">"LHDC, yüksek kaliteli ses deneyimi sağlar. Fakat aynı zamanda daha yüksek güç tüketimine sebep olur
-Bu özellik Ayarlar menüsünden kapatılabilir"</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC, yüksek kaliteli ses deneyimi sağlar. Fakat aynı zamanda daha yüksek güç tüketimine sebep olur. Bu özellik Ayarlar menüsünden kapatılabilir"</string>
     <string name="bt_lhdc_dialog_title">Varsayılan olarak bağlanılan mevcut cihaz LHDC özelliğini desteklemektedir:</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC özelliği yüksek kaliteli ses deneyimi sağlarken aynı zamanda daha fazla güç tüketimine neden olur. Oynatma işlemi Bluetooth yazılım sınırlamalarından dolayı gecikebilir</string>
     <string name="bt_lhdc_open_dialog_title">LHDC açılsın mı?</string>
@@ -1675,6 +1675,7 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="dark_color_summary_oled">Sistem arkaplanı ve uyumlu uygulamalar için daha karanlık renk paleti kullanın. Karanlık mod güç tüketimini azaltır ve göz yorgunluğunu azaltmaya yardımcı olur</string>
     <string name="dark_ui_mode">Gece modu</string>
     <string name="dark_ui_mode_title">Gece modunu ayarla</string>
+    <string name="dark_wallpaper_mode">Duvar kağıdı karanlık efekti</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Daralt</string>
     <string name="dashboard_title">Ayarlar</string>
     <string name="data_limit">Veri sınırı</string>
@@ -2755,6 +2756,7 @@ Yerel yedeklemeler:
 Yerel yedeklemeler sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya kaydetmenize olanak tanır (MIUI-backup-AllBackup). Yedek dosyası oluşturulduktan sonra USB kablosuyla bilgisayarınıza aktarabilirsiniz
 Not:
 Öğeleri yedeklemek ve geri yüklemek için Mi PC Suite'i kullanabilirsiniz
+
 Bulut yedekleri:
 Sistem ayarlarını, ana ekran düzenini, uygulamaları ve diğer öğeleri Xiaomi buluta wifi üzerinden yedekleyebilirsiniz
 
@@ -5001,7 +5003,7 @@ Ekran sabitlemeyi kullanmak için:
     <string name="search_lab_functions_title">Beta özellikler;Laboratuar işlevleri</string>
     <string name="search_label">Ayarlar</string>
     <string name="search_language_settings">Dil &amp; giriş;Dil;Dil ve giriş;Giriş;Klavye</string>
-    <string name="search_led_settings">Led;Bildirim ışığı;Led ışığı</string>
+    <string name="search_led_settings">Işık;Bildirim ışığı;Işık bildirimi</string>
     <string name="search_legal_information">Yasal bilgiler</string>
     <string name="search_local_auto_backup_section_title">Otomatik yedekle;Otomatik yedekle;Otomatik olarak yedekle</string>
     <string name="search_local_backup_section_title">Yerel yedekler</string>

@@ -50,6 +50,7 @@
     <string name="device_type_vivo_phone">Vivo</string>
     <string name="device_type_xiaomi_phone">Xiaomi</string>
     <string name="enable_midrop">Aç</string>
+    <string name="error_ap_in_use">Bağlantı noktası açık iken dosyalar diğer cihazlara gönderilemiyor</string>
     <string name="error_ap_or_screen_already_hosting">Yansıtma yapılırken veya internet paylaşımı kullanılırken öğeler diğer cihazlara gönderilemiyor</string>
     <string name="error_device_lost">Diğer cihaz ulaşılamıyor gibi görünüyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="error_has_occurred">Bir hata oluştu</string>
@@ -69,8 +70,10 @@
     <string name="error_send_file_not_found">Dosya bulunamadı. Tekrar deneyin</string>
     <string name="error_send_file_service_disabled">Giden aktarmalar iptal edildi</string>
     <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin</string>
+    <string name="error_slave_wifi_in_use">Çift wifi açık iken dosya paylaşımı çalışmayacaktır. Ayarlar menüsünden çift wifi özelliğini kapatın ve tekrar deneyin</string>
     <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="error_user_refuse">Gönderilemiyor. Aktarma reddedildi</string>
+    <string name="error_wifi_display_in_use">Yansıtılıyorken dosyalar diğer cihazlara gönderilemiyor</string>
     <string name="fail_in_send">Gönderilemedi</string>
     <string name="file_cannot_print">Bu öğe yazdırılamıyor</string>
     <string name="file_cannot_screen_throw">Bu öğe yansıtılamıyor</string>
@@ -82,6 +85,7 @@
     <string name="file_transfer_progress">İlerleme: %%%1$d</string>
     <string name="file_transfer_progress_title">Devam ediyor</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
+    <string name="go_to_settings">Ayarlar</string>
     <string name="help">Yardımı görüntüle</string>
     <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
     <string name="hide">Gizle</string>
@@ -171,6 +175,8 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="wait_remote_receive_tips">Bekliyor</string>
     <string name="wifi_is_not_enabled">Önce wifi bağlantısını açın</string>
     <string name="xiaomi">Mi</string>
+    <string name="xiaomi_10">Mi 10</string>
+    <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -193,7 +199,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="xiaomi_mix_alpha">Mi MIX Alpha</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
-    <string name="xiaomi_poco_f1">Poco F1</string>
+    <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="app_name">Dosya paylaşımı</string>
     <string name="cancel_current">Geçerli olanı iptal et</string>
     <string name="disconnect">Bağlantıyı kes</string>

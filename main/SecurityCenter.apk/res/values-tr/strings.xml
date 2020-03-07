@@ -140,6 +140,8 @@
     <string name="already_close_gamebooster">Oyun hızı arttırması kapalı</string>
     <string name="anti_disturb_msg_detail">Gelen arama bildirimleri hariç tüm bildirimleri kapat</string>
     <string name="anti_disturb_msg_title">Rahatsız etme</string>
+    <string name="antispam_mms_text">Engellenen mesajları görüntüleyebilmek için mesajlaşmayı varsayılan mesaj uygulamanız olarak ayarlayın</string>
+    <string name="antispam_mms_text_setting">Engelleme listesini kullanabilmek için mesajlaşmayı varsayılan mesaj uygulamanız olarak ayarlayın</string>
     <string name="antispam_mode_details">Engelleme listesi ayrıntıları</string>
     <string name="antispam_notificaiton_type_show_all">Tüm numaralar</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Kara listeye eklenmeyen numaralar</string>
@@ -275,10 +277,10 @@
     <string name="app_manager_reset_app_preferences_button">Sıfırla</string>
     <string name="app_manager_reset_app_preferences_desc">"Aşağıda belirtilen uygulama tercihlerini sıfırlayacaktır: 
  
-\""<li>Devre dışı bırakılan uygulamalar</li>"\"
-\""<li>Devre dışı bırakılan uygulama bildirimleri</li>"\"
-\""<li>İşlemler için varsayılan uygulamalar</li>"\"
-\""<li>Uygulamalar için arka plan veri kısıtlamaları</li>"\"
+<li>Devre dışı bırakılan uygulamalar</li>
+<li>Devre dışı bırakılan uygulama bildirimleri</li>
+<li>İşlemler için varsayılan uygulamalar</li>
+<li>Uygulamalar için arka plan veri kısıtlamaları</li>
  
 Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
@@ -1275,7 +1277,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-    <string name="gdpr_msg">"\"\"\"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. \"\""<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın\"</string>
+    <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın"</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">%s alanını boşaltabilirsiniz</string>
@@ -2462,6 +2464,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="st_group_list_management">Engelli listesini yönet</string>
     <string name="st_hint_add_head_number">Ön ek girin</string>
     <string name="st_hint_add_phonenumber">Telefon numarasını girin</string>
+    <string name="st_hint_operatelist">Bu kural zaten var gibi görünüyor</string>
     <string name="st_message_SMS_AntiSpam">Kısa mesajları engelle</string>
     <string name="st_message_SMSpass">Kısa mesajlara izin ver</string>
     <string name="st_message_phone_AntiSpam">Aramaları engelle</string>
@@ -2585,7 +2588,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını düşürür. Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
-    <string name="superpower_notification_hint_enter">Turn on</string>
+    <string name="superpower_notification_hint_enter">Aç</string>
     <string name="superpower_notification_new_title">"Kalan pilin %%%d'den az"</string>
     <string name="superpower_notification_summary">Ultra pil tasarrufunu aç</string>
     <string name="superpower_notification_time_12">dd MMMM EEEE</string>
