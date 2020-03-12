@@ -922,6 +922,8 @@
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Ayarlar menüsünde indirilen fotoğrafların kalitesini seçebilir veya otomatik indirme özelliğini kapatabilirsiniz</string>
     <string name="downloading_title">Mi bulut alanından fotoğraf indirme</string>
+    <string name="drag_view_tip_sub_title">Yeniden düzenlemek için bir albüme basın ve basılı tutun</string>
+    <string name="drag_view_tip_title">Albümleri yeniden düzenle</string>
     <string name="dump_db_info">Veri tabanı bilgisi dökümü</string>
     <string name="edit_baby_info">Bebek bilgilerini görüntüle</string>
     <string name="edit_subtitle_enter" />
@@ -1296,8 +1298,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi paylaşım</string>
+    <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Mi hesabı gerekmektedir)</string>
     <string name="month_view_tip_button_text">Anladım</string>
     <string name="month_view_tip_sub_title">Ay görünümüne geçmek için ekranı sıkın</string>
@@ -2208,6 +2210,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="vlog_caption_style">Altyazı biçimi</string>
     <string name="vlog_caption_title">Krediler</string>
     <string name="vlog_clip_cut_fail">Klipler en az %1$d saniye uzunluğunda olmalıdır</string>
+    <string name="vlog_clip_cut_fail_min_time">Klipler en az %1$s saniye uzunluğunda olmalıdır</string>
     <string name="vlog_clip_delete_dialog_btn_cancel">İptal et</string>
     <string name="vlog_clip_delete_dialog_btn_delete">Sil</string>
     <string name="vlog_clip_delete_dialog_btn_msg">Bu video silinsin mi?</string>
@@ -2246,8 +2249,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="vlog_filter_zhaomu">Şafak</string>
     <string name="vlog_float_view_ratio">En boy oranı</string>
     <string name="vlog_load_data_fail">Veri yüklenemedi</string>
-    <string name="vlog_mi_clip">Video düzenleyici</string>
-    <string name="vlog_mi_clip_cn">Video düzenleyici</string>
+    <string name="vlog_mi_clip">Video düzenle</string>
+    <string name="vlog_mi_clip_cn">Video düzenle</string>
     <string name="vlog_nav_title_audio">Ses parçaları</string>
     <string name="vlog_nav_title_caption">Başlıklar</string>
     <string name="vlog_nav_title_clip">Düzenleyici</string>

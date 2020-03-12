@@ -179,6 +179,12 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
 Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için %2$s öğesine dokunun"</string>
     <string name="appdownloader_wifi_required_title">Dosya operatör ağı üzerinden indirilemeyecek kadar büyük</string>
     <string name="application_name">Tarayıcı</string>
+    <string name="aqi_excellent">Mükemmel hava</string>
+    <string name="aqi_good">İyi hava</string>
+    <string name="aqi_light_pollution">Işık kirliliği</string>
+    <string name="aqi_moderately_polluted">Orta derecede kirlilik</string>
+    <string name="aqi_severe_pollution">Şiddetli kirlilik</string>
+    <string name="aqi_very_polluted">Şiddetli kirlilik</string>
     <string name="at_miui_browser">Tarayıcı</string>
     <string name="auto_download_e_c">Korsan internet sitesi gezinme sayfası</string>
     <string name="auto_download_show_e_n">Korsan bağlantı yönlendirme sayfası gösterimi</string>
@@ -1018,7 +1024,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="short_video_net_dialog_continue">Devam et</string>
     <string name="short_video_net_dialog_title">Şu anda wifi olmayan bir ortamda oynatmaya devam etmek trafik tüketecektir</string>
     <string name="short_video_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
-    <string name="short_video_tip">Bak! Eğlenceli video</string>
+    <string name="short_video_tip">Eğlenceli videolar</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız
 Topladığımız veriler şunlardır:
 1. Güvenli bağlantılar: Hizmetlerimizi kullanırken ziyaret ettiğiniz internet sitelerinin bağlantılarını toplayacağız

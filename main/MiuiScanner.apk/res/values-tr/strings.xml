@@ -74,6 +74,18 @@
     <string name="choose_open_code_app">Uygulama seçin</string>
     <string name="choose_pay_title">Ödeme yöntemini seçin</string>
     <string name="choose_picture">QR kod resmini seçin</string>
+    <string name="classesNameNull_toast">Ders adı boş bırakılamaz</string>
+    <string name="classes_canfirmTitle">Sonuçları onaylayın ve içe aktarmaya başlayın</string>
+    <string name="classes_company">İçe aktar</string>
+    <string name="classes_dealalert">Not: İçe aktarılan dersler önceki verinin üzerine yazılacaktır</string>
+    <string name="classes_delete">Dersi sil</string>
+    <string name="classes_deleteMessage">Bu dersi kalıcı olarak sil?</string>
+    <string name="classes_edit_dialog_title">Ders adı</string>
+    <string name="classes_edit_name">Ders adı girin</string>
+    <string name="classes_fail">Tanınamadı. Tekrar deneyin</string>
+    <string name="classes_isNull">Henüz hiç ders eklemediniz</string>
+    <string name="classes_titlt">Ders programı</string>
+    <string name="classes_topTitle">Ders programınızı tarayın</string>
     <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wifi ağını açın</string>
     <string name="common_retake_picture">Tekrar çek</string>
     <string name="common_retry">Tekrar deneyin</string>
@@ -249,6 +261,7 @@
     <string name="study_searching">Sonuçlar aranıyor</string>
     <string name="study_title">Çözmek istediğiniz sorunu taratın</string>
     <string name="study_vendor_info">Zuoyebang tarafından sağlanmaktadır</string>
+    <string name="submitting">Gönderiliyor</string>
     <string name="suggested_submission_success">Geri bildiriminiz başarıyla gönderildi</string>
     <string name="switch_open">Aç</string>
     <string name="take_a_picture">Bir fotoğraf çek</string>
@@ -317,7 +330,6 @@ istediğinizi söylemeyi deneyin"</string>
     <string name="keywords_search_namecard">Tarayıcı;Kartvizit;Kartvizit;Tarama;Tarama kartları;Kart;Kartlar;Rehber;İletişim.</string>
     <string name="keywords_search_study">Tarayıcı;Sorunlar;Sorunları çöz;Ödev;Okul;Fizik;Kimya;Matematik;Matematik;İngilizce;Tarih;Çince</string>
     <string name="keywords_search_translation">Tarayıcı;Çeviri;Sözlük;İngilizce;Yabancı dil;Dil;Dil;İngilizce;Çince;İtalyanca;Almanca;Japonca;Korece;İspanyolca;Fransızca;Baidu Çevir;Youdao sözlüğü;Baidu sözlük;Google çeviri</string>
-    <string name="submitting">Gönderiliyor</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>

@@ -47,12 +47,18 @@
     <string name="calendar_tip">Etkinlik hatırlatıcı sesleri, takvim hatırlatıcıları, notlar ve görevler için çalışır</string>
     <string name="category_other">Diğer sınıflandırma</string>
     <string name="color_gamut">Renk aralığı</string>
+    <string name="contact_description">Ana ekranınıza kişi kısayollarını yerleştirin ve arama yapmak için dokunun</string>
+    <string name="contact_title">Kişi kısayolları</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="create">Oluştur</string>
     <string name="create_failed">Oluşturulamadı</string>
     <string name="create_shortcut">Kısayol oluştur</string>
     <string name="created">Oluşturuldu</string>
     <string name="created_successfully">Oluşturma başarılı oldu</string>
+    <string name="cu_confirm">Ayarla</string>
+    <string name="display_description">Daha büyük simgeler, büyük metin ve daha az görsel karmaşa</string>
+    <string name="display_title">Daha büyük eşyalar</string>
+    <string name="exit_easymode">Basit modu kapat</string>
     <string name="first_unlock_time">İlk açma zamanı:</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
@@ -106,7 +112,12 @@
     <string name="sms_received_sound_title">Gelen mesaj</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Tüm ekran içeriğini sRGB renk kontrasında göster</string>
+    <string name="start_easymode">Basit modunu aç</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
+    <string name="steady_on_screen_notify">Kesintisiz kullanım hakkında bilgilendirme</string>
+    <string name="steady_on_screen_setting">Kesintisiz oturumlar için zaman sınırı</string>
+    <string name="steady_on_screen_summary">Kesintisiz oturumlar için zaman sınırı</string>
     <string name="stop_app_timer">Ekran süresini kapat</string>
     <string name="stop_app_timer_fail">Ekran süresi kapatılamadı</string>
     <string name="stop_app_timer_success">Ekran süresi kapatıldı</string>
@@ -114,8 +125,12 @@
     <string name="stop_summary">Devre dışı bırakıldıktan sonra tüm ekran zaman yönetimi verileri silinecektir</string>
     <string name="suggestion">Öneri ve geri bildirim</string>
     <string name="thememanager_not_found">Temalar açılamadı. Bu uygulamanın cihazınızda yüklü olduğundan emin olun</string>
+    <string name="title_activity_easy_mode">Basit mod</string>
+    <string name="to_authorize">İzin ver</string>
     <string name="today_usage_title">Bugünün istatistikleri</string>
     <string name="today_use_time">Bugün kullanılan: %1$s</string>
+    <string name="touch_description">Optimize edilmiş düğmeler ve kısayollar yanlışlıkla dokunmayı önlemenize yardımcı olur</string>
+    <string name="touch_title">Gelişmiş dokunmatik kontroller</string>
     <string name="trend_from_yesterday_equal">Dün kullanımın uzunluğu ile tutarlı</string>
     <string name="trend_from_yesterday_less">Dünden %1$s daha az kullanıyorsunuz</string>
     <string name="trend_from_yesterday_less_simple">%1$s dünden daha düşük</string>
@@ -178,6 +193,8 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
 Size hizmet vermek için ekran kullanımınızla ilgili bilgileri toplamamız gerekir. Ekran kilidini açma sayısı, ekran kullanım süresi, odaklama modunun süresi
 Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilgileri toplamak için izinlerinizi veya işlevlerinizi aşağıdaki gibi olması gerekir:"</string>
     <string name="usage_home_premission_second_summary">Normal çalışabilmesi için bu uygulamanın kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı vede yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız. Yetkilendirmenizi Ekran süresi > Ayarlar > Ekran saatini kapat seçeneklerinden iptal edebilirsiniz"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Bu uygulamayı kullanmadan önce &lt;a href='%1s'>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href='%2s'>Gizlilik politikasını&lt;/a> okuyun ve kabul edin"</Data></string>
     <string name="usage_home_premission_second_summary_new">"Kişisel bilgilerinizi korumak için ilgili yasa ve yönetmeliklere ve gizlilik politikalarına kesinlikle uyacağız. Yukarıdaki gerekli izinleri veya işlevleri kabul etmiyorsanız bu uygulama düzgün çalışmayacaktır. Ekran zaman yönetimi > Ayarlar > Ekran zaman yönetimini devre dışı bırakma izninizi veya gizlilikle ilgili diğer hususları geri almak için bizimle privacy@xiaomi.com adresinden iletişime geçebilirsiniz"</string>
     <string name="usage_no_net_summary">Lütfen internet bağlantınızın normal olup olmadığını kontrol edin</string>
     <string name="usage_reach_device_limit">Cihaza ulaşmak Xliff sınır süresi. Kullanmaya devam edilemez</string>

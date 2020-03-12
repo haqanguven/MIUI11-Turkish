@@ -41,12 +41,6 @@
         <item>Dahili depolama</item>
         <item>Harici depolama</item>
     </string-array>
-    <string-array name="screenrecorder_utils_support_high_frames_cpu">
-        <item>Qualcomm teknolojileri, Inc SDM845</item>
-        <item>Qualcomm teknolojileri, Inc MSM8998</item>
-        <item>Qualcomm teknolojileri, Inc SM8150</item>
-        <item>Qualcomm teknolojileri, Inc SM8250</item>
-    </string-array>
     <string-array name="screenrecorder_settings_bit_rate_values">
         <item>200</item>
         <item>100</item>
@@ -102,5 +96,11 @@
     <string-array name="screenrecorder_settings_storage_location_values">
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="screenrecorder_utils_support_high_frames_cpu">
+        <item>Qualcomm teknolojileri, Inc SDM845</item>
+        <item>Qualcomm teknolojileri, Inc MSM8998</item>
+        <item>Qualcomm teknolojileri, Inc SM8150</item>
+        <item>Qualcomm teknolojileri, Inc SM8250</item>
     </string-array>
 </resources>

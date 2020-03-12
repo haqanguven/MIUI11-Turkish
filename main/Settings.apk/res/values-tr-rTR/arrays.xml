@@ -6,6 +6,21 @@
         <item>@string/wifi_security_psk_generic</item>
         <item>@string/wifi_security_eap</item>
     </string-array>
+    <string-array name="aggregate_entries">
+        <item>Önerilen</item>
+        <item>Önemli</item>
+        <item>Önemsiz</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>Otomatik</item>
+        <item>Bildirimler bildirim gölgesinde görünecek</item>
+        <item>Bildirimler ayrı bir klasörde görünecek</item>
+    </string-array>
+    <string-array name="aggregate_values">
+        <item>0</item>
+        <item>-1</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
@@ -710,8 +725,8 @@
         <item>-1</item>
     </string-array>
     <array name="bytes_picker_sizes">
-        <item>@android:string/notification_inbox_ellipsis</item>
-        <item>@android:string/imProtocolNetMeeting</item>
+        <item>@android:string/megabyteShort</item>
+        <item>@android:string/gigabyteShort</item>
     </array>
     <string-array name="captioning_color_selector_titles">
         <item>@string/color_unspecified</item>

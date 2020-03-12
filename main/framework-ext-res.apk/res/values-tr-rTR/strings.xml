@@ -39,7 +39,7 @@
     <string name="translation_query_error">Sonuçlar bulunamadı</string>
     <string name="translation_query_error_network">Ağa bağlanılamıyor. Ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="translation_more">Daha fazla</string>
-    <string name="autofill">Otomatik dolgu</string>
+    <string name="autofill">Otomatik doldur</string>
     <string name="content_description_search">Ara</string>
     <string name="content_description_dial">Ara</string>
     <string name="content_description_web_url">Tarayıcı</string>

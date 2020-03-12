@@ -493,12 +493,12 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="one">%1$s-%2$s sırasında %3$d kez reddedildi</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">%1$d uygulamasının hassas davranış bildirimleri kapalı</item>
-        <item quantity="one">%1$d uygulamasının hassas davranış bildirimleri kapalı</item>
+        <item quantity="other">%1$d uygulamanın hassas davranış bildirimleri kapalı</item>
+        <item quantity="one">%1$d uygulamanın hassas davranış bildirimleri kapalı</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">%1$d uygulamasının hassas davranış bildirimleri açık</item>
-        <item quantity="one">%1$d uygulamasının hassas davranış bildirimleri açık</item>
+        <item quantity="other">%1$d uygulamanın hassas davranış bildirimleri açık</item>
+        <item quantity="one">%1$d uygulamanın hassas davranış bildirimleri açık</item>
     </plurals>
     <plurals name="game_booster_incoming_call_duration_p1">
         <item quantity="other">%1$s:</item>
