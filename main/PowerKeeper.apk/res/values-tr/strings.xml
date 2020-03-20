@@ -80,6 +80,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="cloud_china_addr">Çin sunucusu verilerini güncelle</string>
     <string name="cloud_staging_addr">Hazırlama sunucusunun adresini güncelle</string>
     <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelle</string>
+    <string name="cloud_russion_addr">Rus sunucu verilerini güncelle</string>
     <string name="current_cloud_addr_is">Bulut kontrol sunucusu adresi:</string>
     <string name="update_profile_sucess">Sunucudan başarıyla güncellendi</string>
     <string name="update_profile_failture_not_connect_wifi">Güncellenemedi. Wifi ağına bağlanın ve tekrar deneyin</string>

@@ -570,13 +570,13 @@ Oynatma kalitesi"</string>
     <string name="cfb_title">Meşgul olduğunda yönlendir</string>
     <string name="cfnrc_title">Ulaşılamadığında yönlendir</string>
     <string name="cfnrc_title_cta">Ulaşılamadığında yönlendir</string>
-    <string name="cfnry_time_fifteen_sec">15 saniye</string>
-    <string name="cfnry_time_five_sec">5 saniye</string>
+    <string name="cfnry_time_fifteen_sec">%d saniye</string>
+    <string name="cfnry_time_five_sec">%d saniye</string>
     <string name="cfnry_time_setting_title">Bekleme süresini ayarla</string>
-    <string name="cfnry_time_ten_sec">10 saniye</string>
-    <string name="cfnry_time_thirty_sec">30 saniye</string>
-    <string name="cfnry_time_twenty_five_sec">25 saniye</string>
-    <string name="cfnry_time_twenty_sec">20 saniye</string>
+    <string name="cfnry_time_ten_sec">%d saniye</string>
+    <string name="cfnry_time_thirty_sec">%d saniye</string>
+    <string name="cfnry_time_twenty_five_sec">%d saniye</string>
+    <string name="cfnry_time_twenty_sec">%d saniye</string>
     <string name="cfnry_title">Yanıtlanmadığında yönlendir</string>
     <string name="cfu_title">Aramaları her zaman yönlendir</string>
     <string name="change_data_preference_4g_only_prompt">Yalnızca 4G uyumlu bir Sim kartına sahipsiniz gibi görünüyor. Sim kartınız mobil veri için varsayılan olarak ayarlansın mı?</string>
@@ -721,12 +721,22 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="daltonizer_mode_protanomaly">Kırmızı renk körlüğü (Kırmızı-yeşil)</string>
     <string name="daltonizer_mode_tritanomaly">Mavi renk körlüğü (mavi-sarı)</string>
     <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kılındı</string>
+    <string name="data_disable_warning_no_mms">Mobil veriyi kapatırsanız multimedya gönderemez ve alamazsınız. Ancak cihazınız wifi ağına bağlıyken bunu yapabilirsiniz</string>
+    <string name="data_disable_warning_with_mms">Mobil veriyi kapatırsanız yine de multimedya gönderebilir ve alabilirsiniz. İnterneti kullanmak için wifi ağına bağlanın</string>
+    <string name="data_disable_warning_with_mms_lgu">"Mobil veriyi kapatırsanız yine de multimedya gönderebilir ve alabilirsiniz. İnterneti kullanmak için wifi ağına bağlanın
+
+Mobil veri kapatılsın mı?"</string>
+    <string name="data_enable_always_warn">Mobil veri kullanıp kullanmayacağınızı sorun</string>
     <string name="data_enable_summary">Cihazın mobil veri kullanımına izin verir</string>
+    <string name="data_enable_warning">Her zaman mobil veri kullanılmasına izin vermek operatör planınızın dışında ek ücretler oluşturabilir. Yine de bağlanılsın mı?</string>
+    <string name="data_enable_warning_lgu">"Operatör planınızda aksi belirtilmedikçe mobil veri kullanılması ek operatör ücretleri oluşturabilir
+
+Mobil veri yine de kullanılsın mı?"</string>
     <string name="data_enabled">Mobil veri</string>
     <string name="data_plan">Mobil veri planı</string>
-    <string name="data_usage_disable_mobile">Turn off mobile data?</string>
-    <string name="data_usage_template">%1$s mobile data used %2$s</string>
-    <string name="data_usage_title">App data usage</string>
+    <string name="data_usage_disable_mobile">Mobil veri kapatılsın mı?</string>
+    <string name="data_usage_template">%1$s mobil veri kullanıldı %2$s</string>
+    <string name="data_usage_title">Uygulama veri kullanımı</string>
     <string name="data_usage_uninstalled_apps">Kaldırılan uygulamalar</string>
     <string name="data_usage_uninstalled_apps_users">Kaldırılmış kullanıcılar ve uygulamalar</string>
     <string name="dc_alert_dialog_message">"Bazı uygulamalar mobil veri bağlantısı gerektirir. Size %s'in neler olduğunu öğrenmek için operatörünüzle iletişime geçebilirsiniz"</string>
@@ -815,11 +825,13 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="dialpad_mno">MNO</string>
     <string name="dialpad_nine">%d</string>
     <string name="dialpad_one">%d</string>
+    <string name="dialpad_pound">\#</string>
     <string name="dialpad_pound_letters" />
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_pqrs">PQRS</string>
     <string name="dialpad_seven">%d</string>
     <string name="dialpad_six">%d</string>
+    <string name="dialpad_star">*</string>
     <string name="dialpad_star_letters" />
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_three">%d</string>
@@ -866,6 +878,12 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="emergency_enable_radio_dialog_message">Radyo sinyali açılıyor</string>
     <string name="emergency_enable_radio_dialog_retry">Hizmet alanının dışında. Yeniden deneniyor</string>
     <string name="emergency_enable_radio_dialog_title">Acil durum araması</string>
+    <string name="emm_cause_11">Mevcut operatör bu hizmeti desteklemiyor</string>
+    <string name="emm_cause_14">Mevcut operatör mobil veri hizmetlerini desteklemiyor</string>
+    <string name="emm_cause_2">Telefon numarası kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="emm_cause_3">Kullanıcı doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="emm_cause_6">Cihaz doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="emm_cause_7_8_12_13_15_16_17_22">Artık dolaşım kullanamazsınız. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşıyorsanız operatör müşteri desteğiyle iletişime geçin</string>
     <string name="empty_alert">%s alanı boş bırakılamaz</string>
     <string name="empty_networks_list">Ağ bulunamadı</string>
     <string name="enable">Aç</string>
@@ -1048,6 +1066,8 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="international_disable">Uluslararası haberler kapalı</string>
     <string name="international_enable">Uluslararası haberler açık</string>
     <string name="international_roaming_setting">Uluslararası dolaşım</string>
+    <string name="international_roaming_setting_kr">Uluslararası dolaşım</string>
+    <string name="international_roaming_setting_kr_skt">T dolaşım</string>
     <string name="internet_phone">İnternet araması</string>
     <string name="invalidPin">4 ila 8 karakter uzunluğunda bir Pin kodu girin</string>
     <string name="invalidPin2">4 ila 8 karakter uzunluğunda bir Pin2 kodu girin</string>
@@ -1074,6 +1094,16 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="keep_screen_on">Uyanık kal</string>
     <string name="keep_screen_on_summary">Şarj edilirken ekran hiçbir zaman uykuya geçmez</string>
     <string name="keywords_carrier_settings_euicc">Taşıyıcı, esim, sim, euicc, taşıyıcıları değiştir ve taşıyıcı ekle</string>
+    <string name="kt_lte_emm_cause_19_22">Ağ kaydediliyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="kt_lte_emm_cause_3">Kullanıcı doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="kt_lte_emm_cause_6">Cihaz doğrulanamadı. Yeni USim kartını taktıktan sonra cihazınızı 2 veya 3 kez yeniden başlatın. Bundan sonra hala bu sorunla karşılaşırsanız bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="kt_lte_emm_cause_8">Etkinleştirme gerekli. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="kt_lte_emm_cause_others">Ağ kaydedilemedi</string>
+    <string name="kt_lte_msim_emm_cause_19_22">Sim %d ağı kaydediyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="kt_lte_msim_emm_cause_3">"Sim %d kullanıcıyı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="kt_lte_msim_emm_cause_6">"Sim %d cihazı doğrulayamadı. Bundan sonra hala bu sorunla karşılaşırsanız bir müşteri hizmetleri merkezini ziyaret edin."</string>
+    <string name="kt_lte_msim_emm_cause_8">Sim %d aktivasyon gerektiriyor. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="kt_lte_msim_emm_cause_others">"Sim %d ağı kaydedemedi</string>
     <string name="labelCDMAMore">CDMA arama ayarları</string>
     <string name="labelCF">Arama yönlendirme</string>
     <string name="labelCFB">Meşgul olduğunda yönlendir</string>
@@ -1108,6 +1138,22 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="last_sim_callback_title">Sim kart tercihlerini hatırla</string>
     <string name="launch_defaults_none">Hiçbir varsayılan tercih ayarlanmadı</string>
     <string name="launch_defaults_some">Bazı varsayılan tercihler ayarlandı</string>
+    <string name="lgu_emm_16_17_22">Ağ kaydediliyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="lgu_emm_cause_11_12_13_15">Ağ kaydedilemedi</string>
+    <string name="lgu_emm_cause_2">Etkinleştirme gerekli. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_emm_cause_3">Kullanıcı doğrulanamadı. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_emm_cause_6">Kullanıcı doğrulanamadı. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_emm_cause_7_14">Ağ mobil veri hizmetleri sunmuyor</string>
+    <string name="lgu_emm_cause_8">Ağ kaydedilemedi. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_emm_cause_others">Ağa bağlanamıyor. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_msim_emm_cause_11_12_13_15">Sim %d ağı kaydedilemedi</string>
+    <string name="lgu_msim_emm_cause_16_17_22">Sim %d ağı kaydediyor… Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="lgu_msim_emm_cause_2">Sim %d aktivasyon gerektiriyor. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_msim_emm_cause_3">"Sim %d kullanıcı doğrulanamadı. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_msim_emm_cause_6">"Sim %d cihazı doğrulanamadı. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_msim_emm_cause_7_14">"Sim %d ağı mobil veri hizmetleri sağlamıyor</string>
+    <string name="lgu_msim_emm_cause_8">"Sim %d ağı kaydedilemedi. Bir müşteri hizmetleri merkezini ziyaret edin</string>
+    <string name="lgu_msim_emm_cause_others">"Sim %d ağa bağlanamıyor. Bir müşteri hizmetleri merkezini ziyaret edin</string>
     <string name="list_language_dtitle">Diller</string>
     <string name="list_language_summary">Haber dilini seçin</string>
     <string name="list_language_title">Dil</string>
@@ -1141,8 +1187,15 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="menu_edit">Kişiyi düzenle</string>
     <string name="messageCFB">Aramaları şuraya yönlendir</string>
     <string name="messageCFNRc">Aramaları şuraya yönlendir</string>
+    <string name="messageCFNRc_kr_kt">"Aramaları cevaplayamadığınızda gelen tüm aramaları ve kısa mesajları belirli bir numaraya yönlendiren bir şebeke servisi. Bu hizmete abone olmalısınız. Bu hizmete abone olmak veya bu hizmetten çıkmak için müşteri merkeziyle (114+ [Gönder]) bağlantı kurun. Etkinleştirmek için *72+ [aramaya yönlendirilecek numara] [Gönder] veya devre dışı bırakmak için *720 [Gönder] girin
+
+Ulaşılamadığında sayı"</string>
     <string name="messageCFNRy">Aramaları şuraya yönlendir</string>
     <string name="messageCFU">Aramaları şuraya yönlendir</string>
+    <string name="messageCFU_kr_kt">"Tüm gelen aramaları ve kısa mesajları belirli bir numaraya yönlendiren bir şebeke servisi. Bu hizmete abone olmalısınız. Aylık ücret ödersiniz. Bu hizmete abone olmak veya bu hizmetten çıkmak için müşteri merkeziyle (114+ [Gönder]) bağlantı kurun. Etkinleştirmek için *71+ [arama yönlendirecek numara] [Gönder] veya devre dışı bırakmak için *710 [Gönder] girin
+
+Her zaman bu numarayı kullan"</string>
+    <string name="messageCW_kr_kt">Görüşme sırasında ikinci bir aramayı cevaplayıp ilk aramayı beklemeye almanızı sağlayan ücretsiz bir şebeke servisi. Etkinleştirmek için *40+ [Gönder] veya devre dışı bırakmak için *400+ [Gönder] girin</string>
     <string name="messageCallBarring">Şifre girin</string>
     <string name="message_decode_error">Mesaj çözümlenirken bir hata oluştu</string>
     <string name="mhh_disable">Tıp, sağlık ve hastane kapalı</string>
@@ -1213,6 +1266,12 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Arama yapamayabilir veya mobil veri bağlantınızı kullanamayabilirsiniz. %s Sim kartını kullanmayı durdurmak istiyor musunuz?</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Acil durum arama modunda ikinci Sim kartını kısıtlama</string>
     <string name="msim_disable_sim_card_title">Sim kart kullanmayı durdur</string>
+    <string name="msim_emm_cause_11">Sim %d operatörü bu hizmeti desteklemiyor</string>
+    <string name="msim_emm_cause_14">Sim %d operatörü mobil veri hizmetlerini desteklemiyor</string>
+    <string name="msim_emm_cause_2">Sim %d telefon numarası kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="msim_emm_cause_3">Sim %d kullanıcı doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="msim_emm_cause_6">Sim %d cihaz doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"Sim %d dolaşım artık kullanılamıyor. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız taşıyıcı müşteri desteğine başvurun</string>
     <string name="msim_enable_sim">Aç</string>
     <string name="msim_general_setting">Ayarlar</string>
     <string name="msim_has_been_disabled">(Devre dışı)</string>
@@ -1247,6 +1306,8 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="network_2G">2G</string>
     <string name="network_3G">3G</string>
     <string name="network_4G">4G (Önerilen)</string>
+    <string name="network_active">Aktif ağlar</string>
+    <string name="network_available">Kullanılabilir ağlar</string>
     <string name="network_connected">Bağlandı</string>
     <string name="network_connecting">Bağlanılıyor</string>
     <string name="network_could_not_connect">Bağlantı kurulamadı</string>
@@ -1276,6 +1337,8 @@ Seçilen ağ yerine tercih edilen ağ kullanılacaktır"</string>
     <string name="network_settings_title">Mobil ağlar</string>
     <string name="network_settings_turn_off">kapalı</string>
     <string name="network_settings_warn_message">Cihazınız yalnızca manuel olarak seçmiş olduğunuz ağlara bağlanacaktır</string>
+    <string name="network_state_display">Ağ durumunu göster</string>
+    <string name="network_state_display_title">Ağ durumu ayarları</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_unlock">Kilidi aç</string>
@@ -1303,6 +1366,8 @@ Seçilen ağ yerine tercih edilen ağ kullanılacaktır"</string>
     <string name="notification_demo_version_title">Bu bir demo cihazı</string>
     <string name="notification_network_selection_text">Seçilen ağ (%s) kullanılamıyor</string>
     <string name="notification_network_selection_title">Hizmet yok</string>
+    <string name="notification_switch_auto_text">Görünüşe göre geri döndün. Yerel ağlara geçti</string>
+    <string name="notification_switch_auto_title">Mobil ağlar</string>
     <string name="notification_voicemail_no_vm_number">Sesli mesaj numarası bilinmiyor</string>
     <string name="notification_voicemail_text_format">Ara: %s</string>
     <string name="notification_voicemail_title">Yeni sesli mesaj</string>
@@ -1436,6 +1501,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın"</
     <string name="phone_in_ecm_call_notification_text">Veri bağlantısı kapalı</string>
     <string name="phone_in_ecm_notification_complete_time">%s olana kadar veri bağlantısı yok</string>
     <string name="phone_in_ecm_notification_title">Acil durum geri arama modu</string>
+    <string name="phone_report_title">Gelen arama bilgilerini oku</string>
     <string name="picture_color_mode">Resim renk modu</string>
     <string name="picture_color_mode_desc">"sRGB'yi kullan"</string>
     <string name="pin2_attempts">"
@@ -1542,6 +1608,7 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Sadece Gsm</string>
     <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Sadece WCDMA</string>
+    <string name="preferred_network_type_pref_entries_only_4g">Sadece LTE</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tercih edilen ağ türü</string>
     <string name="preferred_phone_account">Tercih edilen arama hesabı</string>
@@ -1608,7 +1675,14 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="remove_sip_account">Hesabı kaldır</string>
     <string name="removing_account">Kaldırılıyor</string>
     <string name="replace_4g_template">4G</string>
+    <string name="report_method_entries_item1">Yalnızca kulaklık bağlıyken</string>
+    <string name="report_method_entries_item2">Her zaman</string>
+    <string name="report_method_entries_item3">Kapat</string>
     <string name="requesting_unlock">Ağ kilidini açma isteniliyor</string>
+    <string name="reset_roaming_message">Dolaşım ayarını sıfırlamak için cihazınız yeniden başlatılacak</string>
+    <string name="reset_roaming_not_support">Bu Sim kart dolaşım işlemini başlatamıyor</string>
+    <string name="reset_roaming_tip">Dolaşım sıfırlanıyor</string>
+    <string name="reset_roaming_title">Dolaşımı sıfırla</string>
     <string name="respond_via_sms_canned_response_1">Şu anda konuşamıyorum. Daha sonra arar mısın?</string>
     <string name="respond_via_sms_canned_response_2">Hemen geri arayacağım</string>
     <string name="respond_via_sms_canned_response_3">Daha sonra arayacağım</string>
@@ -1634,11 +1708,17 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="roaming">Veri dolaşımı</string>
     <string name="roaming_alert_title">Veri dolaşımına izin verilsin mi?</string>
     <string name="roaming_check_price_warning">Fiyatlandırma için şebeke sağlayıcınıza danışın</string>
+    <string name="roaming_customer_service_message_kr">Gezici müşteri desteğiyle iletişim kurmak için dokunun. Bu görüşme yurt dışında ücretsizdir</string>
+    <string name="roaming_customer_service_summary_kr">Yurtdışı ücretsiz aramalar</string>
+    <string name="roaming_customer_service_title_kr">Gezici müşteri desteği</string>
     <string name="roaming_disable">Dolaşımdayken veri servislerine bağlan</string>
+    <string name="roaming_disable_kr">Veri dolaşımı ve uluslararası dolaşım ayarları</string>
     <string name="roaming_enable">Dolaşımdayken veri servislerine bağlan</string>
     <string name="roaming_notification_content">Aramaları daha kolay hale getirmek için ülke kodlarını otomatik olarak ekleyebilirsiniz</string>
     <string name="roaming_notification_title">Dolaşım modu etkinleştirilmiş gibi görünüyor</string>
     <string name="roaming_reenable_message">Veri dolaşımı kapalı durumdayken ev ağından ayrıldığınız için veri bağlantısını kaybettiniz</string>
+    <string name="roaming_user_package_summary_kr">Dolaşım paketinizi satın alın, iptal edin ve düzenleyin. Dolaşımdayken bu menüyü kullanmak için ücretlendirilmezsiniz</string>
+    <string name="roaming_user_package_title_kr">Dolaşım paketini kullan</string>
     <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Yüksek miktarda veri dolaşım ücretlerine maruz kalabilirsiniz</string>
     <string name="rtt_mode_more_information">RTT, işitme engelli, işitme zorluğu olan, konuşma engelli olan veya yalnız sesten fazlasına ihtiyaç duyan arayanlara yardımcı olur.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Daha fazla&lt;/a> &lt;br>&lt;br> - RTT aramaaları, bir mesaj transkripti olarak kaydedilir ve &lt;br> - RTT görüntülü aramalar için kullanılamaz</string>
     <string name="rtt_mode_summary">Sesli aramada mesajlaşmaya izin ver</string>
@@ -1753,6 +1833,18 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="sim_service_setting">Mi Sim &amp; Mi dolaşım</string>
     <string name="simulate_color_space">Renk uzayını simüle et</string>
     <string name="singleContactImportedMsg">Kişi içe aktarıldı</string>
+    <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Devre dışı bırak</string>
+    <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Devre dışı bırakmak için Sim'i seçin"</string>
+    <string name="single_fiveg_dialog_title_prompt">Dikkat</string>
+    <string name="single_fiveg_dialog_title_remind">Dikkat</string>
+    <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Anladım</string>
+    <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">5G şebekeleri için yalnızca bir Sim kart etkinleştirilebilir. Önce veri Siminiz için farklı bir ağ türü seçin</string>
+    <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Sim kartı devre dışı bırak</string>
+    <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Çift Sim kullanın</string>
+    <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">5G ağlarını kullanmak için Sim kartlarından birinin devre dışı bırakılması gerekir. Çift Sim kullanmaya devam etmek istiyorsanız farklı bir ağ türü seçin</string>
+    <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Dikkat</string>
+    <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">5G ağları için yalnızca bir Sim kart etkinleştirilebilir. Aşağıdaki etkinleştir düğmesine dokunduğunuzda diğer Sim kart devre dışı bırakılır</string>
+    <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Etkinleştir</string>
     <string name="sip_account_disable">Hesap aktif değil. Aramaları kabul edemiyorum</string>
     <string name="sip_account_list">SIP hesapları</string>
     <string name="sip_accounts">İnternet araması hesapları (SIP)</string>
@@ -1780,6 +1872,16 @@ Sim kartınız bir sonraki başarısız oldu girişimden sonra kilitlenecektir"<
     <string name="sip_save_register_error">Yeni bir SIP profili oluşturulamadı ve kaydedilemedi</string>
     <string name="sip_settings">İnternet araması</string>
     <string name="sip_system_decide">Otomatik</string>
+    <string name="skt_emm_cause_12_13_16_17_22">Ağ kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="skt_emm_cause_2">Telefon numarası kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_emm_cause_3">Kullanıcı doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_emm_cause_6">Cihaz doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_emm_cause_7_8_15">"Ağ kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_msim_emm_cause_12_13_16_17_22">"% D SIM, ağ kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
+    <string name="skt_msim_emm_cause_2">Sim %d telefon numarasını kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_msim_emm_cause_3">Sim %d kullanıcıyı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_msim_emm_cause_6">Sim %d kartı cihazı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
+    <string name="skt_msim_emm_cause_7_8_15">Sim %d ağ kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)"</string>
     <string name="smart_divert_summary">CFNRc ayarları</string>
     <string name="smart_divert_title">Akıllı yönlendirme</string>
     <string name="sms_messages_title">Mesaj</string>

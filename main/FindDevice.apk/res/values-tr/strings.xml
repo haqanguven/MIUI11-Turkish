@@ -80,6 +80,7 @@ i.mi.com adresinde oturum açın ve cihazınızın kilidini bu adresten açmayı
     <string name="lock_msg_phone">İletişim bilgileri: %s</string>
     <string name="emergency_call">Acil arama</string>
     <string name="return_to_call">Aramaya geri dön</string>
+    <string name="unlock_number">Kilit açma kodu: %s</string>
     <string name="default_debt_msg_words">"Bu cihaz gecikmiş taksit ödemesi nedeniyle kilitlendi
 Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="sys_notification_async_verify_title">Cihazı bul özelliğini yeniden etkinleştir</string>

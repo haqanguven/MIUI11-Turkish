@@ -91,6 +91,18 @@
         <item>vnd.android.cursor.item/note</item>
         <item>vnd.android.cursor.item/relation</item>
     </string-array>
+    <string-array name="dialog_choice_report_class">
+        <item>Normal kısa mesaj</item>
+        <item>Promosyonlu mesaj</item>
+        <item>Promosyonlu ticaret pazarlaması</item>
+        <item>Operatör tanıtımı</item>
+        <item>Promosyonlu finansman</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Gönderilen iş tanıtımı mesajı (%s)</item>
+        <item>Operatör mesajı (%s)</item>
+        <item>Finansal metin mesajı (%s)</item>
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maksimum</item>
         <item>2 gün</item>

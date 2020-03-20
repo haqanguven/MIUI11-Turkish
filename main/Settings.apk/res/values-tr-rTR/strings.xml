@@ -292,7 +292,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="advanced_security_title">Gelişmiş</string>
     <string name="advanced_settings">Ek ayarlar</string>
     <string name="advanced_settings_summary">Diğer ayar seçeneklerini etkinleştirin</string>
-    <string name="aggregate_title">Gruplandırılmış bildirimler için kurallar</string>
+    <string name="aggregate_title">Bildirim önceliği</string>
     <string name="agps_roaming">Dolaşımdayken A-GPS</string>
     <string name="agps_roaming_dia">Dolaşımdayken A-GPS kullanmak mobil veri kullanımınızı arttırabilir. Tarifenizin veri kullanım limitini aşarsanız operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz</string>
     <string name="agps_roaming_dia_title">Dolaşımdayken A-GPS kullan</string>
@@ -857,7 +857,7 @@ Uygulamalar:
     <string name="block_list_remove_dialog_title">%s adlı cihazı engelli listesinden kaldır</string>
     <string name="block_list_summary">Bu bağlantı noktasına bağlanma izni olmayan cihazları görüntüleyin</string>
     <string name="block_list_title">Engelli listesi</string>
-    <string name="block_title">Bildirimleri göster</string>
+    <string name="block_title">Bildirimler</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Medya sesine bağlanıldı</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesi için kullan</string>
@@ -6478,7 +6478,6 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="vibrate_on_touch_title">Dokunma titreşimi</string>
     <string name="vibrate_title">Titreşim</string>
     <string name="vibrate_when_ringing_title">Aramalarda ayrıca titret</string>
-    <string name="video_tool_box_title">Video araç kutusu</string>
     <string name="vip_list">Gelen aramalara izin ver</string>
     <string name="virtual_keyboard_category">Sanal klavye</string>
     <string name="virtual_sim_category_title">Mi dolaşım</string>

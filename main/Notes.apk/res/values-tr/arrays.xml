@@ -17,6 +17,19 @@
         <item>Adres</item>
         <item>Not</item>
     </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
     <string-array name="first_guide_contents">
         <item>Notlara hoşgeldiniz</item>
         <item>Not alın</item>
@@ -26,6 +39,14 @@
         <item>Notlar uygulamasında otomatik olarak kaydırmalı ekran görüntüleri oluşturabilir ve bunları arkadaşlarınızla paylaşabilirsiniz</item>
         <item>Klasör oluşturun &amp; klasörler arasında geçiş yapın</item>
         <item>Yeni bir klasör oluşturmak veya mevcut klasörler arasında geçiş yapmak için aşağıdaki oka dokunun</item>
+    </string-array>
+    <string-array name="first_guide_images">
+        <item>guide_first_00</item>
+        <item>guide_first_01</item>
+        <item>guide_first_02</item>
+        <item>guide_first_03</item>
+        <item>guide_first_04</item>
+        <item></item>
     </string-array>
     <string-array name="folder_operations">
         <item>Yeniden adlandır</item>
@@ -48,27 +69,6 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Sesli notlar</item>
         <item>Şimdi sesli not oluşturabilirsiniz. Simgeye dokunun, sesinizi kaydedin ve ses dosyasını notun içine kaydedin</item>
-    </string-array>
-    <string-array name="contact_values">
-        <item>vnd.android.cursor.item/name</item>
-        <item>vnd.android.cursor.item/nickname</item>
-        <item>vnd.android.cursor.item/phone_v2</item>
-        <item>vnd.android.cursor.item/email_v2</item>
-        <item>vnd.android.cursor.item/organization</item>
-        <item>vnd.android.cursor.item/im</item>
-        <item>vnd.android.cursor.item/sip_address</item>
-        <item>vnd.android.cursor.item/contact_event</item>
-        <item>vnd.android.cursor.item/website</item>
-        <item>vnd.android.cursor.item/postal-address_v2</item>
-        <item>vnd.android.cursor.item/note</item>
-    </string-array>
-    <string-array name="first_guide_images">
-        <item>guide_first_00</item>
-        <item>guide_first_01</item>
-        <item>guide_first_02</item>
-        <item>guide_first_03</item>
-        <item>guide_first_04</item>
-        <item></item>
     </string-array>
     <string-array name="second_guide_images">
         <item>guide_second_00</item>

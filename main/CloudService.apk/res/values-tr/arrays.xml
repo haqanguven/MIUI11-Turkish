@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_group_tags">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="korea_permission_groups">
+        <item>android.permission-group.PHONE</item>
+        <item>android.permission-group.SMS</item>
+        <item>android.permission-group.CONTACTS</item>
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission-group.STORAGE</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Eşitlenmiş öğeleri tanımlamak için</item>
         <item>Mesajları senkronize etmek için</item>
@@ -26,11 +40,23 @@
         <item>Sistem ayarlarını yedekle</item>
         <item>Cihazı bul</item>
     </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+    <string-array name="privacy_dialog_finddevice_runtime_perm">
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission-group.LOCATION</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Cihazınızı tanımlamak için</item>
         <item>Cihazınızı bulmak ve kayıp moda geçmek için</item>
     </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm_desc">
+    <string-array name="privacy_dialog_sync_runtime_perm">
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_MMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission-group.STORAGE</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Etkinlikleri senkronize etmek için</item>
         <item>Mesajları senkronize etmek için</item>
         <item>Mesajları senkronize etmek için</item>
@@ -138,36 +164,6 @@
         <item>Senkronizasyonu aç</item>
         <item>Wifi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
     </string-array>
-    <string-array name="user_detail_fixed_items">
-        <item>Senkronize edilmiş öğeleri göster</item>
-        <item>Depolama detayları</item>
-    </string-array>
-    <string-array name="korea_permission_group_tags">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="korea_permission_groups">
-        <item>android.permission-group.PHONE</item>
-        <item>android.permission-group.SMS</item>
-        <item>android.permission-group.CONTACTS</item>
-        <item>android.permission-group.CALENDAR</item>
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm">
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission-group.LOCATION</item>
-    </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm">
-        <item>android.permission-group.CALENDAR</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_MMS</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
     <string-array name="user_detail_fixed_item_click_action">
         <item>action_view_cloud_data</item>
         <item>action_view_storage_detail</item>
@@ -176,4 +172,8 @@
         <item>@drawable/icon_view_cloud_data</item>
         <item>@drawable/icon_view_details</item>
     </array>
+    <string-array name="user_detail_fixed_items">
+        <item>Senkronize edilen öğeleri görüntüle</item>
+        <item>Depolama detayları</item>
+    </string-array>
 </resources>

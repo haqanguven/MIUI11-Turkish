@@ -12,9 +12,9 @@
         <item>Önemsiz</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>Otomatik</item>
-        <item>Bildirimler bildirim gölgesinde görünecek</item>
-        <item>Bildirimler ayrı bir klasörde görünecek</item>
+        <item>Bildirimleri otomatik olarak düzenler</item>
+        <item>Bildirimler gölgesinde görünecek her zaman gösterilir</item>
+        <item>Bildirimler ayrı bir klasörde gösterilir</item>
     </string-array>
     <string-array name="aggregate_values">
         <item>0</item>

@@ -339,5 +339,5 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usagestats_device_timeout_negative">1 saat içinde hatırlat</string>
     <string name="usagestats_device_timeout_positive">Anladım</string>
     <string name="usagestats_device_timeout_title">Ekran zaman uyarısı</string>
-    <string name="wait_tip">Yükleniyor</string>
+    <string name="wait_tip">Bekleyin</string>
 </resources>

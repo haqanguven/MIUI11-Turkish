@@ -292,6 +292,20 @@
     <string name="input_method_no_content_text">Henüz bir ürün yok</string>
     <string name="input_method_edit_phrase_text">Sık kullanılan ifadeleri düzenle</string>
     <string name="input_method_clipboard_tips">Kopyalanan öğeler 48 saat sonra panodan silinecek</string>
+    <string name="input_method_clipboard_copy_success">Başarıyla kopyalandı</string>
+    <string name="input_method_clipboard_delete_success">Başarıyla silindi</string>
+    <string name="input_method_clipboard_settings_button">Ayarlar</string>
+    <string name="input_method_clipboard_clear_all_button">Tümünü temizle</string>
+    <string name="input_method_clipboard_clear_all_phrase_title">Panoyu temizleme</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">Panonuzdaki tüm öğeler silinsin mi?</string>
+    <string name="input_method_clipboard_checkbox_cancle">İptal et</string>
+    <string name="input_method_clipboard_checkbox_confirm">Temizle</string>
+    <string name="input_method_clipboard_check_more_copy">Kopyala</string>
+    <string name="input_method_clipboard_check_more_add_to_phrase">Sık kullanılan ifade ekle</string>
+    <string name="input_method_clipboard_check_more_delete">Sil</string>
+    <string name="input_method_phrase_top">Sabitle</string>
+    <string name="input_method_phrase_edit">Düzenle</string>
+    <string name="input_method_clipboard_participle">Ayrı kelimeler</string>
     <string name="wireless_charging_notification_titile">Geri kablosuz şarjı kapattı</string>
     <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Geri kablosuz şarj işlemi şimdi kapatıldı</string>
     <string name="wireless_charging_notification_message2">"Batarya %30'dan daha az şarjlı. Geri kablosuz şarj işlemi şimdi kapatıldı"</string>
@@ -302,4 +316,10 @@
     <string name="slatoast">Hızı artırmak için mobil veri kullanmak mobil veriyi tüketebilir</string>
     <string name="sunlight_notification_title">Güneş ışığı modunu aç</string>
     <string name="sunlight_notification_content">Parlaklığı otomatik olarak güçlü ortam ışığına ayarlayın</string>
+    <string name="miaudiovisual_notification_title">Görsel ve işitsel efektler</string>
+    <string name="miaudiovisual_notification_summary">Kilit ekranındaki efektleri göstermek için açın</string>
+    <string name="handset_title_usb_handset_insert">USB üzerinden ses çal</string>
+    <string name="handset_text_usb_handset_insert">Ek ayarları açmak için dokunun</string>
+    <string name="handset_title_unsupported_handset_insert">USB kulaklık adaptörleri desteklenmez</string>
+    <string name="handset_text_unsupported_handset_insert">Ayrıntıları görüntülemek için dokunun</string>
 </resources>

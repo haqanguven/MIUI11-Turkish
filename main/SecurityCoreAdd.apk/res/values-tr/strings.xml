@@ -288,6 +288,11 @@ ikinci alan parmak izi kullanın"</string>
     <string name="xspace_guide_title">%s için çift uygulama oluştur</string>
     <string name="xspace_guide_des">2 hesabı geçiş yapmadan kullanın</string>
     <string name="xpsace_guide_button">Oluştur</string>
+    <string name="scanner_fingerprint_enter_second">"Kilit ekranından ikinci alana girmek için
+ikinci alan parmak izini tarayın"</string>
+    <string name="xspace_guide_title">Çift uygulama oluştur</string>
+    <string name="xspace_guide_des">Geçiş yapmadan 2 hesap kullanın</string>
+    <string name="xpsace_guide_button">Oluştur</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Uygulama bulunamadı</string>
     <string name="confirm_close_password_title">Şifreyi kapat</string>
@@ -481,4 +486,5 @@ yüklü uygulamaları kontrol etme ve kullanımı kısıtlama"</string>
     <string name="dual_animation">Başlatma animasyonu</string>
     <string name="dual_animation_description">Çift uygulama başlatıldığında animasyonu göster</string>
     <string name="can_not_switch_when_super_power_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamıyorum</string>
+    <string name="master_clear_not_available_ep">"abrika ayarlarına sıfırlama veya izninizi şimdi iptal etme izniniz yok</string>
 </resources>

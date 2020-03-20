@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Bitti</string>
     <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
-    <string name="abc_capital_off">KAPAT</string>
-    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_capital_off">Kapat</string>
+    <string name="abc_capital_on">Aç</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">Sil</string>
@@ -115,6 +115,7 @@
     <string name="notification_aggregate_description1">Bildirim çubuğunu kullanma verimliliğini artırmak için içerik bilgileri ve reklam türleri ile ilgili bildirimlerini otomatik olarak toplamanıza yardımcı olur</string>
     <string name="notification_aggregate_description2">Bildirim metninin içeriğini bir algoritmaya göre tanır ve otomatik toplama gerçekleştiririz. Aynı zamanda sosyal bildirimleri, e-postaları ve zamanlama hatırlatıcılarını toplamaz. Bildirimlerin yanlış toplandığını fark ederseniz kullanıcı geri bildirimleri aracılığıyla zamanında bizimle iletişime geçmenizi umuyoruz</string>
     <string name="notification_aggregate_summary">Sistem bildirimleri otomatik olarak kategorilere ayırır</string>
+    <string name="notification_aggregate_summary_inner">İtme ve promosyon bildirimlerini otomatik olarak gruplandırmak için açın</string>
     <string name="notification_aggregate_title">Bildirim toplayıcı</string>
     <string name="notification_display_setting">Bildirim çubuğu</string>
     <string name="notification_display_style">Bildirim türü</string>

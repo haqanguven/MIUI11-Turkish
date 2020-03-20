@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Arama geçmişi ayrıntıları</string>
     <string name="accessibility_contact_detail">Kişi detayları</string>
     <string name="account_container_title">Şuradan içe aktarıldı</string>
@@ -57,6 +56,7 @@
     <string name="blacklist">Engelle</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
     <string name="blurbJoinContactDataWith">%s adlı kişi ile birleştirmek istediğiniz kişiyi seçin:</string>
+    <string name="btn_call_fuhao_txt">Sub</string>
     <string name="btn_rotation">Döndür</string>
     <string name="btn_split_contact">Ayır</string>
     <string name="button_cancel_scan">Durdur</string>
@@ -174,6 +174,7 @@
     <string name="chat_skype">Skype kullanarak sohbet et</string>
     <string name="chat_yahoo">Yahoo kullanarak sohbet et</string>
     <string name="checkhint">Hedef telefonu kontrol et</string>
+    <string name="china_mobile_palm_hall">CMCC çevrimiçi hizmet salonu</string>
     <string name="clearCallLogConfirmation">Arama kayıtlarınızın tamamı silinecektir</string>
     <string name="clearCallLogConfirmation_title">Tüm arama kayıtları temizlensin mi?</string>
     <string name="clearCallLogProgress_title">Arama kayıtları temizleniyor</string>
@@ -202,6 +203,14 @@
     <string name="composer_has_no_exportable_contact">Dışa aktarabilir kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermiyor olabilir</string>
     <string name="composer_not_initialized">vKart oluşturucu düzgün bir şekilde başlayamadı</string>
     <string name="conference_call_disable_tip">Arama yapamaz. Cihazınızın VoLTE desteği ile 4G ağa bağlı olduğundan emin olun</string>
+    <string name="config_export_dir">/mnt/sdcard</string>
+    <string name="config_export_extensions_to_consider" />
+    <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_file_prefix" />
+    <string name="config_export_file_suffix" />
+    <string name="config_export_vcard_type">v30_generic</string>
+    <string name="config_import_vcard_type">default</string>
+    <string name="config_prohibited_phone_number_regexp" />
     <string name="confirm_delete_cloud_all_call_logs">%s ile ilgili tüm arama geçmişi kayıtları hem buluttan hem de bu cihazdan silinsin mi?</string>
     <string name="confirm_delete_contact_all_call_logs">Arama geçmişi silinsin mi?</string>
     <string name="confirm_delete_selected_all_call_logs">Arama geçmişi silinsin mi?</string>
@@ -347,6 +356,7 @@ Kişi kartları kapatıldı"</string>
     <string name="description_image_button_eight">sekiz</string>
     <string name="description_image_button_five">beş</string>
     <string name="description_image_button_four">dört</string>
+    <string name="description_image_button_fuhao_named_dial">Sub ara</string>
     <string name="description_image_button_nine">dokuz</string>
     <string name="description_image_button_one">bir</string>
     <string name="description_image_button_plus">Artı</string>
@@ -398,10 +408,9 @@ Kişi kartları kapatıldı"</string>
 2. Android cihazlarında ayrıca bulunabilirlik modu açık olmalıdır
 
 3. İleri seçeneğine dokunduktan sonra kişilere gerekli izinleri verin"</string>
-    <string name="device_transfer_by_sim_message">"1. Diğer cihazda kayıtlı kişileri Sim karta kopyalayın;
+    <string name="device_transfer_by_sim_message" formatted="false">"%d. Kişileri Sim karttaki diğer cihazdan kaydedin;
 
-
-2. Kişiler uygulamasında ayarlar menüsünü açın ve kişileri içe veya dışa aktar - Sim karttan içe aktar seçeneklerini bulun. Kişiyi seçmek için herhangi bir Sim kişisine basılı tutun. Gerekli tüm kişileri seçin ve ardından içe aktar seçeneğine dokunun"</string>
+%d. Kişiler uygulamasında ayarları açın ve ardından Kişileri içe veya dışa aktar - Sim karttan içe aktar seçeneğine gidin. Seçmek için herhangi bir Sim kişisini basılı tutun gerekli tüm kişileri seçin ve içe aktarın"</string>
     <string name="device_version_header_bluetooth">Bluetooth ile içe aktar</string>
     <string name="device_version_header_no_bluetooth">Sim kart ile içe aktar</string>
     <string name="dial">Çevir</string>
@@ -537,6 +546,14 @@ Neden: %s"</string>
     <string name="group_sms_progress_msg">Gruplanıyor</string>
     <string name="groupsLabel">Gruplar</string>
     <string name="groups_list_empty">Grup yok</string>
+    <string name="heduohao_fuhao_call_menu_title">Sub %d üzerinden ara</string>
+    <string name="heduohao_fuhao_order">Sub %d</string>
+    <string name="heduohao_label">HeDuoHao</string>
+    <string name="heduohao_main_call_menu_title">Ana hattan ara</string>
+    <string name="heduohao_popup_txt">Sub %d</string>
+    <string name="help_url_people_add" />
+    <string name="help_url_people_edit" />
+    <string name="help_url_people_main" />
     <string name="hint_distance" />
     <string name="hint_findContacts">Kişileri bul</string>
     <string name="hint_more_contact">Çoklu kişi kayıtlarını birleştir</string>
@@ -618,6 +635,8 @@ Neden: %s"</string>
     <string name="login_ok">Oturum açın</string>
     <string name="low_memory_toast">Hizmet düşük bellek miktarı nedeniyle kullanılamıyor</string>
     <string name="lunarBirthdayLabelsGroup">Ay takvimi doğum günü</string>
+    <string name="lunar_calendar">Ay takvimi</string>
+    <string name="lunar_leap">Ay atlaması</string>
     <string name="make_primary">Bu seçimi hatırla</string>
     <string name="map_custom">%s adresini görüntüle</string>
     <string name="map_home">Ev adresini görüntüle</string>
@@ -1007,6 +1026,10 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Aramaya dön</string>
+    <string name="return_call">Aramaya geri dönmek için dokunun</string>
+    <string name="return_call_calling">Arama devam ediyor</string>
+    <string name="return_call_dialing">Aranıyor</string>
+    <string name="return_call_incoming">Gelen ramag>
     <string name="ringLabelsGroup">Zil sesi</string>
     <string name="save_photo_progress">Fotoğraf kaydediliyor</string>
     <string name="savingContact">Kişi kaydediliyor</string>
@@ -1057,6 +1080,9 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="select_none">Hiçbir öge seçilmedi</string>
     <string name="select_show_contacts">Kişi listesi</string>
     <string name="select_vcard_title">vKart dosyası seçin</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">Bu kısayol zaten var</string>
+    <string name="send_contact_shortcut_todesktop_failed">Ana ekrana kısayol yerleştirilemedi</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Ana ekrana daha fazla kısayol yerleştirilemiyor</string>
     <string name="send_contact_shortcut_todesktop_success">Ana ekrana eklendi</string>
     <string name="send_to_voicemail_checkbox">Aramaları doğrudan sesli mesaja gönder</string>
     <string name="separatorJoinAggregateAll">Tüm kişiler</string>
@@ -1148,6 +1174,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="sms_work_pager">İş çağrı cihazına mesaj gönder</string>
     <string name="social_widget_label">Kişi</string>
     <string name="social_widget_loading">Yükleniyor</string>
+    <string name="solar_calendar">Gregoryen takvimi</string>
     <string name="special_code_security_exception">İşlem tamamlanamadı. Bu sizin varsayılan tuş takımınız değil</string>
     <string name="splitConfirmation">Bu kişi birden fazla kişi olarak ayrılacaktır</string>
     <string name="splitConfirmation_title">Kişi ayırılsın mı?</string>
@@ -1157,6 +1184,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="starred_contacts">Favoriler</string>
     <string name="status_available">Uygun</string>
     <string name="status_away">Dışarıda</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Meşgul</string>
     <string name="strequentList">Favoriler</string>
     <string name="success_message_import_from_account">Kişi içe aktarıldı</string>
@@ -1256,6 +1284,7 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="yellowPageNavigationLabel">Sarı sayfalar</string>
     <string name="yellowpage_address_tag">Adres</string>
     <string name="yellowpage_fc_toast">Sarı sayfalar hizmeti çalışmayı durdurduğundan bu özellik kullanılamıyor</string>
+    <string name="yellowpage_mi_family">Xiaomi ev</string>
     <string name="yellowpage_navigation_ad_hint">Reklam</string>
     <string name="yellowpage_navigation_balance_refresh_failed">Bakiye ve mobil veri miktarı doğrulanamadı. Daha sonra tekrar deneyin</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">Bakiye ve mobil veri miktarı doğrulandı</string>
@@ -1280,27 +1309,4 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="zero_items_selected">Öğeleri seçin</string>
     <string name="zero_letter">+</string>
-    <string name="btn_call_fuhao_txt">Sub</string>
-    <string name="china_mobile_palm_hall">CMCC çevrimiçi servis salonu</string>
-    <string name="description_image_button_fuhao_named_dial">Sub arama</string>
-    <string name="heduohao_fuhao_call_menu_title">Sub %d ile çevir</string>
-    <string name="heduohao_fuhao_order">Sub %d</string>
-    <string name="heduohao_label">HeDuoHao</string>
-    <string name="heduohao_main_call_menu_title">Ana ile çevir</string>
-    <string name="heduohao_popup_txt">Sub %d</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_export_vcard_type">v30_generic</string>
-    <string name="config_import_vcard_type">default</string>
-    <string name="config_prohibited_phone_number_regexp" />
-    <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />
-    <string name="help_url_people_main" />
-    <string name="lunar_calendar">Ay takvimi</string>
-    <string name="lunar_leap">Takvim</string>
-    <string name="solar_calendar">Miladi takvim</string>
-    <string name="yellowpage_mi_family">Mi ev</string>
 </resources>

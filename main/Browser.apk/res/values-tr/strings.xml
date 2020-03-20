@@ -806,6 +806,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="permission_notification">Bildirim gönder</string>
     <string name="permission_unknown">Bilinmeyen seçenek</string>
     <string name="permissions_prompt_message">%s istiyor</string>
+    <string name="person_description">Hesabım</string>
     <string name="play_pause_video">Videoyu oynat veya duraklat</string>
     <string name="play_retry">Tekrar oynat</string>
     <string name="play_video">Videoyu oynat</string>

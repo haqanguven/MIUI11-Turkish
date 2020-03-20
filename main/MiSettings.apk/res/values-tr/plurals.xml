@@ -4,6 +4,14 @@
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Cihazınızı kesintisiz %d dakika kullandınız</item>
+        <item quantity="one">Cihazınızı kesintisiz %d dakika kullandınız</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>
         <item quantity="one">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>

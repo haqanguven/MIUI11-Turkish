@@ -90,6 +90,9 @@
     <string name="mi_band_vibrate_sms">Kısa mesajlar için titret</string>
     <string name="mi_band_vibrate_sms_in_contacts">Kişilerimden gelen mesajlar</string>
     <string name="mi_band_vibrate_sms_no_contacts">Bilinmeyen numaralardan gelen mesajlar</string>
+    <string name="mi_home_device_find">Cihazları keşfet</string>
+    <string name="mi_home_device_ignore">Yoksay</string>
+    <string name="mi_home_device_start_binding">Şimdi eşleştir</string>
     <string name="mi_key_alert_dialog_message">"Alarmı susturmak için tamam'a dokunun"</string>
     <string name="mi_key_alert_dialog_title">Mi tuş alarmı</string>
     <string name="mi_key_find_mikey">"Mi tuş'u bul"</string>
@@ -99,6 +102,15 @@
     <string name="mi_key_summary_open_camera">"Kamerayı açmak için Mi tuş'a çift basın"</string>
     <string name="mi_key_summary_take_photo">"Fotoğraf çekmek için Mi tuş'a basın"</string>
     <string name="mi_key_take_photo">Fotoğraf çek</string>
+    <string name="mihome_app_download">Şimdi yükle</string>
+    <string name="mihome_app_update">Şimdi güncelle</string>
+    <string name="mihome_download_tips">Mi ev uygulamasını yükleyin, oturum açın ve telefonunuzu cihaza yakın tutun</string>
+    <string name="mihome_download_title">Mi evi yükle</string>
+    <string name="mihome_ignore">İptal et</string>
+    <string name="mihome_ignore_tips">Bu cihazı yok sayarsanız Mi ev uygulamasına el ile eklemeniz gerekir</string>
+    <string name="mihome_ignore_title">Bu cihaz yoksayılsın mı?</string>
+    <string name="mihome_update_tips">Mi ev uygulamasını güncelleyin ve telefonunuzu cihaza yakın tutun</string>
+    <string name="mihome_update_title">Mi evi güncelle</string>
     <string name="notify_device_lose_connection_text">%1$s cihazı eşleştirmesini sonlandırmak için dokunun</string>
     <string name="notify_device_lose_connection_title">%1$s bağlantısı kesildi</string>
     <string name="ok_button">Tamam</string>

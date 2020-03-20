@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">Kapat</string>
+    <string name="abc_capital_on">Aç</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="action_folder_description">Klasörleri görüntüle</string>
     <string name="action_mode_switcher_grid_description">Izgara görünümü</string>
     <string name="action_mode_switcher_list_description">Liste görünümü</string>
@@ -37,11 +63,14 @@
     <string name="cloud_trash_bin_title">Mi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
     <string name="confirm_ok">Kabul et</string>
+    <string name="copy">Kopyala</string>
     <string name="cta_confirm_cancel">İzin verme</string>
     <string name="cta_confirm_ok">İzin ver</string>
     <string name="cta_dialog_message">Notlar normal olarak çalışabilmek amacıyla internet bağlantısı, ses kaydı ve kişilerinize erişim için izinlere ihtiyaç duyar. İzin verilsin mi?</string>
     <string name="cta_dialog_title">İzin gerekli</string>
     <string name="cta_reminder">Notlar normal olarak çalışabilmek amacıyla internet bağlantısı, ses kaydı ve kişilerinize erişim için izinlere ihtiyaç duyar. İzin verilsin mi?</string>
+    <string name="data_empty_note">Burada henüz not yok</string>
+    <string name="data_empty_todo">Burada henüz görev yok</string>
     <string name="date_calculate_today">0 gün</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -60,7 +89,7 @@
     <string name="dlg_btn_set_password">Şifre oluşturun</string>
     <string name="dlg_check_reminder">Tekrar gösterme</string>
     <string name="dlg_delete_message">Siliniyor</string>
-    <string name="dlg_hide_message">Gizleniyor…</string>
+    <string name="dlg_hide_message">Gizleniyor</string>
     <string name="dlg_info_creating_message">Resim oluşturuluyor</string>
     <string name="dlg_info_save_to_gallery_message">Resim galeriye kaydediliyor</string>
     <string name="dlg_message_password_reset">Gizli notlarınızın şifreleri, uygulamalar, fotoğraflar ve gizli dosyalar için çalışan Gizlilik koruma şifresi ile değiştirilecektir</string>
@@ -91,6 +120,7 @@
     <string name="error_unsupport_content">Bu not desteklenmeyen içerik içeriyor. Güncellemek için buraya dokunun</string>
     <string name="error_widget_exist_for_send_to_desktop">Bu not zaten ana ekranınıza yerleştirilmiş</string>
     <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun</string>
+    <string name="expand_button_title">Gelişmiş</string>
     <string name="first_enter_custom_folder_hint">Burada klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
@@ -133,11 +163,13 @@
     <string name="menu_todo_show_finished_todo">Tamamlanmış görev göster</string>
     <string name="menu_unhide">Gizliliği kaldır</string>
     <string name="menu_unstick">İğneyi kaldır</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="new_audio_create_cancel_talkback_des">İptal edildi</string>
     <string name="new_audio_create_done_talkback_des">Oluşturuldu</string>
     <string name="new_audio_create_guide_tip">Bir sesli not oluşturmak için basın ve basılı tutun</string>
     <string name="new_audio_create_talkback_des">Bir metin notu oluşturmak için dokunun. Bir sesli not oluşturmak için basın ve basılı tutun. Kaydı durdurmak ve notu oluşturmak için tuşu bırakın veya iptal etmek için kaydırın</string>
     <string name="not_now">Şimdi değil</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="note_description_content">Notlar uygulaması fikirlerinizi kaydetmek için mükemmel bir araçtır. Yerleşik hatırlatıcıları ve Mi bulut ile senkronizasyon özelliği ile notlarınıza dilediğiniz zaman dilediğiniz yerde ulaşabilirsiniz. Uygulamayı silmeden önce uygulamayı gerçekten silmek istediğinize emin olun</string>
     <string name="note_description_title">Notlar hakkında</string>
     <string name="note_link_email">E-posta oluştur</string>
@@ -174,6 +206,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Hareket ile sil</string>
     <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
     <string name="pref_title_todo_shorcut">Araç kutusu</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_note_content_empty">Henüz bir ürün yok</string>
     <string name="recover_notes_hint">Bir hata oluştu. Notları geri yüklemek için i.mi.com adresine gidin</string>
     <string name="redo">İleri al</string>
@@ -199,6 +232,10 @@
     <string name="repeat_mode_set_title">Tekrarla</string>
     <string name="repeat_mode_week">Her hafta</string>
     <string name="repeat_mode_year">Her yıl</string>
+    <string name="repeat_mode_set_title">Tekrar</string>
+    <string name="repeat_mode_week">Her hafta</string>
+    <string name="repeat_mode_year">Her yıl</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="rich_text_bold_description">Kalın</string>
     <string name="rich_text_center_description">Merkez</string>
     <string name="rich_text_chooser_title">Stil seçin</string>
@@ -214,8 +251,10 @@
     <string name="search_hint">Notlarda ara</string>
     <string name="search_keyword_notes">Notlar;Hafıza</string>
     <string name="search_label">Aranıyor</string>
+    <string name="search_menu_title">Ara</string>
     <string name="search_path_notes">Sistem uygulamaları/Notlar</string>
     <string name="search_setting_description">Notlarınız içerisinde metin araması yapın</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="select_account_prompt">Notları senkronize et</string>
     <string name="set_alarm_description">Alarm kur</string>
     <string name="setting_other">Diğer</string>
@@ -238,6 +277,8 @@
     <string name="sns_title_send">Mesaj gönder</string>
     <string name="sns_toast_empty">Boş mesaj gönderilemiyor</string>
     <string name="sns_toast_over_limit">Resim olarak gönderildi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_tips">Notları Mi bulut ile senkronize etmek için dokunun</string>
     <string name="theme_blue_description">Mavi</string>
     <string name="theme_green_description">Yeşil</string>
@@ -348,10 +389,9 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="unclassfied_folder_name">Kategorilenmemiş</string>
     <string name="undo">Geri al</string>
     <string name="unknown_source">Bilinmeyen kaynak</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="widget_content_loading">Yükleniyor</string>
     <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Notu yeniden boyutlandırmak için araca basılı tutun</string>
-    <string name="micloud_state_total_count">%1$s</string>
-    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE;android.permission.WRITE_EXTERNAL_STORAGE</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

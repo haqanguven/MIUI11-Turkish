@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="static_cache_db_md5">824eb65433cd21456ac89ae798cb880a</string>
     <string name="app_name">İzin yöneticisi</string>
     <string name="HIPS_Action_Accept">İzin ver</string>
     <string name="HIPS_Action_Reject">Reddet</string>
@@ -121,17 +120,21 @@
     <string name="permgroupdesc_phone">Arama yapın ve cihaz bilgilerine erişin</string>
     <string name="permgroupdesc_sensors">Vücut sensörü verilerine erişin</string>
     <string name="permgroupdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarasına ve cihaz durumuna erişin</string>
     <string name="permdesc_read_calendar">Takvim etkinliklerine erişin</string>
     <string name="permdesc_write_calendar">Takvim etkinliklerine erişin ve ekleyin</string>
     <string name="permdesc_read_storage">Cihazda depolanan fotoğraflara ve dosyalara erişin</string>
     <string name="permdesc_write_storage">Cihazdaki fotoğraf, dosyalara erişin ve kaydedin</string>
     <string name="permdesc_location">Konuma erişin</string>
     <string name="permdesc_location_background">Arka planda erişim konumu</string>
+    <string name="permdesc_microphone">Aramaları ve sesi kaydedin</string>
     <string name="permdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
     <string name="permdesc_camera">Fotoğraf çekin ve video kaydedin</string>
     <string name="permdesc_sensors">Vücut sensör verilerine erişin</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">"Telefon numarası ve IMSI'e erişin"</string>
-    <string name="permdesc_microphone">Aramaları ve sesleri kaydedin</string>
     <string name="permdesc_out_calls">Giden aramaları izleyin</string>
     <string name="permdesc_in_calls">Gelen aramaları izleyin</string>
+    <string name="static_cache_db_md5">824eb65433cd21456ac89ae798cb880a</string>
+    <string name="HIPS_Perm_clipboard">Pano</string>
+    <string name="HIPS_Perm_clipboard_Desc">Panodaki içeriğe erişme ve içeriği değiştirme</string>
+    <string name="grant_dialog_button_allow_onetime">Bu sefer izin ver</string>
 </resources>
