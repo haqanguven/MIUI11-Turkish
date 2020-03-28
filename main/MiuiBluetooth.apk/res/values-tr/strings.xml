@@ -62,6 +62,7 @@
     <string name="disconnect">Eşleşmeyi sonlandır</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="fast_connect_b508_name">ZMI B50B</string>
+    <string name="fast_connect_bt_speaker2_name">MI taşınabilir BT hoparlör 2</string>
     <string name="fast_connect_device_battery">Pil</string>
     <string name="fast_connect_device_box">Kutu</string>
     <string name="fast_connect_device_box_name">%1$s kutu</string>

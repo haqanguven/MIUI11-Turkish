@@ -405,6 +405,14 @@
     <string name="messaging">Mesajlaşma</string>
     <string name="mi_message_title">Mi mesaj</string>
     <string name="millionbyte">MB</string>
+    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Yenilemek için çekin</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">Yenileniyor</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">Yenilemek için serbest bırak</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">Veri yok</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">Bunu yapma</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">Yenileniyor</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Hata</string>
     <string name="mms">Multimedya</string>
     <string name="mms_block_alert_message">Yetkili gönderenlerden gönderilen mesajlar dışındaki tüm multimedya mesajlarını engellenir</string>
     <string name="mms_block_alert_ok">Engelle</string>
@@ -510,6 +518,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="non_english_subject_limit">13 karakter sınırı</string>
     <string name="nosend_message">Gönderilemedi</string>
     <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
+    <string name="notification_ad_content">%s kullanıcısından bir promosyon mesajı aldınız</string>
     <string name="notification_add_todo">Bana hatırlat</string>
     <string name="notification_add_todo_content">Alış kodu: %s</string>
     <string name="notification_channel_msg_description">Mesajlarla ilgili bildirimler</string>
@@ -575,6 +584,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_summary_allow_si_sl_push">Mesajların internet sitelerinden içerik yüklemelerine izin verir</string>
     <string name="pref_summary_auto_delete">Ayarlanan sınıra ulaşıldığında eski mesajları siler</string>
     <string name="pref_summary_collapse_ad_notification">Tanıtım metni mesajlarının bildirim merkezi pazarlama tanıtım ekranına toplanmasına izin ver</string>
+    <string name="pref_summary_collapse_ad_notification_mms">Tüm tanıtım mesajlarını ayrı bir sekmede görüntüle</string>
     <string name="pref_summary_delete_limit">Konuşma başına %1$s mesaj</string>
     <string name="pref_summary_delivery_reports">Gönderilen mesajlar için iletildi raporu gösterir</string>
     <string name="pref_summary_delivery_ringtone">Teslim edilen mesajlar için sesli bildirim alın</string>
@@ -792,6 +802,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_wait_for_retry_text">Bekliyor</string>
     <string name="received_at_time">Alınma zamanı: %1s</string>
     <string name="received_label">"Alındı: "</string>
+    <string name="recent_label">Son kişiler</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Alıcı: "</string>
     <string name="recipients_contain_sub_sim_number">Alıcılar arasında ikinci bir Sim numarası var gibi görünüyor. Bu mesajı ikinci Sim kullanarak gönderin</string>
@@ -814,6 +825,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="refill_now">Şimdi bakiye yükleyin</string>
     <string name="refreshing">Yenileniyor</string>
     <string name="release_cancel">İptal etmek için bırakın</string>
+    <string name="release_end">Durdurmak için bırakın</string>
     <string name="remove">Kaldır</string>
     <string name="remove_music">Müziği kaldır</string>
     <string name="remove_picture">Resmi kaldır</string>
@@ -942,6 +954,8 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="smart_messages_network_allow_title">İnternet bağlantısı gereklidir</string>
     <string name="smart_msg_main_purpose">Akıllı mesajlaşma, gönderen kimliğini tanıma ve akıllı menü hizmetleri sağlar</string>
     <string name="smart_msg_privacy_policy">Akıllı mesajlaşma gizlilik politikası</string>
+    <string name="sms_card_partner_label">"Mesaj kartı ortağı: "</string>
+    <string name="sms_card_teddy_mobile">Teddy mobil</string>
     <string name="sms_content">İçerik:</string>
     <string name="sms_full_body">Gelen mesaj reddedildi: Cihazda yeterli boş alan yok</string>
     <string name="sms_full_title">Metin mesaj hafızası dolu</string>
@@ -998,9 +1012,9 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="system_permission_declare_disagree">Reddet</string>
     <string name="system_permission_declare_double_link" formatted="false">"Bu özelliği kullanmadan önce %1s ve %2s'lerimizi okuyun ve kabul edin"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s hoşgeldiniz! %2s</string>
-    <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermiyorsanız bu uygulama normal şekilde çalışamaz</string>
-    <string name="system_permission_declare_privacy_declare">"Gizliliğinize saygı duyuyor ve koruyoruz
-%1s’in verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:"</string>
+    <string name="system_permission_declare_no_say_no">"Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız
+Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız"</string>
+    <string name="system_permission_declare_privacy_declare">%1s verilerinizi toplamalı ve normal çalışması için aşağıdaki izinleri gerektirir:</string>
     <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarında izninizi iptal edebilir ve servisleri kapatabilirsiniz</string>
     <string name="system_permission_declare_single_link">"Bu özelliği kullanmadan önce %1s'lerimizi okuyun ve kabul edin"</string>
     <string name="system_permission_declare_triple_link" formatted="false">"Bu özellikleri kullanmadan önce %1s,%2s'lerimizi ve %3s'lerimizi okuyun ve kabul edin"</string>

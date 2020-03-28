@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_change_text" formatted="false">Şu anda seçilen öğe %d öğesiyle değiştirilen %d öğesidir</string>
+    <string name="access_deselect">%s seçimi kaldır</string>
+    <string name="access_deselected">%s seçimi kaldır</string>
     <string name="access_select">%s seçili</string>
-    <string name="access_unselect">%s seçimi kaldırıldı</string>
+    <string name="access_unselect">%s seçim kaldırıldı</string>
     <string name="accessibilty_back_button">Geri dön</string>
     <string name="accessibilty_move_down">Aşağı taşı</string>
     <string name="accessibilty_move_up">Yukarı taşı</string>
@@ -281,6 +283,7 @@
     <string name="app_suggest_setting_brief">Son kullanılan uygulamaları göster</string>
     <string name="app_suggest_setting_brief_detail">Uygulama önerileri kullanım verilerinize bağlı olacak</string>
     <string name="app_suggest_setting_title">Uygulama önerileri</string>
+    <string name="app_version_name">"Uygulama sürümü: "</string>
     <string name="apps">Uygulama önerileri</string>
     <string name="apps_label">Uygulamalar</string>
     <string name="arr_airport">Hedef havaalanı</string>
@@ -470,6 +473,9 @@
     <string name="daily_greeting">Günlük karşılamalar</string>
     <string name="data_error">Bir hata meydana geldi. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="data_error_show">Sipariş tamamlandı. Ayrıntılar görüntülenemiyor</string>
+    <string name="debug_card_brief">Hata ayıklama ayarları ve araçları</string>
+    <string name="debug_card_detail">Hata ayıklama ayarları ve araçları</string>
+    <string name="debug_card_title">Hata ayıklama</string>
     <string name="delete">Sil</string>
     <string name="dep_airport">Kalkış havaalanı</string>
     <string name="dep_airport_example">Örneğin: İzmir Adnan Menderes Havaalanı</string>
@@ -1151,10 +1157,12 @@ Takip numaranızı kontrol edin"</string>
     <string name="miot_device_cancel">İptal et</string>
     <string name="miot_device_card_title">Mi ev</string>
     <string name="miot_device_click_show_detail">Akıllı ev cihazları hakkında daha fazla bilgi edinmek için dokunun</string>
+    <string name="miot_device_closed">Cihaz kapalı</string>
     <string name="miot_device_cta_and">ve</string>
     <string name="miot_device_cta_message">Hızlı kontrol için akıllı cihazlar ekleyin. Yetkilendir seçeneğine tıklarsanız Mi Jia uygulamasını kabul etmiş olursunuz</string>
     <string name="miot_device_cta_priv">Gizlilik sözleşmesi</string>
     <string name="miot_device_cta_use_info">Kullanım şartları</string>
+    <string name="miot_device_disabled">Bu cihaz şu anda kontrol edilemiyor</string>
     <string name="miot_device_edit">Düzenle</string>
     <string name="miot_device_edit_device">Rearrange devices</string>
     <string name="miot_device_empty_text">Hızlı kontrol için hava temizleyicileri, video kameraları ve süpürme robotları gibi akıllı cihazlar ekleyin</string>
@@ -1167,6 +1175,7 @@ Takip numaranızı kontrol edin"</string>
     <string name="miot_device_mijia_uninstall_message">Cep telefonunuzda henüz Mijia uygulaması yok. Bu yüzden etkinleştirilemiyor. İndirmek için uygulama mağazasına gitmek ister misiniz?</string>
     <string name="miot_device_mijia_uninstall_title">Yüklü değil</string>
     <string name="miot_device_network_error">Ağ bağlı değil</string>
+    <string name="miot_device_opening">Cihaz açık</string>
     <string name="miot_more_device">Daha fazla cihaz</string>
     <string name="miot_nearby_device">Yakındaki bağlı cihazlar</string>
     <string name="miot_not_warn">Bu uyarıyı yoksay</string>
@@ -1728,6 +1737,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="trip_assistant_all_btn">Tüm yolculuklar</string>
     <string name="trip_profession">Birinci sınıf araba</string>
     <string name="trip_quick">Sürücü</string>
+    <string name="trip_required_info">Zorunlu</string>
     <string name="trip_taxi">Taksi</string>
     <string name="try_again">Yeniden dene</string>
     <string name="understandassistant">Hakkında</string>

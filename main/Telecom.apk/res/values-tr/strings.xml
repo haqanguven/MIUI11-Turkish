@@ -532,6 +532,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="voice_dial_out">Sesli arama</string>
     <string name="voice_report_incoming_call">Gelen arama</string>
     <string name="voice_report_unknown_num">Bilinmeyen numara</string>
+    <string name="volume_boost_text">Ses düzeyi başarıyla artırıldı</string>
     <string name="vpn_settings_not_available">Vpn ayarları bu kullanıcı için kullanılamıyor</string>
     <string name="wait_for_debugger">Hata ayıklayıcıyı bekle</string>
     <string name="wait_for_debugger_summary">Hata ayıklanan uygulama çalıştırılmadan önce hata ayıklayıcının eklenmesini bekler</string>

@@ -4519,7 +4519,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="qtifeedback_package">com.qti.smq.Feedback</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm teknolojileri, Inc raporlama</string>
     <string name="qtifeedback_settings_title">Donanım geri bildirimi</string>
-    <string name="quick_reply_title">Hızlı yanıtlar</string>
+    <string name="quick_reply_title">Hızlı cevaplar</string>
     <string name="quick_settings_developer_tiles">Hızlı ayar geliştirici blokları</string>
     <string name="quick_settings_label">Geçişler</string>
     <string name="quiet">Rahatsız etme</string>
@@ -7514,11 +7514,6 @@ Ayarları şu şekilde güncelle:
 	<string name="clock_size_title">Saat boyutu</string>
 	<string name="net_size_title">Bağlantı hızı boyutu</string>
 	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
-	<string name="Hide_icon_title">Simge gizleme ve gösterme ayarları</string>
-	<string name="alarm_icon_title">Alarm simgesini gizle</string>
-	<string name="bluetooth_icon_title">Bluetooth simgesini gizle</string>
-	<string name="battery_icon_title">Pil grafik simgesini göster</string>
-	<string name="data_icon_title">Tarih bilgisini göster</string>
 	<string name="weather_setting_title">Hava durumu ayarları</string>
 	<string name="weather_title">Hava durumu</string>
 	<string name="weather_city_title">Şehir</string>

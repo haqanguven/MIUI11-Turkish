@@ -806,7 +806,6 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="permission_notification">Bildirim gönder</string>
     <string name="permission_unknown">Bilinmeyen seçenek</string>
     <string name="permissions_prompt_message">%s istiyor</string>
-    <string name="person_description">Hesabım</string>
     <string name="play_pause_video">Videoyu oynat veya duraklat</string>
     <string name="play_retry">Tekrar oynat</string>
     <string name="play_video">Videoyu oynat</string>
@@ -1340,4 +1339,5 @@ feedsContentId:
     <string name="voice_title_speech_again">Sizi anlayamadık</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
+    <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
 </resources>

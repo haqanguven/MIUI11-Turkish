@@ -137,4 +137,10 @@
     <string name="HIPS_Perm_clipboard">Pano</string>
     <string name="HIPS_Perm_clipboard_Desc">Panodaki içeriğe erişme ve içeriği değiştirme</string>
     <string name="grant_dialog_button_allow_onetime">Bu sefer izin ver</string>
+    <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişmeye çalışıyor</string>
+    <string name="virtual_reject_notice_title_calendar">%1$s takvime erişmeye çalışıyor</string>
+    <string name="virtual_reject_notice_title_contacts">%1$s kişilere erişmeye çalışıyor</string>
+    <string name="virtual_reject_notice_title_calllog">%1$s arama geçmişine erişmeye çalışıyor</string>
+    <string name="virtual_reject_notice_title_phonestate">%1$s cihaz bilgisine erişmeye çalışıyor</string>
+    <string name="virtual_reject_notice_content">Kişisel bilgilerinizi korumak için uygulamaya boş bir yanıt gönderildi</string>
 </resources>

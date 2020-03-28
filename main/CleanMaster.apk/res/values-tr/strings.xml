@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="activity_title_ad">Reklamlar</string>
     <string name="activity_title_apk">Paketler</string>
     <string name="activity_title_brightness_image">Aşırı parlak ve karanlık fotoğraflar</string>

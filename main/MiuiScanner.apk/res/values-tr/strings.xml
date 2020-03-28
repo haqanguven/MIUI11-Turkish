@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">Fotoğraf ve video çekmek için</string>
     <string name="agree_storage_permission">Fotoğraflara ve cihazınızda saklanan dosyalara erişmek için</string>
     <string name="always">Her zaman</string>
-    <string name="amazon_assistant_shopping_title">"Amazon'da ara"</string>
     <string name="app_description_content">Barkod okuyucu QR kodlarını, dökümanları, iş kartlarını ve daha fazlasını taramanıza olanak sağlar. Uygulamayı silmeden önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Barkod okuyucu hakkında</string>
     <string name="app_details">Uygulama:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">Uygulama seçin</string>
     <string name="choose_pay_title">Ödeme yöntemini seçin</string>
     <string name="choose_picture">QR kod resmini seçin</string>
+    <string name="choosed_title">Seçildi</string>
     <string name="classesNameNull_toast">Ders adı boş bırakılamaz</string>
     <string name="classes_canfirmTitle">Sonuçları onaylayın ve içe aktarmaya başlayın</string>
     <string name="classes_company">İçe aktar</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">Metni kopyala</string>
     <string name="copy_text_success">Metin kopyalandı</string>
     <string name="copy_tracknum">İzleme kodunu kopyala</string>
+    <string name="create">QR kodu oluştur</string>
+    <string name="createFail">QR kodu oluşturulamadı. Mesajınız çok uzun</string>
+    <string name="createQRCode_hint">Metin girin</string>
+    <string name="createQRCode_save">Kaydet</string>
+    <string name="create_again">Yenile</string>
     <string name="crop_cancel_description">İptal et</string>
     <string name="crop_done_description">Tamamlandı</string>
     <string name="crop_title_study">Fotoğrafı kes</string>
     <string name="crop_title_translation">Tercüme edilecek metni seçin</string>
+    <string name="delete">Sil</string>
     <string name="document_color_picture">Renk</string>
     <string name="document_color_picture_tip">Renkliye dönüştürülüyor</string>
     <string name="document_crop_title">Belgeyi kes</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">Kalori</string>
     <string name="got_it">Anladım</string>
     <string name="gps">Git</string>
+    <string name="history">Geçmiş</string>
+    <string name="importFailed">İçe aktarılamadı</string>
     <string name="import_contact">Kişiyi içe aktar</string>
     <string name="impunity_declaration_content">"Tarayıcı, kameranıza bağlanmaya ve siz uygulamayı kullanırken çektiğiniz resimleri işlemeye ihtiyaç duyar. Kişisel bilgilerinizin bulunduğu cisimlerin fotoğraflarını çekmek için Tarayıcı uygulamasını kullanmayın. Kabul et seçeneğine dokunarak &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikasını&lt;/a>&lt;/font> kabul etmiş sayılırsınız ve Tarayıcı uygulamasının internete bağlanmasına izin vermiş olursunuz"</string>
     <string name="impunity_declaration_negative_text">Çık</string>
@@ -228,6 +236,11 @@
     <string name="recognize">Tara</string>
     <string name="recognize_fail">Kod okunamadı</string>
     <string name="request_server_failed">Sunucuya bağlanılamadı</string>
+    <string name="saveDone">Başarıyla kaydedildi</string>
+    <string name="scanHistory">Tarayıcı geçmişi</string>
+    <string name="scanHistory_close">Kapat</string>
+    <string name="scanHistory_isOpen">Taranan ögeler geçmişi şimdi izlenmeye başlansın mı?</string>
+    <string name="scanHistory_open">Aç</string>
     <string name="scan_result">Sonuç</string>
     <string name="scan_support_type">WeChat, Alipay, QR kodlar, barkodlar</string>
     <string name="sdk_not_ready">SDK hazırlanıyor. Daha sonra tekrar deneyin</string>
