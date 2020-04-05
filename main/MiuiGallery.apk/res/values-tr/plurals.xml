@@ -260,6 +260,10 @@
         <item quantity="other">Kalan %d fotoğrafı indirmekten vazgeçilsin mi?</item>
         <item quantity="one">Kalan fotoğrafları indirmekten vazgeçilsin mi?</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Kalan %d dosya indiriliyor</item>
+        <item quantity="one">Kalan %d dosya indiriliyor</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraf indirilemedi. Ağa bağlanın ve tekrar deneyin</item>
         <item quantity="one">Fotoğraf indirilemedi. Ağa bağlanın ve tekrar deneyin</item>

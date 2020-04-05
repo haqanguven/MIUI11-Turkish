@@ -38,6 +38,7 @@
     <string name="aggregation_suggestion_edit_dialog_message">Aynı isme sahip kişi düzenlemeye geçilsin mi? Şimdiye kadar girdiğiniz bilgiler kopyalanacaktır</string>
     <string name="aggregation_suggestion_edit_dialog_title">Aynı isim</string>
     <string name="aggregation_suggestion_join_dialog_message">Mevcut kişi ile seçili kişi birleştirilsin mi?</string>
+    <string name="ai_calllog_call_record_menu">Al arama kaydı</string>
     <string name="all_list_empty">Kişi yok</string>
     <string name="antispam_mark_my_contribution">İşaret bilgisi paylaşılıyor</string>
     <string name="antispam_provider_format">%s tarafından tanımlandı</string>
@@ -68,7 +69,7 @@
     <string name="callAgain">Tekrar ara</string>
     <string name="callBack">Geri ara</string>
     <string name="callDetailTitle">Arama ayrıntıları</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s dakika %s saniye</string>
+    <string name="callDetailsDurationFormat">%1$s dakika %2$s saniye</string>
     <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
     <string name="call_assistant">Ara: %s</string>
     <string name="call_callback">Geri ara</string>

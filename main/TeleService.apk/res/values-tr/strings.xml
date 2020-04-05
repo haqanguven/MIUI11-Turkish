@@ -2316,4 +2316,9 @@ Kimlik bilgileri depolaması etkinleştirilemeyebilir"</string>
 	<string name="recorder_icon_title">Kayıt</string>
 	<string name="show_or_hide_title">Arama ekranında gizle veya göster</string>
 	<string name="toogle_data_title">Mobil veri uzun basma işlemi</string>
+	<string name="call_backlight_mode">Arama parlaklığı</string>
+	<string name="call_max_brightness_title">Maksimum parlaklık</string>
+	<string name="scheduled_style">Zamanlama</string>
+	<string name="zen_mode_start_time">Başlangıç zamanı</string>
+	<string name="zen_mode_end_time">Bitiş zamanı</string>
 </resources>

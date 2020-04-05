@@ -60,6 +60,11 @@
     <string name="display_title">Daha büyük eşyalar</string>
     <string name="exit_easymode">Basit modu kapat</string>
     <string name="first_unlock_time">İlk açma zamanı:</string>
+    <string name="focus_mode_timer_add_limit">"%d'ye kadar özel süreler oluşturun"</string>
+    <string name="focus_mode_timer_delete">Sil</string>
+    <string name="focus_mode_timer_exist">Bu oturum zaten var</string>
+    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d - %d dakika</string>
+    <string name="focus_mode_timer_pick_dialog_title">Süreyi girin</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
     <string name="gamma">Kontras</string>

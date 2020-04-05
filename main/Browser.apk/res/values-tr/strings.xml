@@ -104,6 +104,9 @@
     <string name="ad_look_detail">Ayrıntıları görüntüle</string>
     <string name="ad_lunch_app">packageName toplanmaya başladı</string>
     <string name="ad_lunch_deeplink">Deeplink almaya başlıyor</string>
+    <string name="ad_open_dialog_immediately">Şimdi aç</string>
+    <string name="ad_open_dialog_later">Daha sonra</string>
+    <string name="ad_open_dialog_subtitle">Kurulum tamamlandı. Şimdi açılsın mı?</string>
     <string name="ad_start_download">İndirmeye başla</string>
     <string name="ad_start_install">Kurulumu başlat</string>
     <string name="ad_view">Görüntüle</string>
@@ -369,6 +372,7 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="delete_bookmark_group_warning">%s silinsin mi? Gruptaki yer imlerinin tamamı silinecektir</string>
     <string name="delete_bookmark_warning">%s yer imi silinsin mi?</string>
     <string name="delete_download">Sil</string>
+    <string name="dev_pref_title_jump">Sayfa atla</string>
     <string name="dialog_ad_exit_exit_app">Daha sonra aç</string>
     <string name="dialog_ad_exit_open_app">Şimdi aç</string>
     <string name="dialog_cannot_resume">İndirme tamamlanamadı</string>
@@ -785,6 +789,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="open_cloud_sync_desc">Yer imi başarıyla eklendi. Diğer cihazlarda eklenen favorileri senkronize etmek için Mi bulut ile senkronizasyonu açın. Oturum aç ve açılsın mı?</string>
     <string name="open_file_explorer_failed">Dosya gezgini açılamıyor</string>
     <string name="open_voice_permission">Mikrofonun internete bağlanmasına izin verin</string>
+    <string name="open_xiangkan_view_all">Tam metni okumak için okumak istediğiniz uygulamayı açın</string>
     <string name="page_hang_message">Geçerli sayfa takılmış ve tarayıcınızı yeniden başlatmanız gerekiyor</string>
     <string name="page_hang_title">Sayfa takılmış</string>
     <string name="page_info">Sayfa bilgileri</string>
@@ -892,6 +897,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_privacy_policy">Gizlilik politikası</string>
     <string name="pref_privacy_security_title">Gizlilik &amp; güvenlik</string>
     <string name="pref_save_bandwidth_mode_title">Tasarruf</string>
+    <string name="pref_search_result_rs_title">Arama sayfasıyla ilgili aramalar</string>
     <string name="pref_security_accept_cookies">Çerezleri kabul et</string>
     <string name="pref_security_accept_cookies_summary">Sitelerin çerez verilerini kaydetmesine ve okumasına izin verin</string>
     <string name="pref_security_remember_passwords">Şifreleri hatırla</string>

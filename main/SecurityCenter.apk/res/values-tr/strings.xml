@@ -509,7 +509,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="battery_low_button_not_open_power_save">Şimdi değil</string>
     <string name="battery_low_button_open_power_save">Aç</string>
     <string name="battery_low_percent_format_save_mode_closed">%s şarjınız kaldı. Cihazınızı şarj etmeyi unutmayın</string>
-    <string name="battery_low_percent_format_save_mode_open">"Şimdi %1$s'den az şarjınız kalmış. %2$s ekstra zaman eklemek için pil tasarrufunı açın"</string>
+    <string name="battery_low_percent_format_save_mode_open">"Şimdi %1$s'den az şarjınız kalmış. %2$s ekstra zaman eklemek için pil tasarrufunu açın"</string>
     <string name="battery_low_title">Pil azalıyor</string>
     <string name="battery_low_title_power_save">Pil tasarrufu</string>
     <string name="battery_statistics_activity_title">Pil kullanım istatistikleri</string>
@@ -2629,7 +2629,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="system_permission_declare_no_say_no_analytics">Bu izinleri vermek istemiyorsanız Ayarlar> Ek ayarlar> Gizlilik> Kullanıcı deneyimi programından kaydını silebilirsiniz</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama kısmen çalışama</string>
     <string name="system_permission_declare_privacy_declare">Gizliliğinize saygı duyuyor ve koruyoruz. %1s için verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
-    <string name="system_permission_declare_privacy_no_permission">%1s uygulamasının normal çalışması için verilerinizi toplaması gerektiğini unutmayın. Gizliliğinize saygı duyuyor ve koruyoruz</string>
+    <string name="system_permission_declare_privacy_no_permission">Bu uygulama internete bağlanmak ve size hizmet vermek için gerekli kişisel bilgileri toplaması gerektiğini unutmayın. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
     <string name="system_permission_declare_privacy_policy">Bu özelliği kullanmadan önce <a href="%1$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz</string>
     <string name="system_permission_declare_revoke_uninstallable">Güvenlik > Uygulamaları yönet > İzinler > İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz</string>
